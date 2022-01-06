@@ -146,10 +146,10 @@ class getArxivPapers:
 if __name__ == "__main__":
 
     keywords = dict()
-    # keywords["cv"] = "cs.cv"
+    keywords["cv"] = "cs.cv"
     # keywords["cv"] = "compressed"
-    keywords["cv"] = "object detection"
-    getArxivPapers().run(keywords, 4)
+    # keywords["cv"] = "object detection"
+    getArxivPapers().run(keywords, 30)
 
         
 

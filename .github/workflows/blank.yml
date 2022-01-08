@@ -8,7 +8,7 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron:  "* 17 * * *"  
+    - cron:  "* 8,23 * * *"  
 env:
 
   GITHUB_USER_NAME: hao14293 # your github id

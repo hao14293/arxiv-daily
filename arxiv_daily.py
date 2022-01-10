@@ -152,7 +152,7 @@ if __name__ == "__main__":
     keywords["facial"] = 'cat:cs.CV AND ti:facial'
     keywords["age"] = 'cat:cs.CV AND ti:"age" OR abs:"age estimation"'
     keywords["Multi-temporal"] = 'cat:cs.CV AND abs:"Multi-temporal image"'
-    keywords["GAN"] = "cat:cs.CV AND ti:gan"
+    keywords["GAN"] = "ti:gan OR abs:gan"
     getArxivPapers().run(keywords, 50)
 
         

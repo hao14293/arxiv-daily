@@ -150,6 +150,7 @@ if __name__ == "__main__":
     keywords["cv"] = "age estimation"
     keywords["cv"] = "facial"
     keywords["cv"] = "Multi-temporal image analysis"
+    keywords["GAN"] = "gan"
     getArxivPapers().run(keywords, 30)
 
         

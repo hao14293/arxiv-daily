@@ -42,8 +42,7 @@ class getArxivPapers:
 
         for result in search_engine.results():
             categories = result.categories
-            if "cs.CV" not in categories:
-                continue
+           
             paper_id = result.get_short_id()
             paper_title = result.title
             paper_url = result.entry_id
@@ -149,11 +148,12 @@ class getArxivPapers:
 if __name__ == "__main__":
 
     keywords = dict()
-    keywords["age estimation"] = "age estimation"
-    keywords["facial"] = "facial"
-    keywords["Multi-temporal"] = "Multi-temporal image analysis"
-    keywords["GAN"] = "gan"
-    getArxivPapers().run(keywords, 100)
+    keywords["Fine grained"] = 'cat:cs.CV AND abs:"Fine grained"'
+    keywords["facial"] = 'cat:cs.CV AND ti:facial'
+    keywords["age"] = 'cat:cs.CV AND ti:"age" OR abs:"age estimation"'
+    keywords["Multi-temporal"] = 'cat:cs.CV AND abs:"Multi-temporal image"'
+    keywords["GAN"] = "cat:cs.CV AND ti:gan"
+    getArxivPapers().run(keywords, 50)
 
         
 

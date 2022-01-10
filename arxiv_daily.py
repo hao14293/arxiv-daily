@@ -41,6 +41,9 @@ class getArxivPapers:
         )
 
         for result in search_engine.results():
+            categories = result.categories
+            if "cs.CV" not in categories:
+                continue
             paper_id = result.get_short_id()
             paper_title = result.title
             paper_url = result.entry_id

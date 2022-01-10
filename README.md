@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-07**|**Generalized Category Discovery**|Sagar Vaze et.al.|[2201.02609v1](http://arxiv.org/abs/2201.02609v1)|**[link](https://github.com/sgvaze/generalized-category-discovery)**|
+|**2022-01-07**|**NeROIC: Neural Rendering of Objects from Online Image Collections**|Zhengfei Kuang et.al.|[2201.02533v1](http://arxiv.org/abs/2201.02533v1)|null|
+|**2022-01-07**|**A Review of Deep Learning Techniques for Markerless Human Motion on Synthetic Datasets**|Doan Duy Vo et.al.|[2201.02503v1](http://arxiv.org/abs/2201.02503v1)|**[link](https://github.com/doanduyvo/deeplab_human)**|
+|**2022-01-07**|**Auto-Weighted Layer Representation Based View Synthesis Distortion Estimation for 3-D Video Coding**|Jian Jin et.al.|[2201.02420v1](http://arxiv.org/abs/2201.02420v1)|null|
+|**2022-01-06**|**De-rendering 3D Objects in the Wild**|Felix Wimbauer et.al.|[2201.02279v1](http://arxiv.org/abs/2201.02279v1)|null|
 |**2022-01-06**|**EM-driven unsupervised learning for efficient motion segmentation**|Etienne Meunier et.al.|[2201.02074v1](http://arxiv.org/abs/2201.02074v1)|null|
 |**2022-01-07**|**Enhancing Egocentric 3D Pose Estimation with Third Person Views**|Ameya Dhamanaskar et.al.|[2201.02017v2](http://arxiv.org/abs/2201.02017v2)|null|
 |**2022-01-06**|**An unambiguous cloudiness index for nonwovens**|Michael Godehardt et.al.|[2201.02011v1](http://arxiv.org/abs/2201.02011v1)|null|
@@ -112,6 +117,30 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-07**|**Generalized Category Discovery**|Sagar Vaze et.al.|[2201.02609v1](http://arxiv.org/abs/2201.02609v1)|**[link](https://github.com/sgvaze/generalized-category-discovery)**|
+|**2022-01-07**|**Detecting Twenty-thousand Classes using Image-level Supervision**|Xingyi Zhou et.al.|[2201.02605v1](http://arxiv.org/abs/2201.02605v1)|**[link](https://github.com/facebookresearch/Detic)**|
+|**2022-01-07**|**Leveraging Scale-Invariance and Uncertainity with Self-Supervised Domain Adaptation for Semantic Segmentation of Foggy Scenes**|Javed Iqbal et.al.|[2201.02588v1](http://arxiv.org/abs/2201.02588v1)|null|
+|**2022-01-07**|**An Incremental Learning Approach to Automatically Recognize Pulmonary Diseases from the Multi-vendor Chest Radiographs**|Mehreen Sirshar et.al.|[2201.02574v1](http://arxiv.org/abs/2201.02574v1)|null|
+|**2022-01-07**|**NeROIC: Neural Rendering of Objects from Online Image Collections**|Zhengfei Kuang et.al.|[2201.02533v1](http://arxiv.org/abs/2201.02533v1)|null|
+|**2022-01-07**|**Learning Target-aware Representation for Visual Tracking via Informative Interactions**|Mingzhe Guo et.al.|[2201.02526v1](http://arxiv.org/abs/2201.02526v1)|null|
+|**2022-01-07**|**A Review of Deep Learning Techniques for Markerless Human Motion on Synthetic Datasets**|Doan Duy Vo et.al.|[2201.02503v1](http://arxiv.org/abs/2201.02503v1)|**[link](https://github.com/doanduyvo/deeplab_human)**|
+|**2022-01-07**|**Bayesian Neural Networks for Reversible Steganography**|Ching-Chun Chang et.al.|[2201.02478v1](http://arxiv.org/abs/2201.02478v1)|null|
+|**2022-01-07**|**Deep Domain Adversarial Adaptation for Photon-efficient Imaging Based on Spatiotemporal Inception Network**|Yiwei Chen et.al.|[2201.02475v1](http://arxiv.org/abs/2201.02475v1)|**[link](https://github.com/ewellchen/stin)**|
+|**2022-01-07**|**Negative Evidence Matters in Interpretable Histology Image Classification**|Soufiane Belharbi et.al.|[2201.02445v1](http://arxiv.org/abs/2201.02445v1)|**[link](https://github.com/sbelharbi/negev)**|
+|**2022-01-07**|**Effect of Prior-based Losses on Segmentation Performance: A Benchmark**|Rosana {EL JURDI} et.al.|[2201.02428v1](http://arxiv.org/abs/2201.02428v1)|**[link](https://github.com/rosanajurdi/prior-based-losses-for-medical-image-segmentation)**|
+|**2022-01-07**|**Auto-Weighted Layer Representation Based View Synthesis Distortion Estimation for 3-D Video Coding**|Jian Jin et.al.|[2201.02420v1](http://arxiv.org/abs/2201.02420v1)|null|
+|**2022-01-07**|**Amplitude SAR Imagery Splicing Localization**|Edoardo Daniele Cannas et.al.|[2201.02409v1](http://arxiv.org/abs/2201.02409v1)|null|
+|**2022-01-07**|**Detecting Human-to-Human-or-Object (H2O) Interactions with DIABOLO**|Astrid Orcesi et.al.|[2201.02396v1](http://arxiv.org/abs/2201.02396v1)|null|
+|**2022-01-07**|**Deep Generative Framework for Interactive 3D Terrain Authoring and Manipulation**|Shanthika Naik et.al.|[2201.02369v1](http://arxiv.org/abs/2201.02369v1)|null|
+|**2022-01-07**|**Uncertainty-Aware Cascaded Dilation Filtering for High-Efficiency Deraining**|Qing Guo et.al.|[2201.02366v1](http://arxiv.org/abs/2201.02366v1)|**[link](https://github.com/tsingqguo/efficientderain)**|
+|**2022-01-07**|**Cross-Modality Deep Feature Learning for Brain Tumor Segmentation**|Dingwen Zhang et.al.|[2201.02356v1](http://arxiv.org/abs/2201.02356v1)|null|
+|**2022-01-07**|**Multiresolution Fully Convolutional Networks to detect Clouds and Snow through Optical Satellite Images**|Debvrat Varshney et.al.|[2201.02350v1](http://arxiv.org/abs/2201.02350v1)|null|
+|**2022-01-07**|**RestoreDet: Degradation Equivariant Representation for Object Detection in Low Resolution Images**|Ziteng Cui et.al.|[2201.02314v1](http://arxiv.org/abs/2201.02314v1)|null|
+|**2022-01-07**|**A three-dimensional dual-domain deep network for high-pitch and sparse helical CT reconstruction**|Wei Wang et.al.|[2201.02309v1](http://arxiv.org/abs/2201.02309v1)|null|
+|**2022-01-07**|**Persistent Homology for Breast Tumor Classification using Mammogram Scans**|Aras Asaad et.al.|[2201.02295v1](http://arxiv.org/abs/2201.02295v1)|null|
+|**2022-01-07**|**Repurposing Existing Deep Networks for Caption and Aesthetic-Guided Image Cropping**|Nora Horanyi et.al.|[2201.02280v1](http://arxiv.org/abs/2201.02280v1)|null|
+|**2022-01-06**|**De-rendering 3D Objects in the Wild**|Felix Wimbauer et.al.|[2201.02279v1](http://arxiv.org/abs/2201.02279v1)|null|
+|**2022-01-06**|**CitySurfaces: City-Scale Semantic Segmentation of Sidewalk Materials**|Maryam Hosseini et.al.|[2201.02260v1](http://arxiv.org/abs/2201.02260v1)|**[link](https://github.com/vida-nyu/city-surfaces)**|
 |**2022-01-06**|**Realistic Full-Body Anonymization with Surface-Guided GANs**|Håkon Hukkelås et.al.|[2201.02193v1](http://arxiv.org/abs/2201.02193v1)|null|
 |**2022-01-06**|**Bio-inspired Min-Nets Improve the Performance and Robustness of Deep Networks**|Philipp Grüning et.al.|[2201.02149v1](http://arxiv.org/abs/2201.02149v1)|**[link](https://github.com/pgruening/bio_inspired_min_nets_improve_the_performance_and_robustness_of_deep_networks)**|
 |**2022-01-06**|**HyperionSolarNet: Solar Panel Detection from Aerial Images**|Poonam Parhar et.al.|[2201.02107v1](http://arxiv.org/abs/2201.02107v1)|**[link](https://github.com/qubvel/segmentation_models)**|
@@ -135,6 +164,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-07**|**Deep Generative Framework for Interactive 3D Terrain Authoring and Manipulation**|Shanthika Naik et.al.|[2201.02369v1](http://arxiv.org/abs/2201.02369v1)|null|
 |**2022-01-06**|**Realistic Full-Body Anonymization with Surface-Guided GANs**|Håkon Hukkelås et.al.|[2201.02193v1](http://arxiv.org/abs/2201.02193v1)|null|
 |**2022-01-05**|**Biphasic Face Photo-Sketch Synthesis via Semantic-Driven Generative Adversarial Network with Graph Representation Learning**|Xingqun Qi et.al.|[2201.01592v1](http://arxiv.org/abs/2201.01592v1)|null|
 |**2022-01-05**|**Culture-to-Culture Image Translation with Generative Adversarial Networks**|Giulia Zaino et.al.|[2201.01565v1](http://arxiv.org/abs/2201.01565v1)|null|

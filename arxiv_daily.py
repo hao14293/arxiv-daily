@@ -146,10 +146,10 @@ class getArxivPapers:
 if __name__ == "__main__":
 
     keywords = dict()
-    keywords["cv"] = "pose estimation"
-    keywords["cv"] = "age estimation"
-    keywords["cv"] = "facial"
-    keywords["cv"] = "Multi-temporal image analysis"
+    keywords["pose estimation"] = "pose estimation"
+    keywords["age estimation"] = "age estimation"
+    keywords["facial"] = "facial"
+    keywords["Multi-temporal"] = "Multi-temporal image analysis"
     keywords["GAN"] = "gan"
     getArxivPapers().run(keywords, 30)
 

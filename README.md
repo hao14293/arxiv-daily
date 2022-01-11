@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-10**|**Label Relation Graphs Enhanced Hierarchical Residual Network for Hierarchical Multi-Granularity Classification**|Jingzhou Chen et.al.|[2201.03194v1](http://arxiv.org/abs/2201.03194v1)|null|
+|**2022-01-08**|**Self-aligned Spatial Feature Extraction Network for UAV Vehicle Re-identification**|Aihuan Yao et.al.|[2201.02836v1](http://arxiv.org/abs/2201.02836v1)|null|
+|**2022-01-08**|**Relieving Long-tailed Instance Segmentation via Pairwise Class Balance**|Yin-Yin He et.al.|[2201.02784v1](http://arxiv.org/abs/2201.02784v1)|null|
 |**2022-01-07**|**Generalized Category Discovery**|Sagar Vaze et.al.|[2201.02609v1](http://arxiv.org/abs/2201.02609v1)|**[link](https://github.com/sgvaze/generalized-category-discovery)**|
 |**2022-01-06**|**Consistent Style Transfer**|Xuan Luo et.al.|[2201.02233v1](http://arxiv.org/abs/2201.02233v1)|**[link](https://github.com/computer-vision2022/pama)**|
 |**2022-01-04**|**DeepFGS: Fine-Grained Scalable Coding for Learned Image Compression**|Yi Ma et.al.|[2201.01173v1](http://arxiv.org/abs/2201.01173v1)|null|
@@ -59,6 +62,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-10**|**GMFIM: A Generative Mask-guided Facial Image Manipulation Model for Privacy Preservation**|Mohammad Hossein Khojaste et.al.|[2201.03353v1](http://arxiv.org/abs/2201.03353v1)|null|
+|**2022-01-09**|**MaskMTL: Attribute prediction in masked facial images with deep multitask learning**|Prerana Mukherjee et.al.|[2201.03002v1](http://arxiv.org/abs/2201.03002v1)|null|
 |**2022-01-05**|**The Effect of Model Compression on Fairness in Facial Expression Recognition**|Samuil Stoychev et.al.|[2201.01709v1](http://arxiv.org/abs/2201.01709v1)|null|
 |**2022-01-03**|**Local Quadruple Pattern: A Novel Descriptor for Facial Image Recognition and Retrieval**|Soumendu Chakraborty et.al.|[2201.01275v1](http://arxiv.org/abs/2201.01275v1)|null|
 |**2022-01-04**|**Detailed Facial Geometry Recovery from Multi-view Images by Learning an Implicit Function**|Yunze Xiao et.al.|[2201.01016v1](http://arxiv.org/abs/2201.01016v1)|null|
@@ -114,6 +119,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-09**|**Applying Artificial Intelligence for Age Estimation in Digital Forensic Investigations**|Thomas Grubl et.al.|[2201.03045v1](http://arxiv.org/abs/2201.03045v1)|null|
 |**2021-12-27**|**Infant Brain Age Classification: 2D CNN Outperforms 3D CNN in Small Dataset**|Mahdieh Shabanian et.al.|[2112.13811v1](http://arxiv.org/abs/2112.13811v1)|**[link](https://github.com/shabanian2018/age_mri-classification)**|
 |**2021-12-19**|**Improving Face-Based Age Estimation with Attention-Based Dynamic Patch Fusion**|Haoyi Wang et.al.|[2112.10167v1](http://arxiv.org/abs/2112.10167v1)|null|
 |**2021-12-06**|**Does Proprietary Software Still Offer Protection of Intellectual Property in the Age of Machine Learning? -- A Case Study using Dual Energy CT Data**|Andreas Maier et.al.|[2112.03678v1](http://arxiv.org/abs/2112.03678v1)|null|
@@ -169,6 +175,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-10**|**GMFIM: A Generative Mask-guided Facial Image Manipulation Model for Privacy Preservation**|Mohammad Hossein Khojaste et.al.|[2201.03353v1](http://arxiv.org/abs/2201.03353v1)|null|
+|**2022-01-10**|**IoTGAN: GAN Powered Camouflage Against Machine Learning Based IoT Device Identification**|Tao Hou et.al.|[2201.03281v1](http://arxiv.org/abs/2201.03281v1)|null|
+|**2022-01-10**|**Evidence of localization effect on photoelectron transport induced by alloy disorder in nitride semiconductor compounds**|Mylène Sauty et.al.|[2201.03278v1](http://arxiv.org/abs/2201.03278v1)|null|
+|**2022-01-10**|**The Fourier-Jacobi Periods : The case of $Mp(2n+2r) \times Sp(2n)$**|Jaeho Haan et.al.|[2201.03270v1](http://arxiv.org/abs/2201.03270v1)|null|
+|**2022-01-10**|**FedDTG:Federated Data-Free Knowledge Distillation via Three-Player Generative Adversarial Networks**|Zhenyuan Zhang et.al.|[2201.03169v1](http://arxiv.org/abs/2201.03169v1)|null|
+|**2022-01-10**|**Differentially Private Generative Adversarial Networks with Model Inversion**|Dongjie Chen et.al.|[2201.03139v1](http://arxiv.org/abs/2201.03139v1)|null|
+|**2022-01-08**|**Optimal 1-Wasserstein Distance for WGANs**|Arthur Stéphanovitch et.al.|[2201.02824v1](http://arxiv.org/abs/2201.02824v1)|null|
+|**2022-01-08**|**Counteracting Dark Web Text-Based CAPTCHA with Generative Adversarial Learning for Proactive Cyber Threat Intelligence**|Ning Zhang et.al.|[2201.02799v1](http://arxiv.org/abs/2201.02799v1)|null|
+|**2022-01-07**|**Improved Input Reprogramming for GAN Conditioning**|Tuan Dinh et.al.|[2201.02692v1](http://arxiv.org/abs/2201.02692v1)|**[link](https://github.com/uw-madison-lee-lab/inrep)**|
+|**2022-01-07**|**Microdosing: Knowledge Distillation for GAN based Compression**|Leonhard Helminger et.al.|[2201.02624v1](http://arxiv.org/abs/2201.02624v1)|null|
 |**2022-01-07**|**Deep Generative Framework for Interactive 3D Terrain Authoring and Manipulation**|Shanthika Naik et.al.|[2201.02369v1](http://arxiv.org/abs/2201.02369v1)|null|
 |**2022-01-06**|**Realistic Full-Body Anonymization with Surface-Guided GANs**|Håkon Hukkelås et.al.|[2201.02193v1](http://arxiv.org/abs/2201.02193v1)|null|
 |**2022-01-05**|**Biphasic Face Photo-Sketch Synthesis via Semantic-Driven Generative Adversarial Network with Graph Representation Learning**|Xingqun Qi et.al.|[2201.01592v1](http://arxiv.org/abs/2201.01592v1)|null|
@@ -266,13 +282,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-10**|**Swin Transformer for Fast MRI**|Jiahao Huang et.al.|[2201.03230v1](http://arxiv.org/abs/2201.03230v1)|null|
+|**2022-01-10**|**Swin transformers make strong contextual encoders for VHR image road extraction**|Tao Chen et.al.|[2201.03178v1](http://arxiv.org/abs/2201.03178v1)|null|
+|**2022-01-10**|**Pedestrian Detection: Domain Generalization, CNNs, Transformers and Beyond**|Irtiza Hasan et.al.|[2201.03176v1](http://arxiv.org/abs/2201.03176v1)|**[link](https://github.com/hasanirtiza/Pedestron)**|
+|**2022-01-09**|**Signal Reconstruction from Quantized Noisy Samples of the Discrete Fourier Transform**|Mohak Goyal et.al.|[2201.03114v1](http://arxiv.org/abs/2201.03114v1)|null|
+|**2022-01-09**|**Learning class prototypes from Synthetic InSAR with Vision Transformers**|Nikolaos Ioannis Bountos et.al.|[2201.03016v1](http://arxiv.org/abs/2201.03016v1)|null|
+|**2022-01-08**|**Spatio-Temporal Tuples Transformer for Skeleton-Based Action Recognition**|Helei Qiu et.al.|[2201.02849v1](http://arxiv.org/abs/2201.02849v1)|**[link](https://github.com/heleiqiu/sttformer)**|
+|**2022-01-08**|**QuadTree Attention for Vision Transformers**|Shitao Tang et.al.|[2201.02767v1](http://arxiv.org/abs/2201.02767v1)|null|
+|**2022-01-07**|**Block Walsh-Hadamard Transform Based Binary Layers in Deep Neural Networks**|Hongyi Pan et.al.|[2201.02711v1](http://arxiv.org/abs/2201.02711v1)|null|
 |**2022-01-06**|**TransVPR: Transformer-based place recognition with multi-level attention aggregation**|Ruotong Wang et.al.|[2201.02001v1](http://arxiv.org/abs/2201.02001v1)|null|
 |**2022-01-06**|**Compact Bidirectional Transformer for Image Captioning**|Yuanen Zhou et.al.|[2201.01984v1](http://arxiv.org/abs/2201.01984v1)|**[link](https://github.com/yuanezhou/cbtrans)**|
 |**2022-01-06**|**Flow-Guided Sparse Transformer for Video Deblurring**|Jing Lin et.al.|[2201.01893v1](http://arxiv.org/abs/2201.01893v1)|null|
 |**2022-01-05**|**Lawin Transformer: Improving Semantic Segmentation Transformer with Multi-Scale Representations via Large Window Attention**|Haotian Yan et.al.|[2201.01615v1](http://arxiv.org/abs/2201.01615v1)|**[link](https://github.com/yan-hao-tian/lawin)**|
 |**2022-01-05**|**Advancing 3D Medical Image Analysis with Variable Dimension Transform based Supervised 3D Pre-training**|Shu Zhang et.al.|[2201.01426v1](http://arxiv.org/abs/2201.01426v1)|**[link](https://github.com/urmagicsmine/cspr)**|
 |**2022-01-05**|**Synthesizing Tensor Transformations for Visual Self-attention**|Xian Wei et.al.|[2201.01410v1](http://arxiv.org/abs/2201.01410v1)|null|
-|**2022-01-04**|**A Transformer-Based Siamese Network for Change Detection**|Wele Gedara Chaminda Bandara et.al.|[2201.01293v1](http://arxiv.org/abs/2201.01293v1)|**[link](https://github.com/wgcban/changeformer)**|
+|**2022-01-09**|**A Transformer-Based Siamese Network for Change Detection**|Wele Gedara Chaminda Bandara et.al.|[2201.01293v2](http://arxiv.org/abs/2201.01293v2)|**[link](https://github.com/wgcban/changeformer)**|
 |**2022-01-04**|**Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images**|Ali Hatamizadeh et.al.|[2201.01266v1](http://arxiv.org/abs/2201.01266v1)|**[link](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR/BRATS21)**|
 |**2022-01-04**|**Short Range Correlation Transformer for Occluded Person Re-Identification**|Yunbin Zhao et.al.|[2201.01090v1](http://arxiv.org/abs/2201.01090v1)|null|
 |**2022-01-07**|**Towards Understanding and Harnessing the Effect of Image Transformation in Adversarial Detection**|Hui Liu et.al.|[2201.01080v2](http://arxiv.org/abs/2201.01080v2)|null|
@@ -282,7 +306,7 @@
 |**2022-01-03**|**Vision Transformer with Deformable Attention**|Zhuofan Xia et.al.|[2201.00520v1](http://arxiv.org/abs/2201.00520v1)|null|
 |**2022-01-03**|**CaFT: Clustering and Filter on Tokens of Transformer for Weakly Supervised Object Localization**|Ming Li et.al.|[2201.00475v1](http://arxiv.org/abs/2201.00475v1)|null|
 |**2022-01-03**|**RFormer: Transformer-based Generative Adversarial Network for Real Fundus Image Restoration on A New Clinical Benchmark**|Zhuo Deng et.al.|[2201.00466v1](http://arxiv.org/abs/2201.00466v1)|null|
-|**2022-01-03**|**D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation**|Yixuan Wu et.al.|[2201.00462v1](http://arxiv.org/abs/2201.00462v1)|null|
+|**2022-01-10**|**D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation**|Yixuan Wu et.al.|[2201.00462v2](http://arxiv.org/abs/2201.00462v2)|null|
 |**2022-01-02**|**Detail-Preserving Transformer for Light Field Image Super-Resolution**|Shunzhou Wang et.al.|[2201.00346v1](http://arxiv.org/abs/2201.00346v1)|null|
 |**2021-12-31**|**Multi-Dimensional Model Compression of Vision Transformer**|Zejiang Hou et.al.|[2201.00043v1](http://arxiv.org/abs/2201.00043v1)|null|
 |**2021-12-31**|**InverseMV: Composing Piano Scores with a Convolutional Video-Music Transformer**|Chin-Tung Lin et.al.|[2112.15320v1](http://arxiv.org/abs/2112.15320v1)|**[link](https://github.com/linchintung/vmt)**|

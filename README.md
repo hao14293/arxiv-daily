@@ -397,7 +397,7 @@
 |**2022-01-10**|**Demonstrating The Risk of Imbalanced Datasets in Chest X-ray Image-based Diagnostics by Prototypical Relevance Propagation**|Srishti Gautam et.al.|[2201.03559v1](http://arxiv.org/abs/2201.03559v1)|null|
 |**2022-01-10**|**Language-driven Semantic Segmentation**|Boyi Li et.al.|[2201.03546v1](http://arxiv.org/abs/2201.03546v1)|**[link](https://github.com/isl-org/lang-seg)**|
 |**2022-01-10**|**A ConvNet for the 2020s**|Zhuang Liu et.al.|[2201.03545v1](http://arxiv.org/abs/2201.03545v1)|**[link](https://github.com/facebookresearch/ConvNeXt)**|
-|**2022-01-10**|**Head2Toe: Utilizing Intermediate Representations for Better Transfer Learning**|Utku Evci et.al.|[2201.03529v1](http://arxiv.org/abs/2201.03529v1)|null|
+|**2022-01-10**|**Head2Toe: Utilizing Intermediate Representations for Better Transfer Learning**|Utku Evci et.al.|[2201.03529v1](http://arxiv.org/abs/2201.03529v1)|**[link](https://github.com/google-research/head2toe)**|
 |**2022-01-10**|**Learning Population-level Shape Statistics and Anatomy Segmentation From Images: A Joint Deep Learning Model**|Wenzheng Tao et.al.|[2201.03481v1](http://arxiv.org/abs/2201.03481v1)|null|
 |**2022-01-10**|**3D Face Morphing Attacks: Generation, Vulnerability and Detection**|Jag Mohan Singh et.al.|[2201.03454v1](http://arxiv.org/abs/2201.03454v1)|null|
 |**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson et.al.|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|**[link](https://github.com/bmhopkinson/hyslam)**|

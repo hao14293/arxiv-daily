@@ -148,6 +148,7 @@ class getArxivPapers:
 if __name__ == "__main__":
 
     keywords = dict()
+    keywords["cs.CV"] = 'cat:cs.CV'
     keywords["Fine grained"] = 'cat:cs.CV AND abs:"Fine grained"'
     keywords["facial"] = 'cat:cs.CV AND ti:facial'
     keywords["age"] = 'cat:cs.CV AND ti:"age" OR abs:"age estimation"'

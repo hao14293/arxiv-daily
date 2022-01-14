@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-13**|**Multi-granularity Association Learning Framework for on-the-fly Fine-Grained Sketch-based Image Retrieval**|Dawei Dai et.al.|[2201.05007v1](http://arxiv.org/abs/2201.05007v1)|null|
+|**2022-01-13**|**BridgeFormer: Bridging Video-text Retrieval with Multiple Choice Questions**|Yuying Ge et.al.|[2201.04850v1](http://arxiv.org/abs/2201.04850v1)|null|
 |**2022-01-12**|**SensatUrban: Learning Semantics from Urban-Scale Photogrammetric Point Clouds**|Qingyong Hu et.al.|[2201.04494v1](http://arxiv.org/abs/2201.04494v1)|null|
 |**2022-01-12**|**Multiview Transformers for Video Recognition**|Shen Yan et.al.|[2201.04288v1](http://arxiv.org/abs/2201.04288v1)|null|
 |**2022-01-11**|**Condensing a Sequence to One Informative Frame for Video Recognition**|Zhaofan Qiu et.al.|[2201.04022v1](http://arxiv.org/abs/2201.04022v1)|null|
@@ -65,6 +67,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-13**|**A Survey on Masked Facial Detection Methods and Datasets for Fighting Against COVID-19**|Bingshu Wang et.al.|[2201.04777v1](http://arxiv.org/abs/2201.04777v1)|null|
 |**2022-01-10**|**GMFIM: A Generative Mask-guided Facial Image Manipulation Model for Privacy Preservation**|Mohammad Hossein Khojaste et.al.|[2201.03353v1](http://arxiv.org/abs/2201.03353v1)|null|
 |**2022-01-11**|**MaskMTL: Attribute prediction in masked facial images with deep multitask learning**|Prerana Mukherjee et.al.|[2201.03002v2](http://arxiv.org/abs/2201.03002v2)|null|
 |**2022-01-05**|**The Effect of Model Compression on Fairness in Facial Expression Recognition**|Samuil Stoychev et.al.|[2201.01709v1](http://arxiv.org/abs/2201.01709v1)|null|
@@ -178,6 +181,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-13**|**The Effectiveness of Time Stretching for Enhancing Dysarthric Speech for Improved Dysarthric Speech Recognition**|Luke Prananta et.al.|[2201.04908v1](http://arxiv.org/abs/2201.04908v1)|null|
+|**2022-01-13**|**VoLux-GAN: A Generative Model for 3D Face Synthesis with HDRI Relighting**|Feitong Tan et.al.|[2201.04873v1](http://arxiv.org/abs/2201.04873v1)|null|
+|**2022-01-13**|**Conditional Variational Autoencoder with Balanced Pre-training for Generative Adversarial Networks**|Yuchong Yao et.al.|[2201.04809v1](http://arxiv.org/abs/2201.04809v1)|null|
+|**2022-01-12**|**Adversarially Robust Classification by Conditional Generative Model Inversion**|Mitra Alirezaei et.al.|[2201.04733v1](http://arxiv.org/abs/2201.04733v1)|null|
+|**2022-01-12**|**BigDatasetGAN: Synthesizing ImageNet with Pixel-wise Annotations**|Daiqing Li et.al.|[2201.04684v1](http://arxiv.org/abs/2201.04684v1)|null|
 |**2022-01-12**|**Ridge polariton laser: different from a semiconductor edge-emitting laser**|H Souissi et.al.|[2201.04348v1](http://arxiv.org/abs/2201.04348v1)|null|
 |**2022-01-11**|**Electrically pumped blue laser diodes with nanoporous bottom cladding**|Marta Sawicka et.al.|[2201.03939v1](http://arxiv.org/abs/2201.03939v1)|null|
 |**2022-01-11**|**Low temperature 2D GaN growth on Si (111) 7x7 assisted by hypethermal nitrogen ions**|Jaroslav Maniš et.al.|[2201.03929v1](http://arxiv.org/abs/2201.03929v1)|null|
@@ -205,7 +213,7 @@
 |**2022-01-04**|**What Hinders Perceptual Quality of PSNR-oriented Methods?**|Tianshuo Xu et.al.|[2201.01034v1](http://arxiv.org/abs/2201.01034v1)|null|
 |**2021-12-30**|**Runway Extraction and Improved Mapping from Space Imagery**|David A. Noever et.al.|[2201.00848v1](http://arxiv.org/abs/2201.00848v1)|null|
 |**2022-01-03**|**FaceQgen: Semi-Supervised Deep Learning for Face Image Quality Assessment**|Javier Hernandez-Ortega et.al.|[2201.00770v1](http://arxiv.org/abs/2201.00770v1)|**[link](https://github.com/uam-biometrics/faceqgen)**|
-|**2022-01-03**|**Deep-potential driven multiscale simulation of gallium nitride devices on boron arsenide cooling substrates**|Jing Wu et.al.|[2201.00516v1](http://arxiv.org/abs/2201.00516v1)|null|
+|**2022-01-13**|**Deep-potential enabled multiscale simulation of gallium nitride devices on boron arsenide cooling substrates**|Jing Wu et.al.|[2201.00516v2](http://arxiv.org/abs/2201.00516v2)|null|
 |**2022-01-01**|**Temperature Effect on Charge-state Transition Levels of Defects in Semiconductors**|Shuang Qiao et.al.|[2201.00211v1](http://arxiv.org/abs/2201.00211v1)|null|
 |**2021-12-31**|**on the effectiveness of generative adversarial network on anomaly detection**|Laya Rafiee Sevyeri et.al.|[2112.15541v1](http://arxiv.org/abs/2112.15541v1)|**[link](https://github.com/layaars/unsupervised-anomaly-detection-with-a-gan-augmented-autoencoder)**|
 |**2021-12-28**|**GANISP: a GAN-assisted Importance SPlitting Probability Estimator**|Malik Hassanaly et.al.|[2112.15444v1](http://arxiv.org/abs/2112.15444v1)|**[link](https://github.com/nrel/ganisp)**|
@@ -292,6 +300,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-13**|**TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers**|Qianyu Zhou et.al.|[2201.05047v1](http://arxiv.org/abs/2201.05047v1)|null|
+|**2022-01-13**|**Technical Report for ICCV 2021 Challenge SSLAD-Track3B: Transformers Are Better Continual Learners**|Duo Li et.al.|[2201.04924v1](http://arxiv.org/abs/2201.04924v1)|null|
+|**2022-01-12**|**Uniformer: Unified Transformer for Efficient Spatiotemporal Representation Learning**|Kunchang Li et.al.|[2201.04676v1](http://arxiv.org/abs/2201.04676v1)|**[link](https://github.com/sense-x/uniformer)**|
 |**2022-01-12**|**Real-Time Style Modelling of Human Locomotion via Feature-Wise Transformations and Local Motion Phases**|Ian Mason et.al.|[2201.04439v1](http://arxiv.org/abs/2201.04439v1)|null|
 |**2022-01-12**|**Multiview Transformers for Video Recognition**|Shen Yan et.al.|[2201.04288v1](http://arxiv.org/abs/2201.04288v1)|null|
 |**2022-01-11**|**Pyramid Fusion Transformer for Semantic Segmentation**|Zipeng Qin et.al.|[2201.04019v1](http://arxiv.org/abs/2201.04019v1)|null|
@@ -310,7 +321,7 @@
 |**2022-01-05**|**Lawin Transformer: Improving Semantic Segmentation Transformer with Multi-Scale Representations via Large Window Attention**|Haotian Yan et.al.|[2201.01615v1](http://arxiv.org/abs/2201.01615v1)|**[link](https://github.com/yan-hao-tian/lawin)**|
 |**2022-01-05**|**Advancing 3D Medical Image Analysis with Variable Dimension Transform based Supervised 3D Pre-training**|Shu Zhang et.al.|[2201.01426v1](http://arxiv.org/abs/2201.01426v1)|**[link](https://github.com/urmagicsmine/cspr)**|
 |**2022-01-05**|**Synthesizing Tensor Transformations for Visual Self-attention**|Xian Wei et.al.|[2201.01410v1](http://arxiv.org/abs/2201.01410v1)|null|
-|**2022-01-11**|**A Transformer-Based Siamese Network for Change Detection**|Wele Gedara Chaminda Bandara et.al.|[2201.01293v3](http://arxiv.org/abs/2201.01293v3)|**[link](https://github.com/wgcban/changeformer)**|
+|**2022-01-13**|**A Transformer-Based Siamese Network for Change Detection**|Wele Gedara Chaminda Bandara et.al.|[2201.01293v4](http://arxiv.org/abs/2201.01293v4)|**[link](https://github.com/wgcban/changeformer)**|
 |**2022-01-04**|**Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images**|Ali Hatamizadeh et.al.|[2201.01266v1](http://arxiv.org/abs/2201.01266v1)|**[link](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR/BRATS21)**|
 |**2022-01-04**|**Short Range Correlation Transformer for Occluded Person Re-Identification**|Yunbin Zhao et.al.|[2201.01090v1](http://arxiv.org/abs/2201.01090v1)|null|
 |**2022-01-07**|**Towards Understanding and Harnessing the Effect of Image Transformation in Adversarial Detection**|Hui Liu et.al.|[2201.01080v2](http://arxiv.org/abs/2201.01080v2)|null|
@@ -359,6 +370,51 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-13**|**Beyond Simple Meta-Learning: Multi-Purpose Models for Multi-Domain, Active and Continual Few-Shot Learning**|Peyman Bateni et.al.|[2201.05151v1](http://arxiv.org/abs/2201.05151v1)|null|
+|**2022-01-13**|**Fully Adaptive Bayesian Algorithm for Data Analysis, FABADA**|Pablo M Sanchez-Alarcon et.al.|[2201.05145v1](http://arxiv.org/abs/2201.05145v1)|**[link](https://github.com/pablomsanala/fabada)**|
+|**2022-01-13**|**SimReg: Regression as a Simple Yet Effective Tool for Self-supervised Knowledge Distillation**|K L Navaneet et.al.|[2201.05131v1](http://arxiv.org/abs/2201.05131v1)|**[link](https://github.com/ucdvision/simreg)**|
+|**2022-01-13**|**GradMax: Growing Neural Networks using Gradient Information**|Utku Evci et.al.|[2201.05125v1](http://arxiv.org/abs/2201.05125v1)|null|
+|**2022-01-13**|**STEdge: Self-training Edge Detection with Multi-layer Teaching and Regularization**|Yunfan Ye et.al.|[2201.05121v1](http://arxiv.org/abs/2201.05121v1)|null|
+|**2022-01-13**|**SeamlessGAN: Self-Supervised Synthesis of Tileable Texture Maps**|Carlos Rodriguez-Pardo et.al.|[2201.05120v1](http://arxiv.org/abs/2201.05120v1)|null|
+|**2022-01-13**|**Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet?**|Nenad Tomasev et.al.|[2201.05119v1](http://arxiv.org/abs/2201.05119v1)|null|
+|**2022-01-13**|**CLIP-Event: Connecting Text and Images with Event Structures**|Manling Li et.al.|[2201.05078v1](http://arxiv.org/abs/2201.05078v1)|null|
+|**2022-01-13**|**On Adversarial Robustness of Trajectory Prediction for Autonomous Vehicles**|Qingzhao Zhang et.al.|[2201.05057v1](http://arxiv.org/abs/2201.05057v1)|null|
+|**2022-01-13**|**TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers**|Qianyu Zhou et.al.|[2201.05047v1](http://arxiv.org/abs/2201.05047v1)|null|
+|**2022-01-13**|**Fantastic Data and How to Query Them**|Trung-Kien Tran et.al.|[2201.05026v1](http://arxiv.org/abs/2201.05026v1)|**[link](https://github.com/cqels/vision)**|
+|**2022-01-13**|**Stereo Magnification with Multi-Layer Images**|Taras Khakhulin et.al.|[2201.05023v1](http://arxiv.org/abs/2201.05023v1)|null|
+|**2022-01-13**|**Self-semantic contour adaptation for cross modality brain tumor segmentation**|Xiaofeng Liu et.al.|[2201.05022v1](http://arxiv.org/abs/2201.05022v1)|null|
+|**2022-01-13**|**Automatic Sparse Connectivity Learning for Neural Networks**|Zhimin Tang et.al.|[2201.05020v1](http://arxiv.org/abs/2201.05020v1)|null|
+|**2022-01-13**|**Multi-granularity Association Learning Framework for on-the-fly Fine-Grained Sketch-based Image Retrieval**|Dawei Dai et.al.|[2201.05007v1](http://arxiv.org/abs/2201.05007v1)|null|
+|**2022-01-13**|**Learning Semantic Abstraction of Shape via 3D Region of Interest**|Haiyue Fang et.al.|[2201.04945v1](http://arxiv.org/abs/2201.04945v1)|null|
+|**2022-01-13**|**Technical Report for ICCV 2021 Challenge SSLAD-Track3B: Transformers Are Better Continual Learners**|Duo Li et.al.|[2201.04924v1](http://arxiv.org/abs/2201.04924v1)|null|
+|**2022-01-13**|**Realistic Endoscopic Image Generation Method Using Virtual-to-real Image-domain Translation**|Masahiro Oda et.al.|[2201.04918v1](http://arxiv.org/abs/2201.04918v1)|null|
+|**2022-01-13**|**Hand-Object Interaction Reasoning**|Jian Ma et.al.|[2201.04906v1](http://arxiv.org/abs/2201.04906v1)|null|
+|**2022-01-13**|**Flexible Style Image Super-Resolution using Conditional Objective**|Seung Ho Park et.al.|[2201.04898v1](http://arxiv.org/abs/2201.04898v1)|null|
+|**2022-01-13**|**VoLux-GAN: A Generative Model for 3D Face Synthesis with HDRI Relighting**|Feitong Tan et.al.|[2201.04873v1](http://arxiv.org/abs/2201.04873v1)|null|
+|**2022-01-13**|**Weakly Supervised Scene Text Detection using Deep Reinforcement Learning**|Emanuel Metzenthin et.al.|[2201.04866v1](http://arxiv.org/abs/2201.04866v1)|**[link](https://github.com/emanuel-metzenthin/rl-scene-text-detection)**|
+|**2022-01-13**|**MetaDance: Few-shot Dancing Video Retargeting via Temporal-aware Meta-learning**|Yuying Ge et.al.|[2201.04851v1](http://arxiv.org/abs/2201.04851v1)|null|
+|**2022-01-13**|**BridgeFormer: Bridging Video-text Retrieval with Multiple Choice Questions**|Yuying Ge et.al.|[2201.04850v1](http://arxiv.org/abs/2201.04850v1)|null|
+|**2022-01-13**|**SnapshotNet: Self-supervised Feature Learning for Point Cloud Data Segmentation Using Minimal Labeled Data**|Xingye Li et.al.|[2201.04833v1](http://arxiv.org/abs/2201.04833v1)|null|
+|**2022-01-13**|**S$^2$FPR: Crowd Counting via Self-Supervised Coarse to Fine Feature Pyramid Ranking**|Jiaqi Gao et.al.|[2201.04819v1](http://arxiv.org/abs/2201.04819v1)|null|
+|**2022-01-13**|**Recursive Least Squares for Training and Pruning Convolutional Neural Networks**|Tianzong Yu et.al.|[2201.04813v1](http://arxiv.org/abs/2201.04813v1)|null|
+|**2022-01-13**|**Unsupervised Domain Adaptation for Cross-Modality Retinal Vessel Segmentation via Disentangling Representation Style Transfer and Collaborative Consistency Learning**|Linkai Peng et.al.|[2201.04812v1](http://arxiv.org/abs/2201.04812v1)|**[link](https://github.com/lkpengcs/dcda)**|
+|**2022-01-13**|**Conditional Variational Autoencoder with Balanced Pre-training for Generative Adversarial Networks**|Yuchong Yao et.al.|[2201.04809v1](http://arxiv.org/abs/2201.04809v1)|null|
+|**2022-01-13**|**RealGait: Gait Recognition for Person Re-Identification**|Shaoxiong Zhang et.al.|[2201.04806v1](http://arxiv.org/abs/2201.04806v1)|null|
+|**2022-01-13**|**Scalable Cluster-Consistency Statistics for Robust Multi-Object Matching**|Yunpeng Shi et.al.|[2201.04797v1](http://arxiv.org/abs/2201.04797v1)|**[link](https://github.com/yunpeng-shi/fcc)**|
+|**2022-01-13**|**CFNet: Learning Correlation Functions for One-Stage Panoptic Segmentation**|Yifeng Chen et.al.|[2201.04796v1](http://arxiv.org/abs/2201.04796v1)|null|
+|**2022-01-13**|**EMT-NET: Efficient multitask network for computer-aided diagnosis of breast cancer**|Jiaqiao Shi et.al.|[2201.04795v1](http://arxiv.org/abs/2201.04795v1)|null|
+|**2022-01-13**|**AI Singapore Trusted Media Challenge Dataset**|Weiling Chen et.al.|[2201.04788v1](http://arxiv.org/abs/2201.04788v1)|null|
+|**2022-01-13**|**A Survey on Masked Facial Detection Methods and Datasets for Fighting Against COVID-19**|Bingshu Wang et.al.|[2201.04777v1](http://arxiv.org/abs/2201.04777v1)|null|
+|**2022-01-13**|**Unlocking large-scale crop field delineation in smallholder farming systems with transfer learning and weak supervision**|Sherrie Wang et.al.|[2201.04771v1](http://arxiv.org/abs/2201.04771v1)|null|
+|**2022-01-13**|**MAg: a simple learning-based patient-level aggregation method for detecting microsatellite instability from whole-slide images**|Kaifeng Pang et.al.|[2201.04769v1](http://arxiv.org/abs/2201.04769v1)|**[link](https://github.com/Calvin-Pang/MAg)**|
+|**2022-01-13**|**Collision Detection: An Improved Deep Learning Approach Using SENet and ResNext**|Aloukik Aditya et.al.|[2201.04766v1](http://arxiv.org/abs/2201.04766v1)|null|
+|**2022-01-13**|**Roadside Lidar Vehicle Detection and Tracking Using Range And Intensity Background Subtraction**|Tianya Zhang et.al.|[2201.04756v1](http://arxiv.org/abs/2201.04756v1)|null|
+|**2022-01-13**|**Spatial-Temporal Map Vehicle Trajectory Detection Using Dynamic Mode Decomposition and Res-UNet+ Neural Networks**|Tianya T. Zhang et.al.|[2201.04755v1](http://arxiv.org/abs/2201.04755v1)|null|
+|**2022-01-12**|**Adversarially Robust Classification by Conditional Generative Model Inversion**|Mitra Alirezaei et.al.|[2201.04733v1](http://arxiv.org/abs/2201.04733v1)|null|
+|**2022-01-12**|**Partial-Attribution Instance Segmentation for Astronomical Source Detection and Deblending**|Ryan Hausen et.al.|[2201.04714v1](http://arxiv.org/abs/2201.04714v1)|null|
+|**2022-01-12**|**Semantic Labeling of Human Action For Visually Impaired And Blind People Scene Interaction**|Leyla Benhamida et.al.|[2201.04706v1](http://arxiv.org/abs/2201.04706v1)|null|
+|**2022-01-12**|**BigDatasetGAN: Synthesizing ImageNet with Pixel-wise Annotations**|Daiqing Li et.al.|[2201.04684v1](http://arxiv.org/abs/2201.04684v1)|null|
+|**2022-01-12**|**Uniformer: Unified Transformer for Efficient Spatiotemporal Representation Learning**|Kunchang Li et.al.|[2201.04676v1](http://arxiv.org/abs/2201.04676v1)|**[link](https://github.com/sense-x/uniformer)**|
 |**2022-01-12**|**Virtual Elastic Objects**|Hsiao-yu Chen et.al.|[2201.04623v1](http://arxiv.org/abs/2201.04623v1)|null|
 |**2022-01-12**|**Sparsely Annotated Object Detection: A Region-based Semi-supervised Approach**|Sai Saketh Rambhatla et.al.|[2201.04620v1](http://arxiv.org/abs/2201.04620v1)|null|
 |**2022-01-12**|**ECONet: Efficient Convolutional Online Likelihood Network for Scribble-based Interactive Segmentation**|Muhammad Asad et.al.|[2201.04584v1](http://arxiv.org/abs/2201.04584v1)|null|

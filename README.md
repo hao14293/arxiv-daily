@@ -332,7 +332,7 @@
 |**2022-01-03**|**CaFT: Clustering and Filter on Tokens of Transformer for Weakly Supervised Object Localization**|Ming Li et.al.|[2201.00475v1](http://arxiv.org/abs/2201.00475v1)|null|
 |**2022-01-03**|**RFormer: Transformer-based Generative Adversarial Network for Real Fundus Image Restoration on A New Clinical Benchmark**|Zhuo Deng et.al.|[2201.00466v1](http://arxiv.org/abs/2201.00466v1)|null|
 |**2022-01-10**|**D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation**|Yixuan Wu et.al.|[2201.00462v2](http://arxiv.org/abs/2201.00462v2)|null|
-|**2022-01-02**|**Detail-Preserving Transformer for Light Field Image Super-Resolution**|Shunzhou Wang et.al.|[2201.00346v1](http://arxiv.org/abs/2201.00346v1)|null|
+|**2022-01-02**|**Detail-Preserving Transformer for Light Field Image Super-Resolution**|Shunzhou Wang et.al.|[2201.00346v1](http://arxiv.org/abs/2201.00346v1)|**[link](https://github.com/bitszwang/dpt)**|
 |**2021-12-31**|**Multi-Dimensional Model Compression of Vision Transformer**|Zejiang Hou et.al.|[2201.00043v1](http://arxiv.org/abs/2201.00043v1)|null|
 |**2021-12-31**|**InverseMV: Composing Piano Scores with a Convolutional Video-Music Transformer**|Chin-Tung Lin et.al.|[2112.15320v1](http://arxiv.org/abs/2112.15320v1)|**[link](https://github.com/linchintung/vmt)**|
 |**2021-12-31**|**CSformer: Bridging Convolution and Transformer for Compressive Sensing**|Dongjie Ye et.al.|[2112.15299v1](http://arxiv.org/abs/2112.15299v1)|null|
@@ -370,7 +370,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-01-13**|**Beyond Simple Meta-Learning: Multi-Purpose Models for Multi-Domain, Active and Continual Few-Shot Learning**|Peyman Bateni et.al.|[2201.05151v1](http://arxiv.org/abs/2201.05151v1)|null|
+|**2022-01-13**|**Beyond Simple Meta-Learning: Multi-Purpose Models for Multi-Domain, Active and Continual Few-Shot Learning**|Peyman Bateni et.al.|[2201.05151v1](http://arxiv.org/abs/2201.05151v1)|**[link](https://github.com/plai-group/simple-cnaps)**|
 |**2022-01-13**|**Fully Adaptive Bayesian Algorithm for Data Analysis, FABADA**|Pablo M Sanchez-Alarcon et.al.|[2201.05145v1](http://arxiv.org/abs/2201.05145v1)|**[link](https://github.com/pablomsanala/fabada)**|
 |**2022-01-13**|**SimReg: Regression as a Simple Yet Effective Tool for Self-supervised Knowledge Distillation**|K L Navaneet et.al.|[2201.05131v1](http://arxiv.org/abs/2201.05131v1)|**[link](https://github.com/ucdvision/simreg)**|
 |**2022-01-13**|**GradMax: Growing Neural Networks using Gradient Information**|Utku Evci et.al.|[2201.05125v1](http://arxiv.org/abs/2201.05125v1)|null|

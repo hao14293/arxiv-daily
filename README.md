@@ -24,7 +24,7 @@
 |**2022-01-14**|**Manifoldron: Direct Space Partition via Manifold Discovery**|Dayang Wang et.al.|[2201.05279v1](http://arxiv.org/abs/2201.05279v1)|**[link](https://github.com/wdayang/manifoldron)**|
 |**2022-01-14**|**Boundary-aware Self-supervised Learning for Video Scene Segmentation**|Jonghwan Mun et.al.|[2201.05277v1](http://arxiv.org/abs/2201.05277v1)|**[link](https://github.com/kakaobrain/bassl)**|
 |**2022-01-14**|**Deep Leaning-Based Ultra-Fast Stair Detection**|Chen Wang et.al.|[2201.05275v1](http://arxiv.org/abs/2201.05275v1)|null|
-|**2022-01-13**|**Density Estimation from Schlieren Images through Machine Learning**|Bryn Noel Ubald et.al.|[2201.05233v1](http://arxiv.org/abs/2201.05233v1)|null|
+|**2022-01-13**|**Density Estimation from Schlieren Images through Machine Learning**|Bryn Noel Ubald et.al.|[2201.05233v1](http://arxiv.org/abs/2201.05233v1)|**[link](https://github.com/bnubald/pof-schlieren-density-reconstruction)**|
 |**2022-01-13**|**Learning Enhancement of CNNs via Separation Index Maximizing at the First Convolutional Layer**|Ali Karimi et.al.|[2201.05217v1](http://arxiv.org/abs/2201.05217v1)|null|
 |**2022-01-13**|**Beyond Simple Meta-Learning: Multi-Purpose Models for Multi-Domain, Active and Continual Few-Shot Learning**|Peyman Bateni et.al.|[2201.05151v1](http://arxiv.org/abs/2201.05151v1)|**[link](https://github.com/plai-group/simple-cnaps)**|
 |**2022-01-13**|**Fully Adaptive Bayesian Algorithm for Data Analysis, FABADA**|Pablo M Sanchez-Alarcon et.al.|[2201.05145v1](http://arxiv.org/abs/2201.05145v1)|**[link](https://github.com/pablomsanala/fabada)**|
@@ -51,7 +51,7 @@
 |**2022-01-13**|**MetaDance: Few-shot Dancing Video Retargeting via Temporal-aware Meta-learning**|Yuying Ge et.al.|[2201.04851v1](http://arxiv.org/abs/2201.04851v1)|null|
 |**2022-01-13**|**BridgeFormer: Bridging Video-text Retrieval with Multiple Choice Questions**|Yuying Ge et.al.|[2201.04850v1](http://arxiv.org/abs/2201.04850v1)|null|
 |**2022-01-13**|**SnapshotNet: Self-supervised Feature Learning for Point Cloud Data Segmentation Using Minimal Labeled Data**|Xingye Li et.al.|[2201.04833v1](http://arxiv.org/abs/2201.04833v1)|null|
-|**2022-01-13**|**S$^2$FPR: Crowd Counting via Self-Supervised Coarse to Fine Feature Pyramid Ranking**|Jiaqi Gao et.al.|[2201.04819v1](http://arxiv.org/abs/2201.04819v1)|null|
+|**2022-01-13**|**S$^2$FPR: Crowd Counting via Self-Supervised Coarse to Fine Feature Pyramid Ranking**|Jiaqi Gao et.al.|[2201.04819v1](http://arxiv.org/abs/2201.04819v1)|**[link](https://github.com/bridgeqiqi/s2fpr)**|
 |**2022-01-13**|**Recursive Least Squares for Training and Pruning Convolutional Neural Networks**|Tianzong Yu et.al.|[2201.04813v1](http://arxiv.org/abs/2201.04813v1)|null|
 |**2022-01-13**|**Unsupervised Domain Adaptation for Cross-Modality Retinal Vessel Segmentation via Disentangling Representation Style Transfer and Collaborative Consistency Learning**|Linkai Peng et.al.|[2201.04812v1](http://arxiv.org/abs/2201.04812v1)|**[link](https://github.com/lkpengcs/dcda)**|
 

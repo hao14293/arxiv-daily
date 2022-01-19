@@ -43,7 +43,7 @@
 |**2022-01-17**|**Validation of object detection in UAV-based images using synthetic data**|Eung-Joo Lee et.al.|[2201.06629v1](http://arxiv.org/abs/2201.06629v1)|null|
 |**2022-01-17**|**VAQF: Fully Automatic Software-hardware Co-design Framework for Low-bit Vision Transformer**|Mengshu Sun et.al.|[2201.06618v1](http://arxiv.org/abs/2201.06618v1)|null|
 |**2022-01-17**|**Who supervises the supervisor? Model monitoring in production using deep feature embeddings with applications to workpiece inspection**|Michael Banf et.al.|[2201.06599v1](http://arxiv.org/abs/2201.06599v1)|null|
-|**2022-01-17**|**Using Machine Learning to Detect Rotational Symmetries from Reflectional Symmetries in 2D Images**|Koen Ponse et.al.|[2201.06594v1](http://arxiv.org/abs/2201.06594v1)|null|
+|**2022-01-17**|**Using Machine Learning to Detect Rotational Symmetries from Reflectional Symmetries in 2D Images**|Koen Ponse et.al.|[2201.06594v1](http://arxiv.org/abs/2201.06594v1)|**[link](https://github.com/koen-git/colorsymdetect)**|
 |**2022-01-17**|**Collapse by Conditioning: Training Class-conditional GANs with Limited Data**|Mohamad Shahbazi et.al.|[2201.06578v1](http://arxiv.org/abs/2201.06578v1)|**[link](https://github.com/mshahbazi72/transitional-cgan)**|
 |**2022-01-17**|**Neural Computed Tomography**|Kunal Gupta et.al.|[2201.06574v1](http://arxiv.org/abs/2201.06574v1)|null|
 |**2022-01-17**|**BDA-SketRet: Bi-Level Domain Adaptation for Zero-Shot SBIR**|Ushasi Chaudhuri et.al.|[2201.06570v1](http://arxiv.org/abs/2201.06570v1)|null|

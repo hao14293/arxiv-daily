@@ -4,12 +4,49 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-19**|**ConDor: Self-Supervised Canonicalization of 3D Pose for Partial Shapes**|Rahul Sajnani et.al.|[2201.07788v1](http://arxiv.org/abs/2201.07788v1)|null|
+|**2022-01-19**|**Towards a General Deep Feature Extractor for Facial Expression Recognition**|Liam Schoneveld et.al.|[2201.07781v1](http://arxiv.org/abs/2201.07781v1)|null|
+|**2022-01-19**|**Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation**|Rishabh Jangir et.al.|[2201.07779v1](http://arxiv.org/abs/2201.07779v1)|null|
+|**2022-01-19**|**A pipeline for automated processing of Corona KH-4 (1962-1972) stereo imagery**|Sajid Ghuffar et.al.|[2201.07756v1](http://arxiv.org/abs/2201.07756v1)|null|
+|**2022-01-19**|**Object Detection in Autonomous Vehicles: Status and Open Challenges**|Abhishek Balasubramaniam et.al.|[2201.07706v1](http://arxiv.org/abs/2201.07706v1)|null|
+|**2022-01-19**|**Q-ViT: Fully Differentiable Quantization for Vision Transformer**|Zhexin Li et.al.|[2201.07703v1](http://arxiv.org/abs/2201.07703v1)|null|
+|**2022-01-19**|**Visualization and Analysis of Wearable Health Data From COVID-19 Patients**|Susanne K. Suter et.al.|[2201.07698v1](http://arxiv.org/abs/2201.07698v1)|null|
+|**2022-01-19**|**GroupGazer: A Tool to Compute the Gaze per Participant in Groups with integrated Calibration to Map the Gaze Online to a Screen or Beamer Projection**|Wolfgang Fuhl et.al.|[2201.07692v1](http://arxiv.org/abs/2201.07692v1)|null|
+|**2022-01-19**|**Semi-automatic 3D Object Keypoint Annotation and Detection for the Masses**|Kenneth Blomqvist et.al.|[2201.07665v1](http://arxiv.org/abs/2201.07665v1)|**[link](https://github.com/ethz-asl/object_keypoints)**|
+|**2022-01-19**|**Open Source Handwritten Text Recognition on Medieval Manuscripts using Mixed Models and Document-Specific Finetuning**|Christian Reul et.al.|[2201.07661v1](http://arxiv.org/abs/2201.07661v1)|null|
+|**2022-01-19**|**A Survey on Training Challenges in Generative Adversarial Networks for Biomedical Image Analysis**|Muhammad Muneeb Saad et.al.|[2201.07646v1](http://arxiv.org/abs/2201.07646v1)|null|
+|**2022-01-19**|**CAST: Character labeling in Animation using Self-supervision by Tracking**|Oron Nir et.al.|[2201.07619v1](http://arxiv.org/abs/2201.07619v1)|**[link](https://github.com/oronnir/cast)**|
+|**2022-01-19**|**Nonlinear Unknown Input Observability and Unknown Input Reconstruction: The General Analytical Solution**|Agostino Martinelli et.al.|[2201.07610v1](http://arxiv.org/abs/2201.07610v1)|null|
+|**2022-01-19**|**A Confidence-based Iterative Solver of Depths and Surface Normals for Deep Multi-view Stereo**|Wang Zhao et.al.|[2201.07609v1](http://arxiv.org/abs/2201.07609v1)|**[link](https://github.com/thuzhaowang/idn-solver)**|
+|**2022-01-19**|**Real-time Recognition of Yoga Poses using computer Vision for Smart Health Care**|Abhishek Sharma et.al.|[2201.07594v1](http://arxiv.org/abs/2201.07594v1)|null|
+|**2022-01-19**|**DMF-Net: Dual-Branch Multi-Scale Feature Fusion Network for copy forgery identification of anti-counterfeiting QR code**|Zhongyuan Guo et.al.|[2201.07583v1](http://arxiv.org/abs/2201.07583v1)|null|
+|**2022-01-19**|**Superpixel Pre-Segmentation of HER2 Slides for Efficient Annotation**|Mathias Öttl et.al.|[2201.07572v1](http://arxiv.org/abs/2201.07572v1)|null|
+|**2022-01-19**|**Learned Cone-Beam CT Reconstruction Using Neural Ordinary Differential Equations**|Mareike Thies et.al.|[2201.07562v1](http://arxiv.org/abs/2201.07562v1)|null|
+|**2022-01-19**|**Simpler is better: spectral regularization and up-sampling techniques for variational autoencoders**|Sara Björk et.al.|[2201.07544v1](http://arxiv.org/abs/2201.07544v1)|null|
+|**2022-01-19**|**Virtual Coil Augmentation Technology for MRI via Deep Learning**|Cailian Yang et.al.|[2201.07540v1](http://arxiv.org/abs/2201.07540v1)|null|
+|**2022-01-19**|**Weakly Supervised Semantic Segmentation of Remote Sensing Images for Tree Species Classification Based on Explanation Methods**|Steve Ahlswede et.al.|[2201.07495v1](http://arxiv.org/abs/2201.07495v1)|null|
+|**2022-01-19**|**High-fidelity 3D Model Compression based on Key Spheres**|Yuanzhan Li et.al.|[2201.07486v1](http://arxiv.org/abs/2201.07486v1)|**[link](https://github.com/cscvlab/3D-Objects-Compression)**|
+|**2022-01-19**|**Using Self-Supervised Pretext Tasks for Active Learning**|John Seon Keun Yi et.al.|[2201.07459v1](http://arxiv.org/abs/2201.07459v1)|**[link](https://github.com/johnsk95/pt4al)**|
+|**2022-01-19**|**TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning**|Linhao Qu et.al.|[2201.07451v1](http://arxiv.org/abs/2201.07451v1)|null|
+|**2022-01-19**|**Global-Local Path Networks for Monocular Depth Estimation with Vertical CutDepth**|Doyeon Kim et.al.|[2201.07436v1](http://arxiv.org/abs/2201.07436v1)|null|
+|**2022-01-19**|**Variable Augmented Network for Invertible MR Coil Compression**|Xianghao Liao et.al.|[2201.07428v1](http://arxiv.org/abs/2201.07428v1)|null|
+|**2022-01-19**|**WebUAV-3M: A Benchmark Unveiling the Power of Million-Scale Deep UAV Tracking**|Chunhui Zhang et.al.|[2201.07425v1](http://arxiv.org/abs/2201.07425v1)|**[link](https://github.com/983632847/WebUAV-3M)**|
+|**2022-01-19**|**Self-Supervised Deep Blind Video Super-Resolution**|Haoran Bai et.al.|[2201.07422v1](http://arxiv.org/abs/2201.07422v1)|**[link](https://github.com/csbhr/self-blind-vsr)**|
+|**2022-01-19**|**Poseur: Direct Human Pose Regression with Transformers**|Weian Mao et.al.|[2201.07412v1](http://arxiv.org/abs/2201.07412v1)|null|
+|**2022-01-19**|**KappaFace: Adaptive Additive Angular Margin Loss for Deep Face Recognition**|Chingis Oinar et.al.|[2201.07394v1](http://arxiv.org/abs/2201.07394v1)|null|
+|**2022-01-19**|**Swin-Pose: Swin Transformer Based Human Pose Estimation**|Zinan Xiong et.al.|[2201.07384v1](http://arxiv.org/abs/2201.07384v1)|null|
+|**2022-01-19**|**Online Deep Learning based on Auto-Encoder**|Si-si Zhang et.al.|[2201.07383v1](http://arxiv.org/abs/2201.07383v1)|null|
+|**2022-01-19**|**The Role of Pleura and Adipose in Lung Ultrasound AI**|Gautam Rajendrakumar Gare et.al.|[2201.07368v1](http://arxiv.org/abs/2201.07368v1)|null|
+|**2022-01-19**|**TriCoLo: Trimodal Contrastive Loss for Fine-grained Text to Shape Retrieval**|Yue Ruan et.al.|[2201.07366v1](http://arxiv.org/abs/2201.07366v1)|null|
+|**2022-01-18**|**Weakly Supervised Contrastive Learning for Better Severity Scoring of Lung Ultrasound**|Gautam Rajendrakumar Gare et.al.|[2201.07357v1](http://arxiv.org/abs/2201.07357v1)|null|
+|**2022-01-18**|**Lung Swapping Autoencoder: Learning a Disentangled Structure-texture Representation of Chest Radiographs**|Lei Zhou et.al.|[2201.07344v1](http://arxiv.org/abs/2201.07344v1)|**[link](https://github.com/cvlab-stonybrook/lsae)**|
+|**2022-01-18**|**OSSID: Online Self-Supervised Instance Detection by (and for) Pose Estimation**|Qiao Gu et.al.|[2201.07309v1](http://arxiv.org/abs/2201.07309v1)|null|
 |**2022-01-18**|**Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**|Wenlong Huang et.al.|[2201.07207v1](http://arxiv.org/abs/2201.07207v1)|null|
 |**2022-01-18**|**GANmouflage: 3D Object Nondetection with Texture Fields**|Rui Guo et.al.|[2201.07202v1](http://arxiv.org/abs/2201.07202v1)|null|
 |**2022-01-18**|**Optimizing Active Learning for Low Annotation Budgets**|Umang Aggarwal et.al.|[2201.07200v1](http://arxiv.org/abs/2201.07200v1)|null|
 |**2022-01-18**|**MUSE-VAE: Multi-Scale VAE for Environment-Aware Long Term Trajectory Prediction**|Mihee Lee et.al.|[2201.07189v1](http://arxiv.org/abs/2201.07189v1)|null|
 |**2022-01-18**|**Leveraging Real Talking Faces via Self-Supervision for Robust Forgery Detection**|Alexandros Haliassos et.al.|[2201.07131v1](http://arxiv.org/abs/2201.07131v1)|null|
-|**2022-01-18**|**Attentional Feature Refinement and Alignment Network for Aircraft Detection in SAR Imagery**|Yan Zhao et.al.|[2201.07124v1](http://arxiv.org/abs/2201.07124v1)|null|
+|**2022-01-19**|**Attentional Feature Refinement and Alignment Network for Aircraft Detection in SAR Imagery**|Yan Zhao et.al.|[2201.07124v2](http://arxiv.org/abs/2201.07124v2)|null|
 |**2022-01-18**|**Contextual road lane and symbol generation for autonomous driving**|Ajay Soni et.al.|[2201.07120v1](http://arxiv.org/abs/2201.07120v1)|null|
 |**2022-01-18**|**Variational Inference for Quantifying Inter-observer Variability in Segmentation of Anatomical Structures**|Xiaofeng Liu et.al.|[2201.07106v1](http://arxiv.org/abs/2201.07106v1)|null|
 |**2022-01-18**|**Attention-based Proposals Refinement for 3D Object Detection**|Minh-Quan Dao et.al.|[2201.07070v1](http://arxiv.org/abs/2201.07070v1)|null|

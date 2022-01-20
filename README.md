@@ -28,7 +28,7 @@
 |**2022-01-19**|**High-fidelity 3D Model Compression based on Key Spheres**|Yuanzhan Li et.al.|[2201.07486v1](http://arxiv.org/abs/2201.07486v1)|**[link](https://github.com/cscvlab/3D-Objects-Compression)**|
 |**2022-01-19**|**Using Self-Supervised Pretext Tasks for Active Learning**|John Seon Keun Yi et.al.|[2201.07459v1](http://arxiv.org/abs/2201.07459v1)|**[link](https://github.com/johnsk95/pt4al)**|
 |**2022-01-19**|**TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning**|Linhao Qu et.al.|[2201.07451v1](http://arxiv.org/abs/2201.07451v1)|null|
-|**2022-01-19**|**Global-Local Path Networks for Monocular Depth Estimation with Vertical CutDepth**|Doyeon Kim et.al.|[2201.07436v1](http://arxiv.org/abs/2201.07436v1)|null|
+|**2022-01-19**|**Global-Local Path Networks for Monocular Depth Estimation with Vertical CutDepth**|Doyeon Kim et.al.|[2201.07436v1](http://arxiv.org/abs/2201.07436v1)|**[link](https://github.com/vinvino02/GLPDepth)**|
 |**2022-01-19**|**Variable Augmented Network for Invertible MR Coil Compression**|Xianghao Liao et.al.|[2201.07428v1](http://arxiv.org/abs/2201.07428v1)|null|
 |**2022-01-19**|**WebUAV-3M: A Benchmark Unveiling the Power of Million-Scale Deep UAV Tracking**|Chunhui Zhang et.al.|[2201.07425v1](http://arxiv.org/abs/2201.07425v1)|**[link](https://github.com/983632847/WebUAV-3M)**|
 |**2022-01-19**|**Self-Supervised Deep Blind Video Super-Resolution**|Haoran Bai et.al.|[2201.07422v1](http://arxiv.org/abs/2201.07422v1)|**[link](https://github.com/csbhr/self-blind-vsr)**|

@@ -4,9 +4,47 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-20**|**MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition**|Chao-Yuan Wu et.al.|[2201.08383v1](http://arxiv.org/abs/2201.08383v1)|null|
+|**2022-01-20**|**Learning Pixel Trajectories with Multiscale Contrastive Random Walks**|Zhangxing Bian et.al.|[2201.08379v1](http://arxiv.org/abs/2201.08379v1)|null|
+|**2022-01-20**|**Omnivore: A Single Model for Many Visual Modalities**|Rohit Girdhar et.al.|[2201.08377v1](http://arxiv.org/abs/2201.08377v1)|null|
+|**2022-01-20**|**Revisiting Weakly Supervised Pre-Training of Visual Perception Models**|Mannat Singh et.al.|[2201.08371v1](http://arxiv.org/abs/2201.08371v1)|**[link](https://github.com/facebookresearch/SWAG)**|
+|**2022-01-20**|**Stitch it in Time: GAN-Based Facial Editing of Real Videos**|Rotem Tzaban et.al.|[2201.08361v1](http://arxiv.org/abs/2201.08361v1)|null|
+|**2022-01-20**|**DIVA-DAF: A Deep Learning Framework for Historical Document Image Analysis**|Lars Vögtlin et.al.|[2201.08295v1](http://arxiv.org/abs/2201.08295v1)|null|
+|**2022-01-20**|**Modeling and hexahedral meshing of arterial networks from centerlines**|Méghane Decroocq et.al.|[2201.08279v1](http://arxiv.org/abs/2201.08279v1)|null|
+|**2022-01-20**|**Real-time Rendering for Integral Imaging Light Field Displays Based on a Voxel-Pixel Lookup Table**|Quanzhen Wan et.al.|[2201.08266v1](http://arxiv.org/abs/2201.08266v1)|null|
+|**2022-01-20**|**End-to-end Generative Pretraining for Multimodal Video Captioning**|Paul Hongsuck Seo et.al.|[2201.08264v1](http://arxiv.org/abs/2201.08264v1)|null|
+|**2022-01-20**|**Watermarking Pre-trained Encoders in Contrastive Learning**|Yutong Wu et.al.|[2201.08217v1](http://arxiv.org/abs/2201.08217v1)|null|
+|**2022-01-20**|**CP-Net: Contour-Perturbed Reconstruction Network for Self-Supervised Point Cloud Learning**|Mingye Xu et.al.|[2201.08215v1](http://arxiv.org/abs/2201.08215v1)|null|
+|**2022-01-20**|**HumanIBR: High Quality Image-based Rendering of Challenging Human Performers using Sparse Views**|Tiansong Zhou et.al.|[2201.08158v1](http://arxiv.org/abs/2201.08158v1)|null|
+|**2022-01-20**|**WPPNets: Unsupervised CNN Training with Wasserstein Patch Priors for Image Superresolution**|Fabian Altekrüger et.al.|[2201.08157v1](http://arxiv.org/abs/2201.08157v1)|null|
+|**2022-01-20**|**Physically Embodied Deep Image Optimisation**|Daniela Mihai et.al.|[2201.08142v1](http://arxiv.org/abs/2201.08142v1)|null|
+|**2022-01-20**|**SPAMs: Structured Implicit Parametric Models**|Pablo Palafox et.al.|[2201.08141v1](http://arxiv.org/abs/2201.08141v1)|null|
+|**2022-01-20**|**GeoFill: Reference-Based Image Inpainting of Scenes with Complex Geometry**|Yunhan Zhao et.al.|[2201.08131v1](http://arxiv.org/abs/2201.08131v1)|null|
+|**2022-01-20**|**Deep Unsupervised Contrastive Hashing for Large-Scale Cross-Modal Text-Image Retrieval in Remote Sensing**|Georgii Mikriukov et.al.|[2201.08125v1](http://arxiv.org/abs/2201.08125v1)|null|
+|**2022-01-20**|**A Computational Model for Machine Thinking**|Slimane Larabi et.al.|[2201.08122v1](http://arxiv.org/abs/2201.08122v1)|null|
+|**2022-01-20**|**What can we learn from misclassified ImageNet images?**|Shixian Wen et.al.|[2201.08098v1](http://arxiv.org/abs/2201.08098v1)|null|
+|**2022-01-20**|**AirPose: Multi-View Fusion Network for Aerial 3D Human Pose and Shape Estimation**|Nitin Saini et.al.|[2201.08093v1](http://arxiv.org/abs/2201.08093v1)|null|
+|**2022-01-20**|**The Elements of Temporal Sentence Grounding in Videos: A Survey and Future Directions**|Hao Zhang et.al.|[2201.08071v1](http://arxiv.org/abs/2201.08071v1)|null|
+|**2022-01-20**|**Predicting Vegetation Stratum Occupancy from Airborne LiDAR Data with Deep Learning**|Ekaterina Kalinicheva et.al.|[2201.08051v1](http://arxiv.org/abs/2201.08051v1)|null|
+|**2022-01-20**|**TerViT: An Efficient Ternary Vision Transformer**|Sheng Xu et.al.|[2201.08050v1](http://arxiv.org/abs/2201.08050v1)|null|
+|**2022-01-20**|**Lightweight Salient Object Detection in Optical Remote Sensing Images via Feature Correlation**|Gongyang Li et.al.|[2201.08049v1](http://arxiv.org/abs/2201.08049v1)|null|
+|**2022-01-20**|**Domain Generalization via Frequency-based Feature Disentanglement and Interaction**|Jingye Wang et.al.|[2201.08029v1](http://arxiv.org/abs/2201.08029v1)|null|
+|**2022-01-20**|**A Joint Morphological Profiles and Patch Tensor Change Detection for Hyperspectral Imagery**|Zengfu Hou et.al.|[2201.08027v1](http://arxiv.org/abs/2201.08027v1)|null|
+|**2022-01-20**|**PRMI: A Dataset of Minirhizotron Images for Diverse Plant Root Study**|Weihuang Xu et.al.|[2201.08002v1](http://arxiv.org/abs/2201.08002v1)|null|
+|**2022-01-20**|**CELESTIAL: Classification Enabled via Labelless Embeddings with Self-supervised Telescope Image Analysis Learning**|Suhas Kotha et.al.|[2201.08001v1](http://arxiv.org/abs/2201.08001v1)|null|
+|**2022-01-20**|**Self-supervised Video Representation Learning with Cascade Positive Retrieval**|Cheng-En Wu et.al.|[2201.07989v1](http://arxiv.org/abs/2201.07989v1)|null|
+|**2022-01-20**|**GASCN: Graph Attention Shape Completion Network**|Haojie Huang et.al.|[2201.07937v1](http://arxiv.org/abs/2201.07937v1)|null|
+|**2022-01-20**|**Experimental Large-Scale Jet Flames' Geometrical Features Extraction for Risk Management Using Infrared Images and Deep Learning Segmentation Methods**|Carmina Pérez-Guerrero et.al.|[2201.07931v1](http://arxiv.org/abs/2201.07931v1)|null|
+|**2022-01-20**|**Estimating Egocentric 3D Human Pose in the Wild with External Weak Supervision**|Jian Wang et.al.|[2201.07929v1](http://arxiv.org/abs/2201.07929v1)|null|
+|**2022-01-20**|**Learning-by-Novel-View-Synthesis for Full-Face Appearance-based 3D Gaze Estimation**|Jiawei Qin et.al.|[2201.07927v1](http://arxiv.org/abs/2201.07927v1)|null|
+|**2022-01-19**|**The Role of Facial Expressions and Emotion in ASL**|Lee Kezar et.al.|[2201.07906v1](http://arxiv.org/abs/2201.07906v1)|null|
+|**2022-01-19**|**ASL Video Corpora & Sign Bank: Resources Available through the American Sign Language Linguistic Research Project (ASLLRP)**|Carol Neidle et.al.|[2201.07899v1](http://arxiv.org/abs/2201.07899v1)|null|
+|**2022-01-19**|**Enhanced Performance of Pre-Trained Networks by Matched Augmentation Distributions**|Touqeer Ahmad et.al.|[2201.07894v1](http://arxiv.org/abs/2201.07894v1)|null|
+|**2022-01-19**|**ROS georegistration: Aerial Multi-spectral Image Simulator for the Robot Operating System**|Andrew R. Willis et.al.|[2201.07863v1](http://arxiv.org/abs/2201.07863v1)|null|
+|**2022-01-19**|**BLINC: Lightweight Bimodal Learning for Low-Complexity VVC Intra Coding**|Farhad Pakdaman et.al.|[2201.07823v1](http://arxiv.org/abs/2201.07823v1)|null|
 |**2022-01-19**|**ConDor: Self-Supervised Canonicalization of 3D Pose for Partial Shapes**|Rahul Sajnani et.al.|[2201.07788v1](http://arxiv.org/abs/2201.07788v1)|null|
 |**2022-01-19**|**Towards a General Deep Feature Extractor for Facial Expression Recognition**|Liam Schoneveld et.al.|[2201.07781v1](http://arxiv.org/abs/2201.07781v1)|null|
-|**2022-01-19**|**Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation**|Rishabh Jangir et.al.|[2201.07779v1](http://arxiv.org/abs/2201.07779v1)|null|
+|**2022-01-20**|**Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation**|Rishabh Jangir et.al.|[2201.07779v2](http://arxiv.org/abs/2201.07779v2)|null|
 |**2022-01-19**|**A pipeline for automated processing of Corona KH-4 (1962-1972) stereo imagery**|Sajid Ghuffar et.al.|[2201.07756v1](http://arxiv.org/abs/2201.07756v1)|null|
 |**2022-01-19**|**Object Detection in Autonomous Vehicles: Status and Open Challenges**|Abhishek Balasubramaniam et.al.|[2201.07706v1](http://arxiv.org/abs/2201.07706v1)|null|
 |**2022-01-19**|**Q-ViT: Fully Differentiable Quantization for Vision Transformer**|Zhexin Li et.al.|[2201.07703v1](http://arxiv.org/abs/2201.07703v1)|null|

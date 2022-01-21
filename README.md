@@ -6,17 +6,17 @@
 |---|---|---|---|---|
 |**2022-01-20**|**MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition**|Chao-Yuan Wu et.al.|[2201.08383v1](http://arxiv.org/abs/2201.08383v1)|null|
 |**2022-01-20**|**Learning Pixel Trajectories with Multiscale Contrastive Random Walks**|Zhangxing Bian et.al.|[2201.08379v1](http://arxiv.org/abs/2201.08379v1)|null|
-|**2022-01-20**|**Omnivore: A Single Model for Many Visual Modalities**|Rohit Girdhar et.al.|[2201.08377v1](http://arxiv.org/abs/2201.08377v1)|null|
+|**2022-01-20**|**Omnivore: A Single Model for Many Visual Modalities**|Rohit Girdhar et.al.|[2201.08377v1](http://arxiv.org/abs/2201.08377v1)|**[link](https://github.com/facebookresearch/omnivore)**|
 |**2022-01-20**|**Revisiting Weakly Supervised Pre-Training of Visual Perception Models**|Mannat Singh et.al.|[2201.08371v1](http://arxiv.org/abs/2201.08371v1)|**[link](https://github.com/facebookresearch/SWAG)**|
 |**2022-01-20**|**Stitch it in Time: GAN-Based Facial Editing of Real Videos**|Rotem Tzaban et.al.|[2201.08361v1](http://arxiv.org/abs/2201.08361v1)|null|
-|**2022-01-20**|**DIVA-DAF: A Deep Learning Framework for Historical Document Image Analysis**|Lars Vögtlin et.al.|[2201.08295v1](http://arxiv.org/abs/2201.08295v1)|null|
+|**2022-01-20**|**DIVA-DAF: A Deep Learning Framework for Historical Document Image Analysis**|Lars Vögtlin et.al.|[2201.08295v1](http://arxiv.org/abs/2201.08295v1)|**[link](https://github.com/DIVA-DIA/DIVA-DAF)**|
 |**2022-01-20**|**Modeling and hexahedral meshing of arterial networks from centerlines**|Méghane Decroocq et.al.|[2201.08279v1](http://arxiv.org/abs/2201.08279v1)|null|
 |**2022-01-20**|**Real-time Rendering for Integral Imaging Light Field Displays Based on a Voxel-Pixel Lookup Table**|Quanzhen Wan et.al.|[2201.08266v1](http://arxiv.org/abs/2201.08266v1)|null|
 |**2022-01-20**|**End-to-end Generative Pretraining for Multimodal Video Captioning**|Paul Hongsuck Seo et.al.|[2201.08264v1](http://arxiv.org/abs/2201.08264v1)|null|
 |**2022-01-20**|**Watermarking Pre-trained Encoders in Contrastive Learning**|Yutong Wu et.al.|[2201.08217v1](http://arxiv.org/abs/2201.08217v1)|null|
 |**2022-01-20**|**CP-Net: Contour-Perturbed Reconstruction Network for Self-Supervised Point Cloud Learning**|Mingye Xu et.al.|[2201.08215v1](http://arxiv.org/abs/2201.08215v1)|null|
 |**2022-01-20**|**HumanIBR: High Quality Image-based Rendering of Challenging Human Performers using Sparse Views**|Tiansong Zhou et.al.|[2201.08158v1](http://arxiv.org/abs/2201.08158v1)|null|
-|**2022-01-20**|**WPPNets: Unsupervised CNN Training with Wasserstein Patch Priors for Image Superresolution**|Fabian Altekrüger et.al.|[2201.08157v1](http://arxiv.org/abs/2201.08157v1)|null|
+|**2022-01-20**|**WPPNets: Unsupervised CNN Training with Wasserstein Patch Priors for Image Superresolution**|Fabian Altekrüger et.al.|[2201.08157v1](http://arxiv.org/abs/2201.08157v1)|**[link](https://github.com/fabianaltekrueger/wppnets)**|
 |**2022-01-20**|**Physically Embodied Deep Image Optimisation**|Daniela Mihai et.al.|[2201.08142v1](http://arxiv.org/abs/2201.08142v1)|null|
 |**2022-01-20**|**SPAMs: Structured Implicit Parametric Models**|Pablo Palafox et.al.|[2201.08141v1](http://arxiv.org/abs/2201.08141v1)|null|
 |**2022-01-20**|**GeoFill: Reference-Based Image Inpainting of Scenes with Complex Geometry**|Yunhan Zhao et.al.|[2201.08131v1](http://arxiv.org/abs/2201.08131v1)|null|

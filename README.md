@@ -28,14 +28,14 @@
 |**2022-01-21**|**What Can Machine Vision Do for Lymphatic Histopathology Image Analysis: A Comprehensive Review**|Xiaoqi Li et.al.|[2201.08550v1](http://arxiv.org/abs/2201.08550v1)|null|
 |**2022-01-21**|**Vertical Federated Edge Learning with Distributed Integrated Sensing and Communication**|Peixi Liu et.al.|[2201.08512v1](http://arxiv.org/abs/2201.08512v1)|null|
 |**2022-01-20**|**An Empirical Investigation of Model-to-Model Distribution Shifts in Trained Convolutional Filters**|Paul Gavrikov et.al.|[2201.08465v1](http://arxiv.org/abs/2201.08465v1)|**[link](https://github.com/paulgavrikov/cnn-filter-db)**|
-|**2022-01-20**|**A Visual Analytics Approach to Building Logistic Regression Models and its Application to Health Records**|Erasmo Artur et.al.|[2201.08429v1](http://arxiv.org/abs/2201.08429v1)|null|
-|**2022-01-20**|**FaceOcc: A Diverse, High-quality Face Occlusion Dataset for Human Face Extraction**|Xiangnan Yin et.al.|[2201.08425v1](http://arxiv.org/abs/2201.08425v1)|null|
+|**2022-01-20**|**A Visual Analytics Approach to Building Logistic Regression Models and its Application to Health Records**|Erasmo Artur et.al.|[2201.08429v1](http://arxiv.org/abs/2201.08429v1)|**[link](https://github.com/erasmoartur/ucreg)**|
+|**2022-01-20**|**FaceOcc: A Diverse, High-quality Face Occlusion Dataset for Human Face Extraction**|Xiangnan Yin et.al.|[2201.08425v1](http://arxiv.org/abs/2201.08425v1)|**[link](https://github.com/face3d0725/FaceExtraction)**|
 |**2022-01-20**|**SoftDropConnect (SDC) -- Effective and Efficient Quantification of the Network Uncertainty in Deep MR Image Analysis**|Qing Lyu et.al.|[2201.08418v1](http://arxiv.org/abs/2201.08418v1)|null|
 |**2022-01-20**|**MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition**|Chao-Yuan Wu et.al.|[2201.08383v1](http://arxiv.org/abs/2201.08383v1)|null|
 |**2022-01-20**|**Learning Pixel Trajectories with Multiscale Contrastive Random Walks**|Zhangxing Bian et.al.|[2201.08379v1](http://arxiv.org/abs/2201.08379v1)|null|
 |**2022-01-20**|**Omnivore: A Single Model for Many Visual Modalities**|Rohit Girdhar et.al.|[2201.08377v1](http://arxiv.org/abs/2201.08377v1)|**[link](https://github.com/facebookresearch/omnivore)**|
 |**2022-01-20**|**Revisiting Weakly Supervised Pre-Training of Visual Perception Models**|Mannat Singh et.al.|[2201.08371v1](http://arxiv.org/abs/2201.08371v1)|**[link](https://github.com/facebookresearch/SWAG)**|
-|**2022-01-21**|**Stitch it in Time: GAN-Based Facial Editing of Real Videos**|Rotem Tzaban et.al.|[2201.08361v2](http://arxiv.org/abs/2201.08361v2)|null|
+|**2022-01-21**|**Stitch it in Time: GAN-Based Facial Editing of Real Videos**|Rotem Tzaban et.al.|[2201.08361v2](http://arxiv.org/abs/2201.08361v2)|**[link](https://github.com/rotemtzaban/STIT)**|
 |**2022-01-21**|**DIVA-DAF: A Deep Learning Framework for Historical Document Image Analysis**|Lars Vögtlin et.al.|[2201.08295v2](http://arxiv.org/abs/2201.08295v2)|**[link](https://github.com/DIVA-DIA/DIVA-DAF)**|
 |**2022-01-20**|**Modeling and hexahedral meshing of arterial networks from centerlines**|Méghane Decroocq et.al.|[2201.08279v1](http://arxiv.org/abs/2201.08279v1)|null|
 |**2022-01-20**|**Real-time Rendering for Integral Imaging Light Field Displays Based on a Voxel-Pixel Lookup Table**|Quanzhen Wan et.al.|[2201.08266v1](http://arxiv.org/abs/2201.08266v1)|null|

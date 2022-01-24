@@ -4,12 +4,39 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-21**|**Point-NeRF: Point-based Neural Radiance Fields**|Qiangeng Xu et.al.|[2201.08845v1](http://arxiv.org/abs/2201.08845v1)|null|
+|**2022-01-21**|**Reliable Detection of Doppelgängers based on Deep Face Representations**|Christian Rathgeb et.al.|[2201.08831v1](http://arxiv.org/abs/2201.08831v1)|null|
+|**2022-01-21**|**AiTLAS: Artificial Intelligence Toolbox for Earth Observation**|Ivica Dimitrovski et.al.|[2201.08789v1](http://arxiv.org/abs/2201.08789v1)|null|
+|**2022-01-21**|**Contrastive and Selective Hidden Embeddings for Medical Image Segmentation**|Zhuowei Li et.al.|[2201.08779v1](http://arxiv.org/abs/2201.08779v1)|null|
+|**2022-01-21**|**Object Detection in Aerial Images: What Improves the Accuracy?**|Hashmat Shadab Malik et.al.|[2201.08763v1](http://arxiv.org/abs/2201.08763v1)|null|
+|**2022-01-21**|**ERS: a novel comprehensive endoscopy image dataset for machine learning, compliant with the MST 3.0 specification**|Jan Cychnerski et.al.|[2201.08746v1](http://arxiv.org/abs/2201.08746v1)|null|
+|**2022-01-21**|**Improving Across-Dataset Brain Tissue Segmentation Using Transformer**|Vishwanatha M. Rao et.al.|[2201.08741v1](http://arxiv.org/abs/2201.08741v1)|**[link](https://github.com/raovish6/tabs)**|
+|**2022-01-21**|**SparseAlign: A Super-Resolution Algorithm for Automatic Marker Localization and Deformation Estimation in Cryo-Electron Tomography**|Poulami Somanya Ganguly et.al.|[2201.08706v1](http://arxiv.org/abs/2201.08706v1)|null|
+|**2022-01-21**|**A Comprehensive Study of Vision Transformers on Dense Prediction Tasks**|Kishaan Jeeveswaran et.al.|[2201.08683v1](http://arxiv.org/abs/2201.08683v1)|null|
+|**2022-01-21**|**Distance-Ratio-Based Formulation for Metric Learning**|Hyeongji Kim et.al.|[2201.08676v1](http://arxiv.org/abs/2201.08676v1)|**[link](https://github.com/hjk92g/dr_formulation_ml)**|
+|**2022-01-21**|**Exploring Fusion Strategies for Accurate RGBT Visual Object Tracking**|Zhangyong Tang et.al.|[2201.08673v1](http://arxiv.org/abs/2201.08673v1)|null|
+|**2022-01-21**|**Dynamic Deep Convolutional Candlestick Learner**|Jun-Hao Chen et.al.|[2201.08669v1](http://arxiv.org/abs/2201.08669v1)|null|
+|**2022-01-21**|**Fast Differentiable Matrix Square Root**|Yue Song et.al.|[2201.08663v1](http://arxiv.org/abs/2201.08663v1)|**[link](https://github.com/kingjamessong/fastdifferentiablematsqrt)**|
+|**2022-01-21**|**Enhancing Pseudo Label Quality for Semi-SupervisedDomain-Generalized Medical Image Segmentation**|Huifeng Yao et.al.|[2201.08657v1](http://arxiv.org/abs/2201.08657v1)|null|
+|**2022-01-21**|**Conceptor Learning for Class Activation Mapping**|Guangwu Qian et.al.|[2201.08636v1](http://arxiv.org/abs/2201.08636v1)|null|
+|**2022-01-21**|**Multi-view Monocular Depth and Uncertainty Prediction with Deep SfM in Dynamic Environments**|Christian Homeyer et.al.|[2201.08633v1](http://arxiv.org/abs/2201.08633v1)|null|
+|**2022-01-21**|**VIPriors 2: Visual Inductive Priors for Data-Efficient Deep Learning Challenges**|Attila Lengyel et.al.|[2201.08625v1](http://arxiv.org/abs/2201.08625v1)|null|
+|**2022-01-21**|**Dangerous Cloaking: Natural Trigger based Backdoor Attacks on Object Detectors in the Physical World**|Hua Ma et.al.|[2201.08619v1](http://arxiv.org/abs/2201.08619v1)|null|
+|**2022-01-21**|**Pseudo-Labeled Auto-Curriculum Learning for Semi-Supervised Keypoint Localization**|Can Wang et.al.|[2201.08613v1](http://arxiv.org/abs/2201.08613v1)|null|
+|**2022-01-21**|**SegTransVAE: Hybrid CNN -- Transformer with Regularization for medical image segmentation**|Quan-Dung Pham et.al.|[2201.08582v1](http://arxiv.org/abs/2201.08582v1)|**[link](https://github.com/itruonghai/segtransvae)**|
+|**2022-01-21**|**Classroom Slide Narration System**|Jobin K. V. et.al.|[2201.08574v1](http://arxiv.org/abs/2201.08574v1)|null|
+|**2022-01-21**|**What Can Machine Vision Do for Lymphatic Histopathology Image Analysis: A Comprehensive Review**|Xiaoqi Li et.al.|[2201.08550v1](http://arxiv.org/abs/2201.08550v1)|null|
+|**2022-01-21**|**Vertical Federated Edge Learning with Distributed Integrated Sensing and Communication**|Peixi Liu et.al.|[2201.08512v1](http://arxiv.org/abs/2201.08512v1)|null|
+|**2022-01-20**|**An Empirical Investigation of Model-to-Model Distribution Shifts in Trained Convolutional Filters**|Paul Gavrikov et.al.|[2201.08465v1](http://arxiv.org/abs/2201.08465v1)|**[link](https://github.com/paulgavrikov/cnn-filter-db)**|
+|**2022-01-20**|**A Visual Analytics Approach to Building Logistic Regression Models and its Application to Health Records**|Erasmo Artur et.al.|[2201.08429v1](http://arxiv.org/abs/2201.08429v1)|null|
+|**2022-01-20**|**FaceOcc: A Diverse, High-quality Face Occlusion Dataset for Human Face Extraction**|Xiangnan Yin et.al.|[2201.08425v1](http://arxiv.org/abs/2201.08425v1)|null|
+|**2022-01-20**|**SoftDropConnect (SDC) -- Effective and Efficient Quantification of the Network Uncertainty in Deep MR Image Analysis**|Qing Lyu et.al.|[2201.08418v1](http://arxiv.org/abs/2201.08418v1)|null|
 |**2022-01-20**|**MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition**|Chao-Yuan Wu et.al.|[2201.08383v1](http://arxiv.org/abs/2201.08383v1)|null|
 |**2022-01-20**|**Learning Pixel Trajectories with Multiscale Contrastive Random Walks**|Zhangxing Bian et.al.|[2201.08379v1](http://arxiv.org/abs/2201.08379v1)|null|
 |**2022-01-20**|**Omnivore: A Single Model for Many Visual Modalities**|Rohit Girdhar et.al.|[2201.08377v1](http://arxiv.org/abs/2201.08377v1)|**[link](https://github.com/facebookresearch/omnivore)**|
 |**2022-01-20**|**Revisiting Weakly Supervised Pre-Training of Visual Perception Models**|Mannat Singh et.al.|[2201.08371v1](http://arxiv.org/abs/2201.08371v1)|**[link](https://github.com/facebookresearch/SWAG)**|
-|**2022-01-20**|**Stitch it in Time: GAN-Based Facial Editing of Real Videos**|Rotem Tzaban et.al.|[2201.08361v1](http://arxiv.org/abs/2201.08361v1)|null|
-|**2022-01-20**|**DIVA-DAF: A Deep Learning Framework for Historical Document Image Analysis**|Lars Vögtlin et.al.|[2201.08295v1](http://arxiv.org/abs/2201.08295v1)|**[link](https://github.com/DIVA-DIA/DIVA-DAF)**|
+|**2022-01-21**|**Stitch it in Time: GAN-Based Facial Editing of Real Videos**|Rotem Tzaban et.al.|[2201.08361v2](http://arxiv.org/abs/2201.08361v2)|null|
+|**2022-01-21**|**DIVA-DAF: A Deep Learning Framework for Historical Document Image Analysis**|Lars Vögtlin et.al.|[2201.08295v2](http://arxiv.org/abs/2201.08295v2)|**[link](https://github.com/DIVA-DIA/DIVA-DAF)**|
 |**2022-01-20**|**Modeling and hexahedral meshing of arterial networks from centerlines**|Méghane Decroocq et.al.|[2201.08279v1](http://arxiv.org/abs/2201.08279v1)|null|
 |**2022-01-20**|**Real-time Rendering for Integral Imaging Light Field Displays Based on a Voxel-Pixel Lookup Table**|Quanzhen Wan et.al.|[2201.08266v1](http://arxiv.org/abs/2201.08266v1)|null|
 |**2022-01-20**|**End-to-end Generative Pretraining for Multimodal Video Captioning**|Paul Hongsuck Seo et.al.|[2201.08264v1](http://arxiv.org/abs/2201.08264v1)|null|
@@ -26,7 +53,7 @@
 |**2022-01-20**|**AirPose: Multi-View Fusion Network for Aerial 3D Human Pose and Shape Estimation**|Nitin Saini et.al.|[2201.08093v1](http://arxiv.org/abs/2201.08093v1)|**[link](https://github.com/robot-perception-group/airpose)**|
 |**2022-01-20**|**The Elements of Temporal Sentence Grounding in Videos: A Survey and Future Directions**|Hao Zhang et.al.|[2201.08071v1](http://arxiv.org/abs/2201.08071v1)|null|
 |**2022-01-20**|**Predicting Vegetation Stratum Occupancy from Airborne LiDAR Data with Deep Learning**|Ekaterina Kalinicheva et.al.|[2201.08051v1](http://arxiv.org/abs/2201.08051v1)|null|
-|**2022-01-20**|**TerViT: An Efficient Ternary Vision Transformer**|Sheng Xu et.al.|[2201.08050v1](http://arxiv.org/abs/2201.08050v1)|null|
+|**2022-01-21**|**TerViT: An Efficient Ternary Vision Transformer**|Sheng Xu et.al.|[2201.08050v2](http://arxiv.org/abs/2201.08050v2)|null|
 |**2022-01-20**|**Lightweight Salient Object Detection in Optical Remote Sensing Images via Feature Correlation**|Gongyang Li et.al.|[2201.08049v1](http://arxiv.org/abs/2201.08049v1)|**[link](https://github.com/mathlee/corrnet)**|
 |**2022-01-20**|**Domain Generalization via Frequency-based Feature Disentanglement and Interaction**|Jingye Wang et.al.|[2201.08029v1](http://arxiv.org/abs/2201.08029v1)|null|
 |**2022-01-20**|**A Joint Morphological Profiles and Patch Tensor Change Detection for Hyperspectral Imagery**|Zengfu Hou et.al.|[2201.08027v1](http://arxiv.org/abs/2201.08027v1)|null|

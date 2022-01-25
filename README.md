@@ -18,14 +18,14 @@
 |**2022-01-24**|**Keeping Deep Lithography Simulators Updated: Global-Local Shape-Based Novelty Detection and Active Learning**|Hao-Chiang Shao et.al.|[2201.09717v1](http://arxiv.org/abs/2201.09717v1)|null|
 |**2022-01-24**|**Learning Semantics for Visual Place Recognition through Multi-Scale Attention**|Valerio Paolicelli et.al.|[2201.09701v1](http://arxiv.org/abs/2201.09701v1)|null|
 |**2022-01-24**|**Feature transforms for image data augmentation**|Loris Nanni et.al.|[2201.09700v1](http://arxiv.org/abs/2201.09700v1)|**[link](https://github.com/lorisnanni/feature-transforms-for-image-data-augmentation)**|
-|**2022-01-24**|**Shape-consistent Generative Adversarial Networks for multi-modal Medical segmentation maps**|Leo Segre et.al.|[2201.09693v1](http://arxiv.org/abs/2201.09693v1)|null|
+|**2022-01-24**|**Shape-consistent Generative Adversarial Networks for multi-modal Medical segmentation maps**|Leo Segre et.al.|[2201.09693v1](http://arxiv.org/abs/2201.09693v1)|**[link](https://github.com/orhir/shape-consistent-generative-adversarial-networks-for-multi-modal-medical-segmentation-maps)**|
 |**2022-01-24**|**Which Style Makes Me Attractive? Interpretable Control Discovery and Counterfactual Explanation on StyleGAN**|Bo Li et.al.|[2201.09689v1](http://arxiv.org/abs/2201.09689v1)|**[link](https://github.com/prclibo/ice)**|
 |**2022-01-24**|**Question Generation for Evaluating Cross-Dataset Shifts in Multi-modal Grounding**|Arjun R. Akula et.al.|[2201.09639v1](http://arxiv.org/abs/2201.09639v1)|null|
 |**2022-01-24**|**Paired Image to Image Translation for Strikethrough Removal From Handwritten Words**|Raphaela Heil et.al.|[2201.09633v1](http://arxiv.org/abs/2201.09633v1)|null|
 |**2022-01-24**|**SEN12MS-CR-TS: A Remote Sensing Data Set for Multi-modal Multi-temporal Cloud Removal**|Patrick Ebel et.al.|[2201.09613v1](http://arxiv.org/abs/2201.09613v1)|null|
 |**2022-01-24**|**End-to-end Person Search Sequentially Trained on Aggregated Dataset**|Angelique Loesch et.al.|[2201.09604v1](http://arxiv.org/abs/2201.09604v1)|null|
 |**2022-01-24**|**Describe me if you can! Characterized Instance-level Human Parsing**|Angelique Loesch et.al.|[2201.09594v1](http://arxiv.org/abs/2201.09594v1)|null|
-|**2022-01-24**|**AutoSeg -- Steering the Inductive Biases for Automatic Pathology Segmentation**|Felix Meissen et.al.|[2201.09579v1](http://arxiv.org/abs/2201.09579v1)|null|
+|**2022-01-24**|**AutoSeg -- Steering the Inductive Biases for Automatic Pathology Segmentation**|Felix Meissen et.al.|[2201.09579v1](http://arxiv.org/abs/2201.09579v1)|**[link](https://github.com/felime/autoseg)**|
 |**2022-01-24**|**Importance of Textlines in Historical Document Classification**|Martin Kišš et.al.|[2201.09575v1](http://arxiv.org/abs/2201.09575v1)|null|
 |**2022-01-24**|**Multi-Scale Iterative Refinement Network for RGB-D Salient Object Detection**|Ze-yu Liu et.al.|[2201.09574v1](http://arxiv.org/abs/2201.09574v1)|null|
 |**2022-01-24**|**Debiasing pipeline improves deep learning model generalization for X-ray based lung nodule detection**|Michael Horry et.al.|[2201.09563v1](http://arxiv.org/abs/2201.09563v1)|null|
@@ -50,7 +50,7 @@
 |**2022-01-23**|**POTHER: Patch-Voted Deep Learning-based Chest X-ray Bias Analysis for COVID-19 Detection**|Tomasz Szczepański et.al.|[2201.09360v1](http://arxiv.org/abs/2201.09360v1)|**[link](https://github.com/tomek1911/pother)**|
 |**2022-01-23**|**Transformer-based SAR Image Despeckling**|Malsha V. Perera et.al.|[2201.09355v1](http://arxiv.org/abs/2201.09355v1)|**[link](https://github.com/malshav/sar_transformer)**|
 |**2022-01-23**|**Survey and Systematization of 3D Object Detection Models and Methods**|Moritz Drobnitzky et.al.|[2201.09354v1](http://arxiv.org/abs/2201.09354v1)|null|
-|**2022-01-23**|**Out of Distribution Detection on ImageNet-O**|Anugya Srivastava et.al.|[2201.09352v1](http://arxiv.org/abs/2201.09352v1)|null|
+|**2022-01-23**|**Out of Distribution Detection on ImageNet-O**|Anugya Srivastava et.al.|[2201.09352v1](http://arxiv.org/abs/2201.09352v1)|**[link](https://github.com/anugyas/ood-on-nae)**|
 |**2022-01-23**|**Sparse-view Cone Beam CT Reconstruction using Data-consistent Supervised and Adversarial Learning from Scarce Training Data**|Anish Lahiri et.al.|[2201.09318v1](http://arxiv.org/abs/2201.09318v1)|null|
 |**2022-01-23**|**Perceptual cGAN for MRI Super-resolution**|Sahar Almahfouz Nasser et.al.|[2201.09314v1](http://arxiv.org/abs/2201.09314v1)|null|
 |**2022-01-23**|**Basket-based Softmax**|Qiang Meng et.al.|[2201.09308v1](http://arxiv.org/abs/2201.09308v1)|null|

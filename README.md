@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-24**|**Transformers in Medical Imaging: A Survey**|Fahad Shamshad et.al.|[2201.09873v1](http://arxiv.org/abs/2201.09873v1)|null|
+|**2022-01-24**|**Importance of Preprocessing in Histopathology Image Classification Using Deep Convolutional Neural Network**|Nilgun Sengoz et.al.|[2201.09867v1](http://arxiv.org/abs/2201.09867v1)|null|
+|**2022-01-24**|**RePaint: Inpainting using Denoising Diffusion Probabilistic Models**|Andreas Lugmayr et.al.|[2201.09865v1](http://arxiv.org/abs/2201.09865v1)|null|
+|**2022-01-24**|**Hyperspectral Image Super-resolution with Deep Priors and Degradation Model Inversion**|Xiuheng Wang et.al.|[2201.09851v1](http://arxiv.org/abs/2201.09851v1)|null|
+|**2022-01-24**|**A Novel Mix-normalization Method for Generalizable Multi-source Person Re-identification**|Lei Qi et.al.|[2201.09846v1](http://arxiv.org/abs/2201.09846v1)|null|
+|**2022-01-24**|**MMLatch: Bottom-up Top-down Fusion for Multimodal Sentiment Analysis**|Georgios Paraskevopoulos et.al.|[2201.09828v1](http://arxiv.org/abs/2201.09828v1)|null|
+|**2022-01-24**|**Spectral-PQ: A Novel Spectral Sensitivity-Orientated Perceptual Compression Technique for RGB 4:4:4 Video Data**|Lee Prangnell et.al.|[2201.09822v1](http://arxiv.org/abs/2201.09822v1)|null|
+|**2022-01-24**|**Neural Architecture Searching for Facial Attributes-based Depression Recognition**|Mingzhe Chen et.al.|[2201.09799v1](http://arxiv.org/abs/2201.09799v1)|null|
+|**2022-01-24**|**Patches Are All You Need?**|Asher Trockman et.al.|[2201.09792v1](http://arxiv.org/abs/2201.09792v1)|**[link](https://github.com/locuslab/convmixer)**|
+|**2022-01-24**|**Generative Planning for Temporally Coordinated Exploration in Reinforcement Learning**|Haichao Zhang et.al.|[2201.09765v1](http://arxiv.org/abs/2201.09765v1)|null|
+|**2022-01-24**|**Hot-Refresh Model Upgrades with Regression-Alleviating Compatible Training in Image Retrieval**|Binjie Zhang et.al.|[2201.09724v1](http://arxiv.org/abs/2201.09724v1)|**[link](https://github.com/binjiezhang/RACT_ICLR2022)**|
+|**2022-01-24**|**Keeping Deep Lithography Simulators Updated: Global-Local Shape-Based Novelty Detection and Active Learning**|Hao-Chiang Shao et.al.|[2201.09717v1](http://arxiv.org/abs/2201.09717v1)|null|
+|**2022-01-24**|**Learning Semantics for Visual Place Recognition through Multi-Scale Attention**|Valerio Paolicelli et.al.|[2201.09701v1](http://arxiv.org/abs/2201.09701v1)|null|
+|**2022-01-24**|**Feature transforms for image data augmentation**|Loris Nanni et.al.|[2201.09700v1](http://arxiv.org/abs/2201.09700v1)|**[link](https://github.com/lorisnanni/feature-transforms-for-image-data-augmentation)**|
+|**2022-01-24**|**Shape-consistent Generative Adversarial Networks for multi-modal Medical segmentation maps**|Leo Segre et.al.|[2201.09693v1](http://arxiv.org/abs/2201.09693v1)|null|
+|**2022-01-24**|**Which Style Makes Me Attractive? Interpretable Control Discovery and Counterfactual Explanation on StyleGAN**|Bo Li et.al.|[2201.09689v1](http://arxiv.org/abs/2201.09689v1)|**[link](https://github.com/prclibo/ice)**|
+|**2022-01-24**|**Question Generation for Evaluating Cross-Dataset Shifts in Multi-modal Grounding**|Arjun R. Akula et.al.|[2201.09639v1](http://arxiv.org/abs/2201.09639v1)|null|
+|**2022-01-24**|**Paired Image to Image Translation for Strikethrough Removal From Handwritten Words**|Raphaela Heil et.al.|[2201.09633v1](http://arxiv.org/abs/2201.09633v1)|null|
+|**2022-01-24**|**SEN12MS-CR-TS: A Remote Sensing Data Set for Multi-modal Multi-temporal Cloud Removal**|Patrick Ebel et.al.|[2201.09613v1](http://arxiv.org/abs/2201.09613v1)|null|
+|**2022-01-24**|**End-to-end Person Search Sequentially Trained on Aggregated Dataset**|Angelique Loesch et.al.|[2201.09604v1](http://arxiv.org/abs/2201.09604v1)|null|
+|**2022-01-24**|**Describe me if you can! Characterized Instance-level Human Parsing**|Angelique Loesch et.al.|[2201.09594v1](http://arxiv.org/abs/2201.09594v1)|null|
+|**2022-01-24**|**AutoSeg -- Steering the Inductive Biases for Automatic Pathology Segmentation**|Felix Meissen et.al.|[2201.09579v1](http://arxiv.org/abs/2201.09579v1)|null|
+|**2022-01-24**|**Importance of Textlines in Historical Document Classification**|Martin Kišš et.al.|[2201.09575v1](http://arxiv.org/abs/2201.09575v1)|null|
+|**2022-01-24**|**Multi-Scale Iterative Refinement Network for RGB-D Salient Object Detection**|Ze-yu Liu et.al.|[2201.09574v1](http://arxiv.org/abs/2201.09574v1)|null|
+|**2022-01-24**|**Debiasing pipeline improves deep learning model generalization for X-ray based lung nodule detection**|Michael Horry et.al.|[2201.09563v1](http://arxiv.org/abs/2201.09563v1)|null|
+|**2022-01-24**|**Consistent 3D Hand Reconstruction in Video via self-supervised Learning**|Zhigang Tu et.al.|[2201.09548v1](http://arxiv.org/abs/2201.09548v1)|null|
+|**2022-01-24**|**Accelerated Intravascular Ultrasound Imaging using Deep Reinforcement Learning**|Tristan S. W. Stevens et.al.|[2201.09522v1](http://arxiv.org/abs/2201.09522v1)|null|
+|**2022-01-24**|**Forgery Attack Detection in Surveillance Video Streams Using Wi-Fi Channel State Information**|Yong Huang et.al.|[2201.09487v1](http://arxiv.org/abs/2201.09487v1)|null|
+|**2022-01-24**|**Cyber Mobility Mirror for Enabling Cooperative Driving Automation: A Co-Simulation Platform**|Zhengwei Bai et.al.|[2201.09463v1](http://arxiv.org/abs/2201.09463v1)|null|
+|**2022-01-24**|**UniFormer: Unifying Convolution and Self-attention for Visual Recognition**|Kunchang Li et.al.|[2201.09450v1](http://arxiv.org/abs/2201.09450v1)|**[link](https://github.com/sense-x/uniformer)**|
+|**2022-01-24**|**Mutual Attention-based Hybrid Dimensional Network for Multimodal Imaging Computer-aided Diagnosis**|Yin Dai et.al.|[2201.09421v1](http://arxiv.org/abs/2201.09421v1)|null|
+|**2022-01-24**|**Cross-Domain Document Layout Analysis via Unsupervised Document Style Guide**|Xingjiao Wu et.al.|[2201.09407v1](http://arxiv.org/abs/2201.09407v1)|null|
+|**2022-01-24**|**Improving Chest X-Ray Report Generation by Leveraging Warm-Starting**|Aaron Nicolson et.al.|[2201.09405v1](http://arxiv.org/abs/2201.09405v1)|**[link](https://github.com/aehrc/cvt2distilgpt2)**|
+|**2022-01-23**|**Fast MRI Reconstruction: How Powerful Transformers Are?**|Jiahao Huang et.al.|[2201.09400v1](http://arxiv.org/abs/2201.09400v1)|null|
+|**2022-01-23**|**Dynamic Label Assignment for Object Detection by Combining Predicted and Anchor IoUs**|Tianxiao Zhang et.al.|[2201.09396v1](http://arxiv.org/abs/2201.09396v1)|null|
+|**2022-01-23**|**MISeval: a Metric Library for Medical Image Segmentation Evaluation**|Dominik Müller et.al.|[2201.09395v1](http://arxiv.org/abs/2201.09395v1)|**[link](https://github.com/frankkramer-lab/miseval)**|
+|**2022-01-23**|**AttentionHTR: Handwritten Text Recognition Based on Attention Encoder-Decoder Networks**|Dmitrijs Kass et.al.|[2201.09390v1](http://arxiv.org/abs/2201.09390v1)|**[link](https://github.com/dmitrijsk/attentionhtr)**|
+|**2022-01-23**|**A Survey on Patients Privacy Protection with Stganography and Visual Encryption**|Hussein K. Alzubaidy et.al.|[2201.09388v1](http://arxiv.org/abs/2201.09388v1)|null|
+|**2022-01-23**|**A Comprehensive Survey on Federated Learning: Concept and Applications**|Dhurgham Hassan Mahlool et.al.|[2201.09384v1](http://arxiv.org/abs/2201.09384v1)|null|
+|**2022-01-23**|**vCLIMB: A Novel Video Class Incremental Learning Benchmark**|Andrés Villa et.al.|[2201.09381v1](http://arxiv.org/abs/2201.09381v1)|null|
+|**2022-01-23**|**ReconFormer: Accelerated MRI Reconstruction Using Recurrent Transformer**|Pengfei Guo et.al.|[2201.09376v1](http://arxiv.org/abs/2201.09376v1)|**[link](https://github.com/guopengf/reconformer)**|
+|**2022-01-23**|**Unsupervised Severely Deformed Mesh Reconstruction (DMR) from a Single-View Image**|Jie Mei et.al.|[2201.09373v1](http://arxiv.org/abs/2201.09373v1)|null|
+|**2022-01-23**|**Sketch2PQ: Freeform Planar Quadrilateral Mesh Design via a Single Sketch**|Zhi Deng et.al.|[2201.09367v1](http://arxiv.org/abs/2201.09367v1)|null|
+|**2022-01-23**|**POTHER: Patch-Voted Deep Learning-based Chest X-ray Bias Analysis for COVID-19 Detection**|Tomasz Szczepański et.al.|[2201.09360v1](http://arxiv.org/abs/2201.09360v1)|**[link](https://github.com/tomek1911/pother)**|
+|**2022-01-23**|**Transformer-based SAR Image Despeckling**|Malsha V. Perera et.al.|[2201.09355v1](http://arxiv.org/abs/2201.09355v1)|**[link](https://github.com/malshav/sar_transformer)**|
+|**2022-01-23**|**Survey and Systematization of 3D Object Detection Models and Methods**|Moritz Drobnitzky et.al.|[2201.09354v1](http://arxiv.org/abs/2201.09354v1)|null|
+|**2022-01-23**|**Out of Distribution Detection on ImageNet-O**|Anugya Srivastava et.al.|[2201.09352v1](http://arxiv.org/abs/2201.09352v1)|null|
+|**2022-01-23**|**Sparse-view Cone Beam CT Reconstruction using Data-consistent Supervised and Adversarial Learning from Scarce Training Data**|Anish Lahiri et.al.|[2201.09318v1](http://arxiv.org/abs/2201.09318v1)|null|
+|**2022-01-23**|**Perceptual cGAN for MRI Super-resolution**|Sahar Almahfouz Nasser et.al.|[2201.09314v1](http://arxiv.org/abs/2201.09314v1)|null|
+|**2022-01-23**|**Basket-based Softmax**|Qiang Meng et.al.|[2201.09308v1](http://arxiv.org/abs/2201.09308v1)|null|
 |**2022-01-21**|**Point-NeRF: Point-based Neural Radiance Fields**|Qiangeng Xu et.al.|[2201.08845v1](http://arxiv.org/abs/2201.08845v1)|null|
 |**2022-01-21**|**Reliable Detection of Doppelgängers based on Deep Face Representations**|Christian Rathgeb et.al.|[2201.08831v1](http://arxiv.org/abs/2201.08831v1)|null|
 |**2022-01-21**|**AiTLAS: Artificial Intelligence Toolbox for Earth Observation**|Ivica Dimitrovski et.al.|[2201.08789v1](http://arxiv.org/abs/2201.08789v1)|null|

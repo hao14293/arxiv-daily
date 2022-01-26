@@ -15,7 +15,7 @@
 |**2022-01-25**|**Comparison of Evaluation Metrics for Landmark Detection in CMR Images**|Sven Koehler et.al.|[2201.10410v1](http://arxiv.org/abs/2201.10410v1)|null|
 |**2022-01-25**|**Towards Cross-Disaster Building Damage Assessment with Graph Convolutional Networks**|Ali Ismail et.al.|[2201.10395v1](http://arxiv.org/abs/2201.10395v1)|**[link](https://gitlab.com/awadailab/sage-project)**|
 |**2022-01-25**|**Capturing Temporal Information in a Single Frame: Channel Sampling Strategies for Action Recognition**|Kiyoon Kim et.al.|[2201.10394v1](http://arxiv.org/abs/2201.10394v1)|null|
-|**2022-01-25**|**BLDNet: A Semi-supervised Change Detection Building Damage Framework using Graph Convolutional Networks and Urban Domain Knowledge**|Ali Ismail et.al.|[2201.10389v1](http://arxiv.org/abs/2201.10389v1)|null|
+|**2022-01-25**|**BLDNet: A Semi-supervised Change Detection Building Damage Framework using Graph Convolutional Networks and Urban Domain Knowledge**|Ali Ismail et.al.|[2201.10389v1](http://arxiv.org/abs/2201.10389v1)|**[link](https://gitlab.com/awadailab/gcn-remote-sensing)**|
 |**2022-01-25**|**Winograd Convolution for Deep Neural Networks: Efficient Point Selection**|Syed Asad Alam et.al.|[2201.10369v1](http://arxiv.org/abs/2201.10369v1)|null|
 |**2022-01-25**|**ADAPT: An Open-Source sUAS Payload for Real-Time Disaster Prediction and Response with AI**|Daniel Davila et.al.|[2201.10366v1](http://arxiv.org/abs/2201.10366v1)|null|
 |**2022-01-25**|**Resource-efficient Deep Neural Networks for Automotive Radar Interference Mitigation**|Johanna Rock et.al.|[2201.10360v1](http://arxiv.org/abs/2201.10360v1)|null|

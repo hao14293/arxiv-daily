@@ -14,7 +14,7 @@
 |**2022-01-25**|**Rayleigh EigenDirections (REDs): GAN latent space traversals for multidimensional features**|Guha Balakrishnan et.al.|[2201.10423v1](http://arxiv.org/abs/2201.10423v1)|null|
 |**2022-01-25**|**Comparison of Evaluation Metrics for Landmark Detection in CMR Images**|Sven Koehler et.al.|[2201.10410v1](http://arxiv.org/abs/2201.10410v1)|null|
 |**2022-01-25**|**Towards Cross-Disaster Building Damage Assessment with Graph Convolutional Networks**|Ali Ismail et.al.|[2201.10395v1](http://arxiv.org/abs/2201.10395v1)|**[link](https://gitlab.com/awadailab/sage-project)**|
-|**2022-01-25**|**Capturing Temporal Information in a Single Frame: Channel Sampling Strategies for Action Recognition**|Kiyoon Kim et.al.|[2201.10394v1](http://arxiv.org/abs/2201.10394v1)|null|
+|**2022-01-25**|**Capturing Temporal Information in a Single Frame: Channel Sampling Strategies for Action Recognition**|Kiyoon Kim et.al.|[2201.10394v1](http://arxiv.org/abs/2201.10394v1)|**[link](https://github.com/kiyoon/pyvideoai)**|
 |**2022-01-25**|**BLDNet: A Semi-supervised Change Detection Building Damage Framework using Graph Convolutional Networks and Urban Domain Knowledge**|Ali Ismail et.al.|[2201.10389v1](http://arxiv.org/abs/2201.10389v1)|**[link](https://gitlab.com/awadailab/gcn-remote-sensing)**|
 |**2022-01-25**|**Winograd Convolution for Deep Neural Networks: Efficient Point Selection**|Syed Asad Alam et.al.|[2201.10369v1](http://arxiv.org/abs/2201.10369v1)|null|
 |**2022-01-25**|**ADAPT: An Open-Source sUAS Payload for Real-Time Disaster Prediction and Response with AI**|Daniel Davila et.al.|[2201.10366v1](http://arxiv.org/abs/2201.10366v1)|null|
@@ -25,10 +25,10 @@
 |**2022-01-25**|**Mutual information neural estimation for unsupervised multi-modal registration of brain images**|Gerard Snaauw et.al.|[2201.10305v1](http://arxiv.org/abs/2201.10305v1)|null|
 |**2022-01-25**|**S2MS: Self-Supervised Learning Driven Multi-Spectral CT Image Enhancement**|Chaoyang Zhang et.al.|[2201.10294v1](http://arxiv.org/abs/2201.10294v1)|null|
 |**2022-01-25**|**City3D: Large-scale Urban Reconstruction from Airborne Point Clouds**|Jin Huang et.al.|[2201.10276v1](http://arxiv.org/abs/2201.10276v1)|null|
-|**2022-01-25**|**Convolutional Xformers for Vision**|Pranav Jeevan et.al.|[2201.10271v1](http://arxiv.org/abs/2201.10271v1)|null|
+|**2022-01-25**|**Convolutional Xformers for Vision**|Pranav Jeevan et.al.|[2201.10271v1](http://arxiv.org/abs/2201.10271v1)|**[link](https://github.com/pranavphoenix/cxv)**|
 |**2022-01-25**|**Combining Commonsense Reasoning and Knowledge Acquisition to Guide Deep Learning in Robotics**|Mohan Sridharan et.al.|[2201.10266v1](http://arxiv.org/abs/2201.10266v1)|null|
-|**2022-01-25**|**DocEnTr: An End-to-End Document Image Enhancement Transformer**|Mohamed Ali Souibgui et.al.|[2201.10252v1](http://arxiv.org/abs/2201.10252v1)|null|
-|**2022-01-25**|**BERTHA: Video Captioning Evaluation Via Transfer-Learned Human Assessment**|Luis Lebron et.al.|[2201.10243v1](http://arxiv.org/abs/2201.10243v1)|null|
+|**2022-01-25**|**DocEnTr: An End-to-End Document Image Enhancement Transformer**|Mohamed Ali Souibgui et.al.|[2201.10252v1](http://arxiv.org/abs/2201.10252v1)|**[link](https://github.com/dali92002/docentr)**|
+|**2022-01-25**|**BERTHA: Video Captioning Evaluation Via Transfer-Learned Human Assessment**|Luis Lebron et.al.|[2201.10243v1](http://arxiv.org/abs/2201.10243v1)|**[link](https://github.com/LLebronC/TRECvidVTT_HA)**|
 |**2022-01-25**|**Feature Diversity Learning with Sample Dropout for Unsupervised Domain Adaptive Person Re-identification**|Chunren Tang et.al.|[2201.10212v1](http://arxiv.org/abs/2201.10212v1)|null|
 |**2022-01-25**|**Universal Generative Modeling for Calibration-free Parallel Mr Imaging**|Wanqing Zhu et.al.|[2201.10210v1](http://arxiv.org/abs/2201.10210v1)|null|
 |**2022-01-25**|**Zero-Shot Sketch Based Image Retrieval using Graph Transformer**|Sumrit Gupta et.al.|[2201.10185v1](http://arxiv.org/abs/2201.10185v1)|null|
@@ -42,7 +42,7 @@
 |**2022-01-25**|**TGFuse: An Infrared and Visible Image Fusion Approach Based on Transformer and Generative Adversarial Network**|Dongyu Rao et.al.|[2201.10147v1](http://arxiv.org/abs/2201.10147v1)|null|
 |**2022-01-25**|**MSNet: A Deep Multi-scale Submanifold Network for Visual Classification**|Ziheng Chen et.al.|[2201.10145v1](http://arxiv.org/abs/2201.10145v1)|null|
 |**2022-01-25**|**SURDS: Self-Supervised Attention-guided Reconstruction and Dual Triplet Loss for Writer Independent Offline Signature Verification**|Soumitri Chattopadhyay et.al.|[2201.10138v1](http://arxiv.org/abs/2201.10138v1)|null|
-|**2022-01-25**|**A Hybrid Quantum-Classical Algorithm for Robust Fitting**|Anh-Dzung Doan et.al.|[2201.10110v1](http://arxiv.org/abs/2201.10110v1)|null|
+|**2022-01-25**|**A Hybrid Quantum-Classical Algorithm for Robust Fitting**|Anh-Dzung Doan et.al.|[2201.10110v1](http://arxiv.org/abs/2201.10110v1)|**[link](https://github.com/dadung/hqc-robust-fitting)**|
 |**2022-01-25**|**ARPD: Anchor-free Rotation-aware People Detection using Topview Fisheye Camera**|Quan Nguyen Minh et.al.|[2201.10107v1](http://arxiv.org/abs/2201.10107v1)|null|
 |**2022-01-25**|**A Classical Approach to Handcrafted Feature Extraction Techniques for Bangla Handwritten Digit Recognition**|Md. Ferdous Wahid et.al.|[2201.10102v1](http://arxiv.org/abs/2201.10102v1)|null|
 |**2022-01-25**|**Revisiting L1 Loss in Super-Resolution: A Probabilistic View and Beyond**|Xiangyu He et.al.|[2201.10084v1](http://arxiv.org/abs/2201.10084v1)|null|
@@ -53,7 +53,7 @@
 |**2022-01-25**|**Self-supervised Point Cloud Registration with Deep Versatile Descriptors**|Dongrui Liu et.al.|[2201.10034v1](http://arxiv.org/abs/2201.10034v1)|null|
 |**2022-01-25**|**PONI: Potential Functions for ObjectGoal Navigation with Interaction-free Learning**|Santhosh Kumar Ramakrishnan et.al.|[2201.10029v1](http://arxiv.org/abs/2201.10029v1)|null|
 |**2022-01-25**|**Automatic Recognition and Digital Documentation of Cultural Heritage Hemispherical Domes using Images**|Reza Maalek et.al.|[2201.10015v1](http://arxiv.org/abs/2201.10015v1)|null|
-|**2022-01-24**|**Neural Manifold Clustering and Embedding**|Zengyi Li et.al.|[2201.10000v1](http://arxiv.org/abs/2201.10000v1)|null|
+|**2022-01-24**|**Neural Manifold Clustering and Embedding**|Zengyi Li et.al.|[2201.10000v1](http://arxiv.org/abs/2201.10000v1)|**[link](https://github.com/zengyi-li/nmce-release)**|
 |**2022-01-24**|**Transformers in Medical Imaging: A Survey**|Fahad Shamshad et.al.|[2201.09873v1](http://arxiv.org/abs/2201.09873v1)|**[link](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)**|
 |**2022-01-24**|**Importance of Preprocessing in Histopathology Image Classification Using Deep Convolutional Neural Network**|Nilgun Sengoz et.al.|[2201.09867v1](http://arxiv.org/abs/2201.09867v1)|null|
 |**2022-01-24**|**RePaint: Inpainting using Denoising Diffusion Probabilistic Models**|Andreas Lugmayr et.al.|[2201.09865v1](http://arxiv.org/abs/2201.09865v1)|null|

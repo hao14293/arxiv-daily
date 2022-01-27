@@ -18,7 +18,7 @@
 |**2022-01-26**|**Learning To Recognize Procedural Activities with Distant Supervision**|Xudong Lin et.al.|[2201.10990v1](http://arxiv.org/abs/2201.10990v1)|null|
 |**2022-01-26**|**Jalisco's multiclass land cover analysis and classification using a novel lightweight convnet with real-world multispectral and relief data**|Alexander Quevedo et.al.|[2201.10985v1](http://arxiv.org/abs/2201.10985v1)|null|
 |**2022-01-26**|**Joint Liver and Hepatic Lesion Segmentation using a Hybrid CNN with Transformer Layers**|Georg Hille et.al.|[2201.10981v1](http://arxiv.org/abs/2201.10981v1)|null|
-|**2022-01-26**|**How Robust are Discriminatively Trained Zero-Shot Learning Models?**|Mehmet Kerim Yucel et.al.|[2201.10972v1](http://arxiv.org/abs/2201.10972v1)|null|
+|**2022-01-26**|**How Robust are Discriminatively Trained Zero-Shot Learning Models?**|Mehmet Kerim Yucel et.al.|[2201.10972v1](http://arxiv.org/abs/2201.10972v1)|**[link](https://github.com/MKYucel/zero_shot_corruption_benchmarks)**|
 |**2022-01-26**|**Learning to Compose Diversified Prompts for Image Emotion Classification**|Sinuo Deng et.al.|[2201.10963v1](http://arxiv.org/abs/2201.10963v1)|null|
 |**2022-01-26**|**Dual-Tasks Siamese Transformer Framework for Building Damage Assessment**|Hongruixuan Chen et.al.|[2201.10953v1](http://arxiv.org/abs/2201.10953v1)|null|
 |**2022-01-26**|**Boosting 3D Adversarial Attacks with Attacking On Frequency**|Binbin Liu et.al.|[2201.10937v1](http://arxiv.org/abs/2201.10937v1)|null|

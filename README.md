@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-26**|**Natural Language Descriptions of Deep Visual Features**|Evan Hernandez et.al.|[2201.11114v1](http://arxiv.org/abs/2201.11114v1)|null|
+|**2022-01-26**|**Auto-Compressing Subset Pruning for Semantic Image Segmentation**|Konstantin Ditschuneit et.al.|[2201.11103v1](http://arxiv.org/abs/2201.11103v1)|**[link](https://github.com/merantix/acosp)**|
+|**2022-01-26**|**Adaptive Instance Distillation for Object Detection in Autonomous Driving**|Qizhen Lan et.al.|[2201.11097v1](http://arxiv.org/abs/2201.11097v1)|null|
+|**2022-01-26**|**Self-attention fusion for audiovisual emotion recognition with incomplete data**|Kateryna Chumachenko et.al.|[2201.11095v1](http://arxiv.org/abs/2201.11095v1)|null|
+|**2022-01-26**|**Self-Attention Neural Bag-of-Features**|Kateryna Chumachenko et.al.|[2201.11092v1](http://arxiv.org/abs/2201.11092v1)|null|
+|**2022-01-26**|**Momentum Capsule Networks**|Josef Gugglberger et.al.|[2201.11091v1](http://arxiv.org/abs/2201.11091v1)|**[link](https://github.com/moejoe95/mocapsnet)**|
+|**2022-01-26**|**RTNet: Relation Transformer Network for Diabetic Retinopathy Multi-lesion Segmentation**|Shiqi Huang et.al.|[2201.11037v1](http://arxiv.org/abs/2201.11037v1)|null|
+|**2022-01-26**|**Evaluating language-biased image classification based on semantic representations**|Yoann Lemesle et.al.|[2201.11014v1](http://arxiv.org/abs/2201.11014v1)|null|
+|**2022-01-26**|**An Overview of Compressible and Learnable Image Transformation with Secret Key and Its Applications**|Hitoshi Kiya et.al.|[2201.11006v1](http://arxiv.org/abs/2201.11006v1)|null|
+|**2022-01-26**|**A Multi-rater Comparative Study of Automatic Target Localization Methods for Epilepsy Deep Brain Stimulation Procedures**|Han Liu et.al.|[2201.11002v1](http://arxiv.org/abs/2201.11002v1)|null|
+|**2022-01-26**|**One shot PACS: Patient specific Anatomic Context and Shape prior aware recurrent registration-segmentation of longitudinal thoracic cone beam CTs**|Jue Jiang et.al.|[2201.11000v1](http://arxiv.org/abs/2201.11000v1)|null|
+|**2022-01-26**|**Learning To Recognize Procedural Activities with Distant Supervision**|Xudong Lin et.al.|[2201.10990v1](http://arxiv.org/abs/2201.10990v1)|null|
+|**2022-01-26**|**Jalisco's multiclass land cover analysis and classification using a novel lightweight convnet with real-world multispectral and relief data**|Alexander Quevedo et.al.|[2201.10985v1](http://arxiv.org/abs/2201.10985v1)|null|
+|**2022-01-26**|**Joint Liver and Hepatic Lesion Segmentation using a Hybrid CNN with Transformer Layers**|Georg Hille et.al.|[2201.10981v1](http://arxiv.org/abs/2201.10981v1)|null|
+|**2022-01-26**|**How Robust are Discriminatively Trained Zero-Shot Learning Models?**|Mehmet Kerim Yucel et.al.|[2201.10972v1](http://arxiv.org/abs/2201.10972v1)|null|
+|**2022-01-26**|**Learning to Compose Diversified Prompts for Image Emotion Classification**|Sinuo Deng et.al.|[2201.10963v1](http://arxiv.org/abs/2201.10963v1)|null|
+|**2022-01-26**|**Dual-Tasks Siamese Transformer Framework for Building Damage Assessment**|Hongruixuan Chen et.al.|[2201.10953v1](http://arxiv.org/abs/2201.10953v1)|null|
+|**2022-01-26**|**Boosting 3D Adversarial Attacks with Attacking On Frequency**|Binbin Liu et.al.|[2201.10937v1](http://arxiv.org/abs/2201.10937v1)|null|
+|**2022-01-26**|**A Bayesian Based Deep Unrolling Algorithm for Single-Photon Lidar Systems**|Jakeoung Koo et.al.|[2201.10910v1](http://arxiv.org/abs/2201.10910v1)|null|
+|**2022-01-26**|**Speeding up Heterogeneous Federated Learning with Sequentially Trained Superclients**|Riccardo Zaccone et.al.|[2201.10899v1](http://arxiv.org/abs/2201.10899v1)|null|
+|**2022-01-26**|**One Student Knows All Experts Know: From Sparse to Dense**|Fuzhao Xue et.al.|[2201.10890v1](http://arxiv.org/abs/2201.10890v1)|null|
+|**2022-01-26**|**Hyperparameter Optimization for COVID-19 Chest X-Ray Classification**|Ibraheem Hamdi et.al.|[2201.10885v1](http://arxiv.org/abs/2201.10885v1)|null|
+|**2022-01-26**|**TransPPG: Two-stream Transformer for Remote Heart Rate Estimate**|Jiaqi Kang et.al.|[2201.10873v1](http://arxiv.org/abs/2201.10873v1)|null|
+|**2022-01-26**|**On the Issues of TrueDepth Sensor Data for Computer Vision Tasks Across Different iPad Generations**|Steffen Urban et.al.|[2201.10865v1](http://arxiv.org/abs/2201.10865v1)|null|
+|**2022-01-26**|**Visualizing the diversity of representations learned by Bayesian neural networks**|Dennis Grinwald et.al.|[2201.10859v1](http://arxiv.org/abs/2201.10859v1)|null|
+|**2022-01-26**|**Predicting Knee Osteoarthritis Progression from Structural MRI using Deep Learning**|Egor Panfilov et.al.|[2201.10849v1](http://arxiv.org/abs/2201.10849v1)|null|
+|**2022-01-26**|**Comparison of Depth Estimation Setups from Stereo Endoscopy and Optical Tracking for Point Measurements**|Lukas Burger et.al.|[2201.10848v1](http://arxiv.org/abs/2201.10848v1)|null|
+|**2022-01-26**|**PARS: Pseudo-Label Aware Robust Sample Selection for Learning with Noisy Labels**|Arushi Goel et.al.|[2201.10836v1](http://arxiv.org/abs/2201.10836v1)|null|
+|**2022-01-26**|**MonoDistill: Learning Spatial Features for Monocular 3D Object Detection**|Zhiyu Chong et.al.|[2201.10830v1](http://arxiv.org/abs/2201.10830v1)|**[link](https://github.com/monster-ghost/monodistill)**|
+|**2022-01-26**|**When Shift Operation Meets Vision Transformer: An Extremely Simple Alternative to Attention Mechanism**|Guangting Wang et.al.|[2201.10801v1](http://arxiv.org/abs/2201.10801v1)|**[link](https://github.com/microsoft/SPACH)**|
+|**2022-01-26**|**Self-supervised 3D Semantic Representation Learning for Vision-and-Language Navigation**|Sinan Tan et.al.|[2201.10788v1](http://arxiv.org/abs/2201.10788v1)|null|
+|**2022-01-26**|**ASFD: Automatic and Scalable Face Detector**|Jian Li et.al.|[2201.10781v1](http://arxiv.org/abs/2201.10781v1)|null|
+|**2022-01-26**|**DSFormer: A Dual-domain Self-supervised Transformer for Accelerated Multi-contrast MRI Reconstruction**|Bo Zhou et.al.|[2201.10776v1](http://arxiv.org/abs/2201.10776v1)|null|
+|**2022-01-26**|**A Comprehensive Study of Image Classification Model Sensitivity to Foregrounds, Backgrounds, and Visual Attributes**|Mazda Moayeri et.al.|[2201.10766v1](http://arxiv.org/abs/2201.10766v1)|null|
+|**2022-01-26**|**Interactive Image Inpainting Using Semantic Guidance**|Wangbo Yu et.al.|[2201.10753v1](http://arxiv.org/abs/2201.10753v1)|null|
+|**2022-01-26**|**Learning Multiple Probabilistic Degradation Generators for Unsupervised Real World Image Super Resolution**|Sangyun Lee et.al.|[2201.10747v1](http://arxiv.org/abs/2201.10747v1)|null|
+|**2022-01-26**|**Infrared and visible image fusion based on Multi-State Contextual Hidden Markov Model**|Xiaoqing Luo et.al.|[2201.10739v1](http://arxiv.org/abs/2201.10739v1)|null|
+|**2022-01-26**|**Class-Aware Generative Adversarial Transformers for Medical Image Segmentation**|Chenyu You et.al.|[2201.10737v1](http://arxiv.org/abs/2201.10737v1)|null|
+|**2022-01-26**|**A Joint Convolution Auto-encoder Network for Infrared and Visible Image Fusion**|Zhancheng Zhang et.al.|[2201.10736v1](http://arxiv.org/abs/2201.10736v1)|null|
+|**2022-01-26**|**Mitigating the Mutual Error Amplification for Semi-Supervised Object Detection**|Chengcheng Ma et.al.|[2201.10734v1](http://arxiv.org/abs/2201.10734v1)|**[link](https://github.com/machengcheng2016/crossteaching-ssod)**|
+|**2022-01-26**|**Training Vision Transformers with Only 2040 Images**|Yun-Hao Cao et.al.|[2201.10728v1](http://arxiv.org/abs/2201.10728v1)|null|
+|**2022-01-26**|**Image Generation with Self Pixel-wise Normalization**|Yoon-Jae Yeo et.al.|[2201.10725v1](http://arxiv.org/abs/2201.10725v1)|null|
+|**2022-01-26**|**Toward Data-Driven STAP Radar**|Shyam Venkatasubramanian et.al.|[2201.10712v1](http://arxiv.org/abs/2201.10712v1)|null|
+|**2022-01-26**|**Anomaly Detection via Reverse Distillation from One-Class Embedding**|Hanqiu Deng et.al.|[2201.10703v1](http://arxiv.org/abs/2201.10703v1)|null|
+|**2022-01-26**|**Deep Image Deblurring: A Survey**|Kaihao Zhang et.al.|[2201.10700v1](http://arxiv.org/abs/2201.10700v1)|null|
+|**2022-01-26**|**Estimation of Spectral Biophysical Skin Properties from Captured RGB Albedo**|Carlos Aliaga et.al.|[2201.10695v1](http://arxiv.org/abs/2201.10695v1)|null|
+|**2022-01-25**|**Virtual Adversarial Training for Semi-supervised Breast Mass Classification**|Xuxin Chen et.al.|[2201.10675v1](http://arxiv.org/abs/2201.10675v1)|null|
+|**2022-01-25**|**Writer Recognition Using Off-line Handwritten Single Block Characters**|Adrian Leo Hagström et.al.|[2201.10665v1](http://arxiv.org/abs/2201.10665v1)|null|
+|**2022-01-25**|**Do Neural Networks for Segmentation Understand Insideness?**|Kimberly Villalobos et.al.|[2201.10664v1](http://arxiv.org/abs/2201.10664v1)|null|
+|**2022-01-25**|**MGA-VQA: Multi-Granularity Alignment for Visual Question Answering**|Peixi Xiong et.al.|[2201.10656v1](http://arxiv.org/abs/2201.10656v1)|null|
 |**2022-01-25**|**Initial Investigations Towards Non-invasive Monitoring of Chronic Wound Healing Using Deep Learning and Ultrasound Imaging**|Maja Schlereth et.al.|[2201.10511v1](http://arxiv.org/abs/2201.10511v1)|null|
 |**2022-01-25**|**Sphere2Vec: Multi-Scale Representation Learning over a Spherical Surface for Geospatial Predictions**|Gengchen Mai et.al.|[2201.10489v1](http://arxiv.org/abs/2201.10489v1)|null|
 |**2022-01-25**|**How Low Can We Go? Pixel Annotation for Semantic Segmentation**|Daniel Kigli et.al.|[2201.10448v1](http://arxiv.org/abs/2201.10448v1)|null|

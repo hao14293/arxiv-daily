@@ -4,6 +4,51 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-27**|**PRNU Based Source Camera Identification for Webcam and Smartphone Videos**|Fernando Martín-Rodríguez et.al.|[2201.11737v1](http://arxiv.org/abs/2201.11737v1)|null|
+|**2022-01-27**|**Ranking Info Noise Contrastive Estimation: Boosting Contrastive Learning via Ranked Positives**|David T. Hoffmann et.al.|[2201.11736v1](http://arxiv.org/abs/2201.11736v1)|null|
+|**2022-01-27**|**IGLUE: A Benchmark for Transfer Learning across Modalities, Tasks, and Languages**|Emanuele Bugliarello et.al.|[2201.11732v1](http://arxiv.org/abs/2201.11732v1)|null|
+|**2022-01-27**|**A Systematic Study of Bias Amplification**|Melissa Hall et.al.|[2201.11706v1](http://arxiv.org/abs/2201.11706v1)|null|
+|**2022-01-27**|**Matched Illumination**|Yuteng Zhu et.al.|[2201.11700v1](http://arxiv.org/abs/2201.11700v1)|null|
+|**2022-01-27**|**Constrained Structure Learning for Scene Graph Generation**|Daqi Liu et.al.|[2201.11697v1](http://arxiv.org/abs/2201.11697v1)|null|
+|**2022-01-27**|**DropNAS: Grouped Operation Dropout for Differentiable Architecture Search**|Weijun Hong et.al.|[2201.11679v1](http://arxiv.org/abs/2201.11679v1)|**[link](https://github.com/wiljohnhong/dropnas)**|
+|**2022-01-27**|**Unsupervised Change Detection using DRE-CUSUM**|Sudarshan Adiga et.al.|[2201.11678v1](http://arxiv.org/abs/2201.11678v1)|null|
+|**2022-01-27**|**Vision Checklist: Towards Testable Error Analysis of Image Models to Help System Designers Interrogate Model Capabilities**|Xin Du et.al.|[2201.11674v1](http://arxiv.org/abs/2201.11674v1)|null|
+|**2022-01-27**|**Deep Video Prior for Video Consistency and Propagation**|Chenyang Lei et.al.|[2201.11632v1](http://arxiv.org/abs/2201.11632v1)|**[link](https://github.com/ChenyangLEI/deep-video-prior)**|
+|**2022-01-27**|**Automatic Classification of Neuromuscular Diseases in Children Using Photoacoustic Imaging**|Maja Schlereth et.al.|[2201.11630v1](http://arxiv.org/abs/2201.11630v1)|null|
+|**2022-01-27**|**Domain generalization in deep learning-based mass detection in mammography: A large-scale multi-center study**|Lidia Garrucho et.al.|[2201.11620v1](http://arxiv.org/abs/2201.11620v1)|null|
+|**2022-01-27**|**A Probabilistic Framework for Dynamic Object Recognition in 3D Environment With A Novel Continuous Ground Estimation Method**|Pouria Mehrabi et.al.|[2201.11608v1](http://arxiv.org/abs/2201.11608v1)|null|
+|**2022-01-27**|**ASOC: Adaptive Self-aware Object Co-localization**|Koteswar Rao Jerripothula et.al.|[2201.11547v1](http://arxiv.org/abs/2201.11547v1)|null|
+|**2022-01-27**|**Beyond ImageNet Attack: Towards Crafting Adversarial Examples for Black-box Domains**|Qilong Zhang et.al.|[2201.11528v1](http://arxiv.org/abs/2201.11528v1)|**[link](https://github.com/qilong-zhang/beyond-imagenet-attack)**|
+|**2022-01-27**|**ResiDualGAN: Resize-Residual DualGAN for Cross-Domain Remote Sensing Images Semantic Segmentation**|Yang Zhao et.al.|[2201.11523v1](http://arxiv.org/abs/2201.11523v1)|null|
+|**2022-01-27**|**Density-Aware Hyper-Graph Neural Networks for Graph-based Semi-supervised Node Classification**|Jianpeng Liao et.al.|[2201.11511v1](http://arxiv.org/abs/2201.11511v1)|null|
+|**2022-01-27**|**Anomaly Detection in Retinal Images using Multi-Scale Deep Feature Sparse Coding**|Sourya Dipta Das et.al.|[2201.11506v1](http://arxiv.org/abs/2201.11506v1)|null|
+|**2022-01-27**|**Head and eye egocentric gesture recognition for human-robot interaction using eyewear cameras**|Javier Marina-Miranda et.al.|[2201.11500v1](http://arxiv.org/abs/2201.11500v1)|null|
+|**2022-01-27**|**Eye-focused Detection of Bell's Palsy in Videos**|Sharik Ali Ansari et.al.|[2201.11479v1](http://arxiv.org/abs/2201.11479v1)|null|
+|**2022-01-27**|**RelTR: Relation Transformer for Scene Graph Generation**|Yuren Cong et.al.|[2201.11460v1](http://arxiv.org/abs/2201.11460v1)|null|
+|**2022-01-27**|**In Defense of Kalman Filtering for Polyp Tracking from Colonoscopy Videos**|David Butler et.al.|[2201.11450v1](http://arxiv.org/abs/2201.11450v1)|null|
+|**2022-01-27**|**Pan-Tumor CAnine cuTaneous Cancer Histology (CATCH) Dataset**|Frauke Wilm et.al.|[2201.11446v1](http://arxiv.org/abs/2201.11446v1)|null|
+|**2022-01-27**|**An Analysis on Ensemble Learning optimized Medical Image Classification with Deep Convolutional Neural Networks**|Dominik Müller et.al.|[2201.11440v1](http://arxiv.org/abs/2201.11440v1)|**[link](https://github.com/frankkramer-lab/ensmic)**|
+|**2022-01-27**|**DocSegTr: An Instance-Level End-to-End Document Image Segmentation Transformer**|Sanket Biswas et.al.|[2201.11438v1](http://arxiv.org/abs/2201.11438v1)|null|
+|**2022-01-27**|**Non-linear Motion Estimation for Video Frame Interpolation using Space-time Convolutions**|Saikat Dutta et.al.|[2201.11407v1](http://arxiv.org/abs/2201.11407v1)|null|
+|**2022-01-27**|**Generalised Image Outpainting with U-Transformer**|Penglei Gao et.al.|[2201.11403v1](http://arxiv.org/abs/2201.11403v1)|null|
+|**2022-01-27**|**Multi-Frame Quality Enhancement On Compressed Video Using Quantised Data of Deep Belief Networks**|Dionne Takudzwa Chasi et.al.|[2201.11389v1](http://arxiv.org/abs/2201.11389v1)|null|
+|**2022-01-27**|**Contrastive Embedding Distribution Refinement and Entropy-Aware Attention for 3D Point Cloud Classification**|Feng Yang et.al.|[2201.11388v1](http://arxiv.org/abs/2201.11388v1)|**[link](https://github.com/yangfengseu/cedr)**|
+|**2022-01-27**|**Deep Confidence Guided Distance for 3D Partial Shape Registration**|Dvir Ginzburg et.al.|[2201.11379v1](http://arxiv.org/abs/2201.11379v1)|null|
+|**2022-01-27**|**Effective Shortcut Technique for GAN**|Seung Park et.al.|[2201.11351v1](http://arxiv.org/abs/2201.11351v1)|null|
+|**2022-01-27**|**Exploring Global Diversity and Local Context for Video Summarization**|Yingchao Pan et.al.|[2201.11345v1](http://arxiv.org/abs/2201.11345v1)|null|
+|**2022-01-27**|**Few-shot Transfer Learning for Holographic Image Reconstruction using a Recurrent Neural Network**|Luzhe Huang et.al.|[2201.11333v1](http://arxiv.org/abs/2201.11333v1)|null|
+|**2022-01-27**|**Dynamic Rectification Knowledge Distillation**|Fahad Rahman Amik et.al.|[2201.11319v1](http://arxiv.org/abs/2201.11319v1)|**[link](https://github.com/amik-tj/dynamic_rectification_knowledge_distillation)**|
+|**2022-01-27**|**Transformer Module Networks for Systematic Generalization in Visual Question Answering**|Moyuru Yamada et.al.|[2201.11316v1](http://arxiv.org/abs/2201.11316v1)|null|
+|**2022-01-27**|**Dissecting the impact of different loss functions with gradient surgery**|Hong Xuan et.al.|[2201.11307v1](http://arxiv.org/abs/2201.11307v1)|null|
+|**2022-01-27**|**Efficient divide-and-conquer registration of UAV and ground LiDAR point clouds through canopy shape context**|Jie Shao et.al.|[2201.11296v1](http://arxiv.org/abs/2201.11296v1)|null|
+|**2022-01-27**|**Interactive 3D Character Modeling from 2D Orthogonal Drawings with Annotations**|Zhengyu Huang et.al.|[2201.11284v1](http://arxiv.org/abs/2201.11284v1)|null|
+|**2022-01-27**|**Revisiting RCAN: Improved Training for Image Super-Resolution**|Zudi Lin et.al.|[2201.11279v1](http://arxiv.org/abs/2201.11279v1)|**[link](https://github.com/zudi-lin/rcan-it)**|
+|**2022-01-27**|**Controlling Directions Orthogonal to a Classifier**|Yilun Xu et.al.|[2201.11259v1](http://arxiv.org/abs/2201.11259v1)|**[link](https://github.com/newbeeer/orthogonal_classifier)**|
+|**2022-01-27**|**HistoKT: Cross Knowledge Transfer in Computational Pathology**|Ryan Zhang et.al.|[2201.11246v1](http://arxiv.org/abs/2201.11246v1)|**[link](https://github.com/mahdihosseini/histokt)**|
+|**2022-01-26**|**Continuous Examination by Automatic Quiz Assessment Using Spiral Codes and Image Processing**|Fernando Alonso-Fernandez et.al.|[2201.11228v1](http://arxiv.org/abs/2201.11228v1)|null|
+|**2022-01-26**|**Challenges and Opportunities for Machine Learning Classification of Behavior and Mental State from Images**|Peter Washington et.al.|[2201.11197v1](http://arxiv.org/abs/2201.11197v1)|null|
+|**2022-01-26**|**ReforesTree: A Dataset for Estimating Tropical Forest Carbon Stock with Deep Learning and Aerial Imagery**|Gyri Reiersen et.al.|[2201.11192v1](http://arxiv.org/abs/2201.11192v1)|null|
+|**2022-01-26**|**DIREG3D: DIrectly REGress 3D Hands from Multiple Cameras**|Ashar Ali et.al.|[2201.11187v1](http://arxiv.org/abs/2201.11187v1)|null|
 |**2022-01-26**|**Natural Language Descriptions of Deep Visual Features**|Evan Hernandez et.al.|[2201.11114v1](http://arxiv.org/abs/2201.11114v1)|null|
 |**2022-01-26**|**Auto-Compressing Subset Pruning for Semantic Image Segmentation**|Konstantin Ditschuneit et.al.|[2201.11103v1](http://arxiv.org/abs/2201.11103v1)|**[link](https://github.com/merantix/acosp)**|
 |**2022-01-26**|**Adaptive Instance Distillation for Object Detection in Autonomous Driving**|Qizhen Lan et.al.|[2201.11097v1](http://arxiv.org/abs/2201.11097v1)|null|

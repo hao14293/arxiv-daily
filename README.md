@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-28**|**DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR**|Shilong Liu et.al.|[2201.12329v1](http://arxiv.org/abs/2201.12329v1)|null|
+|**2022-01-28**|**REET: Robustness Evaluation and Enhancement Toolbox for Computational Pathology**|Alex Foote et.al.|[2201.12311v1](http://arxiv.org/abs/2201.12311v1)|**[link](https://github.com/alexjfoote/reetoolbox)**|
+|**2022-01-28**|**Benchmarking Robustness of 3D Point Cloud Recognition Against Common Corruptions**|Jiachen Sun et.al.|[2201.12296v1](http://arxiv.org/abs/2201.12296v1)|**[link](https://github.com/jiachens/ModelNet40-C)**|
+|**2022-01-28**|**VRT: A Video Restoration Transformer**|Jingyun Liang et.al.|[2201.12288v1](http://arxiv.org/abs/2201.12288v1)|**[link](https://github.com/jingyunliang/vrt)**|
+|**2022-01-28**|**Benchmarking Conventional Vision Models on Neuromorphic Fall Detection and Action Recognition Dataset**|Karthik Sivarama Krishnan et.al.|[2201.12285v1](http://arxiv.org/abs/2201.12285v1)|null|
+|**2022-01-28**|**HSADML: Hyper-Sphere Angular Deep Metric based Learning for Brain Tumor Classification**|Aman Verma et.al.|[2201.12269v1](http://arxiv.org/abs/2201.12269v1)|null|
+|**2022-01-28**|**3D-FlowNet: Event-based optical flow estimation with 3D representation**|Haixin Sun et.al.|[2201.12265v1](http://arxiv.org/abs/2201.12265v1)|null|
+|**2022-01-28**|**A Review on Deep-Learning Algorithms for Fetal Ultrasound-Image Analysis**|Maria Chiara Fiorentino et.al.|[2201.12260v1](http://arxiv.org/abs/2201.12260v1)|null|
+|**2022-01-28**|**Mixing Implicit and Explicit Deep Learning with Skip DEQs and Infinite Time Neural ODEs (Continuous DEQs)**|Avik Pal et.al.|[2201.12240v1](http://arxiv.org/abs/2201.12240v1)|null|
+|**2022-01-28**|**Self-paced learning to improve text row detection in historical documents with missing lables**|Mihaela Gaman et.al.|[2201.12216v1](http://arxiv.org/abs/2201.12216v1)|null|
+|**2022-01-28**|**Möbius Convolutions for Spherical CNNs**|Thomas W. Mitchel et.al.|[2201.12212v1](http://arxiv.org/abs/2201.12212v1)|null|
+|**2022-01-28**|**A tomographic workflow to enable deep learning for X-ray based foreign object detection**|Mathé T. Zeegers et.al.|[2201.12184v1](http://arxiv.org/abs/2201.12184v1)|null|
+|**2022-01-28**|**Plug & Play Attacks: Towards Robust and Flexible Model Inversion Attacks**|Lukas Struppek et.al.|[2201.12179v1](http://arxiv.org/abs/2201.12179v1)|null|
+|**2022-01-28**|**Unsupervised Single-shot Depth Estimation using Perceptual Reconstruction**|Christoph Angermann et.al.|[2201.12170v1](http://arxiv.org/abs/2201.12170v1)|**[link](https://github.com/anger-man/unsupervised-depth-estimation)**|
+|**2022-01-28**|**Carotid artery wall segmentation in ultrasound image sequences using a deep convolutional neural network**|Nolann Lainé et.al.|[2201.12152v1](http://arxiv.org/abs/2201.12152v1)|**[link](https://github.com/nl3769/carosegdeep)**|
+|**2022-01-28**|**O-ViT: Orthogonal Vision Transformer**|Yanhong Fei et.al.|[2201.12133v1](http://arxiv.org/abs/2201.12133v1)|null|
+|**2022-01-28**|**DELAUNAY: a dataset of abstract art for psychophysical and machine learning research**|Camille Gontier et.al.|[2201.12123v1](http://arxiv.org/abs/2201.12123v1)|null|
+|**2022-01-28**|**Rethinking Attention-Model Explainability through Faithfulness Violation Test**|Yibing Liu et.al.|[2201.12114v1](http://arxiv.org/abs/2201.12114v1)|null|
+|**2022-01-28**|**Feature Visualization within an Automated Design Assessment leveraging Explainable Artificial Intelligence Methods**|Raoul Schönhof et.al.|[2201.12107v1](http://arxiv.org/abs/2201.12107v1)|null|
+|**2022-01-28**|**Detecting Owner-member Relationship with Graph Convolution Network in Fisheye Camera System**|Zizhang Wu et.al.|[2201.12099v1](http://arxiv.org/abs/2201.12099v1)|null|
+|**2022-01-28**|**Neighborhood-aware Geometric Encoding Network for Point Cloud Registration**|Lifa Zhu et.al.|[2201.12094v1](http://arxiv.org/abs/2201.12094v1)|null|
+|**2022-01-28**|**Label uncertainty-guided multi-stream model for disease screening**|Chi Liu et.al.|[2201.12089v1](http://arxiv.org/abs/2201.12089v1)|null|
+|**2022-01-28**|**BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation**|Junnan Li et.al.|[2201.12086v1](http://arxiv.org/abs/2201.12086v1)|**[link](https://github.com/salesforce/blip)**|
+|**2022-01-28**|**Psychophysical Evaluation of Human Performance in Detecting Digital Face Image Manipulations**|Robert Nichols et.al.|[2201.12084v1](http://arxiv.org/abs/2201.12084v1)|null|
+|**2022-01-28**|**DynaMixer: A Vision MLP Architecture with Dynamic Mixing**|Ziyu Wang et.al.|[2201.12083v1](http://arxiv.org/abs/2201.12083v1)|null|
+|**2022-01-28**|**You Only Cut Once: Boosting Data Augmentation with a Single Cut**|Junlin Han et.al.|[2201.12078v1](http://arxiv.org/abs/2201.12078v1)|**[link](https://github.com/junlinhan/yoco)**|
+|**2022-01-28**|**Detection of fake faces in videos**|M. Shamanth et.al.|[2201.12051v1](http://arxiv.org/abs/2201.12051v1)|null|
+|**2022-01-28**|**RGB-D SLAM Using Attention Guided Frame Association**|Ali Caglayan et.al.|[2201.12047v1](http://arxiv.org/abs/2201.12047v1)|null|
+|**2022-01-28**|**Unfolding a blurred image**|Kuldeep Purohit et.al.|[2201.12010v1](http://arxiv.org/abs/2201.12010v1)|null|
+|**2022-01-28**|**Image Superresolution using Scale-Recurrent Dense Network**|Kuldeep Purohit et.al.|[2201.11998v1](http://arxiv.org/abs/2201.11998v1)|null|
+|**2022-01-28**|**Deep Networks for Image and Video Super-Resolution**|Kuldeep Purohit et.al.|[2201.11996v1](http://arxiv.org/abs/2201.11996v1)|null|
+|**2022-01-28**|**Hybrid Contrastive Learning with Cluster Ensemble for Unsupervised Person Re-identification**|He Sun et.al.|[2201.11995v1](http://arxiv.org/abs/2201.11995v1)|null|
+|**2022-01-28**|**Computer-aided Recognition and Assessment of a Porous Bioelastomer on Ultrasound Images for Regenerative Medicine Applications**|Dun Wang et.al.|[2201.11987v1](http://arxiv.org/abs/2201.11987v1)|null|
+|**2022-01-28**|**Generalized Visual Quality Assessment of GAN-Generated Face Images**|Yu Tian et.al.|[2201.11975v1](http://arxiv.org/abs/2201.11975v1)|null|
+|**2022-01-28**|**Shuffle Augmentation of Features from Unlabeled Data for Unsupervised Domain Adaptation**|Changwei Xu et.al.|[2201.11963v1](http://arxiv.org/abs/2201.11963v1)|null|
+|**2022-01-28**|**DICP: Doppler Iterative Closest Point Algorithm**|Bruno Hexsel et.al.|[2201.11944v1](http://arxiv.org/abs/2201.11944v1)|null|
+|**2022-01-28**|**Stereo Matching with Cost Volume based Sparse Disparity Propagation**|Wei Xue et.al.|[2201.11937v1](http://arxiv.org/abs/2201.11937v1)|null|
+|**2022-01-28**|**Indicative Image Retrieval: Turning Blackbox Learning into Grey**|Xulu Zhang et.al.|[2201.11898v1](http://arxiv.org/abs/2201.11898v1)|null|
+|**2022-01-28**|**Infrastructure-Based Object Detection and Tracking for Cooperative Driving Automation: A Survey**|Zhengwei Bai et.al.|[2201.11871v1](http://arxiv.org/abs/2201.11871v1)|null|
+|**2022-01-28**|**Calibrating Histopathology Image Classifiers using Label Smoothing**|Jerry Wei et.al.|[2201.11866v1](http://arxiv.org/abs/2201.11866v1)|null|
+|**2022-01-28**|**Classification of White Blood Cell Leukemia with Low Number of Interpretable and Explainable Features**|William Franz Lamberti et.al.|[2201.11864v1](http://arxiv.org/abs/2201.11864v1)|null|
+|**2022-01-27**|**Using Shape Metrics to Describe 2D Data Points**|William Franz Lamberti et.al.|[2201.11857v1](http://arxiv.org/abs/2201.11857v1)|null|
+|**2022-01-27**|**Towards an Automatic Diagnosis of Peripheral and Central Palsy Using Machine Learning on Facial Features**|C. V. Vletter et.al.|[2201.11852v1](http://arxiv.org/abs/2201.11852v1)|**[link](https://github.com/cvvletter/palsy)**|
+|**2022-01-27**|**Pressure Eye: In-bed Contact Pressure Estimation via Contact-less Imaging**|Shuangjun Liu et.al.|[2201.11828v1](http://arxiv.org/abs/2201.11828v1)|**[link](https://github.com/ostadabbas/pressureeye)**|
+|**2022-01-27**|**A Transfer Learning and Optimized CNN Based Intrusion Detection System for Internet of Vehicles**|Li Yang et.al.|[2201.11812v1](http://arxiv.org/abs/2201.11812v1)|**[link](https://github.com/western-oc2-lab/intrusion-detection-system-using-cnn-and-transfer-learning)**|
+|**2022-01-27**|**LAP: An Attention-Based Module for Faithful Interpretation and Knowledge Injection in Convolutional Neural Networks**|Rassa Ghavami Modegh et.al.|[2201.11808v1](http://arxiv.org/abs/2201.11808v1)|null|
+|**2022-01-27**|**Neural JPEG: End-to-End Image Compression Leveraging a Standard JPEG Encoder-Decoder**|Ankur Mali et.al.|[2201.11795v1](http://arxiv.org/abs/2201.11795v1)|null|
+|**2022-01-27**|**A Survey on Visual Transfer Learning using Knowledge Graphs**|Sebastian Monka et.al.|[2201.11794v1](http://arxiv.org/abs/2201.11794v1)|null|
+|**2022-01-27**|**Denoising Diffusion Restoration Models**|Bahjat Kawar et.al.|[2201.11793v1](http://arxiv.org/abs/2201.11793v1)|**[link](https://github.com/bahjat-kawar/ddrm)**|
+|**2022-01-27**|**An Empirical Analysis of Recurrent Learning Algorithms In Neural Lossy Image Compression Systems**|Ankur Mali et.al.|[2201.11782v1](http://arxiv.org/abs/2201.11782v1)|null|
 |**2022-01-27**|**PRNU Based Source Camera Identification for Webcam and Smartphone Videos**|Fernando Martín-Rodríguez et.al.|[2201.11737v1](http://arxiv.org/abs/2201.11737v1)|null|
 |**2022-01-27**|**Ranking Info Noise Contrastive Estimation: Boosting Contrastive Learning via Ranked Positives**|David T. Hoffmann et.al.|[2201.11736v1](http://arxiv.org/abs/2201.11736v1)|**[link](https://github.com/boschresearch/rince)**|
 |**2022-01-27**|**IGLUE: A Benchmark for Transfer Learning across Modalities, Tasks, and Languages**|Emanuele Bugliarello et.al.|[2201.11732v1](http://arxiv.org/abs/2201.11732v1)|null|

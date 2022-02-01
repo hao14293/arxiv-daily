@@ -12,7 +12,7 @@
 |**2022-01-31**|**UQGAN: A Unified Model for Uncertainty Quantification of Deep Classifiers trained via Conditional GANs**|Philipp Oberdiek et.al.|[2201.13279v1](http://arxiv.org/abs/2201.13279v1)|null|
 |**2022-01-31**|**Combining Local and Global Pose Estimation for Precise Tracking of Similar Objects**|Niklas Gard et.al.|[2201.13278v1](http://arxiv.org/abs/2201.13278v1)|null|
 |**2022-01-31**|**StRegA: Unsupervised Anomaly Detection in Brain MRIs using a Compact Context-encoding Variational Autoencoder**|Soumick Chatterjee et.al.|[2201.13271v1](http://arxiv.org/abs/2201.13271v1)|null|
-|**2022-01-31**|**Proximal denoiser for convergent plug-and-play optimization with nonconvex regularization**|Samuel Hurault et.al.|[2201.13256v1](http://arxiv.org/abs/2201.13256v1)|null|
+|**2022-01-31**|**Proximal denoiser for convergent plug-and-play optimization with nonconvex regularization**|Samuel Hurault et.al.|[2201.13256v1](http://arxiv.org/abs/2201.13256v1)|**[link](https://github.com/samuro95/prox-pnp)**|
 |**2022-01-31**|**Differentiable Neural Radiosity**|Saeed Hadadan et.al.|[2201.13190v1](http://arxiv.org/abs/2201.13190v1)|null|
 |**2022-01-31**|**Learning Super-Features for Image Retrieval**|Philippe Weinzaepfel et.al.|[2201.13182v1](http://arxiv.org/abs/2201.13182v1)|**[link](https://github.com/naver/fire)**|
 |**2022-01-31**|**Few-Shot Backdoor Attacks on Visual Object Tracking**|Yiming Li et.al.|[2201.13178v1](http://arxiv.org/abs/2201.13178v1)|**[link](https://github.com/hxzhong1997/fsba)**|

@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-31**|**Third Time's the Charm? Image and Video Editing with StyleGAN3**|Yuval Alaluf et.al.|[2201.13433v1](http://arxiv.org/abs/2201.13433v1)|**[link](https://github.com/yuval-alaluf/stylegan3-editing)**|
+|**2022-01-31**|**MHSnet: Multi-head and Spatial Attention Network with False-Positive Reduction for Pulmonary Nodules Detection**|Juanyun Mai et.al.|[2201.13392v1](http://arxiv.org/abs/2201.13392v1)|null|
+|**2022-01-31**|**Modeling the Background for Incremental and Weakly-Supervised Semantic Segmentation**|Fabio Cermelli et.al.|[2201.13338v1](http://arxiv.org/abs/2201.13338v1)|**[link](https://github.com/fcdl94/MiB)**|
+|**2022-01-31**|**Learning to Hash Naturally Sorts**|Yuming Shen et.al.|[2201.13322v1](http://arxiv.org/abs/2201.13322v1)|null|
+|**2022-01-31**|**Metrics for saliency map evaluation of deep learning explanation methods**|Tristan Gomez et.al.|[2201.13291v1](http://arxiv.org/abs/2201.13291v1)|null|
+|**2022-01-31**|**UQGAN: A Unified Model for Uncertainty Quantification of Deep Classifiers trained via Conditional GANs**|Philipp Oberdiek et.al.|[2201.13279v1](http://arxiv.org/abs/2201.13279v1)|null|
+|**2022-01-31**|**Combining Local and Global Pose Estimation for Precise Tracking of Similar Objects**|Niklas Gard et.al.|[2201.13278v1](http://arxiv.org/abs/2201.13278v1)|null|
+|**2022-01-31**|**StRegA: Unsupervised Anomaly Detection in Brain MRIs using a Compact Context-encoding Variational Autoencoder**|Soumick Chatterjee et.al.|[2201.13271v1](http://arxiv.org/abs/2201.13271v1)|null|
+|**2022-01-31**|**Proximal denoiser for convergent plug-and-play optimization with nonconvex regularization**|Samuel Hurault et.al.|[2201.13256v1](http://arxiv.org/abs/2201.13256v1)|null|
+|**2022-01-31**|**Differentiable Neural Radiosity**|Saeed Hadadan et.al.|[2201.13190v1](http://arxiv.org/abs/2201.13190v1)|null|
+|**2022-01-31**|**Learning Super-Features for Image Retrieval**|Philippe Weinzaepfel et.al.|[2201.13182v1](http://arxiv.org/abs/2201.13182v1)|**[link](https://github.com/naver/fire)**|
+|**2022-01-31**|**Few-Shot Backdoor Attacks on Visual Object Tracking**|Yiming Li et.al.|[2201.13178v1](http://arxiv.org/abs/2201.13178v1)|**[link](https://github.com/hxzhong1997/fsba)**|
+|**2022-01-31**|**Imperceptible and Multi-channel Backdoor Attack against Deep Neural Networks**|Mingfu Xue et.al.|[2201.13164v1](http://arxiv.org/abs/2201.13164v1)|null|
+|**2022-01-31**|**Adversarial Masking for Self-Supervised Learning**|Yuge Shi et.al.|[2201.13100v1](http://arxiv.org/abs/2201.13100v1)|null|
+|**2022-01-31**|**Crowd-powered Face Manipulation Detection: Fusing Human Examiner Decisions**|Christian Rathgeb et.al.|[2201.13084v1](http://arxiv.org/abs/2201.13084v1)|null|
+|**2022-01-31**|**Unsupervised Anomaly Detection in 3D Brain MRI using Deep Learning with Multi-Task Brain Age Prediction**|Marcel Bengs et.al.|[2201.13081v1](http://arxiv.org/abs/2201.13081v1)|null|
+|**2022-01-31**|**Lymphoma segmentation from 3D PET-CT images using a deep evidential network**|Ling Huang et.al.|[2201.13078v1](http://arxiv.org/abs/2201.13078v1)|null|
+|**2022-01-31**|**Single Object Tracking: A Survey of Methods, Datasets, and Evaluation Metrics**|Zahra Soleimanitaleb et.al.|[2201.13066v1](http://arxiv.org/abs/2201.13066v1)|null|
+|**2022-01-31**|**Rigidity Preserving Image Transformations and Equivariance in Perspective**|Lucas Brynte et.al.|[2201.13065v1](http://arxiv.org/abs/2201.13065v1)|null|
+|**2022-01-31**|**NeuralTailor: Reconstructing Sewing Pattern Structures from 3D Point Clouds of Garments**|Maria Korosteleva et.al.|[2201.13063v1](http://arxiv.org/abs/2201.13063v1)|null|
+|**2022-01-31**|**BOAT: Bilateral Local Attention Vision Transformer**|Tan Yu et.al.|[2201.13027v1](http://arxiv.org/abs/2201.13027v1)|null|
+|**2022-01-31**|**Filtering In Implicit Neural Networks**|Yixin Zhuang et.al.|[2201.13013v1](http://arxiv.org/abs/2201.13013v1)|**[link](https://github.com/yixin26/finn)**|
+|**2022-01-31**|**Plug-In Inversion: Model-Agnostic Inversion for Vision with Data Augmentations**|Amin Ghiasi et.al.|[2201.12961v1](http://arxiv.org/abs/2201.12961v1)|**[link](https://github.com/youranonymousefriend/plugininversion)**|
+|**2022-01-31**|**Deep Learning Approaches on Image Captioning: A Review**|Taraneh Ghandi et.al.|[2201.12944v1](http://arxiv.org/abs/2201.12944v1)|null|
+|**2022-01-30**|**Compositionality as Lexical Symmetry**|Ekin Akyürek et.al.|[2201.12926v1](http://arxiv.org/abs/2201.12926v1)|null|
+|**2022-01-30**|**Sparse Centroid-Encoder: A Nonlinear Model for Feature Selection**|Tomojit Ghosh et.al.|[2201.12910v1](http://arxiv.org/abs/2201.12910v1)|null|
+|**2022-01-30**|**COIN++: Data Agnostic Neural Compression**|Emilien Dupont et.al.|[2201.12904v1](http://arxiv.org/abs/2201.12904v1)|null|
+|**2022-01-30**|**Aggregating Global Features into Local Vision Transformer**|Krushi Patel et.al.|[2201.12903v1](http://arxiv.org/abs/2201.12903v1)|**[link](https://github.com/krushi1992/moa-transformer)**|
+|**2022-01-30**|**Augmenting Novelty Search with a Surrogate Model to Engineer Meta-Diversity in Ensembles of Classifiers**|Rui P. Cardoso et.al.|[2201.12896v1](http://arxiv.org/abs/2201.12896v1)|null|
+|**2022-01-30**|**A Dataset for Medical Instructional Video Classification and Question Answering**|Deepak Gupta et.al.|[2201.12888v1](http://arxiv.org/abs/2201.12888v1)|**[link](https://github.com/deepaknlp/medvidqacl)**|
+|**2022-01-30**|**Comprehensive Saliency Fusion for Object Co-segmentation**|Harshit Singh Chhabra et.al.|[2201.12828v1](http://arxiv.org/abs/2201.12828v1)|null|
+|**2022-01-30**|**Optimizing Gradient-driven Criteria in Network Sparsity: Gradient is All You Need**|Yuxin Zhang et.al.|[2201.12826v1](http://arxiv.org/abs/2201.12826v1)|null|
+|**2022-01-30**|**Contrastive Learning from Demonstrations**|André Correia et.al.|[2201.12813v1](http://arxiv.org/abs/2201.12813v1)|null|
+|**2022-01-30**|**Automatic Segmentation of Left Ventricle in Cardiac Magnetic Resonance Images**|Garvit Chhabra et.al.|[2201.12805v1](http://arxiv.org/abs/2201.12805v1)|null|
+|**2022-01-30**|**Similarity and Generalization: From Noise to Corruption**|Nayara Fonseca et.al.|[2201.12803v1](http://arxiv.org/abs/2201.12803v1)|null|
+|**2022-01-30**|**SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video**|Boyi Jiang et.al.|[2201.12792v1](http://arxiv.org/abs/2201.12792v1)|null|
+|**2022-01-30**|**TransBTSV2: Wider Instead of Deeper Transformer for Medical Image Segmentation**|Jiangyun Li et.al.|[2201.12785v1](http://arxiv.org/abs/2201.12785v1)|**[link](https://github.com/Wenxuan-1119/TransBTS)**|
+|**2022-01-30**|**Practical Noise Simulation for RGB Images**|Saeed Ranjbar Alvar et.al.|[2201.12773v1](http://arxiv.org/abs/2201.12773v1)|null|
+|**2022-01-30**|**Self-Supervised Moving Vehicle Detection from Audio-Visual Cues**|Jannik Zürn et.al.|[2201.12771v1](http://arxiv.org/abs/2201.12771v1)|null|
+|**2022-01-30**|**MVP-Net: Multiple View Pointwise Semantic Segmentation of Large-Scale Point Clouds**|Chuanyu Luo et.al.|[2201.12769v1](http://arxiv.org/abs/2201.12769v1)|null|
+|**2022-01-30**|**Improving Corruption and Adversarial Robustness by Enhancing Weak Subnets**|Yong Guo et.al.|[2201.12765v1](http://arxiv.org/abs/2201.12765v1)|null|
+|**2022-01-30**|**RIM-Net: Recursive Implicit Fields for Unsupervised Learning of Hierarchical Shape Structures**|Chengjie Niu et.al.|[2201.12763v1](http://arxiv.org/abs/2201.12763v1)|null|
+|**2022-01-30**|**TPC: Transformation-Specific Smoothing for Point Cloud Models**|Wenda Chu et.al.|[2201.12733v1](http://arxiv.org/abs/2201.12733v1)|null|
+|**2022-01-30**|**Video-based Facial Micro-Expression Analysis: A Survey of Datasets, Features and Algorithms**|Xianye Ben et.al.|[2201.12728v1](http://arxiv.org/abs/2201.12728v1)|null|
+|**2022-01-30**|**Neural Architecture Ranker**|Bicheng Guo et.al.|[2201.12725v1](http://arxiv.org/abs/2201.12725v1)|**[link](https://github.com/albertipot/nar)**|
+|**2022-01-30**|**VC-GPT: Visual Conditioned GPT for End-to-End Generative Vision-and-Language Pre-training**|Ziyang Luo et.al.|[2201.12723v1](http://arxiv.org/abs/2201.12723v1)|null|
+|**2022-01-30**|**You Only Demonstrate Once: Category-Level Manipulation from Single Visual Demonstration**|Bowen Wen et.al.|[2201.12716v1](http://arxiv.org/abs/2201.12716v1)|null|
+|**2022-01-30**|**Win the Lottery Ticket via Fourier Analysis: Frequencies Guided Network Pruning**|Yuzhang Shang et.al.|[2201.12712v1](http://arxiv.org/abs/2201.12712v1)|null|
+|**2022-01-30**|**Tensor Recovery Based on Tensor Equivalent Minimax-Concave Penalty**|Hongbing Zhang et.al.|[2201.12709v1](http://arxiv.org/abs/2201.12709v1)|null|
+|**2022-01-30**|**A Robust Framework for Deep Learning Approaches to Facial Emotion Recognition and Evaluation**|Nyle Siddiqui et.al.|[2201.12705v1](http://arxiv.org/abs/2201.12705v1)|null|
 |**2022-01-28**|**DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR**|Shilong Liu et.al.|[2201.12329v1](http://arxiv.org/abs/2201.12329v1)|null|
 |**2022-01-28**|**REET: Robustness Evaluation and Enhancement Toolbox for Computational Pathology**|Alex Foote et.al.|[2201.12311v1](http://arxiv.org/abs/2201.12311v1)|**[link](https://github.com/alexjfoote/reetoolbox)**|
 |**2022-01-28**|**Benchmarking Robustness of 3D Point Cloud Recognition Against Common Corruptions**|Jiachen Sun et.al.|[2201.12296v1](http://arxiv.org/abs/2201.12296v1)|**[link](https://github.com/jiachens/ModelNet40-C)**|

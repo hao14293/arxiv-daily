@@ -4,8 +4,53 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-01**|**Deep Kernelized Dense Geometric Matching**|Johan Edstedt et.al.|[2202.00667v1](http://arxiv.org/abs/2202.00667v1)|null|
+|**2022-02-01**|**Interactron: Embodied Adaptive Object Detection**|Klemen Kotar et.al.|[2202.00660v1](http://arxiv.org/abs/2202.00660v1)|null|
+|**2022-02-01**|**Stay Positive: Non-Negative Image Synthesis for Augmented Reality**|Katie Luo et.al.|[2202.00659v1](http://arxiv.org/abs/2202.00659v1)|**[link](https://github.com/katieluo88/staypositive)**|
+|**2022-02-01**|**Datamodels: Predicting Predictions from Training Data**|Andrew Ilyas et.al.|[2202.00622v1](http://arxiv.org/abs/2202.00622v1)|**[link](https://github.com/madrylab/datamodels-data)**|
+|**2022-02-01**|**Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification**|Yuxin Wen et.al.|[2202.00580v1](http://arxiv.org/abs/2202.00580v1)|null|
+|**2022-02-01**|**The impact of removing head movements on audio-visual speech enhancement**|Zhiqi Kang et.al.|[2202.00538v1](http://arxiv.org/abs/2202.00538v1)|null|
+|**2022-02-01**|**A generalizable approach based on U-Net model for automatic Intra retinal cyst segmentation in SD-OCT images**|Razieh Ganjee et.al.|[2202.00465v1](http://arxiv.org/abs/2202.00465v1)|null|
+|**2022-02-01**|**HCSC: Hierarchical Contrastive Selective Coding**|Yuanfan Guo et.al.|[2202.00455v1](http://arxiv.org/abs/2202.00455v1)|**[link](https://github.com/gyfastas/hcsc)**|
+|**2022-02-01**|**Evaluating Feature Attribution: An Information-Theoretic Perspective**|Yao Rong et.al.|[2202.00449v1](http://arxiv.org/abs/2202.00449v1)|**[link](https://github.com/tleemann/road_evaluation)**|
+|**2022-02-01**|**Sim2Real Object-Centric Keypoint Detection and Description**|Chengliang Zhong et.al.|[2202.00448v1](http://arxiv.org/abs/2202.00448v1)|null|
+|**2022-02-01**|**Multi-Order Networks for Action Unit Detection**|Gauthier Tallec et.al.|[2202.00446v1](http://arxiv.org/abs/2202.00446v1)|null|
+|**2022-02-01**|**Continual Attentive Fusion for Incremental Learning in Semantic Segmentation**|Guanglei Yang et.al.|[2202.00432v1](http://arxiv.org/abs/2202.00432v1)|null|
+|**2022-02-01**|**Sinogram Enhancement with Generative Adversarial Networks using Shape Priors**|Emilien Valat et.al.|[2202.00419v1](http://arxiv.org/abs/2202.00419v1)|null|
+|**2022-02-01**|**Review of Serial and Parallel Min-Cut/Max-Flow Algorithms for Computer Vision**|Patrick M. Jensen et.al.|[2202.00418v1](http://arxiv.org/abs/2202.00418v1)|**[link](https://github.com/patmjen/maxflow_algorithms)**|
+|**2022-02-01**|**CAESR: Conditional Autoencoder and Super-Resolution for Learned Spatial Scalability**|Charles Bonnineau et.al.|[2202.00416v1](http://arxiv.org/abs/2202.00416v1)|null|
+|**2022-02-01**|**Minority Class Oriented Active Learning for Imbalanced Datasets**|Umang Aggarwal et.al.|[2202.00390v1](http://arxiv.org/abs/2202.00390v1)|null|
+|**2022-02-01**|**A Comparative Study of Calibration Methods for Imbalanced Class Incremental Learning**|Umang Aggarwal et.al.|[2202.00386v1](http://arxiv.org/abs/2202.00386v1)|null|
+|**2022-02-01**|**Filtered-CoPhy: Unsupervised Learning of Counterfactual Physics in Pixel Space**|Steeven Janny et.al.|[2202.00368v1](http://arxiv.org/abs/2202.00368v1)|null|
+|**2022-02-01**|**From Explanations to Segmentation: Using Explainable AI for Image Segmentation**|Clemens Seibold et.al.|[2202.00315v1](http://arxiv.org/abs/2202.00315v1)|null|
+|**2022-02-01**|**Laplacian2Mesh: Laplacian-Based Mesh Understanding**|Qiujie Dong et.al.|[2202.00307v1](http://arxiv.org/abs/2202.00307v1)|null|
+|**2022-02-01**|**StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets**|Axel Sauer et.al.|[2202.00273v1](http://arxiv.org/abs/2202.00273v1)|null|
+|**2022-02-01**|**Access Control of Object Detection Models Using Encrypted Feature Maps**|Teru Nagamori et.al.|[2202.00265v1](http://arxiv.org/abs/2202.00265v1)|null|
+|**2022-02-01**|**Fully Online Meta-Learning Without Task Boundaries**|Jathushan Rajasegaran et.al.|[2202.00263v1](http://arxiv.org/abs/2202.00263v1)|null|
+|**2022-02-01**|**Detecting Human-Object Interactions with Object-Guided Cross-Modal Calibrated Semantics**|Hangjie Yuan et.al.|[2202.00259v1](http://arxiv.org/abs/2202.00259v1)|**[link](https://github.com/jacobyuan7/ocn-hoi-benchmark)**|
+|**2022-02-01**|**Adversarial Imitation Learning from Video using a State Observer**|Haresh Karnan et.al.|[2202.00243v1](http://arxiv.org/abs/2202.00243v1)|null|
+|**2022-02-01**|**ISNet: Costless and Implicit Image Segmentation for Deep Classifiers, with Application in COVID-19 Detection**|Pedro R. A. S. Bassi et.al.|[2202.00232v1](http://arxiv.org/abs/2202.00232v1)|null|
+|**2022-02-01**|**Disentangling multiple scattering with deep learning: application to strain mapping from electron diffraction patterns**|Joydeep Munshi et.al.|[2202.00204v1](http://arxiv.org/abs/2202.00204v1)|null|
+|**2022-02-01**|**Recognition-Aware Learned Image Compression**|Maxime Kawawa-Beaudan et.al.|[2202.00198v1](http://arxiv.org/abs/2202.00198v1)|null|
+|**2022-02-01**|**ATEK: Augmenting Transformers with Expert Knowledge for Indoor Layout Synthesis**|Kurt Leimer et.al.|[2202.00185v1](http://arxiv.org/abs/2202.00185v1)|null|
+|**2022-02-01**|**Semi-supervised 3D Object Detection via Temporal Graph Neural Networks**|Jianren Wang et.al.|[2202.00182v1](http://arxiv.org/abs/2202.00182v1)|null|
+|**2022-02-01**|**CLA-NeRF: Category-Level Articulated Neural Radiance Field**|Wei-Cheng Tseng et.al.|[2202.00181v1](http://arxiv.org/abs/2202.00181v1)|null|
+|**2022-02-01**|**Blind Image Deconvolution Using Variational Deep Image Prior**|Dong Huo et.al.|[2202.00179v1](http://arxiv.org/abs/2202.00179v1)|**[link](https://github.com/dong-huo/vdip-deconvolution)**|
+|**2022-02-01**|**Fractional Motion Estimation for Point Cloud Compression**|Haoran Hong et.al.|[2202.00172v1](http://arxiv.org/abs/2202.00172v1)|null|
+|**2022-02-01**|**DexVIP: Learning Dexterous Grasping with Human Hand Pose Priors from Video**|Priyanka Mandikal et.al.|[2202.00164v1](http://arxiv.org/abs/2202.00164v1)|null|
+|**2022-02-01**|**Dilated Continuous Random Field for Semantic Segmentation**|Xi Mo et.al.|[2202.00162v1](http://arxiv.org/abs/2202.00162v1)|**[link](https://github.com/dunknowcoding/DilatedCRF)**|
+|**2022-02-01**|**Learning-Based Framework for Camera Calibration with Distortion Correction and High Precision Feature Detection**|Yesheng Zhang et.al.|[2202.00158v1](http://arxiv.org/abs/2202.00158v1)|**[link](https://github.com/easonyesheng/ccs)**|
+|**2022-01-31**|**Real-Time Facial Expression Recognition using Facial Landmarks and Neural Networks**|Mohammad Amin Haghpanah et.al.|[2202.00102v1](http://arxiv.org/abs/2202.00102v1)|null|
+|**2022-01-31**|**Semi-supervised Identification and Mapping of Surface Water Extent using Street-level Monitoring Videos**|Ruo-Qian Wang et.al.|[2202.00096v1](http://arxiv.org/abs/2202.00096v1)|null|
+|**2022-01-31**|**Query Efficient Decision Based Sparse Attacks Against Black-Box Deep Learning Models**|Viet Quoc Vo et.al.|[2202.00091v1](http://arxiv.org/abs/2202.00091v1)|null|
+|**2022-01-31**|**Holistic Fine-grained GGS Characterization: From Detection to Unbalanced Classification**|Yuzhe Lu et.al.|[2202.00087v1](http://arxiv.org/abs/2202.00087v1)|null|
+|**2022-01-31**|**AutoGeoLabel: Automated Label Generation for Geospatial Machine Learning**|Conrad M Albrecht et.al.|[2202.00067v1](http://arxiv.org/abs/2202.00067v1)|null|
+|**2022-01-31**|**Deep-Disaster: Unsupervised Disaster Detection and Localization Using Visual Data**|Soroor Shekarizadeh et.al.|[2202.00050v1](http://arxiv.org/abs/2202.00050v1)|**[link](https://github.com/soroorsh/deep-disaster)**|
+|**2022-01-31**|**Finding Directions in GAN's Latent Space for Neural Face Reenactment**|Stella Bounareli et.al.|[2202.00046v1](http://arxiv.org/abs/2202.00046v1)|null|
+|**2022-01-31**|**Leveraging Bitstream Metadata for Fast and Accurate Video Compression Correction**|Max Ehrlich et.al.|[2202.00011v1](http://arxiv.org/abs/2202.00011v1)|null|
 |**2022-01-31**|**Third Time's the Charm? Image and Video Editing with StyleGAN3**|Yuval Alaluf et.al.|[2201.13433v1](http://arxiv.org/abs/2201.13433v1)|**[link](https://github.com/yuval-alaluf/stylegan3-editing)**|
 |**2022-01-31**|**MHSnet: Multi-head and Spatial Attention Network with False-Positive Reduction for Pulmonary Nodules Detection**|Juanyun Mai et.al.|[2201.13392v1](http://arxiv.org/abs/2201.13392v1)|null|
+|**2022-01-31**|**Signing the Supermask: Keep, Hide, Invert**|Nils Koster et.al.|[2201.13361v1](http://arxiv.org/abs/2201.13361v1)|null|
 |**2022-01-31**|**Modeling the Background for Incremental and Weakly-Supervised Semantic Segmentation**|Fabio Cermelli et.al.|[2201.13338v1](http://arxiv.org/abs/2201.13338v1)|**[link](https://github.com/fcdl94/MiB)**|
 |**2022-01-31**|**Learning to Hash Naturally Sorts**|Yuming Shen et.al.|[2201.13322v1](http://arxiv.org/abs/2201.13322v1)|null|
 |**2022-01-31**|**Metrics for saliency map evaluation of deep learning explanation methods**|Tristan Gomez et.al.|[2201.13291v1](http://arxiv.org/abs/2201.13291v1)|null|

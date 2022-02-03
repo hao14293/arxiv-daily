@@ -4,12 +4,51 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-02**|**VOS:Learning What You Don't Know by Virtual Outlier Synthesis**|Xuefeng Du et.al.|[2202.01197v1](http://arxiv.org/abs/2202.01197v1)|**[link](https://github.com/deeplearning-wisc/vos)**|
+|**2022-02-02**|**Make Some Noise: Reliable and Efficient Single-Step Adversarial Training**|Pau de Jorge et.al.|[2202.01181v1](http://arxiv.org/abs/2202.01181v1)|null|
+|**2022-02-02**|**Probabilistically Robust Learning: Balancing Average- and Worst-case Performance**|Alexander Robey et.al.|[2202.01136v1](http://arxiv.org/abs/2202.01136v1)|null|
+|**2022-02-02**|**An Eye for an Eye: Defending against Gradient-based Attacks with Gradients**|Hanbin Hong et.al.|[2202.01117v1](http://arxiv.org/abs/2202.01117v1)|null|
+|**2022-02-02**|**Unpaired Image Super-Resolution with Optimal Transport Maps**|Milena Gazdieva et.al.|[2202.01116v1](http://arxiv.org/abs/2202.01116v1)|null|
+|**2022-02-02**|**Image-based Navigation in Real-World Environments via Multiple Mid-level Representations: Fusion Models, Benchmark and Efficient Evaluation**|Marco Rosano et.al.|[2202.01069v1](http://arxiv.org/abs/2202.01069v1)|null|
+|**2022-02-02**|**MMSys'22 Grand Challenge on AI-based Video Production for Soccer**|Cise Midoglu et.al.|[2202.01031v1](http://arxiv.org/abs/2202.01031v1)|null|
+|**2022-02-02**|**MedNeRF: Medical Neural Radiance Fields for Reconstructing 3D-aware CT-Projections from a Single X-ray**|Abril Corona-Figueroa et.al.|[2202.01020v1](http://arxiv.org/abs/2202.01020v1)|null|
+|**2022-02-02**|**Auto-Transfer: Learning to Route Transferrable Representations**|Keerthiram Murugesan et.al.|[2202.01011v1](http://arxiv.org/abs/2202.01011v1)|**[link](https://github.com/ibm/auto-transfer)**|
+|**2022-02-02**|**Gradient Variance Loss for Structure-Enhanced Image Super-Resolution**|Lusine Abrahamyan et.al.|[2202.00997v1](http://arxiv.org/abs/2202.00997v1)|null|
+|**2022-02-02**|**Dictionary learning for clustering on hyperspectral images**|Joshua Bruton et.al.|[2202.00990v1](http://arxiv.org/abs/2202.00990v1)|**[link](https://github.com/JoshuaDBruton/SparseCoefficientClustering)**|
+|**2022-02-02**|**DCSAU-Net: A Deeper and More Compact Split-Attention U-Net for Medical Image Segmentation**|Qing Xu et.al.|[2202.00972v1](http://arxiv.org/abs/2202.00972v1)|**[link](https://github.com/xq141839/DCSAU-Net)**|
+|**2022-02-02**|**GANSlider: How Users Control Generative Models for Images using Multiple Sliders with and without Feedforward Information**|Hai Dang et.al.|[2202.00965v1](http://arxiv.org/abs/2202.00965v1)|null|
+|**2022-02-02**|**Eikonal Fields for Refractive Novel-View Synthesis**|Mojtaba Bemana et.al.|[2202.00948v1](http://arxiv.org/abs/2202.00948v1)|null|
+|**2022-02-02**|**CSFlow: Learning Optical Flow via Cross Strip Correlation for Autonomous Driving**|Hao Shi et.al.|[2202.00909v1](http://arxiv.org/abs/2202.00909v1)|null|
+|**2022-02-02**|**Image Forgery Detection with Interpretability**|Ankit Katiyar et.al.|[2202.00908v1](http://arxiv.org/abs/2202.00908v1)|null|
+|**2022-02-02**|**Does Video Compression Impact Tracking Accuracy?**|Takehiro Tanaka et.al.|[2202.00892v1](http://arxiv.org/abs/2202.00892v1)|null|
+|**2022-02-02**|**Accurate calibration of surround view camera systems from a generalization of the hand eye constraint**|Yifu Wang et.al.|[2202.00886v1](http://arxiv.org/abs/2202.00886v1)|null|
+|**2022-02-02**|**Automotive Parts Assessment: Applying Real-time Instance-Segmentation Models to Identify Vehicle Parts**|Syed Adnan Yusuf et.al.|[2202.00884v1](http://arxiv.org/abs/2202.00884v1)|null|
+|**2022-02-02**|**Decoupled IoU Regression for Object Detection**|Yan Gao et.al.|[2202.00866v1](http://arxiv.org/abs/2202.00866v1)|null|
+|**2022-02-02**|**Extension -- Adaptive Sampling with Implicit Radiance Field**|Yuchi Huo et.al.|[2202.00855v1](http://arxiv.org/abs/2202.00855v1)|null|
+|**2022-02-02**|**Active Audio-Visual Separation of Dynamic Sound Sources**|Sagnik Majumder et.al.|[2202.00850v1](http://arxiv.org/abs/2202.00850v1)|null|
+|**2022-02-02**|**Pose Guided Image Generation from Misaligned Sources via Residual Flow Based Correction**|Jiawei Lu et.al.|[2202.00843v1](http://arxiv.org/abs/2202.00843v1)|null|
+|**2022-02-02**|**Finding Biological Plausibility for Adversarially Robust Features via Metameric Tasks**|Anne Harrington et.al.|[2202.00838v1](http://arxiv.org/abs/2202.00838v1)|**[link](https://github.com/anneharrington/adversarially-robust-periphery)**|
+|**2022-02-02**|**On-Sensor Binarized Fully Convolutional Neural Network with A Pixel Processor Array**|Yanan Liu et.al.|[2202.00836v1](http://arxiv.org/abs/2202.00836v1)|null|
+|**2022-02-01**|**A Graph Based Neural Network Approach to Immune Profiling of Multiplexed Tissue Samples**|Natalia Garcia Martin et.al.|[2202.00813v1](http://arxiv.org/abs/2202.00813v1)|null|
+|**2022-02-01**|**Mars Terrain Segmentation with Less Labels**|Edwin Goh et.al.|[2202.00791v1](http://arxiv.org/abs/2202.00791v1)|null|
+|**2022-02-01**|**On Regularizing Coordinate-MLPs**|Sameera Ramasinghe et.al.|[2202.00790v1](http://arxiv.org/abs/2202.00790v1)|null|
+|**2022-02-01**|**Accelerating DNN Training with Structured Data Gradient Pruning**|Bradley McDanel et.al.|[2202.00774v1](http://arxiv.org/abs/2202.00774v1)|**[link](https://github.com/bradmcdanel/sdgp)**|
+|**2022-02-01**|**Local Feature Matching with Transformers for low-end devices**|Kyrylo Kolodiazhnyi et.al.|[2202.00770v1](http://arxiv.org/abs/2202.00770v1)|**[link](https://github.com/kolkir/coarse_loftr_trt)**|
+|**2022-02-01**|**A Model for Multi-View Residual Covariances based on Perspective Deformation**|Alejandro Fontan et.al.|[2202.00765v1](http://arxiv.org/abs/2202.00765v1)|null|
+|**2022-02-01**|**ADG-Pose: Automated Dataset Generation for Real-World Human Pose Estimation**|Ghazal Alinezhad Noghre et.al.|[2202.00753v1](http://arxiv.org/abs/2202.00753v1)|null|
+|**2022-02-01**|**Towards Positive Jacobian: Learn to Postprocess Diffeomorphic Image Registration with Matrix Exponential**|Soumyadeep Pal et.al.|[2202.00749v1](http://arxiv.org/abs/2202.00749v1)|null|
+|**2022-02-01**|**IFOR: Iterative Flow Minimization for Robotic Object Rearrangement**|Ankit Goyal et.al.|[2202.00732v1](http://arxiv.org/abs/2202.00732v1)|null|
+|**2022-02-01**|**Should I take a walk? Estimating Energy Expenditure from Video Data**|Kunyu Peng et.al.|[2202.00712v1](http://arxiv.org/abs/2202.00712v1)|**[link](https://github.com/kpeng9510/vid2burn)**|
+|**2022-02-01**|**Classification of Skin Cancer Images using Convolutional Neural Networks**|Kartikeya Agarwal et.al.|[2202.00678v1](http://arxiv.org/abs/2202.00678v1)|null|
+|**2022-02-01**|**An Embarrassingly Simple Consistency Regularization Method for Semi-Supervised Medical Image Segmentation**|Hritam Basak et.al.|[2202.00677v1](http://arxiv.org/abs/2202.00677v1)|**[link](https://github.com/hritam-98/ict-medseg)**|
+|**2022-02-01**|**A deep residual learning implementation of Metamorphosis**|Matthis Maillard et.al.|[2202.00676v1](http://arxiv.org/abs/2202.00676v1)|null|
+|**2022-02-01**|**A training-free recursive multiresolution framework for diffeomorphic deformable image registration**|Ameneh Sheikhjafari et.al.|[2202.00675v1](http://arxiv.org/abs/2202.00675v1)|null|
 |**2022-02-01**|**Deep Kernelized Dense Geometric Matching**|Johan Edstedt et.al.|[2202.00667v1](http://arxiv.org/abs/2202.00667v1)|null|
 |**2022-02-01**|**Interactron: Embodied Adaptive Object Detection**|Klemen Kotar et.al.|[2202.00660v1](http://arxiv.org/abs/2202.00660v1)|null|
 |**2022-02-01**|**Stay Positive: Non-Negative Image Synthesis for Augmented Reality**|Katie Luo et.al.|[2202.00659v1](http://arxiv.org/abs/2202.00659v1)|**[link](https://github.com/katieluo88/staypositive)**|
 |**2022-02-01**|**Datamodels: Predicting Predictions from Training Data**|Andrew Ilyas et.al.|[2202.00622v1](http://arxiv.org/abs/2202.00622v1)|**[link](https://github.com/madrylab/datamodels-data)**|
 |**2022-02-01**|**Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification**|Yuxin Wen et.al.|[2202.00580v1](http://arxiv.org/abs/2202.00580v1)|null|
-|**2022-02-01**|**The impact of removing head movements on audio-visual speech enhancement**|Zhiqi Kang et.al.|[2202.00538v1](http://arxiv.org/abs/2202.00538v1)|null|
+|**2022-02-02**|**The impact of removing head movements on audio-visual speech enhancement**|Zhiqi Kang et.al.|[2202.00538v2](http://arxiv.org/abs/2202.00538v2)|null|
 |**2022-02-01**|**A generalizable approach based on U-Net model for automatic Intra retinal cyst segmentation in SD-OCT images**|Razieh Ganjee et.al.|[2202.00465v1](http://arxiv.org/abs/2202.00465v1)|null|
 |**2022-02-01**|**HCSC: Hierarchical Contrastive Selective Coding**|Yuanfan Guo et.al.|[2202.00455v1](http://arxiv.org/abs/2202.00455v1)|**[link](https://github.com/gyfastas/hcsc)**|
 |**2022-02-01**|**Evaluating Feature Attribution: An Information-Theoretic Perspective**|Yao Rong et.al.|[2202.00449v1](http://arxiv.org/abs/2202.00449v1)|**[link](https://github.com/tleemann/road_evaluation)**|

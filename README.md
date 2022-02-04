@@ -4,7 +4,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-02**|**VOS:Learning What You Don't Know by Virtual Outlier Synthesis**|Xuefeng Du et.al.|[2202.01197v1](http://arxiv.org/abs/2202.01197v1)|**[link](https://github.com/deeplearning-wisc/vos)**|
+|**2022-02-03**|**The Met Dataset: Instance-level Recognition for Artworks**|Nikolaos-Antonios Ypsilantis et.al.|[2202.01747v1](http://arxiv.org/abs/2202.01747v1)|null|
+|**2022-02-03**|**Fast Online Video Super-Resolution with Deformable Attention Pyramid**|Dario Fuoli et.al.|[2202.01731v1](http://arxiv.org/abs/2202.01731v1)|null|
+|**2022-02-03**|**Skeleton-Based Action Segmentation with Multi-Stage Spatial-Temporal Graph Convolutional Neural Networks**|Benjamin Filtjens et.al.|[2202.01727v1](http://arxiv.org/abs/2202.01727v1)|**[link](https://github.com/benjaminfiltjens/ms-gcn)**|
+|**2022-02-03**|**FORML: Learning to Reweight Data for Fairness**|Bobby Yan et.al.|[2202.01719v1](http://arxiv.org/abs/2202.01719v1)|null|
+|**2022-02-03**|**Weakly Supervised Nuclei Segmentation via Instance Learning**|Weizhen Liu et.al.|[2202.01564v1](http://arxiv.org/abs/2202.01564v1)|**[link](https://github.com/weizhenfrank/weaknucleiseg)**|
+|**2022-02-03**|**Bending Graphs: Hierarchical Shape Matching using Gated Optimal Transport**|Mahdi Saleh et.al.|[2202.01537v1](http://arxiv.org/abs/2202.01537v1)|null|
+|**2022-02-03**|**PARCEL: Physics-based unsupervised contrastive representation learning for parallel MR imaging**|Shanshan Wang et.al.|[2202.01494v1](http://arxiv.org/abs/2202.01494v1)|null|
+|**2022-02-03**|**Spatial Computing and Intuitive Interaction: Bringing Mixed Reality and Robotics Together**|Jeffrey Delmerico et.al.|[2202.01493v1](http://arxiv.org/abs/2202.01493v1)|null|
+|**2022-02-03**|**Trajectory Forecasting from Detection with Uncertainty-Aware Motion Encoding**|Pu Zhang et.al.|[2202.01478v1](http://arxiv.org/abs/2202.01478v1)|null|
+|**2022-02-03**|**Boosting Monocular Depth Estimation with Sparse Guided Points**|Guangkai Xu et.al.|[2202.01470v1](http://arxiv.org/abs/2202.01470v1)|null|
+|**2022-02-03**|**Concept Bottleneck Model with Additional Unsupervised Concepts**|Yoshihide Sawada et.al.|[2202.01459v1](http://arxiv.org/abs/2202.01459v1)|null|
+|**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
+|**2022-02-03**|**Characterization of Semantic Segmentation Models on Mobile Platforms for Self-Navigation in Disaster-Struck Zones**|Ryan Zelek et.al.|[2202.01421v1](http://arxiv.org/abs/2202.01421v1)|null|
+|**2022-02-03**|**DocBed: A Multi-Stage OCR Solution for Documents with Complex Layouts**|Wenzhen Zhu et.al.|[2202.01414v1](http://arxiv.org/abs/2202.01414v1)|null|
+|**2022-02-03**|**Exploring Sub-skeleton Trajectories for Interpretable Recognition of Sign Language**|Joachim Gudmundsson et.al.|[2202.01390v1](http://arxiv.org/abs/2202.01390v1)|null|
+|**2022-02-02**|**PanoDepth: A Two-Stage Approach for Monocular Omnidirectional Depth Estimation**|Yuyan Li et.al.|[2202.01323v1](http://arxiv.org/abs/2202.01323v1)|null|
+|**2022-02-02**|**Multi-Resolution Factor Graph Based Stereo Correspondence Algorithm**|Hanieh Shabanian et.al.|[2202.01309v1](http://arxiv.org/abs/2202.01309v1)|null|
+|**2022-02-02**|**Cyclical Pruning for Sparse Neural Networks**|Suraj Srinivas et.al.|[2202.01290v1](http://arxiv.org/abs/2202.01290v1)|null|
+|**2022-02-02**|**Beyond Images: Label Noise Transition Matrix Estimation for Tasks with Lower-Quality Features**|Zhaowei Zhu et.al.|[2202.01273v1](http://arxiv.org/abs/2202.01273v1)|**[link](https://github.com/ucsc-real/est-t-mi)**|
+|**2022-02-02**|**Automated processing of X-ray computed tomography images via panoptic segmentation for modeling woven composite textiles**|Aaron Allred et.al.|[2202.01265v1](http://arxiv.org/abs/2202.01265v1)|null|
+|**2022-02-02**|**Training Semantic Descriptors for Image-Based Localization**|Ibrahim Cinaroglu et.al.|[2202.01212v1](http://arxiv.org/abs/2202.01212v1)|null|
+|**2022-02-03**|**VOS: Learning What You Don't Know by Virtual Outlier Synthesis**|Xuefeng Du et.al.|[2202.01197v2](http://arxiv.org/abs/2202.01197v2)|**[link](https://github.com/deeplearning-wisc/vos)**|
 |**2022-02-02**|**Make Some Noise: Reliable and Efficient Single-Step Adversarial Training**|Pau de Jorge et.al.|[2202.01181v1](http://arxiv.org/abs/2202.01181v1)|null|
 |**2022-02-02**|**Probabilistically Robust Learning: Balancing Average- and Worst-case Performance**|Alexander Robey et.al.|[2202.01136v1](http://arxiv.org/abs/2202.01136v1)|null|
 |**2022-02-02**|**An Eye for an Eye: Defending against Gradient-based Attacks with Gradients**|Hanbin Hong et.al.|[2202.01117v1](http://arxiv.org/abs/2202.01117v1)|null|
@@ -12,7 +33,7 @@
 |**2022-02-02**|**Image-based Navigation in Real-World Environments via Multiple Mid-level Representations: Fusion Models, Benchmark and Efficient Evaluation**|Marco Rosano et.al.|[2202.01069v1](http://arxiv.org/abs/2202.01069v1)|null|
 |**2022-02-02**|**MMSys'22 Grand Challenge on AI-based Video Production for Soccer**|Cise Midoglu et.al.|[2202.01031v1](http://arxiv.org/abs/2202.01031v1)|null|
 |**2022-02-02**|**MedNeRF: Medical Neural Radiance Fields for Reconstructing 3D-aware CT-Projections from a Single X-ray**|Abril Corona-Figueroa et.al.|[2202.01020v1](http://arxiv.org/abs/2202.01020v1)|null|
-|**2022-02-02**|**Auto-Transfer: Learning to Route Transferrable Representations**|Keerthiram Murugesan et.al.|[2202.01011v1](http://arxiv.org/abs/2202.01011v1)|**[link](https://github.com/ibm/auto-transfer)**|
+|**2022-02-03**|**Auto-Transfer: Learning to Route Transferrable Representations**|Keerthiram Murugesan et.al.|[2202.01011v2](http://arxiv.org/abs/2202.01011v2)|**[link](https://github.com/ibm/auto-transfer)**|
 |**2022-02-02**|**Gradient Variance Loss for Structure-Enhanced Image Super-Resolution**|Lusine Abrahamyan et.al.|[2202.00997v1](http://arxiv.org/abs/2202.00997v1)|null|
 |**2022-02-02**|**Dictionary learning for clustering on hyperspectral images**|Joshua Bruton et.al.|[2202.00990v1](http://arxiv.org/abs/2202.00990v1)|**[link](https://github.com/JoshuaDBruton/SparseCoefficientClustering)**|
 |**2022-02-02**|**DCSAU-Net: A Deeper and More Compact Split-Attention U-Net for Medical Image Segmentation**|Qing Xu et.al.|[2202.00972v1](http://arxiv.org/abs/2202.00972v1)|**[link](https://github.com/xq141839/DCSAU-Net)**|

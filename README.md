@@ -30,7 +30,7 @@
 |**2022-02-02**|**Probabilistically Robust Learning: Balancing Average- and Worst-case Performance**|Alexander Robey et.al.|[2202.01136v1](http://arxiv.org/abs/2202.01136v1)|null|
 |**2022-02-02**|**An Eye for an Eye: Defending against Gradient-based Attacks with Gradients**|Hanbin Hong et.al.|[2202.01117v1](http://arxiv.org/abs/2202.01117v1)|null|
 |**2022-02-02**|**Unpaired Image Super-Resolution with Optimal Transport Maps**|Milena Gazdieva et.al.|[2202.01116v1](http://arxiv.org/abs/2202.01116v1)|null|
-|**2022-02-02**|**Image-based Navigation in Real-World Environments via Multiple Mid-level Representations: Fusion Models, Benchmark and Efficient Evaluation**|Marco Rosano et.al.|[2202.01069v1](http://arxiv.org/abs/2202.01069v1)|null|
+|**2022-02-02**|**Image-based Navigation in Real-World Environments via Multiple Mid-level Representations: Fusion Models, Benchmark and Efficient Evaluation**|Marco Rosano et.al.|[2202.01069v1](http://arxiv.org/abs/2202.01069v1)|**[link](https://github.com/fpv-iplab/mid-level-fusion-nav)**|
 |**2022-02-02**|**MMSys'22 Grand Challenge on AI-based Video Production for Soccer**|Cise Midoglu et.al.|[2202.01031v1](http://arxiv.org/abs/2202.01031v1)|null|
 |**2022-02-02**|**MedNeRF: Medical Neural Radiance Fields for Reconstructing 3D-aware CT-Projections from a Single X-ray**|Abril Corona-Figueroa et.al.|[2202.01020v1](http://arxiv.org/abs/2202.01020v1)|null|
 |**2022-02-03**|**Auto-Transfer: Learning to Route Transferrable Representations**|Keerthiram Murugesan et.al.|[2202.01011v2](http://arxiv.org/abs/2202.01011v2)|**[link](https://github.com/ibm/auto-transfer)**|

@@ -16,7 +16,7 @@
 |**2022-02-03**|**Boosting Monocular Depth Estimation with Sparse Guided Points**|Guangkai Xu et.al.|[2202.01470v1](http://arxiv.org/abs/2202.01470v1)|null|
 |**2022-02-03**|**Concept Bottleneck Model with Additional Unsupervised Concepts**|Yoshihide Sawada et.al.|[2202.01459v1](http://arxiv.org/abs/2202.01459v1)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
-|**2022-02-03**|**Characterization of Semantic Segmentation Models on Mobile Platforms for Self-Navigation in Disaster-Struck Zones**|Ryan Zelek et.al.|[2202.01421v1](http://arxiv.org/abs/2202.01421v1)|null|
+|**2022-02-03**|**Characterization of Semantic Segmentation Models on Mobile Platforms for Self-Navigation in Disaster-Struck Zones**|Ryan Zelek et.al.|[2202.01421v1](http://arxiv.org/abs/2202.01421v1)|**[link](https://gitlab.com/thor-auto1/thor-auto)**|
 |**2022-02-03**|**DocBed: A Multi-Stage OCR Solution for Documents with Complex Layouts**|Wenzhen Zhu et.al.|[2202.01414v1](http://arxiv.org/abs/2202.01414v1)|null|
 |**2022-02-03**|**Exploring Sub-skeleton Trajectories for Interpretable Recognition of Sign Language**|Joachim Gudmundsson et.al.|[2202.01390v1](http://arxiv.org/abs/2202.01390v1)|null|
 |**2022-02-02**|**PanoDepth: A Two-Stage Approach for Monocular Omnidirectional Depth Estimation**|Yuyan Li et.al.|[2202.01323v1](http://arxiv.org/abs/2202.01323v1)|null|

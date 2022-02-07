@@ -10,7 +10,7 @@
 |**2022-02-04**|**Multi-task head pose estimation in-the-wild**|Roberto Valle et.al.|[2202.02299v1](http://arxiv.org/abs/2202.02299v1)|**[link](https://github.com/bobetocalo/bobetocalo_pami20)**|
 |**2022-02-04**|**Quality Assessment of Low Light Restored Images: A Subjective Study and an Unsupervised Model**|Vignesh Kannan et.al.|[2202.02277v1](http://arxiv.org/abs/2202.02277v1)|null|
 |**2022-02-04**|**Iterative Self Knowledge Distillation -- From Pothole Classification to Fine-Grained and COVID Recognition**|Kuan-Chuan Peng et.al.|[2202.02265v1](http://arxiv.org/abs/2202.02265v1)|null|
-|**2022-02-04**|**Personalized visual encoding model construction with small data**|Zijin Gu et.al.|[2202.02245v1](http://arxiv.org/abs/2202.02245v1)|null|
+|**2022-02-04**|**Personalized visual encoding model construction with small data**|Zijin Gu et.al.|[2202.02245v1](http://arxiv.org/abs/2202.02245v1)|**[link](https://github.com/zijin-gu/NeuroGen)**|
 |**2022-02-04**|**Bootstrapped Representation Learning for Skeleton-Based Action Recognition**|Olivier Moliner et.al.|[2202.02232v1](http://arxiv.org/abs/2202.02232v1)|null|
 |**2022-02-04**|**Video Violence Recognition and Localization using a Semi-Supervised Hard-Attention Model**|Hamid Mohammadi et.al.|[2202.02212v1](http://arxiv.org/abs/2202.02212v1)|null|
 |**2022-02-04**|**Learning with Neighbor Consistency for Noisy Labels**|Ahmet Iscen et.al.|[2202.02200v1](http://arxiv.org/abs/2202.02200v1)|null|

@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-07**|**Hybrid Contrastive Quantization for Efficient Cross-View Video Retrieval**|Jinpeng Wang et.al.|[2202.03384v1](http://arxiv.org/abs/2202.03384v1)|**[link](https://github.com/gimpong/WWW22-HCQ)**|
+|**2022-02-07**|**Corrupted Image Modeling for Self-Supervised Visual Pre-Training**|Yuxin Fang et.al.|[2202.03382v1](http://arxiv.org/abs/2202.03382v1)|null|
+|**2022-02-07**|**Benchmarking and Analyzing Point Cloud Classification under Corruptions**|Jiawei Ren et.al.|[2202.03377v1](http://arxiv.org/abs/2202.03377v1)|**[link](https://github.com/jiawei-ren/modelnetc)**|
+|**2022-02-07**|**Message Passing Neural PDE Solvers**|Johannes Brandstetter et.al.|[2202.03376v1](http://arxiv.org/abs/2202.03376v1)|null|
+|**2022-02-07**|**LEDNet: Joint Low-light Enhancement and Deblurring in the Dark**|Shangchen Zhou et.al.|[2202.03373v1](http://arxiv.org/abs/2202.03373v1)|null|
+|**2022-02-07**|**Simple Control Baselines for Evaluating Transfer Learning**|Andrei Atanov et.al.|[2202.03365v1](http://arxiv.org/abs/2202.03365v1)|null|
+|**2022-02-07**|**FrePGAN: Robust Deepfake Detection Using Frequency-level Perturbations**|Yonghyun Jeong et.al.|[2202.03347v1](http://arxiv.org/abs/2202.03347v1)|null|
+|**2022-02-07**|**A Review of Landcover Classification with Very-High Resolution Remotely Sensed Optical Images-Analysis Unit,Model Scalability and Transferability**|Rongjun Qin et.al.|[2202.03342v1](http://arxiv.org/abs/2202.03342v1)|null|
+|**2022-02-07**|**Motion-Plane-Adaptive Inter Prediction in 360-Degree Video Coding**|Andy Regensky et.al.|[2202.03323v1](http://arxiv.org/abs/2202.03323v1)|null|
+|**2022-02-07**|**CZU-MHAD: A multimodal dataset for human action recognition utilizing a depth camera and 10 wearable inertial sensors**|Xin Chao et.al.|[2202.03283v1](http://arxiv.org/abs/2202.03283v1)|null|
+|**2022-02-07**|**Crafting Better Contrastive Views for Siamese Representation Learning**|Xiangyu Peng et.al.|[2202.03278v1](http://arxiv.org/abs/2202.03278v1)|**[link](https://github.com/xyupeng/contrastivecrop)**|
+|**2022-02-07**|**Confidence Guided Depth Completion Network**|Yongjin Lee et.al.|[2202.03257v1](http://arxiv.org/abs/2202.03257v1)|null|
+|**2022-02-07**|**Towards an Analytical Definition of Sufficient Data**|Adam Byerly et.al.|[2202.03238v1](http://arxiv.org/abs/2202.03238v1)|null|
+|**2022-02-07**|**PSSNet: Planarity-sensible Semantic Segmentation of Large-scale Urban Meshes**|Weixiao Gao et.al.|[2202.03209v1](http://arxiv.org/abs/2202.03209v1)|null|
+|**2022-02-07**|**Recent Trends in 2D Object Detection and Applications in Video Event Recognition**|Prithwish Jana et.al.|[2202.03206v1](http://arxiv.org/abs/2202.03206v1)|null|
+|**2022-02-07**|**Field-of-View IoU for Object Detection in 360° Images**|Miao Cao et.al.|[2202.03176v1](http://arxiv.org/abs/2202.03176v1)|null|
+|**2022-02-07**|**Patch-Based Stochastic Attention for Image Editing**|Nicolas Cherel et.al.|[2202.03163v1](http://arxiv.org/abs/2202.03163v1)|null|
+|**2022-02-07**|**Transformers in Self-Supervised Monocular Depth Estimation with Unknown Camera Intrinsics**|Arnav Varma et.al.|[2202.03131v1](http://arxiv.org/abs/2202.03131v1)|null|
+|**2022-02-07**|**Reasoning for Complex Data through Ensemble-based Self-Supervised Learning**|Gabriel Bertocco et.al.|[2202.03126v1](http://arxiv.org/abs/2202.03126v1)|null|
+|**2022-02-07**|**Bubble identification from images with machine learning methods**|Hendrik Hessenkemper et.al.|[2202.03107v1](http://arxiv.org/abs/2202.03107v1)|null|
+|**2022-02-07**|**Auto-Lambda: Disentangling Dynamic Task Relationships**|Shikun Liu et.al.|[2202.03091v1](http://arxiv.org/abs/2202.03091v1)|**[link](https://github.com/lorenmt/auto-lambda)**|
+|**2022-02-07**|**Unsupervised Long-Term Person Re-Identification with Clothes Change**|Mingkun Li et.al.|[2202.03087v1](http://arxiv.org/abs/2202.03087v1)|null|
+|**2022-02-07**|**Temporal Point Cloud Completion with Pose Disturbance**|Jieqi Shi et.al.|[2202.03084v1](http://arxiv.org/abs/2202.03084v1)|null|
+|**2022-02-07**|**Imposing Temporal Consistency on Deep Monocular Body Shape and Pose Estimation**|Alexandra Zimmer et.al.|[2202.03074v1](http://arxiv.org/abs/2202.03074v1)|null|
+|**2022-02-07**|**Evaluation of Runtime Monitoring for UAV Emergency Landing**|Joris Guerin et.al.|[2202.03059v1](http://arxiv.org/abs/2202.03059v1)|null|
+|**2022-02-07**|**Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework**|Peng Wang et.al.|[2202.03052v1](http://arxiv.org/abs/2202.03052v1)|**[link](https://github.com/ofa-sys/ofa)**|
+|**2022-02-07**|**A new face swap method for image and video domains: a technical report**|Daniil Chesakov et.al.|[2202.03046v1](http://arxiv.org/abs/2202.03046v1)|null|
+|**2022-02-07**|**A comprehensive benchmark analysis for sand dust image reconstruction**|Yazhong Si et.al.|[2202.03031v1](http://arxiv.org/abs/2202.03031v1)|null|
+|**2022-02-07**|**Context Autoencoder for Self-Supervised Representation Learning**|Xiaokang Chen et.al.|[2202.03026v1](http://arxiv.org/abs/2202.03026v1)|null|
+|**2022-02-07**|**Learning Sound Localization Better From Semantically Similar Samples**|Arda Senocak et.al.|[2202.03007v1](http://arxiv.org/abs/2202.03007v1)|null|
+|**2022-02-07**|**Automatic defect segmentation by unsupervised anomaly learning**|Nati Ofir et.al.|[2202.02998v1](http://arxiv.org/abs/2202.02998v1)|null|
+|**2022-02-07**|**3D Object Detection from Images for Autonomous Driving: A Survey**|Xinzhu Ma et.al.|[2202.02980v1](http://arxiv.org/abs/2202.02980v1)|null|
+|**2022-02-07**|**SUD: Supervision by Denoising for Medical Image Segmentation**|Sean I. Young et.al.|[2202.02952v1](http://arxiv.org/abs/2202.02952v1)|null|
+|**2022-02-07**|**Deep Deterministic Independent Component Analysis for Hyperspectral Unmixing**|Hongming Li et.al.|[2202.02951v1](http://arxiv.org/abs/2202.02951v1)|**[link](https://github.com/hongmingli1995/ddica)**|
+|**2022-02-07**|**Towards Micro-video Thumbnail Selection via a Multi-label Visual-semantic Embedding Model**|Liu Bo et.al.|[2202.02930v1](http://arxiv.org/abs/2202.02930v1)|null|
+|**2022-02-07**|**Benchmarking Deep Models for Salient Object Detection**|Huajun Zhou et.al.|[2202.02925v1](http://arxiv.org/abs/2202.02925v1)|null|
+|**2022-02-07**|**Dataset Condensation with Contrastive Signals**|Saehyung Lee et.al.|[2202.02916v1](http://arxiv.org/abs/2202.02916v1)|**[link](https://github.com/dcc-anonymous/dcc_under_review)**|
+|**2022-02-07**|**Inter-subject Contrastive Learning for Subject Adaptive EEG-based Visual Recognition**|Pilhyeon Lee et.al.|[2202.02901v1](http://arxiv.org/abs/2202.02901v1)|**[link](https://github.com/DeepBCI/Deep-BCI)**|
+|**2022-02-06**|**CheXstray: Real-time Multi-Modal Data Concordance for Drift Detection in Medical Imaging AI**|Arjun Soin et.al.|[2202.02833v1](http://arxiv.org/abs/2202.02833v1)|null|
+|**2022-02-06**|**Detecting Melanoma Fairly: Skin Tone Detection and Debiasing for Skin Lesion Classification**|Peter J. Bevan et.al.|[2202.02832v1](http://arxiv.org/abs/2202.02832v1)|null|
+|**2022-02-06**|**Block shuffling learning for Deepfake Detection**|Sitong Liu et.al.|[2202.02819v1](http://arxiv.org/abs/2202.02819v1)|null|
+|**2022-02-06**|**Perceptual Coding for Compressed Video Understanding: A New Framework and Benchmark**|Yuan Tian et.al.|[2202.02813v1](http://arxiv.org/abs/2202.02813v1)|null|
+|**2022-02-06**|**Low-confidence Samples Matter for Domain Adaptation**|Yixin Zhang et.al.|[2202.02802v1](http://arxiv.org/abs/2202.02802v1)|**[link](https://github.com/zhyx12/mixlrco)**|
+|**2022-02-06**|**GLPanoDepth: Global-to-Local Panoramic Depth Estimation**|Jiayang Bai et.al.|[2202.02796v1](http://arxiv.org/abs/2202.02796v1)|null|
+|**2022-02-06**|**Energy awareness in low precision neural networks**|Nurit Spingarn Eliezer et.al.|[2202.02783v1](http://arxiv.org/abs/2202.02783v1)|null|
+|**2022-02-06**|**Multi-domain Unsupervised Image-to-Image Translation with Appearance Adaptive Convolution**|Somi Jeong et.al.|[2202.02779v1](http://arxiv.org/abs/2202.02779v1)|null|
+|**2022-02-06**|**Learning Features with Parameter-Free Layers**|Dongyoon Han et.al.|[2202.02777v1](http://arxiv.org/abs/2202.02777v1)|**[link](https://github.com/naver-ai/pflayer)**|
+|**2022-02-06**|**On Smart Gaze based Annotation of Histopathology Images for Training of Deep Convolutional Neural Networks**|Komal Mariam et.al.|[2202.02764v1](http://arxiv.org/abs/2202.02764v1)|**[link](https://github.com/sigmalabresearch/visnotate)**|
+|**2022-02-06**|**Enhancing variational generation through self-decomposition**|Andrea Asperti et.al.|[2202.02738v1](http://arxiv.org/abs/2202.02738v1)|null|
+|**2022-02-06**|**FEAT: Face Editing with Attention**|Xianxu Hou et.al.|[2202.02713v1](http://arxiv.org/abs/2202.02713v1)|null|
 |**2022-02-04**|**Webly Supervised Concept Expansion for General Purpose Vision Models**|Amita Kamath et.al.|[2202.02317v1](http://arxiv.org/abs/2202.02317v1)|null|
 |**2022-02-04**|**Towards To-a-T Spatio-Temporal Focus for Skeleton-Based Action Recognition**|Lipeng Ke et.al.|[2202.02314v1](http://arxiv.org/abs/2202.02314v1)|null|
 |**2022-02-04**|**Interactive Mobile App Navigation with Uncertain or Under-specified Natural Language Commands**|Andrea Burns et.al.|[2202.02312v1](http://arxiv.org/abs/2202.02312v1)|null|

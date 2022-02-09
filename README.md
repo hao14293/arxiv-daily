@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-08**|**DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers**|Jaemin Cho et.al.|[2202.04053v1](http://arxiv.org/abs/2202.04053v1)|**[link](https://github.com/j-min/dalleval)**|
+|**2022-02-08**|**Self-Conditioned Generative Adversarial Networks for Image Editing**|Yunzhe Liu et.al.|[2202.04040v1](http://arxiv.org/abs/2202.04040v1)|null|
+|**2022-02-08**|**Residual Aligned: Gradient Optimization for Non-Negative Image Synthesis**|Flora Yu Shen et.al.|[2202.04036v1](http://arxiv.org/abs/2202.04036v1)|null|
+|**2022-02-08**|**Self-supervised Contrastive Learning for Volcanic Unrest Detection**|Nikolaos Ioannis Bountos et.al.|[2202.04030v1](http://arxiv.org/abs/2202.04030v1)|**[link](https://github.com/ngbountos/deepcubevolcano)**|
+|**2022-02-08**|**NEWSKVQA: Knowledge-Aware News Video Question Answering**|Pranay Gupta et.al.|[2202.04015v1](http://arxiv.org/abs/2202.04015v1)|null|
+|**2022-02-08**|**Results and findings of the 2021 Image Similarity Challenge**|Zoë Papakipos et.al.|[2202.04007v1](http://arxiv.org/abs/2202.04007v1)|null|
+|**2022-02-08**|**Equivariance versus Augmentation for Spherical Images**|Jan E. Gerken et.al.|[2202.03990v1](http://arxiv.org/abs/2202.03990v1)|**[link](https://github.com/janegerken/sem_seg_s2cnn)**|
+|**2022-02-08**|**Segmentation by Test-Time Optimization (TTO) for CBCT-based Adaptive Radiation Therapy**|Xiao Liang et.al.|[2202.03978v1](http://arxiv.org/abs/2202.03978v1)|null|
+|**2022-02-08**|**Self-supervised Contrastive Learning for Cross-domain Hyperspectral Image Representation**|Hyungtae Lee et.al.|[2202.03968v1](http://arxiv.org/abs/2202.03968v1)|null|
+|**2022-02-08**|**Uncertainty Modeling for Out-of-Distribution Generalization**|Xiaotong Li et.al.|[2202.03958v1](http://arxiv.org/abs/2202.03958v1)|**[link](https://github.com/lixiaotong97/dsu)**|
+|**2022-02-08**|**Bingham Policy Parameterization for 3D Rotations in Reinforcement Learning**|Stephen James et.al.|[2202.03957v1](http://arxiv.org/abs/2202.03957v1)|null|
+|**2022-02-08**|**Social-DualCVAE: Multimodal Trajectory Forecasting Based on Social Interactions Pattern Aware and Dual Conditional Variational Auto-Encoder**|Jiashi Gao et.al.|[2202.03954v1](http://arxiv.org/abs/2202.03954v1)|null|
+|**2022-02-08**|**If a Human Can See It, So Should Your System: Reliability Requirements for Machine Vision Components**|Boyue Caroline Hu et.al.|[2202.03930v1](http://arxiv.org/abs/2202.03930v1)|null|
+|**2022-02-08**|**Edge-based fever screening system over private 5G**|Murugan Sankaradas et.al.|[2202.03917v1](http://arxiv.org/abs/2202.03917v1)|null|
+|**2022-02-08**|**GLPU: A Geometric Approach For Lidar Pointcloud Upsampling**|George Eskandar et.al.|[2202.03901v1](http://arxiv.org/abs/2202.03901v1)|null|
+|**2022-02-08**|**BIQ2021: A Large-Scale Blind Image Quality Assessment Database**|Nisar Ahmed et.al.|[2202.03879v1](http://arxiv.org/abs/2202.03879v1)|null|
+|**2022-02-08**|**Learning Optical Flow with Adaptive Graph Reasoning**|Ao Luo et.al.|[2202.03857v1](http://arxiv.org/abs/2202.03857v1)|**[link](https://github.com/la30/agflow)**|
+|**2022-02-08**|**Class Density and Dataset Quality in High-Dimensional, Unstructured Data**|Adam Byerly et.al.|[2202.03856v1](http://arxiv.org/abs/2202.03856v1)|null|
+|**2022-02-08**|**A Unified Multi-Task Learning Framework of Real-Time Drone Supervision for Crowd Counting**|Siqi Gu et.al.|[2202.03843v1](http://arxiv.org/abs/2202.03843v1)|null|
+|**2022-02-08**|**On the Pitfalls of Using the Residual Error as Anomaly Score**|Felix Meissen et.al.|[2202.03826v1](http://arxiv.org/abs/2202.03826v1)|**[link](https://github.com/felime/residual-score-pitfalls)**|
+|**2022-02-08**|**A Novel Plug-in Module for Fine-Grained Visual Classification**|Po-Yung Chou et.al.|[2202.03822v1](http://arxiv.org/abs/2202.03822v1)|null|
+|**2022-02-08**|**Ada-NETS: Face Clustering via Adaptive Neighbour Discovery in the Structure Space**|Yaohua Wang et.al.|[2202.03800v1](http://arxiv.org/abs/2202.03800v1)|null|
+|**2022-02-08**|**SCR: Smooth Contour Regression with Geometric Priors**|Gaetan Bahl et.al.|[2202.03784v1](http://arxiv.org/abs/2202.03784v1)|null|
+|**2022-02-08**|**Addressing Data Scarcity in Multimodal User State Recognition by Combining Semi-Supervised and Supervised Learning**|Hendric Voß et.al.|[2202.03775v1](http://arxiv.org/abs/2202.03775v1)|null|
+|**2022-02-08**|**STC: Spatio-Temporal Contrastive Learning for Video Instance Segmentation**|Zhengkai Jiang et.al.|[2202.03747v1](http://arxiv.org/abs/2202.03747v1)|null|
+|**2022-02-08**|**Consistency-Regularized Region-Growing Network for Semantic Segmentation of Urban Scenes with Point-Level Annotations**|Yonghao Xu et.al.|[2202.03740v1](http://arxiv.org/abs/2202.03740v1)|null|
+|**2022-02-08**|**A Survey of Breast Cancer Screening Techniques: Thermography and Electrical Impedance Tomography**|Juan Zuluaga-Gomez et.al.|[2202.03737v1](http://arxiv.org/abs/2202.03737v1)|null|
+|**2022-02-08**|**Navigating to Objects in Unseen Environments by Distance Prediction**|Minzhao Zhu et.al.|[2202.03735v1](http://arxiv.org/abs/2202.03735v1)|null|
+|**2022-02-08**|**Hair Color Digitization through Imaging and Deep Inverse Graphics**|Robin Kips et.al.|[2202.03723v1](http://arxiv.org/abs/2202.03723v1)|null|
+|**2022-02-08**|**Binary Neural Networks as a general-propose compute paradigm for on-device computer vision**|Guhong Nie et.al.|[2202.03716v1](http://arxiv.org/abs/2202.03716v1)|null|
+|**2022-02-08**|**What's Cracking? A Review and Analysis of Deep Learning Methods for Structural Crack Segmentation, Detection and Quantification**|Jacob König et.al.|[2202.03714v1](http://arxiv.org/abs/2202.03714v1)|null|
+|**2022-02-08**|**Self-Paced Imbalance Rectification for Class Incremental Learning**|Zhiheng Liu et.al.|[2202.03703v1](http://arxiv.org/abs/2202.03703v1)|**[link](https://github.com/johanan528/sir)**|
+|**2022-02-08**|**Network Comparison Study of Deep Activation Feature Discriminability with Novel Objects**|Michael Karnes et.al.|[2202.03695v1](http://arxiv.org/abs/2202.03695v1)|null|
+|**2022-02-08**|**Exploring Inter-Channel Correlation for Diversity-preserved KnowledgeDistillation**|Li Liu et.al.|[2202.03680v1](http://arxiv.org/abs/2202.03680v1)|**[link](https://github.com/adlab-autodrive/ickd)**|
+|**2022-02-08**|**Quality Metric Guided Portrait Line Drawing Generation from Unpaired Training Data**|Ran Yi et.al.|[2202.03678v1](http://arxiv.org/abs/2202.03678v1)|**[link](https://github.com/yiranran/qmupd)**|
+|**2022-02-08**|**A Novel Image Descriptor with Aggregated Semantic Skeleton Representation for Long-term Visual Place Recognition**|Nie Jiwei et.al.|[2202.03677v1](http://arxiv.org/abs/2202.03677v1)|null|
+|**2022-02-08**|**Trained Model in Supervised Deep Learning is a Conditional Risk Minimizer**|Yutong Xie et.al.|[2202.03674v1](http://arxiv.org/abs/2202.03674v1)|null|
+|**2022-02-08**|**CAD-RADS Scoring using Deep Learning and Task-Specific Centerline Labeling**|Felix Denzinger et.al.|[2202.03671v1](http://arxiv.org/abs/2202.03671v1)|null|
+|**2022-02-08**|**How to Understand Masked Autoencoders**|Shuhao Cao et.al.|[2202.03670v1](http://arxiv.org/abs/2202.03670v1)|null|
+|**2022-02-08**|**Causal Scene BERT: Improving object detection by searching for challenging groups of data**|Cinjon Resnick et.al.|[2202.03651v1](http://arxiv.org/abs/2202.03651v1)|null|
+|**2022-02-08**|**MOST-Net: A Memory Oriented Style Transfer Network for Face Sketch Synthesis**|Fan Ji et.al.|[2202.03596v1](http://arxiv.org/abs/2202.03596v1)|null|
+|**2022-02-08**|**Model and predict age and sex in healthy subjects using brain white matter features: A deep learning approach**|Hao He et.al.|[2202.03595v1](http://arxiv.org/abs/2202.03595v1)|null|
+|**2022-02-08**|**Fair SA: Sensitivity Analysis for Fairness in Face Recognition**|Aparna R. Joshi et.al.|[2202.03586v1](http://arxiv.org/abs/2202.03586v1)|null|
+|**2022-02-08**|**Multi-Label Classification of Thoracic Diseases using Dense Convolutional Network on Chest Radiographs**|Dipkamal Bhusal et.al.|[2202.03583v1](http://arxiv.org/abs/2202.03583v1)|null|
+|**2022-02-08**|**Metal Artifact Reduction with Intra-Oral Scan Data for 3D Low Dose Maxillofacial CBCT Modeling**|Chang Min Hyun et.al.|[2202.03571v1](http://arxiv.org/abs/2202.03571v1)|null|
+|**2022-02-08**|**Phase-Stretch Adaptive Gradient-Field Extractor (PAGE)**|Callen MacPhee et.al.|[2202.03570v1](http://arxiv.org/abs/2202.03570v1)|null|
+|**2022-02-07**|**Accurate super-resolution low-field brain MRI**|Juan Eugenio Iglesias et.al.|[2202.03564v1](http://arxiv.org/abs/2202.03564v1)|null|
+|**2022-02-07**|**Aladdin: Joint Atlas Building and Diffeomorphic Registration Learning with Pairwise Alignment**|Zhipeng Ding et.al.|[2202.03563v1](http://arxiv.org/abs/2202.03563v1)|null|
+|**2022-02-07**|**HeadPosr: End-to-end Trainable Head Pose Estimation using Transformer Encoders**|Naina Dhingra et.al.|[2202.03548v1](http://arxiv.org/abs/2202.03548v1)|null|
+|**2022-02-07**|**LwPosr: Lightweight Efficient Fine-Grained Head Pose Estimation**|Naina Dhingra et.al.|[2202.03544v1](http://arxiv.org/abs/2202.03544v1)|null|
 |**2022-02-07**|**Hybrid Contrastive Quantization for Efficient Cross-View Video Retrieval**|Jinpeng Wang et.al.|[2202.03384v1](http://arxiv.org/abs/2202.03384v1)|**[link](https://github.com/gimpong/WWW22-HCQ)**|
 |**2022-02-07**|**Corrupted Image Modeling for Self-Supervised Visual Pre-Training**|Yuxin Fang et.al.|[2202.03382v1](http://arxiv.org/abs/2202.03382v1)|null|
 |**2022-02-07**|**Benchmarking and Analyzing Point Cloud Classification under Corruptions**|Jiawei Ren et.al.|[2202.03377v1](http://arxiv.org/abs/2202.03377v1)|**[link](https://github.com/jiawei-ren/modelnetc)**|

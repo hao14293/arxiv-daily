@@ -24,7 +24,7 @@
 |**2022-02-08**|**Class Density and Dataset Quality in High-Dimensional, Unstructured Data**|Adam Byerly et.al.|[2202.03856v1](http://arxiv.org/abs/2202.03856v1)|null|
 |**2022-02-08**|**A Unified Multi-Task Learning Framework of Real-Time Drone Supervision for Crowd Counting**|Siqi Gu et.al.|[2202.03843v1](http://arxiv.org/abs/2202.03843v1)|null|
 |**2022-02-08**|**On the Pitfalls of Using the Residual Error as Anomaly Score**|Felix Meissen et.al.|[2202.03826v1](http://arxiv.org/abs/2202.03826v1)|**[link](https://github.com/felime/residual-score-pitfalls)**|
-|**2022-02-08**|**A Novel Plug-in Module for Fine-Grained Visual Classification**|Po-Yung Chou et.al.|[2202.03822v1](http://arxiv.org/abs/2202.03822v1)|null|
+|**2022-02-08**|**A Novel Plug-in Module for Fine-Grained Visual Classification**|Po-Yung Chou et.al.|[2202.03822v1](http://arxiv.org/abs/2202.03822v1)|**[link](https://github.com/chou141253/fgvc-pim)**|
 |**2022-02-08**|**Ada-NETS: Face Clustering via Adaptive Neighbour Discovery in the Structure Space**|Yaohua Wang et.al.|[2202.03800v1](http://arxiv.org/abs/2202.03800v1)|null|
 |**2022-02-08**|**SCR: Smooth Contour Regression with Geometric Priors**|Gaetan Bahl et.al.|[2202.03784v1](http://arxiv.org/abs/2202.03784v1)|null|
 |**2022-02-08**|**Addressing Data Scarcity in Multimodal User State Recognition by Combining Semi-Supervised and Supervised Learning**|Hendric Voß et.al.|[2202.03775v1](http://arxiv.org/abs/2202.03775v1)|null|

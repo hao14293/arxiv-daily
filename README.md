@@ -4,6 +4,39 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-09**|**Point-Level Region Contrast for Object Detection Pre-Training**|Yutong Bai et.al.|[2202.04639v1](http://arxiv.org/abs/2202.04639v1)|null|
+|**2022-02-09**|**Reducing Redundancy in the Bottleneck Representation of the Autoencoders**|Firas Laakom et.al.|[2202.04629v1](http://arxiv.org/abs/2202.04629v1)|null|
+|**2022-02-09**|**Distance Estimation and Animal Tracking for Wildlife Camera Trapping**|Peter Johanns et.al.|[2202.04613v1](http://arxiv.org/abs/2202.04613v1)|null|
+|**2022-02-09**|**Exploring Structural Sparsity in Neural Image Compression**|Shanzhi Yin et.al.|[2202.04595v1](http://arxiv.org/abs/2202.04595v1)|null|
+|**2022-02-09**|**NIMBLE: A Non-rigid Hand Model with Bones and Muscles**|Yuwei Li et.al.|[2202.04533v1](http://arxiv.org/abs/2202.04533v1)|null|
+|**2022-02-09**|**End-to-End Blind Quality Assessment for Laparoscopic Videos using Neural Networks**|Zohaib Amjad Khan et.al.|[2202.04517v1](http://arxiv.org/abs/2202.04517v1)|null|
+|**2022-02-09**|**CRAT-Pred: Vehicle Trajectory Prediction with Crystal Graph Convolutional Neural Networks and Multi-Head Self-Attention**|Julian Schmidt et.al.|[2202.04488v1](http://arxiv.org/abs/2202.04488v1)|**[link](https://github.com/schmidt-ju/crat-pred)**|
+|**2022-02-09**|**Predicting the intended action using internal simulation of perception**|Zahra Gharaee et.al.|[2202.04466v1](http://arxiv.org/abs/2202.04466v1)|null|
+|**2022-02-09**|**Object-Guided Day-Night Visual Localization in Urban Scenes**|Assia Benbihi et.al.|[2202.04445v1](http://arxiv.org/abs/2202.04445v1)|null|
+|**2022-02-09**|**Deep Feature Rotation for Multimodal Image Style Transfer**|Son Truong Nguyen et.al.|[2202.04426v1](http://arxiv.org/abs/2202.04426v1)|**[link](https://github.com/sonnguyen129/deep-feature-rotation)**|
+|**2022-02-09**|**Anchor Graph Structure Fusion Hashing for Cross-Modal Similarity Search**|Lu Wang et.al.|[2202.04327v1](http://arxiv.org/abs/2202.04327v1)|null|
+|**2022-02-09**|**Conditional Motion In-betweening**|Jihoon Kim et.al.|[2202.04307v1](http://arxiv.org/abs/2202.04307v1)|null|
+|**2022-02-09**|**Can Open Domain Question Answering Systems Answer Visual Knowledge Questions?**|Jiawen Zhang et.al.|[2202.04306v1](http://arxiv.org/abs/2202.04306v1)|null|
+|**2022-02-09**|**Image Difference Captioning with Pre-training and Contrastive Learning**|Linli Yao et.al.|[2202.04298v1](http://arxiv.org/abs/2202.04298v1)|null|
+|**2022-02-09**|**Learning to Bootstrap for Combating Label Noise**|Yuyin Zhou et.al.|[2202.04291v1](http://arxiv.org/abs/2202.04291v1)|**[link](https://github.com/yuyinzhou/l2b)**|
+|**2022-02-09**|**Amplitude Spectrum Transformation for Open Compound Domain Adaptive Semantic Segmentation**|Jogendra Nath Kundu et.al.|[2202.04287v1](http://arxiv.org/abs/2202.04287v1)|null|
+|**2022-02-09**|**Adversarial Detection without Model Information**|Abhishek Moitra et.al.|[2202.04271v1](http://arxiv.org/abs/2202.04271v1)|null|
+|**2022-02-09**|**GiraffeDet: A Heavy-Neck Paradigm for Object Detection**|Yiqi Jiang et.al.|[2202.04256v1](http://arxiv.org/abs/2202.04256v1)|null|
+|**2022-02-09**|**Motion-Aware Transformer For Occluded Person Re-identification**|Mi Zhou et.al.|[2202.04243v1](http://arxiv.org/abs/2202.04243v1)|null|
+|**2022-02-09**|**Distillation with Contrast is All You Need for Self-Supervised Point Cloud Representation Learning**|Kexue Fu et.al.|[2202.04241v1](http://arxiv.org/abs/2202.04241v1)|null|
+|**2022-02-09**|**A multiscale spatiotemporal approach for smallholder irrigation detection**|Terence Conlon et.al.|[2202.04239v1](http://arxiv.org/abs/2202.04239v1)|null|
+|**2022-02-09**|**Learning Robust Convolutional Neural Networks with Relevant Feature Focusing via Explanations**|Kazuki Adachi et.al.|[2202.04237v1](http://arxiv.org/abs/2202.04237v1)|null|
+|**2022-02-09**|**Towards Compositional Adversarial Robustness: Generalizing Adversarial Training to Composite Semantic Perturbations**|Yun-Yun Tsai et.al.|[2202.04235v1](http://arxiv.org/abs/2202.04235v1)|null|
+|**2022-02-09**|**Real-Time Event-Based Tracking and Detection for Maritime Environments**|Stephanie Aelmore et.al.|[2202.04231v1](http://arxiv.org/abs/2202.04231v1)|**[link](https://github.com/believeinlain/asynch-cv)**|
+|**2022-02-08**|**MaskGIT: Masked Generative Image Transformer**|Huiwen Chang et.al.|[2202.04200v1](http://arxiv.org/abs/2202.04200v1)|null|
+|**2022-02-08**|**TransformNet: Self-supervised representation learning through predicting geometric transformations**|Sayed Hashim et.al.|[2202.04181v1](http://arxiv.org/abs/2202.04181v1)|null|
+|**2022-02-08**|**Federated Learning of Generative Image Priors for MRI Reconstruction**|Gokberk Elmas et.al.|[2202.04175v1](http://arxiv.org/abs/2202.04175v1)|null|
+|**2022-02-08**|**Untrimmed Action Anticipation**|Ivan Rodin et.al.|[2202.04132v1](http://arxiv.org/abs/2202.04132v1)|null|
+|**2022-02-08**|**Disentangle Saliency Detection into Cascaded Detail Modeling and Body Filling**|Yue Song et.al.|[2202.04112v1](http://arxiv.org/abs/2202.04112v1)|null|
+|**2022-02-08**|**Face2PPG: An unsupervised pipeline for blood volume pulse extraction from faces**|Constantino Álvarez Casado et.al.|[2202.04101v1](http://arxiv.org/abs/2202.04101v1)|null|
+|**2022-02-08**|**Joint-bone Fusion Graph Convolutional Network for Semi-supervised Skeleton Action Recognition**|Zhigang Tu et.al.|[2202.04075v1](http://arxiv.org/abs/2202.04075v1)|null|
+|**2022-02-08**|**Cross-level Contrastive Learning and Consistency Constraint for Semi-supervised Medical Image Segmentation**|Xinkai Zhao et.al.|[2202.04074v1](http://arxiv.org/abs/2202.04074v1)|**[link](https://github.com/shinkaiz/clcc-semi)**|
+|**2022-02-08**|**The EMory BrEast imaging Dataset (EMBED): A Racially Diverse, Granular Dataset of 3.5M Screening and Diagnostic Mammograms**|Jiwoong J. Jeong et.al.|[2202.04073v1](http://arxiv.org/abs/2202.04073v1)|null|
 |**2022-02-08**|**DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers**|Jaemin Cho et.al.|[2202.04053v1](http://arxiv.org/abs/2202.04053v1)|**[link](https://github.com/j-min/dalleval)**|
 |**2022-02-08**|**Self-Conditioned Generative Adversarial Networks for Image Editing**|Yunzhe Liu et.al.|[2202.04040v1](http://arxiv.org/abs/2202.04040v1)|null|
 |**2022-02-08**|**Residual Aligned: Gradient Optimization for Non-Negative Image Synthesis**|Flora Yu Shen et.al.|[2202.04036v1](http://arxiv.org/abs/2202.04036v1)|null|

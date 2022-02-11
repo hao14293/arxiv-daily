@@ -4,13 +4,53 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-10**|**Image-to-Image Regression with Distribution-Free Uncertainty Quantification and Applications in Imaging**|Anastasios N Angelopoulos et.al.|[2202.05265v1](http://arxiv.org/abs/2202.05265v1)|**[link](https://github.com/aangelopoulos/im2im-uq)**|
+|**2022-02-10**|**Block-NeRF: Scalable Large Scene Neural View Synthesis**|Matthew Tancik et.al.|[2202.05263v1](http://arxiv.org/abs/2202.05263v1)|null|
+|**2022-02-10**|**F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization**|Qing Jin et.al.|[2202.05239v1](http://arxiv.org/abs/2202.05239v1)|**[link](https://github.com/snap-research/f8net)**|
+|**2022-02-10**|**Towards Predicting Fine Finger Motions from Ultrasound Images via Kinematic Representation**|Dean Zadok et.al.|[2202.05204v1](http://arxiv.org/abs/2202.05204v1)|null|
+|**2022-02-10**|**Visual Servoing for Pose Control of Soft Continuum Arm in a Structured Environment**|Shivani Kamtikar et.al.|[2202.05200v1](http://arxiv.org/abs/2202.05200v1)|null|
+|**2022-02-10**|**A Human-Centered Machine-Learning Approach for Muscle-Tendon Junction Tracking in Ultrasound Images**|Christoph Leitner et.al.|[2202.05199v1](http://arxiv.org/abs/2202.05199v1)|null|
+|**2022-02-10**|**Adults as Augmentations for Children in Facial Emotion Recognition with Contrastive Learning**|Marco Virgolin et.al.|[2202.05187v1](http://arxiv.org/abs/2202.05187v1)|null|
+|**2022-02-09**|**Class Distance Weighted Cross-Entropy Loss for Ulcerative Colitis Severity Estimation**|Gorkem Polat et.al.|[2202.05167v1](http://arxiv.org/abs/2202.05167v1)|null|
+|**2022-02-10**|**Feature-level augmentation to improve robustness of deep neural networks to affine transformations**|Adrian Sandru et.al.|[2202.05152v1](http://arxiv.org/abs/2202.05152v1)|null|
+|**2022-02-10**|**Deep Learning for Computational Cytology: A Survey**|Hao Jiang et.al.|[2202.05126v1](http://arxiv.org/abs/2202.05126v1)|null|
+|**2022-02-10**|**Equivariance Regularization for Image Reconstruction**|Junqi Tang et.al.|[2202.05062v1](http://arxiv.org/abs/2202.05062v1)|null|
+|**2022-02-10**|**Exploiting Spatial Sparsity for Event Cameras with Visual Transformers**|Zuowen Wang et.al.|[2202.05054v1](http://arxiv.org/abs/2202.05054v1)|null|
+|**2022-02-10**|**NÜWA-LIP: Language Guided Image Inpainting with Defect-free VQGAN**|Minheng Ni et.al.|[2202.05009v1](http://arxiv.org/abs/2202.05009v1)|null|
+|**2022-02-10**|**Towards Assessing and Characterizing the Semantic Robustness of Face Recognition**|Juan C. Pérez et.al.|[2202.04978v1](http://arxiv.org/abs/2202.04978v1)|null|
+|**2022-02-10**|**Real-Time Siamese Multiple Object Tracker with Enhanced Proposals**|Lorenzo Vaquero et.al.|[2202.04966v1](http://arxiv.org/abs/2202.04966v1)|null|
+|**2022-02-10**|**Monotonically Convergent Regularization by Denoising**|Yuyang Hu et.al.|[2202.04961v1](http://arxiv.org/abs/2202.04961v1)|null|
+|**2022-02-10**|**OWL (Observe, Watch, Listen): Localizing Actions in Egocentric Video via Audiovisual Temporal Context**|Merey Ramazanova et.al.|[2202.04947v1](http://arxiv.org/abs/2202.04947v1)|null|
+|**2022-02-10**|**Spherical Transformer**|Sungmin Cho et.al.|[2202.04942v1](http://arxiv.org/abs/2202.04942v1)|null|
+|**2022-02-10**|**FILM: Frame Interpolation for Large Motion**|Fitsum Reda et.al.|[2202.04901v1](http://arxiv.org/abs/2202.04901v1)|**[link](https://github.com/google-research/frame-interpolation)**|
+|**2022-02-10**|**Improving performance of aircraft detection in satellite imagery while limiting the labelling effort: Hybrid active learning**|Julie Imbert et.al.|[2202.04890v1](http://arxiv.org/abs/2202.04890v1)|null|
+|**2022-02-10**|**Towards the automated large-scale reconstruction of past road networks from historical maps**|Johannes H. Uhl et.al.|[2202.04883v1](http://arxiv.org/abs/2202.04883v1)|null|
+|**2022-02-10**|**PVSeRF: Joint Pixel-, Voxel- and Surface-Aligned Radiance Field for Single-Image Novel View Synthesis**|Xianggang Yu et.al.|[2202.04879v1](http://arxiv.org/abs/2202.04879v1)|null|
+|**2022-02-10**|**Memory-based gaze prediction in deep imitation learning for robot manipulation**|Heecheol Kim et.al.|[2202.04877v1](http://arxiv.org/abs/2202.04877v1)|null|
+|**2022-02-10**|**Consistency and Diversity induced Human Motion Segmentation**|Tao Zhou et.al.|[2202.04861v1](http://arxiv.org/abs/2202.04861v1)|null|
+|**2022-02-10**|**Geometric Digital Twinning of Industrial Facilities: Retrieval of Industrial Shapes**|Eva Agapaki et.al.|[2202.04834v1](http://arxiv.org/abs/2202.04834v1)|null|
+|**2022-02-10**|**Bias-Eliminated Semantic Refinement for Any-Shot Learning**|Liangjun Feng et.al.|[2202.04827v1](http://arxiv.org/abs/2202.04827v1)|**[link](https://github.com/liangjunfeng/srwgan)**|
+|**2022-02-10**|**Decreasing Annotation Burden of Pairwise Comparisons with Human-in-the-Loop Sorting: Application in Medical Image Artifact Rating**|Ikbeom Jang et.al.|[2202.04823v1](http://arxiv.org/abs/2202.04823v1)|null|
+|**2022-02-10**|**Weakly-Supervised Semantic Segmentation with Visual Words Learning and Hybrid Pooling**|Lixiang Ru et.al.|[2202.04812v1](http://arxiv.org/abs/2202.04812v1)|null|
+|**2022-02-10**|**The Abduction of Sherlock Holmes: A Dataset for Visual Abductive Reasoning**|Jack Hessel et.al.|[2202.04800v1](http://arxiv.org/abs/2202.04800v1)|null|
+|**2022-02-10**|**Multiclass histogram-based thresholding using kernel density estimation and scale-space representations**|S. Korneev et.al.|[2202.04785v1](http://arxiv.org/abs/2202.04785v1)|null|
+|**2022-02-10**|**Adversarial Attack and Defense of YOLO Detectors in Autonomous Driving Scenarios**|Jung Im Choi et.al.|[2202.04781v1](http://arxiv.org/abs/2202.04781v1)|null|
+|**2022-02-09**|**Sampling Strategy for Fine-Tuning Segmentation Models to Crisis Area under Scarcity of Data**|Adrianna Janik et.al.|[2202.04766v1](http://arxiv.org/abs/2202.04766v1)|null|
+|**2022-02-09**|**Discovering Concepts in Learned Representations using Statistical Inference and Interactive Visualization**|Adrianna Janik et.al.|[2202.04753v1](http://arxiv.org/abs/2202.04753v1)|null|
+|**2022-02-09**|**Estimation of Clinical Workload and Patient Activity using Deep Learning and Optical Flow**|Thanh Nguyen-Duc et.al.|[2202.04748v1](http://arxiv.org/abs/2202.04748v1)|null|
+|**2022-02-09**|**Graph Neural Network for Cell Tracking in Microscopy Videos**|Tal Ben-Haim et.al.|[2202.04731v1](http://arxiv.org/abs/2202.04731v1)|null|
+|**2022-02-09**|**PINs: Progressive Implicit Networks for Multi-Scale Neural Representations**|Zoe Landgraf et.al.|[2202.04713v1](http://arxiv.org/abs/2202.04713v1)|null|
+|**2022-02-09**|**A Joint Variational Multichannel Multiphase Segmentation Framework**|Nadja Gruber et.al.|[2202.04680v1](http://arxiv.org/abs/2202.04680v1)|null|
+|**2022-02-09**|**Can Humans Do Less-Than-One-Shot Learning?**|Maya Malaviya et.al.|[2202.04670v1](http://arxiv.org/abs/2202.04670v1)|null|
+|**2022-02-09**|**Semantic Segmentation of Anaemic RBCs Using Multilevel Deep Convolutional Encoder-Decoder Network**|Muhammad Shahzad et.al.|[2202.04650v1](http://arxiv.org/abs/2202.04650v1)|null|
+|**2022-02-09**|**Multi-modal unsupervised brain image registration using edge maps**|Vasiliki Sideri-Lampretsa et.al.|[2202.04647v1](http://arxiv.org/abs/2202.04647v1)|null|
 |**2022-02-09**|**Point-Level Region Contrast for Object Detection Pre-Training**|Yutong Bai et.al.|[2202.04639v1](http://arxiv.org/abs/2202.04639v1)|null|
 |**2022-02-09**|**Reducing Redundancy in the Bottleneck Representation of the Autoencoders**|Firas Laakom et.al.|[2202.04629v1](http://arxiv.org/abs/2202.04629v1)|null|
 |**2022-02-09**|**Distance Estimation and Animal Tracking for Wildlife Camera Trapping**|Peter Johanns et.al.|[2202.04613v1](http://arxiv.org/abs/2202.04613v1)|null|
-|**2022-02-09**|**Exploring Structural Sparsity in Neural Image Compression**|Shanzhi Yin et.al.|[2202.04595v1](http://arxiv.org/abs/2202.04595v1)|null|
+|**2022-02-10**|**Exploring Structural Sparsity in Neural Image Compression**|Shanzhi Yin et.al.|[2202.04595v2](http://arxiv.org/abs/2202.04595v2)|null|
 |**2022-02-09**|**NIMBLE: A Non-rigid Hand Model with Bones and Muscles**|Yuwei Li et.al.|[2202.04533v1](http://arxiv.org/abs/2202.04533v1)|null|
 |**2022-02-09**|**End-to-End Blind Quality Assessment for Laparoscopic Videos using Neural Networks**|Zohaib Amjad Khan et.al.|[2202.04517v1](http://arxiv.org/abs/2202.04517v1)|null|
-|**2022-02-09**|**CRAT-Pred: Vehicle Trajectory Prediction with Crystal Graph Convolutional Neural Networks and Multi-Head Self-Attention**|Julian Schmidt et.al.|[2202.04488v1](http://arxiv.org/abs/2202.04488v1)|**[link](https://github.com/schmidt-ju/crat-pred)**|
+|**2022-02-10**|**CRAT-Pred: Vehicle Trajectory Prediction with Crystal Graph Convolutional Neural Networks and Multi-Head Self-Attention**|Julian Schmidt et.al.|[2202.04488v2](http://arxiv.org/abs/2202.04488v2)|**[link](https://github.com/schmidt-ju/crat-pred)**|
 |**2022-02-09**|**Predicting the intended action using internal simulation of perception**|Zahra Gharaee et.al.|[2202.04466v1](http://arxiv.org/abs/2202.04466v1)|null|
 |**2022-02-09**|**Object-Guided Day-Night Visual Localization in Urban Scenes**|Assia Benbihi et.al.|[2202.04445v1](http://arxiv.org/abs/2202.04445v1)|null|
 |**2022-02-09**|**Deep Feature Rotation for Multimodal Image Style Transfer**|Son Truong Nguyen et.al.|[2202.04426v1](http://arxiv.org/abs/2202.04426v1)|**[link](https://github.com/sonnguyen129/deep-feature-rotation)**|

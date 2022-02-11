@@ -9,7 +9,7 @@
 |**2022-02-10**|**F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization**|Qing Jin et.al.|[2202.05239v1](http://arxiv.org/abs/2202.05239v1)|**[link](https://github.com/snap-research/f8net)**|
 |**2022-02-10**|**Towards Predicting Fine Finger Motions from Ultrasound Images via Kinematic Representation**|Dean Zadok et.al.|[2202.05204v1](http://arxiv.org/abs/2202.05204v1)|null|
 |**2022-02-10**|**Visual Servoing for Pose Control of Soft Continuum Arm in a Structured Environment**|Shivani Kamtikar et.al.|[2202.05200v1](http://arxiv.org/abs/2202.05200v1)|null|
-|**2022-02-10**|**A Human-Centered Machine-Learning Approach for Muscle-Tendon Junction Tracking in Ultrasound Images**|Christoph Leitner et.al.|[2202.05199v1](http://arxiv.org/abs/2202.05199v1)|null|
+|**2022-02-10**|**A Human-Centered Machine-Learning Approach for Muscle-Tendon Junction Tracking in Ultrasound Images**|Christoph Leitner et.al.|[2202.05199v1](http://arxiv.org/abs/2202.05199v1)|**[link](https://github.com/luuleitner/deepMTJ)**|
 |**2022-02-10**|**Adults as Augmentations for Children in Facial Emotion Recognition with Contrastive Learning**|Marco Virgolin et.al.|[2202.05187v1](http://arxiv.org/abs/2202.05187v1)|null|
 |**2022-02-09**|**Class Distance Weighted Cross-Entropy Loss for Ulcerative Colitis Severity Estimation**|Gorkem Polat et.al.|[2202.05167v1](http://arxiv.org/abs/2202.05167v1)|null|
 |**2022-02-10**|**Feature-level augmentation to improve robustness of deep neural networks to affine transformations**|Adrian Sandru et.al.|[2202.05152v1](http://arxiv.org/abs/2202.05152v1)|null|
@@ -36,7 +36,7 @@
 |**2022-02-10**|**Multiclass histogram-based thresholding using kernel density estimation and scale-space representations**|S. Korneev et.al.|[2202.04785v1](http://arxiv.org/abs/2202.04785v1)|null|
 |**2022-02-10**|**Adversarial Attack and Defense of YOLO Detectors in Autonomous Driving Scenarios**|Jung Im Choi et.al.|[2202.04781v1](http://arxiv.org/abs/2202.04781v1)|null|
 |**2022-02-09**|**Sampling Strategy for Fine-Tuning Segmentation Models to Crisis Area under Scarcity of Data**|Adrianna Janik et.al.|[2202.04766v1](http://arxiv.org/abs/2202.04766v1)|null|
-|**2022-02-09**|**Discovering Concepts in Learned Representations using Statistical Inference and Interactive Visualization**|Adrianna Janik et.al.|[2202.04753v1](http://arxiv.org/abs/2202.04753v1)|null|
+|**2022-02-09**|**Discovering Concepts in Learned Representations using Statistical Inference and Interactive Visualization**|Adrianna Janik et.al.|[2202.04753v1](http://arxiv.org/abs/2202.04753v1)|**[link](https://github.com/adrijanik/concepts-exploration)**|
 |**2022-02-09**|**Estimation of Clinical Workload and Patient Activity using Deep Learning and Optical Flow**|Thanh Nguyen-Duc et.al.|[2202.04748v1](http://arxiv.org/abs/2202.04748v1)|null|
 |**2022-02-09**|**Graph Neural Network for Cell Tracking in Microscopy Videos**|Tal Ben-Haim et.al.|[2202.04731v1](http://arxiv.org/abs/2202.04731v1)|null|
 |**2022-02-09**|**PINs: Progressive Implicit Networks for Multi-Scale Neural Representations**|Zoe Landgraf et.al.|[2202.04713v1](http://arxiv.org/abs/2202.04713v1)|null|

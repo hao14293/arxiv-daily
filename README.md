@@ -4,15 +4,54 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-11**|**SafePicking: Learning Safe Object Extraction via Object-Level Mapping**|Kentaro Wada et.al.|[2202.05832v1](http://arxiv.org/abs/2202.05832v1)|null|
+|**2022-02-11**|**CLIPasso: Semantically-Aware Object Sketching**|Yael Vinker et.al.|[2202.05822v1](http://arxiv.org/abs/2202.05822v1)|null|
+|**2022-02-11**|**Meta-learning with GANs for anomaly detection, with deployment in high-speed rail inspection system**|Haoyang Cao et.al.|[2202.05795v1](http://arxiv.org/abs/2202.05795v1)|null|
+|**2022-02-11**|**Multi-Modal Knowledge Graph Construction and Application: A Survey**|Xiangru Zhu et.al.|[2202.05786v1](http://arxiv.org/abs/2202.05786v1)|null|
+|**2022-02-11**|**Assessing Privacy Risks from Feature Vector Reconstruction Attacks**|Emily Wenger et.al.|[2202.05760v1](http://arxiv.org/abs/2202.05760v1)|null|
+|**2022-02-11**|**Borrowing from yourself: Faster future video segmentation with partial channel update**|Evann Courdier et.al.|[2202.05748v1](http://arxiv.org/abs/2202.05748v1)|null|
+|**2022-02-11**|**Patch-NetVLAD+: Learned patch descriptor and weighted matching strategy for place recognition**|Yingfeng Cai et.al.|[2202.05738v1](http://arxiv.org/abs/2202.05738v1)|null|
+|**2022-02-11**|**Deep soccer captioning with transformer: dataset, semantics-related losses, and multi-level evaluation**|Ahmad Hammoudeh et.al.|[2202.05728v1](http://arxiv.org/abs/2202.05728v1)|null|
+|**2022-02-11**|**Towards Adversarially Robust Deepfake Detection: An Ensemble Approach**|Ashish Hooda et.al.|[2202.05687v1](http://arxiv.org/abs/2202.05687v1)|null|
+|**2022-02-11**|**SuperCon: Supervised Contrastive Learning for Imbalanced Skin Lesion Classification**|Keyu Chen et.al.|[2202.05685v1](http://arxiv.org/abs/2202.05685v1)|**[link](https://github.com/keyu07/supercon_isic)**|
+|**2022-02-11**|**Tiny Object Tracking: A Large-scale Dataset and A Baseline**|Yabin Zhu et.al.|[2202.05659v1](http://arxiv.org/abs/2202.05659v1)|null|
+|**2022-02-11**|**Vehicle and License Plate Recognition with Novel Dataset for Toll Collection**|Muhammad Usama et.al.|[2202.05631v1](http://arxiv.org/abs/2202.05631v1)|**[link](https://github.com/usama-x930/vt-lpr)**|
+|**2022-02-11**|**Artemis: Articulated Neural Pets with Appearance and Motion synthesis**|Haimin Luo et.al.|[2202.05628v1](http://arxiv.org/abs/2202.05628v1)|null|
+|**2022-02-11**|**A Wasserstein GAN for Joint Learning of Inpainting and its Spatial Optimisation**|Pascal Peter et.al.|[2202.05623v1](http://arxiv.org/abs/2202.05623v1)|null|
+|**2022-02-11**|**Video-driven Neural Physically-based Facial Asset for Production**|Longwen Zhang et.al.|[2202.05592v1](http://arxiv.org/abs/2202.05592v1)|null|
+|**2022-02-11**|**Unsupervised HDR Imaging: What Can Be Learned from a Single 8-bit Video?**|Francesco Banterle et.al.|[2202.05522v1](http://arxiv.org/abs/2202.05522v1)|null|
+|**2022-02-11**|**Dilated convolutional neural network-based deep reference picture generation for video compression**|Haoyue Tian et.al.|[2202.05514v1](http://arxiv.org/abs/2202.05514v1)|null|
+|**2022-02-11**|**Towards Weakly-Supervised Text Spotting using a Multi-Task Transformer**|Yair Kittenplon et.al.|[2202.05508v1](http://arxiv.org/abs/2202.05508v1)|null|
+|**2022-02-11**|**Multi-Modal Fusion for Sensorimotor Coordination in Steering Angle Prediction**|Farzeen Munir et.al.|[2202.05500v1](http://arxiv.org/abs/2202.05500v1)|**[link](https://github.com/azamshoaib/drfuser)**|
+|**2022-02-11**|**Entroformer: A Transformer-based Entropy Model for Learned Image Compression**|Yichen Qian et.al.|[2202.05492v1](http://arxiv.org/abs/2202.05492v1)|**[link](https://github.com/mx54039q/entroformer)**|
+|**2022-02-11**|**Exemplar-free Online Continual Learning**|Jiangpeng He et.al.|[2202.05491v1](http://arxiv.org/abs/2202.05491v1)|null|
+|**2022-02-11**|**Bench-Marking And Improving Arabic Automatic Image Captioning Through The Use Of Multi-Task Learning Paradigm**|Muhy Eddin Za'ter et.al.|[2202.05474v1](http://arxiv.org/abs/2202.05474v1)|null|
+|**2022-02-11**|**WAD-CMSN: Wasserstein Distance based Cross-Modal Semantic Network for Zero-Shot Sketch-Based Image Retrieval**|Guanglong Xu et.al.|[2202.05465v1](http://arxiv.org/abs/2202.05465v1)|null|
+|**2022-02-11**|**ACORT: A Compact Object Relation Transformer for Parameter Efficient Image Captioning**|Jia Huei Tan et.al.|[2202.05451v1](http://arxiv.org/abs/2202.05451v1)|**[link](https://github.com/jiahuei/sparse-image-captioning)**|
+|**2022-02-11**|**Incremental Learning of Structured Memory via Closed-Loop Transcription**|Shengbang Tong et.al.|[2202.05411v1](http://arxiv.org/abs/2202.05411v1)|null|
+|**2022-02-11**|**Including Facial Expressions in Contextual Embeddings for Sign Language Generation**|Carla Viegas et.al.|[2202.05383v1](http://arxiv.org/abs/2202.05383v1)|null|
+|**2022-02-11**|**Give me a knee radiograph, I will tell you where the knee joint area is: a deep convolutional neural network adventure**|Shi Yan et.al.|[2202.05382v1](http://arxiv.org/abs/2202.05382v1)|null|
+|**2022-02-10**|**The MeLa BitChute Dataset**|Milo Trujillo et.al.|[2202.05364v1](http://arxiv.org/abs/2202.05364v1)|null|
+|**2022-02-10**|**Optimal Transport for Super Resolution Applied to Astronomy Imaging**|Michael Rawson et.al.|[2202.05354v1](http://arxiv.org/abs/2202.05354v1)|null|
+|**2022-02-10**|**Domain Adversarial Training: A Game Perspective**|David Acuna et.al.|[2202.05352v1](http://arxiv.org/abs/2202.05352v1)|null|
+|**2022-02-10**|**Coded ResNeXt: a network for designing disentangled information paths**|Apostolos Avranas et.al.|[2202.05343v1](http://arxiv.org/abs/2202.05343v1)|null|
+|**2022-02-10**|**Dynamic Background Subtraction by Generative Neural Networks**|Fateme Bahri et.al.|[2202.05336v1](http://arxiv.org/abs/2202.05336v1)|**[link](https://github.com/fatemebahri/dbsgen)**|
+|**2022-02-10**|**Learning the Pedestrian-Vehicle Interaction for Pedestrian Trajectory Prediction**|Chi Zhang et.al.|[2202.05334v1](http://arxiv.org/abs/2202.05334v1)|null|
+|**2022-02-10**|**Describing image focused in cognitive and visual details for visually impaired people: An approach to generating inclusive paragraphs**|Daniel Louzada Fernandes et.al.|[2202.05331v1](http://arxiv.org/abs/2202.05331v1)|null|
+|**2022-02-10**|**Mining the manifolds of deep generative models for multiple data-consistent solutions of ill-posed tomographic imaging problems**|Sayantan Bhadra et.al.|[2202.05311v1](http://arxiv.org/abs/2202.05311v1)|null|
+|**2022-02-10**|**Characterizing and overcoming the greedy nature of learning in multi-modal deep neural networks**|Nan Wu et.al.|[2202.05306v1](http://arxiv.org/abs/2202.05306v1)|null|
+|**2022-02-10**|**Face Beneath the Ink: Synthetic Data and Tattoo Removal with Application to Face Recognition**|Mathias Ibsen et.al.|[2202.05297v1](http://arxiv.org/abs/2202.05297v1)|null|
+|**2022-02-10**|**Motion Puzzle: Arbitrary Motion Style Transfer by Body Part**|Deok-Kyeong Jang et.al.|[2202.05274v1](http://arxiv.org/abs/2202.05274v1)|null|
+|**2022-02-10**|**Towards a Guideline for Evaluation Metrics in Medical Image Segmentation**|Dominik Müller et.al.|[2202.05273v1](http://arxiv.org/abs/2202.05273v1)|**[link](https://github.com/frankkramer-lab/miseval.analysis)**|
 |**2022-02-10**|**Image-to-Image Regression with Distribution-Free Uncertainty Quantification and Applications in Imaging**|Anastasios N Angelopoulos et.al.|[2202.05265v1](http://arxiv.org/abs/2202.05265v1)|**[link](https://github.com/aangelopoulos/im2im-uq)**|
 |**2022-02-10**|**Block-NeRF: Scalable Large Scene Neural View Synthesis**|Matthew Tancik et.al.|[2202.05263v1](http://arxiv.org/abs/2202.05263v1)|null|
 |**2022-02-10**|**F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization**|Qing Jin et.al.|[2202.05239v1](http://arxiv.org/abs/2202.05239v1)|**[link](https://github.com/snap-research/f8net)**|
 |**2022-02-10**|**Towards Predicting Fine Finger Motions from Ultrasound Images via Kinematic Representation**|Dean Zadok et.al.|[2202.05204v1](http://arxiv.org/abs/2202.05204v1)|null|
-|**2022-02-10**|**Visual Servoing for Pose Control of Soft Continuum Arm in a Structured Environment**|Shivani Kamtikar et.al.|[2202.05200v1](http://arxiv.org/abs/2202.05200v1)|null|
+|**2022-02-11**|**Visual Servoing for Pose Control of Soft Continuum Arm in a Structured Environment**|Shivani Kamtikar et.al.|[2202.05200v2](http://arxiv.org/abs/2202.05200v2)|null|
 |**2022-02-10**|**A Human-Centered Machine-Learning Approach for Muscle-Tendon Junction Tracking in Ultrasound Images**|Christoph Leitner et.al.|[2202.05199v1](http://arxiv.org/abs/2202.05199v1)|**[link](https://github.com/luuleitner/deepMTJ)**|
 |**2022-02-10**|**Adults as Augmentations for Children in Facial Emotion Recognition with Contrastive Learning**|Marco Virgolin et.al.|[2202.05187v1](http://arxiv.org/abs/2202.05187v1)|null|
 |**2022-02-09**|**Class Distance Weighted Cross-Entropy Loss for Ulcerative Colitis Severity Estimation**|Gorkem Polat et.al.|[2202.05167v1](http://arxiv.org/abs/2202.05167v1)|null|
-|**2022-02-10**|**Feature-level augmentation to improve robustness of deep neural networks to affine transformations**|Adrian Sandru et.al.|[2202.05152v1](http://arxiv.org/abs/2202.05152v1)|null|
+|**2022-02-11**|**Feature-level augmentation to improve robustness of deep neural networks to affine transformations**|Adrian Sandru et.al.|[2202.05152v2](http://arxiv.org/abs/2202.05152v2)|null|
 |**2022-02-10**|**Deep Learning for Computational Cytology: A Survey**|Hao Jiang et.al.|[2202.05126v1](http://arxiv.org/abs/2202.05126v1)|null|
 |**2022-02-10**|**Equivariance Regularization for Image Reconstruction**|Junqi Tang et.al.|[2202.05062v1](http://arxiv.org/abs/2202.05062v1)|null|
 |**2022-02-10**|**Exploiting Spatial Sparsity for Event Cameras with Visual Transformers**|Zuowen Wang et.al.|[2202.05054v1](http://arxiv.org/abs/2202.05054v1)|null|

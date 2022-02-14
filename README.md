@@ -34,7 +34,7 @@
 |**2022-02-10**|**The MeLa BitChute Dataset**|Milo Trujillo et.al.|[2202.05364v1](http://arxiv.org/abs/2202.05364v1)|null|
 |**2022-02-10**|**Optimal Transport for Super Resolution Applied to Astronomy Imaging**|Michael Rawson et.al.|[2202.05354v1](http://arxiv.org/abs/2202.05354v1)|null|
 |**2022-02-10**|**Domain Adversarial Training: A Game Perspective**|David Acuna et.al.|[2202.05352v1](http://arxiv.org/abs/2202.05352v1)|null|
-|**2022-02-10**|**Coded ResNeXt: a network for designing disentangled information paths**|Apostolos Avranas et.al.|[2202.05343v1](http://arxiv.org/abs/2202.05343v1)|null|
+|**2022-02-10**|**Coded ResNeXt: a network for designing disentangled information paths**|Apostolos Avranas et.al.|[2202.05343v1](http://arxiv.org/abs/2202.05343v1)|**[link](https://github.com/avranasa/coded-resnext)**|
 |**2022-02-10**|**Dynamic Background Subtraction by Generative Neural Networks**|Fateme Bahri et.al.|[2202.05336v1](http://arxiv.org/abs/2202.05336v1)|**[link](https://github.com/fatemebahri/dbsgen)**|
 |**2022-02-10**|**Learning the Pedestrian-Vehicle Interaction for Pedestrian Trajectory Prediction**|Chi Zhang et.al.|[2202.05334v1](http://arxiv.org/abs/2202.05334v1)|null|
 |**2022-02-10**|**Describing image focused in cognitive and visual details for visually impaired people: An approach to generating inclusive paragraphs**|Daniel Louzada Fernandes et.al.|[2202.05331v1](http://arxiv.org/abs/2202.05331v1)|null|

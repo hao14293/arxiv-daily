@@ -25,8 +25,8 @@
 |**2022-02-14**|**Convolutional Neural Network with Convolutional Block Attention Module for Finger Vein Recognition**|Zhongxia Zhang et.al.|[2202.06673v1](http://arxiv.org/abs/2202.06673v1)|null|
 |**2022-02-14**|**On the Complexity of Object Detection on Real-world Public Transportation Images for Social Distancing Measurement**|Nik Khadijah Nik Aznan et.al.|[2202.06639v1](http://arxiv.org/abs/2202.06639v1)|null|
 |**2022-02-14**|**MuZero with Self-competition for Rate Control in VP9 Video Compression**|Amol Mandhane et.al.|[2202.06626v1](http://arxiv.org/abs/2202.06626v1)|null|
-|**2022-02-14**|**Multi-Atlas Segmentation and Spatial Alignment of the Human Embryo in First Trimester 3D Ultrasound**|W. A. P. Bastiaansen et.al.|[2202.06599v1](http://arxiv.org/abs/2202.06599v1)|null|
-|**2022-02-14**|**A Pragmatic Machine Learning Approach to Quantify Tumor Infiltrating Lymphocytes in Whole Slide Images**|Nikita Shvetsov et.al.|[2202.06590v1](http://arxiv.org/abs/2202.06590v1)|**[link](https://github.com/uit-hdl/hovernet-pipeline)**|
+|**2022-02-14**|**Multi-Atlas Segmentation and Spatial Alignment of the Human Embryo in First Trimester 3D Ultrasound**|W. A. P. Bastiaansen et.al.|[2202.06599v1](http://arxiv.org/abs/2202.06599v1)|**[link](https://github.com/wapbastiaansen/multi-atlas-seg-reg)**|
+|**2022-02-14**|**A Pragmatic Machine Learning Approach to Quantify Tumor Infiltrating Lymphocytes in Whole Slide Images**|Nikita Shvetsov et.al.|[2202.06590v1](http://arxiv.org/abs/2202.06590v1)|**[link](https://github.com/uit-hdl/histology)**|
 |**2022-02-14**|**I-Tuning: Tuning Language Models with Image for Caption Generation**|Ziyang Luo et.al.|[2202.06574v1](http://arxiv.org/abs/2202.06574v1)|null|
 |**2022-02-14**|**Online-updated High-order Collaborative Networks for Single Image Deraining**|Cong Wang et.al.|[2202.06568v1](http://arxiv.org/abs/2202.06568v1)|null|
 |**2022-02-14**|**Single-stage Rotate Object Detector via Two Points with Solar Corona Heatmap**|Beihang Song et.al.|[2202.06565v1](http://arxiv.org/abs/2202.06565v1)|null|

@@ -1,9 +1,59 @@
-## Updated on 2022.02.14
+## Updated on 2022.02.15
 
 ## cs.CV
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-14**|**Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection**|Fatih Cagatay Akyon et.al.|[2202.06934v1](http://arxiv.org/abs/2202.06934v1)|**[link](https://github.com/obss/sahi)**|
+|**2022-02-14**|**Do Gradient Inversion Attacks Make Federated Learning Unsafe?**|Ali Hatamizadeh et.al.|[2202.06924v1](http://arxiv.org/abs/2202.06924v1)|null|
+|**2022-02-14**|**A Generic Self-Supervised Framework of Learning Invariant Discriminative Features**|Foivos Ntelemis et.al.|[2202.06914v1](http://arxiv.org/abs/2202.06914v1)|null|
+|**2022-02-14**|**COLA: COarse LAbel pre-training for 3D semantic segmentation of sparse LiDAR datasets**|Jules Sanchez et.al.|[2202.06884v1](http://arxiv.org/abs/2202.06884v1)|null|
+|**2022-02-14**|**A Graphical Approach For Brain Haemorrhage Segmentation**|Dr. Ninad Mehendale et.al.|[2202.06876v1](http://arxiv.org/abs/2202.06876v1)|null|
+|**2022-02-14**|**Visual Acoustic Matching**|Changan Chen et.al.|[2202.06875v1](http://arxiv.org/abs/2202.06875v1)|null|
+|**2022-02-14**|**An experimental study of the vision-bottleneck in VQA**|Pierre Marza et.al.|[2202.06858v1](http://arxiv.org/abs/2202.06858v1)|null|
+|**2022-02-14**|**A Graph-Matching Approach for Cross-view Registration of Over-view 2 and Street-view based Point Clouds**|Xiao Ling et.al.|[2202.06857v1](http://arxiv.org/abs/2202.06857v1)|null|
+|**2022-02-14**|**HAKE: A Knowledge Engine Foundation for Human Activity Understanding**|Yong-Lu Li et.al.|[2202.06851v1](http://arxiv.org/abs/2202.06851v1)|null|
+|**2022-02-14**|**CATs++: Boosting Cost Aggregation with Convolutions and Transformers**|Seokju Cho et.al.|[2202.06817v1](http://arxiv.org/abs/2202.06817v1)|**[link](https://github.com/SunghwanHong/Cost-Aggregation-transformers)**|
+|**2022-02-14**|**Multi-scale Attention Guided Pose Transfer**|Prasun Roy et.al.|[2202.06777v1](http://arxiv.org/abs/2202.06777v1)|**[link](https://github.com/prasunroy/pose-transfer)**|
+|**2022-02-14**|**Probabilistic Embeddings Revisited**|Ivan Karpukhin et.al.|[2202.06768v1](http://arxiv.org/abs/2202.06768v1)|null|
+|**2022-02-14**|**Wukong: 100 Million Large-scale Chinese Cross-modal Pre-training Dataset and A Foundation Framework**|Jiaxi Gu et.al.|[2202.06767v1](http://arxiv.org/abs/2202.06767v1)|null|
+|**2022-02-14**|**How Do Vision Transformers Work?**|Namuk Park et.al.|[2202.06709v1](http://arxiv.org/abs/2202.06709v1)|**[link](https://github.com/xxxnell/how-do-vits-work)**|
+|**2022-02-14**|**Spiking Cochlea with System-level Local Automatic Gain Control**|Ilya Kiselev et.al.|[2202.06707v1](http://arxiv.org/abs/2202.06707v1)|null|
+|**2022-02-14**|**Geometric Transformer for Fast and Robust Point Cloud Registration**|Zheng Qin et.al.|[2202.06688v1](http://arxiv.org/abs/2202.06688v1)|**[link](https://github.com/qinzheng93/geotransformer)**|
+|**2022-02-14**|**Domain Adaptation via Prompt Learning**|Chunjiang Ge et.al.|[2202.06687v1](http://arxiv.org/abs/2202.06687v1)|null|
+|**2022-02-14**|**Can Machines Help Us Answering Question 16 in Datasheets, and In Turn Reflecting on Inappropriate Content?**|Patrick Schramowski et.al.|[2202.06675v1](http://arxiv.org/abs/2202.06675v1)|**[link](https://github.com/ml-research/offimgdetectionclip)**|
+|**2022-02-14**|**Convolutional Neural Network with Convolutional Block Attention Module for Finger Vein Recognition**|Zhongxia Zhang et.al.|[2202.06673v1](http://arxiv.org/abs/2202.06673v1)|null|
+|**2022-02-14**|**On the Complexity of Object Detection on Real-world Public Transportation Images for Social Distancing Measurement**|Nik Khadijah Nik Aznan et.al.|[2202.06639v1](http://arxiv.org/abs/2202.06639v1)|null|
+|**2022-02-14**|**MuZero with Self-competition for Rate Control in VP9 Video Compression**|Amol Mandhane et.al.|[2202.06626v1](http://arxiv.org/abs/2202.06626v1)|null|
+|**2022-02-14**|**Multi-Atlas Segmentation and Spatial Alignment of the Human Embryo in First Trimester 3D Ultrasound**|W. A. P. Bastiaansen et.al.|[2202.06599v1](http://arxiv.org/abs/2202.06599v1)|null|
+|**2022-02-14**|**A Pragmatic Machine Learning Approach to Quantify Tumor Infiltrating Lymphocytes in Whole Slide Images**|Nikita Shvetsov et.al.|[2202.06590v1](http://arxiv.org/abs/2202.06590v1)|**[link](https://github.com/uit-hdl/hovernet-pipeline)**|
+|**2022-02-14**|**I-Tuning: Tuning Language Models with Image for Caption Generation**|Ziyang Luo et.al.|[2202.06574v1](http://arxiv.org/abs/2202.06574v1)|null|
+|**2022-02-14**|**Online-updated High-order Collaborative Networks for Single Image Deraining**|Cong Wang et.al.|[2202.06568v1](http://arxiv.org/abs/2202.06568v1)|null|
+|**2022-02-14**|**Single-stage Rotate Object Detector via Two Points with Solar Corona Heatmap**|Beihang Song et.al.|[2202.06565v1](http://arxiv.org/abs/2202.06565v1)|null|
+|**2022-02-14**|**Video2IMU: Realistic IMU features and signals from videos**|Arttu Lämsä et.al.|[2202.06547v1](http://arxiv.org/abs/2202.06547v1)|null|
+|**2022-02-14**|**MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts and Training Conflicts**|Weixin Liang et.al.|[2202.06523v1](http://arxiv.org/abs/2202.06523v1)|**[link](https://github.com/weixin-liang/metashift)**|
+|**2022-02-14**|**Context-Preserving Instance-Level Augmentation and Deformable Convolution Networks for SAR Ship Detection**|Taeyong Song et.al.|[2202.06513v1](http://arxiv.org/abs/2202.06513v1)|null|
+|**2022-02-14**|**GAMMA Challenge:Glaucoma grAding from Multi-Modality imAges**|Junde Wu et.al.|[2202.06511v1](http://arxiv.org/abs/2202.06511v1)|null|
+|**2022-02-14**|**Mixing and Shifting: Exploiting Global and Local Dependencies in Vision MLPs**|Huangjie Zheng et.al.|[2202.06510v1](http://arxiv.org/abs/2202.06510v1)|null|
+|**2022-02-14**|**Opinions Vary? Diagnosis First!**|Junde Wu et.al.|[2202.06505v1](http://arxiv.org/abs/2202.06505v1)|null|
+|**2022-02-14**|**Analytic Learning of Convolutional Neural Network For Pattern Recognition**|Huiping Zhuang et.al.|[2202.06504v1](http://arxiv.org/abs/2202.06504v1)|null|
+|**2022-02-14**|**Adaptive graph convolutional networks for weakly supervised anomaly detection in videos**|Congqi Cao et.al.|[2202.06503v1](http://arxiv.org/abs/2202.06503v1)|null|
+|**2022-02-14**|**Task-Adaptive Feature Transformer with Semantic Enrichment for Few-Shot Segmentation**|Jun Seo et.al.|[2202.06498v1](http://arxiv.org/abs/2202.06498v1)|null|
+|**2022-02-14**|**ADeADA: Adaptive Density-aware Active Domain Adaptationfor Semantic Segmentation**|Tsung-Han Wu et.al.|[2202.06484v1](http://arxiv.org/abs/2202.06484v1)|null|
+|**2022-02-14**|**Tightly Coupled Learning Strategy for Weakly Supervised Hierarchical Place Recognition**|Y. Shen et.al.|[2202.06470v1](http://arxiv.org/abs/2202.06470v1)|null|
+|**2022-02-14**|**Optimizing Random Mixup with Gaussian Differential Privacy**|Donghao Li et.al.|[2202.06467v1](http://arxiv.org/abs/2202.06467v1)|null|
+|**2022-02-14**|**A State-of-the-art Survey of U-Net in Microscopic Image Analysis: from Simple Usage to Structure Mortification**|Jian Wu et.al.|[2202.06465v1](http://arxiv.org/abs/2202.06465v1)|null|
+|**2022-02-14**|**Learn by Challenging Yourself: Contrastive Visual Representation Learning with Hard Sample Generation**|Yawen Wu et.al.|[2202.06464v1](http://arxiv.org/abs/2202.06464v1)|null|
+|**2022-02-14**|**Faster hyperspectral image classification based on selective kernel mechanism using deep convolutional networks**|Guandong Li et.al.|[2202.06458v1](http://arxiv.org/abs/2202.06458v1)|**[link](https://github.com/leeguandong/fsknet-for-hsi)**|
+|**2022-02-13**|**Perception-Aware Perching on Powerlines with Multirotors**|Julio L. Paneque et.al.|[2202.06434v1](http://arxiv.org/abs/2202.06434v1)|**[link](https://github.com/grvcperception/pa_powerline_perching)**|
+|**2022-02-13**|**AI can evolve without labels: self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation**|Sangjoon Park et.al.|[2202.06431v1](http://arxiv.org/abs/2202.06431v1)|null|
+|**2022-02-13**|**Hierarchical Point Cloud Encoding and Decoding with Lightweight Self-Attention based Model**|En Yen Puang et.al.|[2202.06407v1](http://arxiv.org/abs/2202.06407v1)|null|
+|**2022-02-13**|**Visual Sound Localization in the Wild by Cross-Modal Interference Erasing**|Xian Liu et.al.|[2202.06406v1](http://arxiv.org/abs/2202.06406v1)|**[link](https://github.com/alvinliu0/visual-sound-localization-in-the-wild)**|
+|**2022-02-13**|**Scheduling Techniques for Liver Segmentation: ReduceLRonPlateau Vs OneCycleLR**|Ayman Al-Kababji et.al.|[2202.06373v1](http://arxiv.org/abs/2202.06373v1)|null|
+|**2022-02-13**|**A Survey of Deep Learning Techniques for the Analysis of COVID-19 and their usability for Detecting Omicron**|Asifullah Khan et.al.|[2202.06372v1](http://arxiv.org/abs/2202.06372v1)|null|
+|**2022-02-13**|**Omnifont Persian OCR System Using Primitives**|Azarakhsh Keipour et.al.|[2202.06371v1](http://arxiv.org/abs/2202.06371v1)|null|
+|**2022-02-13**|**Learning Perspective Deformation in X-Ray Transmission Imaging**|Yixing Huang et.al.|[2202.06366v1](http://arxiv.org/abs/2202.06366v1)|null|
+|**2022-02-13**|**Diverse facial inpainting guided by exemplars**|Wanglong Lu et.al.|[2202.06358v1](http://arxiv.org/abs/2202.06358v1)|null|
 |**2022-02-11**|**SafePicking: Learning Safe Object Extraction via Object-Level Mapping**|Kentaro Wada et.al.|[2202.05832v1](http://arxiv.org/abs/2202.05832v1)|null|
 |**2022-02-11**|**CLIPasso: Semantically-Aware Object Sketching**|Yael Vinker et.al.|[2202.05822v1](http://arxiv.org/abs/2202.05822v1)|null|
 |**2022-02-11**|**Meta-learning with GANs for anomaly detection, with deployment in high-speed rail inspection system**|Haoyang Cao et.al.|[2202.05795v1](http://arxiv.org/abs/2202.05795v1)|null|

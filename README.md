@@ -4,7 +4,55 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-14**|**Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection**|Fatih Cagatay Akyon et.al.|[2202.06934v1](http://arxiv.org/abs/2202.06934v1)|**[link](https://github.com/obss/sahi)**|
+|**2022-02-15**|**Lie Point Symmetry Data Augmentation for Neural PDE Solvers**|Johannes Brandstetter et.al.|[2202.07643v1](http://arxiv.org/abs/2202.07643v1)|null|
+|**2022-02-15**|**Fairness Indicators for Systematic Assessments of Visual Feature Extractors**|Priya Goyal et.al.|[2202.07603v1](http://arxiv.org/abs/2202.07603v1)|null|
+|**2022-02-15**|**On Representation Learning with Feedback**|Hao Li et.al.|[2202.07572v1](http://arxiv.org/abs/2202.07572v1)|null|
+|**2022-02-15**|**ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification**|Thomas Stegmüller et.al.|[2202.07570v1](http://arxiv.org/abs/2202.07570v1)|null|
+|**2022-02-15**|**Improving the repeatability of deep learning models with Monte Carlo dropout**|Andreanne Lemay et.al.|[2202.07562v1](http://arxiv.org/abs/2202.07562v1)|null|
+|**2022-02-15**|**Label fusion and training methods for reliable representation of inter-rater uncertainty**|Andreanne Lemay et.al.|[2202.07550v1](http://arxiv.org/abs/2202.07550v1)|null|
+|**2022-02-15**|**Post-Training Quantization for Cross-Platform Learned Image Compression**|Dailan He et.al.|[2202.07513v1](http://arxiv.org/abs/2202.07513v1)|null|
+|**2022-02-15**|**Deep Constrained Least Squares for Blind Image Super-Resolution**|Ziwei Luo et.al.|[2202.07508v1](http://arxiv.org/abs/2202.07508v1)|**[link](https://github.com/algolzw/dcls)**|
+|**2022-02-15**|**Texture Aware Autoencoder Pre-training And Pairwise Learning Refinement For Improved Iris Recognition**|Manashi Chakraborty et.al.|[2202.07499v1](http://arxiv.org/abs/2202.07499v1)|null|
+|**2022-02-15**|**DualConv: Dual Convolutional Kernels for Lightweight Deep Neural Networks**|Jiachen Zhong et.al.|[2202.07481v1](http://arxiv.org/abs/2202.07481v1)|null|
+|**2022-02-15**|**Random Walks for Adversarial Meshes**|Amir Belder et.al.|[2202.07453v1](http://arxiv.org/abs/2202.07453v1)|null|
+|**2022-02-15**|**A precortical module for robust CNNs to light variations**|R. Fioresi et.al.|[2202.07432v1](http://arxiv.org/abs/2202.07432v1)|null|
+|**2022-02-15**|**SODAR: Segmenting Objects by DynamicallyAggregating Neighboring Mask Representations**|Tao Wang et.al.|[2202.07402v1](http://arxiv.org/abs/2202.07402v1)|null|
+|**2022-02-15**|**Deep Learning-based Anomaly Detection on X-ray Images of Fuel Cell Electrodes**|Simon B. Jensen et.al.|[2202.07361v1](http://arxiv.org/abs/2202.07361v1)|null|
+|**2022-02-15**|**Multimodal Driver Referencing: A Comparison of Pointing to Objects Inside and Outside the Vehicle**|Abdul Rafey Aftab et.al.|[2202.07360v1](http://arxiv.org/abs/2202.07360v1)|null|
+|**2022-02-15**|**A Unified Framework for Masked and Mask-Free Face Recognition via Feature Rectification**|Shaozhe Hao et.al.|[2202.07358v1](http://arxiv.org/abs/2202.07358v1)|**[link](https://github.com/haoosz/ffr-net)**|
+|**2022-02-15**|**Using Social Media Images for Building Function Classification**|Eike Jens Hoffmann et.al.|[2202.07315v1](http://arxiv.org/abs/2202.07315v1)|null|
+|**2022-02-15**|**HAA4D: Few-Shot Human Atomic Action Recognition via 3D Spatio-Temporal Skeletal Alignment**|Mu-Ruei Tseng et.al.|[2202.07308v1](http://arxiv.org/abs/2202.07308v1)|null|
+|**2022-02-15**|**ViNTER: Image Narrative Generation with Emotion-Arc-Aware Transformer**|Kohei Uehara et.al.|[2202.07305v1](http://arxiv.org/abs/2202.07305v1)|null|
+|**2022-02-15**|**Beyond Natural Motion: Exploring Discontinuity for Video Frame Interpolation**|Sangjin Lee et.al.|[2202.07291v1](http://arxiv.org/abs/2202.07291v1)|null|
+|**2022-02-15**|**Hyper-relationship Learning Network for Scene Graph Generation**|Yibing Zhan et.al.|[2202.07271v1](http://arxiv.org/abs/2202.07271v1)|null|
+|**2022-02-15**|**Exploring the Devil in Graph Spectral Domain for 3D Point Cloud Attacks**|Qianjiang Hu et.al.|[2202.07261v1](http://arxiv.org/abs/2202.07261v1)|null|
+|**2022-02-15**|**Review of the Fingerprint Liveness Detection (LivDet) competition series: from 2009 to 2021**|Marco Micheletto et.al.|[2202.07259v1](http://arxiv.org/abs/2202.07259v1)|null|
+|**2022-02-15**|**CommerceMM: Large-Scale Commerce MultiModal Representation Learning with Omni Retrieval**|Licheng Yu et.al.|[2202.07247v1](http://arxiv.org/abs/2202.07247v1)|null|
+|**2022-02-15**|**Neural Architecture Search for Dense Prediction Tasks in Computer Vision**|Thomas Elsken et.al.|[2202.07242v1](http://arxiv.org/abs/2202.07242v1)|null|
+|**2022-02-15**|**Few-shot semantic segmentation via mask aggregation**|Wei Ao et.al.|[2202.07231v1](http://arxiv.org/abs/2202.07231v1)|**[link](https://github.com/tinyaway/manet)**|
+|**2022-02-15**|**MeshLeTemp: Leveraging the Learnable Vertex-Vertex Relationship to Generalize Human Pose and Mesh Reconstruction for In-the-Wild Scenes**|Trung Q. Tran et.al.|[2202.07228v1](http://arxiv.org/abs/2202.07228v1)|null|
+|**2022-02-15**|**Balancing Domain Experts for Long-Tailed Camera-Trap Recognition**|Byeongjun Park et.al.|[2202.07215v1](http://arxiv.org/abs/2202.07215v1)|null|
+|**2022-02-15**|**Improving Human Sperm Head Morphology Classification with Unsupervised Anatomical Feature Distillation**|Yejia Zhang et.al.|[2202.07191v1](http://arxiv.org/abs/2202.07191v1)|null|
+|**2022-02-15**|**Pruning Networks with Cross-Layer Ranking & k-Reciprocal Nearest Filters**|Mingbao Lin et.al.|[2202.07190v1](http://arxiv.org/abs/2202.07190v1)|**[link](https://github.com/lmbxmu/clr-rnf)**|
+|**2022-02-15**|**A Survey of Neural Trojan Attacks and Defenses in Deep Learning**|Jie Wang et.al.|[2202.07183v1](http://arxiv.org/abs/2202.07183v1)|null|
+|**2022-02-15**|**To what extent can Plug-and-Play methods outperform neural networks alone in low-dose CT reconstruction**|Qifan Xu et.al.|[2202.07173v1](http://arxiv.org/abs/2202.07173v1)|null|
+|**2022-02-15**|**GAN-generated Faces Detection: A Survey and New Perspectives**|Xin Wang et.al.|[2202.07145v1](http://arxiv.org/abs/2202.07145v1)|null|
+|**2022-02-15**|**Debiased Pseudo Labeling in Self-Training**|Baixu Chen et.al.|[2202.07136v1](http://arxiv.org/abs/2202.07136v1)|null|
+|**2022-02-15**|**Compositional Scene Representation Learning via Reconstruction: A Survey**|Jinyang Yuan et.al.|[2202.07135v1](http://arxiv.org/abs/2202.07135v1)|null|
+|**2022-02-15**|**Sim-to-Real Domain Adaptation for Lane Detection and Classification in Autonomous Driving**|Chuqing Hu et.al.|[2202.07133v1](http://arxiv.org/abs/2202.07133v1)|null|
+|**2022-02-15**|**Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework**|Xu Ma et.al.|[2202.07123v1](http://arxiv.org/abs/2202.07123v1)|**[link](https://github.com/13952522076/pointMLP-pytorch)**|
+|**2022-02-15**|**Multi-task UNet: Jointly Boosting Saliency Prediction and Disease Classification on Chest X-ray Images**|Hongzhi Zhu et.al.|[2202.07118v1](http://arxiv.org/abs/2202.07118v1)|**[link](https://github.com/hz-zhu/mt-unet)**|
+|**2022-02-15**|**Gaze-Guided Class Activation Mapping: Leveraging Human Attention for Network Attention in Chest X-rays Classification**|Hongzhi Zhu et.al.|[2202.07107v1](http://arxiv.org/abs/2202.07107v1)|null|
+|**2022-02-14**|**Discriminability-enforcing loss to improve representation learning**|Florinel-Alin Croitoru et.al.|[2202.07073v1](http://arxiv.org/abs/2202.07073v1)|null|
+|**2022-02-14**|**Universal Adversarial Examples in Remote Sensing: Methodology and Benchmark**|Yonghao Xu et.al.|[2202.07054v1](http://arxiv.org/abs/2202.07054v1)|null|
+|**2022-02-14**|**One Step at a Time: Long-Horizon Vision-and-Language Navigation with Milestones**|Chan Hee Song et.al.|[2202.07028v1](http://arxiv.org/abs/2202.07028v1)|null|
+|**2022-02-14**|**Box Supervised Video Segmentation Proposal Network**|Tanveer Hannan et.al.|[2202.07025v1](http://arxiv.org/abs/2202.07025v1)|**[link](https://github.com/tanveer81/boxvos)**|
+|**2022-02-14**|**Building Inspection Toolkit: Unified Evaluation and Strong Baselines for Damage Recognition**|Johannes Flotzinger et.al.|[2202.07012v1](http://arxiv.org/abs/2202.07012v1)|null|
+|**2022-02-14**|**A Survey of Visual Sensory Anomaly Detection**|Xi Jiang et.al.|[2202.07006v1](http://arxiv.org/abs/2202.07006v1)|null|
+|**2022-02-14**|**Handcrafted Histological Transformer (H2T): Unsupervised Representation of Whole Slide Images**|Quoc Dang Vu et.al.|[2202.07001v1](http://arxiv.org/abs/2202.07001v1)|null|
+|**2022-02-14**|**A Survey of Cross-Modality Brain Image Synthesis**|Guoyang Xie et.al.|[2202.06997v1](http://arxiv.org/abs/2202.06997v1)|null|
+|**2022-02-14**|**ASC me to Do Anything: Multi-task Training for Embodied AI**|Jiasen Lu et.al.|[2202.06987v1](http://arxiv.org/abs/2202.06987v1)|null|
+|**2022-02-15**|**Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection**|Fatih Cagatay Akyon et.al.|[2202.06934v2](http://arxiv.org/abs/2202.06934v2)|**[link](https://github.com/obss/sahi)**|
 |**2022-02-14**|**Do Gradient Inversion Attacks Make Federated Learning Unsafe?**|Ali Hatamizadeh et.al.|[2202.06924v1](http://arxiv.org/abs/2202.06924v1)|null|
 |**2022-02-14**|**A Generic Self-Supervised Framework of Learning Invariant Discriminative Features**|Foivos Ntelemis et.al.|[2202.06914v1](http://arxiv.org/abs/2202.06914v1)|null|
 |**2022-02-14**|**COLA: COarse LAbel pre-training for 3D semantic segmentation of sparse LiDAR datasets**|Jules Sanchez et.al.|[2202.06884v1](http://arxiv.org/abs/2202.06884v1)|null|

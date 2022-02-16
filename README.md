@@ -8,7 +8,7 @@
 |**2022-02-15**|**Fairness Indicators for Systematic Assessments of Visual Feature Extractors**|Priya Goyal et.al.|[2202.07603v1](http://arxiv.org/abs/2202.07603v1)|null|
 |**2022-02-15**|**On Representation Learning with Feedback**|Hao Li et.al.|[2202.07572v1](http://arxiv.org/abs/2202.07572v1)|null|
 |**2022-02-15**|**ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification**|Thomas Stegmüller et.al.|[2202.07570v1](http://arxiv.org/abs/2202.07570v1)|null|
-|**2022-02-15**|**Improving the repeatability of deep learning models with Monte Carlo dropout**|Andreanne Lemay et.al.|[2202.07562v1](http://arxiv.org/abs/2202.07562v1)|null|
+|**2022-02-15**|**Improving the repeatability of deep learning models with Monte Carlo dropout**|Andreanne Lemay et.al.|[2202.07562v1](http://arxiv.org/abs/2202.07562v1)|**[link](https://github.com/andreanne-lemay/gray_zone_assessment)**|
 |**2022-02-15**|**Label fusion and training methods for reliable representation of inter-rater uncertainty**|Andreanne Lemay et.al.|[2202.07550v1](http://arxiv.org/abs/2202.07550v1)|null|
 |**2022-02-15**|**Post-Training Quantization for Cross-Platform Learned Image Compression**|Dailan He et.al.|[2202.07513v1](http://arxiv.org/abs/2202.07513v1)|null|
 |**2022-02-15**|**Deep Constrained Least Squares for Blind Image Super-Resolution**|Ziwei Luo et.al.|[2202.07508v1](http://arxiv.org/abs/2202.07508v1)|**[link](https://github.com/algolzw/dcls)**|

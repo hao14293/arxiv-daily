@@ -12,13 +12,13 @@
 |**2022-02-16**|**Generative modeling with projected entangled-pair states**|Tom Vieijra et.al.|[2202.08177v1](http://arxiv.org/abs/2202.08177v1)|null|
 |**2022-02-16**|**Bias in Automated Image Colorization: Metrics and Error Types**|Frank Stapel et.al.|[2202.08143v1](http://arxiv.org/abs/2202.08143v1)|**[link](https://github.com/weersproductions/colorization-bias)**|
 |**2022-02-16**|**FUN-SIS: a Fully UNsupervised approach for Surgical Instrument Segmentation**|Luca Sestini et.al.|[2202.08141v1](http://arxiv.org/abs/2202.08141v1)|null|
-|**2022-02-16**|**When Did It Happen? Duration-informed Temporal Localization of Narrated Actions in Vlogs**|Oana Ignat et.al.|[2202.08138v1](http://arxiv.org/abs/2202.08138v1)|null|
+|**2022-02-16**|**When Did It Happen? Duration-informed Temporal Localization of Narrated Actions in Vlogs**|Oana Ignat et.al.|[2202.08138v1](http://arxiv.org/abs/2202.08138v1)|**[link](https://github.com/michigannlp/vlog_action_localization)**|
 |**2022-02-16**|**Learning to Adapt to Light**|Kai-Fu Yang et.al.|[2202.08098v1](http://arxiv.org/abs/2202.08098v1)|null|
 |**2022-02-16**|**Image translation of Ultrasound to Pseudo Anatomical Display Using Artificial Intelligence**|Lilach Barkat et.al.|[2202.08053v1](http://arxiv.org/abs/2202.08053v1)|null|
-|**2022-02-16**|**Learning to Generalize across Domains on Single Test Samples**|Zehao Xiao et.al.|[2202.08045v1](http://arxiv.org/abs/2202.08045v1)|null|
+|**2022-02-16**|**Learning to Generalize across Domains on Single Test Samples**|Zehao Xiao et.al.|[2202.08045v1](http://arxiv.org/abs/2202.08045v1)|**[link](https://github.com/zzzx1224/singlesamplegeneralization-iclr2022)**|
 |**2022-02-16**|**Diagnosing Batch Normalization in Class Incremental Learning**|Minghao Zhou et.al.|[2202.08025v1](http://arxiv.org/abs/2202.08025v1)|null|
 |**2022-02-16**|**Learning to Detect People on the Fly: A Bio-inspired Event-based Visual System for Drones**|Ali Safa et.al.|[2202.08023v1](http://arxiv.org/abs/2202.08023v1)|null|
-|**2022-02-16**|**360 Depth Estimation in the Wild -- The Depth360 Dataset and the SegFuse Network**|Qi Feng et.al.|[2202.08010v1](http://arxiv.org/abs/2202.08010v1)|null|
+|**2022-02-16**|**360 Depth Estimation in the Wild -- The Depth360 Dataset and the SegFuse Network**|Qi Feng et.al.|[2202.08010v1](http://arxiv.org/abs/2202.08010v1)|**[link](https://github.com/hal-lucination/segfuse)**|
 |**2022-02-16**|**Planckian jitter: enhancing the color quality of self-supervised visual representations**|Simone Zini et.al.|[2202.07993v1](http://arxiv.org/abs/2202.07993v1)|null|
 |**2022-02-16**|**ADAM Challenge: Detecting Age-related Macular Degeneration from Fundus Images**|Huihui Fang et.al.|[2202.07983v1](http://arxiv.org/abs/2202.07983v1)|null|
 |**2022-02-16**|**Unified smoke and fire detection in an evolutionary framework with self-supervised progressive data augment**|Hang Zhang et.al.|[2202.07954v1](http://arxiv.org/abs/2202.07954v1)|null|

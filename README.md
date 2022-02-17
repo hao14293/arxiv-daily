@@ -4,6 +4,50 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-16**|**A multi-reconstruction study of breast density estimation using Deep Learning**|Vikash Gupta et.al.|[2202.08238v1](http://arxiv.org/abs/2202.08238v1)|null|
+|**2022-02-16**|**Ditto: Building Digital Twins of Articulated Objects from Interaction**|Zhenyu Jiang et.al.|[2202.08227v1](http://arxiv.org/abs/2202.08227v1)|null|
+|**2022-02-16**|**Less is More: Surgical Phase Recognition from Timestamp Supervision**|Zixun Wang et.al.|[2202.08199v1](http://arxiv.org/abs/2202.08199v1)|null|
+|**2022-02-16**|**Label Propagation for Annotation-Efficient Nuclei Segmentation from Pathology Images**|Yi Lin et.al.|[2202.08195v1](http://arxiv.org/abs/2202.08195v1)|null|
+|**2022-02-16**|**Flexible-Modal Face Anti-Spoofing: A Benchmark**|Zitong Yu et.al.|[2202.08192v1](http://arxiv.org/abs/2202.08192v1)|**[link](https://github.com/zitongyu/flex-modal-fas)**|
+|**2022-02-16**|**Generative modeling with projected entangled-pair states**|Tom Vieijra et.al.|[2202.08177v1](http://arxiv.org/abs/2202.08177v1)|null|
+|**2022-02-16**|**Bias in Automated Image Colorization: Metrics and Error Types**|Frank Stapel et.al.|[2202.08143v1](http://arxiv.org/abs/2202.08143v1)|**[link](https://github.com/weersproductions/colorization-bias)**|
+|**2022-02-16**|**FUN-SIS: a Fully UNsupervised approach for Surgical Instrument Segmentation**|Luca Sestini et.al.|[2202.08141v1](http://arxiv.org/abs/2202.08141v1)|null|
+|**2022-02-16**|**When Did It Happen? Duration-informed Temporal Localization of Narrated Actions in Vlogs**|Oana Ignat et.al.|[2202.08138v1](http://arxiv.org/abs/2202.08138v1)|null|
+|**2022-02-16**|**Learning to Adapt to Light**|Kai-Fu Yang et.al.|[2202.08098v1](http://arxiv.org/abs/2202.08098v1)|null|
+|**2022-02-16**|**Image translation of Ultrasound to Pseudo Anatomical Display Using Artificial Intelligence**|Lilach Barkat et.al.|[2202.08053v1](http://arxiv.org/abs/2202.08053v1)|null|
+|**2022-02-16**|**Learning to Generalize across Domains on Single Test Samples**|Zehao Xiao et.al.|[2202.08045v1](http://arxiv.org/abs/2202.08045v1)|null|
+|**2022-02-16**|**Diagnosing Batch Normalization in Class Incremental Learning**|Minghao Zhou et.al.|[2202.08025v1](http://arxiv.org/abs/2202.08025v1)|null|
+|**2022-02-16**|**Learning to Detect People on the Fly: A Bio-inspired Event-based Visual System for Drones**|Ali Safa et.al.|[2202.08023v1](http://arxiv.org/abs/2202.08023v1)|null|
+|**2022-02-16**|**360 Depth Estimation in the Wild -- The Depth360 Dataset and the SegFuse Network**|Qi Feng et.al.|[2202.08010v1](http://arxiv.org/abs/2202.08010v1)|null|
+|**2022-02-16**|**Planckian jitter: enhancing the color quality of self-supervised visual representations**|Simone Zini et.al.|[2202.07993v1](http://arxiv.org/abs/2202.07993v1)|null|
+|**2022-02-16**|**ADAM Challenge: Detecting Age-related Macular Degeneration from Fundus Images**|Huihui Fang et.al.|[2202.07983v1](http://arxiv.org/abs/2202.07983v1)|null|
+|**2022-02-16**|**Unified smoke and fire detection in an evolutionary framework with self-supervised progressive data augment**|Hang Zhang et.al.|[2202.07954v1](http://arxiv.org/abs/2202.07954v1)|null|
+|**2022-02-16**|**Meta Knowledge Distillation**|Jihao Liu et.al.|[2202.07940v1](http://arxiv.org/abs/2202.07940v1)|null|
+|**2022-02-16**|**ActionFormer: Localizing Moments of Actions with Transformers**|Chenlin Zhang et.al.|[2202.07925v1](http://arxiv.org/abs/2202.07925v1)|**[link](https://github.com/happyharrycn/actionformer_release)**|
+|**2022-02-16**|**Can Deep Learning be Applied to Model-Based Multi-Object Tracking?**|Juliano Pinto et.al.|[2202.07909v1](http://arxiv.org/abs/2202.07909v1)|null|
+|**2022-02-16**|**Cross-Modal Common Representation Learning with Triplet Loss Functions**|Felix Ott et.al.|[2202.07901v1](http://arxiv.org/abs/2202.07901v1)|null|
+|**2022-02-16**|**IPD:An Incremental Prototype based DBSCAN for large-scale data with cluster representatives**|Jayasree Saha et.al.|[2202.07870v1](http://arxiv.org/abs/2202.07870v1)|null|
+|**2022-02-16**|**Practical Network Acceleration with Tiny Sets**|Guo-Hua Wang et.al.|[2202.07861v1](http://arxiv.org/abs/2202.07861v1)|null|
+|**2022-02-16**|**Deeply-Supervised Knowledge Distillation**|Shiya Luo et.al.|[2202.07846v1](http://arxiv.org/abs/2202.07846v1)|null|
+|**2022-02-16**|**PCRP: Unsupervised Point Cloud Object Retrieval and Pose Estimation**|Pranav Kadam et.al.|[2202.07843v1](http://arxiv.org/abs/2202.07843v1)|null|
+|**2022-02-16**|**Spatial Transformer K-Means**|Romain Cosentino et.al.|[2202.07829v1](http://arxiv.org/abs/2202.07829v1)|null|
+|**2022-02-16**|**Reducing Overconfidence Predictions for Autonomous Driving Perception**|Gledson Melotti et.al.|[2202.07825v1](http://arxiv.org/abs/2202.07825v1)|null|
+|**2022-02-16**|**RNGDet: Road Network Graph Detection by Transformer in Aerial Images**|Zhenhua Xu et.al.|[2202.07824v1](http://arxiv.org/abs/2202.07824v1)|null|
+|**2022-02-16**|**Segmentation and Risk Score Prediction of Head and Neck Cancers in PET/CT Volumes with 3D U-Net and Cox Proportional Hazard Neural Networks**|Fereshteh Yousefirizi et.al.|[2202.07823v1](http://arxiv.org/abs/2202.07823v1)|null|
+|**2022-02-16**|**A Survey of Semen Quality Evaluation in Microscopic Videos Using Computer Assisted Sperm Analysis**|Wenwei Zhao et.al.|[2202.07820v1](http://arxiv.org/abs/2202.07820v1)|null|
+|**2022-02-16**|**Cross-view and Cross-domain Underwater Localization based on Optical Aerial and Acoustic Underwater Images**|Matheus M. Dos Santos et.al.|[2202.07817v1](http://arxiv.org/abs/2202.07817v1)|null|
+|**2022-02-16**|**Applying adversarial networks to increase the data efficiency and reliability of Self-Driving Cars**|Aakash Kumar et.al.|[2202.07815v1](http://arxiv.org/abs/2202.07815v1)|null|
+|**2022-02-16**|**Not All Patches are What You Need: Expediting Vision Transformers via Token Reorganizations**|Youwei Liang et.al.|[2202.07800v1](http://arxiv.org/abs/2202.07800v1)|**[link](https://github.com/youweiliang/evit)**|
+|**2022-02-15**|**Beyond Deterministic Translation for Unsupervised Domain Adaptation**|Eleni Chiou et.al.|[2202.07778v1](http://arxiv.org/abs/2202.07778v1)|null|
+|**2022-02-15**|**General-purpose, long-context autoregressive modeling with Perceiver AR**|Curtis Hawthorne et.al.|[2202.07765v1](http://arxiv.org/abs/2202.07765v1)|null|
+|**2022-02-15**|**Deep Learning-Assisted Co-registration of Full-Spectral Autofluorescence Lifetime Microscopic Images with H&E-Stained Histology Images**|Qiang Wang et.al.|[2202.07755v1](http://arxiv.org/abs/2202.07755v1)|null|
+|**2022-02-15**|**Normalized K-Means for Noise-Insensitive Multi-Dimensional Feature Learning**|Nicholas Pellegrino et.al.|[2202.07754v1](http://arxiv.org/abs/2202.07754v1)|null|
+|**2022-02-15**|**Ab-initio Contrast Estimation and Denoising of Cryo-EM Images**|Yunpeng Shi et.al.|[2202.07737v1](http://arxiv.org/abs/2202.07737v1)|null|
+|**2022-02-15**|**Enhancing Deformable Convolution based Video Frame Interpolation with Coarse-to-fine 3D CNN**|Duolikun Danier et.al.|[2202.07731v1](http://arxiv.org/abs/2202.07731v1)|null|
+|**2022-02-15**|**Don't Lie to Me! Robust and Efficient Explainability with Verified Perturbation Analysis**|Thomas Fel et.al.|[2202.07728v1](http://arxiv.org/abs/2202.07728v1)|null|
+|**2022-02-15**|**A Subjective Quality Study for Video Frame Interpolation**|Duolikun Danier et.al.|[2202.07727v1](http://arxiv.org/abs/2202.07727v1)|null|
+|**2022-02-15**|**Privacy Preserving Visual Question Answering**|Cristian-Paul Bara et.al.|[2202.07712v1](http://arxiv.org/abs/2202.07712v1)|null|
+|**2022-02-15**|**Misinformation Detection in Social Media Video Posts**|Kehan Wang et.al.|[2202.07706v1](http://arxiv.org/abs/2202.07706v1)|null|
 |**2022-02-15**|**Lie Point Symmetry Data Augmentation for Neural PDE Solvers**|Johannes Brandstetter et.al.|[2202.07643v1](http://arxiv.org/abs/2202.07643v1)|null|
 |**2022-02-15**|**Fairness Indicators for Systematic Assessments of Visual Feature Extractors**|Priya Goyal et.al.|[2202.07603v1](http://arxiv.org/abs/2202.07603v1)|null|
 |**2022-02-15**|**On Representation Learning with Feedback**|Hao Li et.al.|[2202.07572v1](http://arxiv.org/abs/2202.07572v1)|null|

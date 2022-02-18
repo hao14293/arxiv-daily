@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-17**|**Adiabatic Quantum Computing for Multi Object Tracking**|Jan-Nico Zaech et.al.|[2202.08837v1](http://arxiv.org/abs/2202.08837v1)|null|
+|**2022-02-17**|**General Cyclical Training of Neural Networks**|Leslie N. Smith et.al.|[2202.08835v1](http://arxiv.org/abs/2202.08835v1)|null|
+|**2022-02-17**|**Grammar-Based Grounded Lexicon Learning**|Jiayuan Mao et.al.|[2202.08806v1](http://arxiv.org/abs/2202.08806v1)|null|
+|**2022-02-17**|**Realistic Blur Synthesis for Learning Image Deblurring**|Jaesung Rim et.al.|[2202.08771v1](http://arxiv.org/abs/2202.08771v1)|null|
+|**2022-02-17**|**A Wavelet-based Dual-stream Network for Underwater Image Enhancement**|Ziyin Ma et.al.|[2202.08758v1](http://arxiv.org/abs/2202.08758v1)|null|
+|**2022-02-17**|**OmniSyn: Synthesizing 360 Videos with Wide-baseline Panoramas**|David Li et.al.|[2202.08752v1](http://arxiv.org/abs/2202.08752v1)|null|
+|**2022-02-17**|**Colonoscopy polyp detection with massive endoscopic images**|Jialin Yu et.al.|[2202.08730v1](http://arxiv.org/abs/2202.08730v1)|null|
+|**2022-02-17**|**Level set based particle filter driven by optical flow: an application to track the salt boundary from X-ray CT time-series**|Karim Makki et.al.|[2202.08717v1](http://arxiv.org/abs/2202.08717v1)|null|
+|**2022-02-17**|**Detecting and Learning the Unknown in Semantic Segmentation**|Robin Chan et.al.|[2202.08700v1](http://arxiv.org/abs/2202.08700v1)|null|
+|**2022-02-17**|**A study of deep perceptual metrics for image quality assessment**|Rémi Kazmierczak et.al.|[2202.08692v1](http://arxiv.org/abs/2202.08692v1)|null|
+|**2022-02-17**|**End-to-end Neuron Instance Segmentation based on Weakly Supervised Efficient UNet and Morphological Post-processing**|Huaqian Wu et.al.|[2202.08682v1](http://arxiv.org/abs/2202.08682v1)|null|
+|**2022-02-17**|**Synthetic data for unsupervised polyp segmentation**|Enric Moreu et.al.|[2202.08680v1](http://arxiv.org/abs/2202.08680v1)|**[link](https://github.com/enric1994/synth-colon)**|
+|**2022-02-17**|**Domain Randomization for Object Counting**|Enric Moreu et.al.|[2202.08670v1](http://arxiv.org/abs/2202.08670v1)|null|
+|**2022-02-17**|**Semantically Proportional Patchmix for Few-Shot Learning**|Jingquan Wang et.al.|[2202.08647v1](http://arxiv.org/abs/2202.08647v1)|null|
+|**2022-02-17**|**Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time**|Liao Wang et.al.|[2202.08614v1](http://arxiv.org/abs/2202.08614v1)|null|
+|**2022-02-17**|**Two-Stage Architectural Fine-Tuning with Neural Architecture Search using Early-Stopping in Image Classification**|Youngkee Kim et.al.|[2202.08604v1](http://arxiv.org/abs/2202.08604v1)|null|
+|**2022-02-17**|**Single UHD Image Dehazing via Interpretable Pyramid Network**|Boxue Xiao et.al.|[2202.08589v1](http://arxiv.org/abs/2202.08589v1)|null|
+|**2022-02-17**|**Point cloud completion on structured feature map with feedback network**|Zejia Su et.al.|[2202.08583v1](http://arxiv.org/abs/2202.08583v1)|null|
+|**2022-02-17**|**Anatomically Parameterized Statistical Shape Model: Explaining Morphometry through Statistical Learning**|Arnaud Boutillon et.al.|[2202.08580v1](http://arxiv.org/abs/2202.08580v1)|null|
+|**2022-02-17**|**CADRE: A Cascade Deep Reinforcement Learning Framework for Vision-based Autonomous Urban Driving**|Yinuo Zhao et.al.|[2202.08557v1](http://arxiv.org/abs/2202.08557v1)|null|
+|**2022-02-17**|**3D-Aware Indoor Scene Synthesis with Depth Priors**|Zifan Shi et.al.|[2202.08553v1](http://arxiv.org/abs/2202.08553v1)|null|
+|**2022-02-17**|**EBHI:A New Enteroscope Biopsy Histopathological H&E Image Dataset for Image Classification Evaluation**|Weiming Hu et.al.|[2202.08552v1](http://arxiv.org/abs/2202.08552v1)|null|
+|**2022-02-17**|**An overview of deep learning in medical imaging**|Imran Ul Haq et.al.|[2202.08546v1](http://arxiv.org/abs/2202.08546v1)|null|
+|**2022-02-17**|**Domain Adaptation for Underwater Image Enhancement via Content and Style Separation**|Yu-Wei Chen et.al.|[2202.08537v1](http://arxiv.org/abs/2202.08537v1)|null|
+|**2022-02-17**|**Point Cloud Generation with Continuous Conditioning**|Larissa T. Triess et.al.|[2202.08526v1](http://arxiv.org/abs/2202.08526v1)|null|
+|**2022-02-17**|**TAFNet: A Three-Stream Adaptive Fusion Network for RGB-T Crowd Counting**|Haihan Tang et.al.|[2202.08517v1](http://arxiv.org/abs/2202.08517v1)|null|
+|**2022-02-17**|**Survey on Self-supervised Representation Learning Using Image Transformations**|Muhammad Ali et.al.|[2202.08514v1](http://arxiv.org/abs/2202.08514v1)|null|
+|**2022-02-17**|**Visual Ground Truth Construction as Faceted Classification**|Fausto Giunchiglia et.al.|[2202.08512v1](http://arxiv.org/abs/2202.08512v1)|null|
+|**2022-02-17**|**A hybrid 2-stage vision transformer for AI-assisted 5 class pathologic diagnosis of gastric endoscopic biopsies**|Yujin Oh et.al.|[2202.08510v1](http://arxiv.org/abs/2202.08510v1)|null|
+|**2022-02-17**|**A Study of Designing Compact Audio-Visual Wake Word Spotting System Based on Iterative Fine-Tuning in Neural Network Pruning**|Hengshun Zhou et.al.|[2202.08509v1](http://arxiv.org/abs/2202.08509v1)|null|
+|**2022-02-17**|**CSCNet: Contextual Semantic Consistency Network for Trajectory Prediction in Crowded Spaces**|Beihao Xia et.al.|[2202.08506v1](http://arxiv.org/abs/2202.08506v1)|null|
+|**2022-02-17**|**CLS: Cross Labeling Supervision for Semi-Supervised Learning**|Yao Yao et.al.|[2202.08502v1](http://arxiv.org/abs/2202.08502v1)|null|
+|**2022-02-17**|**Mirror-Yolo: An attention-based instance segmentation and detection model for mirrors**|Fengze Li et.al.|[2202.08498v1](http://arxiv.org/abs/2202.08498v1)|null|
+|**2022-02-17**|**Feels Bad Man: Dissecting Automated Hateful Meme Detection Through the Lens of Facebook's Challenge**|Catherine Jennifer et.al.|[2202.08492v1](http://arxiv.org/abs/2202.08492v1)|null|
+|**2022-02-17**|**Dynamic Object Comprehension: A Framework For Evaluating Artificial Visual Perception**|Scott Y. L. Chin et.al.|[2202.08490v1](http://arxiv.org/abs/2202.08490v1)|null|
+|**2022-02-17**|**TransCG: A Large-Scale Real-World Dataset for Transparent Object Depth Completion and Grasping**|Hongjie Fang et.al.|[2202.08471v1](http://arxiv.org/abs/2202.08471v1)|**[link](https://github.com/galaxies99/transcg)**|
+|**2022-02-17**|**TraSeTR: Track-to-Segment Transformer with Contrastive Query for Instance-level Instrument Segmentation in Robotic Surgery**|Zixu Zhao et.al.|[2202.08453v1](http://arxiv.org/abs/2202.08453v1)|null|
+|**2022-02-17**|**PCB Component Detection using Computer Vision for Hardware Assurance**|Wenwei Zhao et.al.|[2202.08452v1](http://arxiv.org/abs/2202.08452v1)|null|
+|**2022-02-17**|**V2X-Sim: A Virtual Collaborative Perception Dataset for Autonomous Driving**|Yiming Li et.al.|[2202.08449v1](http://arxiv.org/abs/2202.08449v1)|null|
+|**2022-02-17**|**Visual attention analysis of pathologists examining whole slide images of Prostate cancer**|Souradeep Chakraborty et.al.|[2202.08437v1](http://arxiv.org/abs/2202.08437v1)|null|
+|**2022-02-17**|**PENCIL: Deep Learning with Noisy Labels**|Kun Yi et.al.|[2202.08436v1](http://arxiv.org/abs/2202.08436v1)|null|
+|**2022-02-17**|**AKB-48: A Real-World Articulated Object Knowledge Base**|Liu Liu et.al.|[2202.08432v1](http://arxiv.org/abs/2202.08432v1)|null|
+|**2022-02-17**|**Neural Marionette: Unsupervised Learning of Motion Skeleton and Latent Dynamics from Volumetric Video**|Jinseok Bae et.al.|[2202.08418v1](http://arxiv.org/abs/2202.08418v1)|null|
+|**2022-02-17**|**FPIC: A Novel Semantic Dataset for Optical PCB Assurance**|Nathan Jessurun et.al.|[2202.08414v1](http://arxiv.org/abs/2202.08414v1)|null|
+|**2022-02-17**|**Shift-Memory Network for Temporal Scene Segmentation**|Guo Cheng et.al.|[2202.08399v1](http://arxiv.org/abs/2202.08399v1)|null|
+|**2022-02-17**|**Limitations of Neural Collapse for Understanding Generalization in Deep Learning**|Like Hui et.al.|[2202.08384v1](http://arxiv.org/abs/2202.08384v1)|null|
+|**2022-02-16**|**How to Fill the Optimum Set? Population Gradient Descent with Harmless Diversity**|Chengyue Gong et.al.|[2202.08376v1](http://arxiv.org/abs/2202.08376v1)|null|
+|**2022-02-16**|**Vision Models Are More Robust And Fair When Pretrained On Uncurated Images Without Supervision**|Priya Goyal et.al.|[2202.08360v1](http://arxiv.org/abs/2202.08360v1)|null|
+|**2022-02-16**|**Learning Smooth Neural Functions via Lipschitz Regularization**|Hsueh-Ti Derek Liu et.al.|[2202.08345v1](http://arxiv.org/abs/2202.08345v1)|null|
+|**2022-02-16**|**Anomalib: A Deep Learning Library for Anomaly Detection**|Samet Akcay et.al.|[2202.08341v1](http://arxiv.org/abs/2202.08341v1)|null|
 |**2022-02-16**|**A multi-reconstruction study of breast density estimation using Deep Learning**|Vikash Gupta et.al.|[2202.08238v1](http://arxiv.org/abs/2202.08238v1)|null|
 |**2022-02-16**|**Ditto: Building Digital Twins of Articulated Objects from Interaction**|Zhenyu Jiang et.al.|[2202.08227v1](http://arxiv.org/abs/2202.08227v1)|null|
 |**2022-02-16**|**Less is More: Surgical Phase Recognition from Timestamp Supervision**|Zixun Wang et.al.|[2202.08199v1](http://arxiv.org/abs/2202.08199v1)|null|

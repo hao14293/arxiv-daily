@@ -5,7 +5,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-02-17**|**Adiabatic Quantum Computing for Multi Object Tracking**|Jan-Nico Zaech et.al.|[2202.08837v1](http://arxiv.org/abs/2202.08837v1)|null|
-|**2022-02-17**|**General Cyclical Training of Neural Networks**|Leslie N. Smith et.al.|[2202.08835v1](http://arxiv.org/abs/2202.08835v1)|null|
+|**2022-02-17**|**General Cyclical Training of Neural Networks**|Leslie N. Smith et.al.|[2202.08835v1](http://arxiv.org/abs/2202.08835v1)|**[link](https://github.com/lnsmith54/cfl)**|
 |**2022-02-17**|**Grammar-Based Grounded Lexicon Learning**|Jiayuan Mao et.al.|[2202.08806v1](http://arxiv.org/abs/2202.08806v1)|null|
 |**2022-02-17**|**Realistic Blur Synthesis for Learning Image Deblurring**|Jaesung Rim et.al.|[2202.08771v1](http://arxiv.org/abs/2202.08771v1)|null|
 |**2022-02-17**|**A Wavelet-based Dual-stream Network for Underwater Image Enhancement**|Ziyin Ma et.al.|[2202.08758v1](http://arxiv.org/abs/2202.08758v1)|null|
@@ -13,7 +13,7 @@
 |**2022-02-17**|**Colonoscopy polyp detection with massive endoscopic images**|Jialin Yu et.al.|[2202.08730v1](http://arxiv.org/abs/2202.08730v1)|null|
 |**2022-02-17**|**Level set based particle filter driven by optical flow: an application to track the salt boundary from X-ray CT time-series**|Karim Makki et.al.|[2202.08717v1](http://arxiv.org/abs/2202.08717v1)|null|
 |**2022-02-17**|**Detecting and Learning the Unknown in Semantic Segmentation**|Robin Chan et.al.|[2202.08700v1](http://arxiv.org/abs/2202.08700v1)|null|
-|**2022-02-17**|**A study of deep perceptual metrics for image quality assessment**|Rémi Kazmierczak et.al.|[2202.08692v1](http://arxiv.org/abs/2202.08692v1)|null|
+|**2022-02-17**|**A study of deep perceptual metrics for image quality assessment**|Rémi Kazmierczak et.al.|[2202.08692v1](http://arxiv.org/abs/2202.08692v1)|**[link](https://github.com/ensta-u2is/mr_perceptual)**|
 |**2022-02-17**|**End-to-end Neuron Instance Segmentation based on Weakly Supervised Efficient UNet and Morphological Post-processing**|Huaqian Wu et.al.|[2202.08682v1](http://arxiv.org/abs/2202.08682v1)|null|
 |**2022-02-17**|**Synthetic data for unsupervised polyp segmentation**|Enric Moreu et.al.|[2202.08680v1](http://arxiv.org/abs/2202.08680v1)|**[link](https://github.com/enric1994/synth-colon)**|
 |**2022-02-17**|**Domain Randomization for Object Counting**|Enric Moreu et.al.|[2202.08670v1](http://arxiv.org/abs/2202.08670v1)|**[link](https://github.com/enric1994/dr4oc)**|
@@ -29,7 +29,7 @@
 |**2022-02-17**|**An overview of deep learning in medical imaging**|Imran Ul Haq et.al.|[2202.08546v1](http://arxiv.org/abs/2202.08546v1)|null|
 |**2022-02-17**|**Domain Adaptation for Underwater Image Enhancement via Content and Style Separation**|Yu-Wei Chen et.al.|[2202.08537v1](http://arxiv.org/abs/2202.08537v1)|null|
 |**2022-02-17**|**Point Cloud Generation with Continuous Conditioning**|Larissa T. Triess et.al.|[2202.08526v1](http://arxiv.org/abs/2202.08526v1)|null|
-|**2022-02-17**|**TAFNet: A Three-Stream Adaptive Fusion Network for RGB-T Crowd Counting**|Haihan Tang et.al.|[2202.08517v1](http://arxiv.org/abs/2202.08517v1)|null|
+|**2022-02-17**|**TAFNet: A Three-Stream Adaptive Fusion Network for RGB-T Crowd Counting**|Haihan Tang et.al.|[2202.08517v1](http://arxiv.org/abs/2202.08517v1)|**[link](https://github.com/tanghaihan/tafnet)**|
 |**2022-02-17**|**Survey on Self-supervised Representation Learning Using Image Transformations**|Muhammad Ali et.al.|[2202.08514v1](http://arxiv.org/abs/2202.08514v1)|null|
 |**2022-02-17**|**Visual Ground Truth Construction as Faceted Classification**|Fausto Giunchiglia et.al.|[2202.08512v1](http://arxiv.org/abs/2202.08512v1)|null|
 |**2022-02-17**|**A hybrid 2-stage vision transformer for AI-assisted 5 class pathologic diagnosis of gastric endoscopic biopsies**|Yujin Oh et.al.|[2202.08510v1](http://arxiv.org/abs/2202.08510v1)|null|

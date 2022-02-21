@@ -31,7 +31,7 @@
 |**2022-02-18**|**Joint Learning of Frequency and Spatial Domains for Dense Predictions**|Shaocheng Jia et.al.|[2202.08991v1](http://arxiv.org/abs/2202.08991v1)|null|
 |**2022-02-18**|**R2-D2: Repetitive Reprediction Deep Decipher for Semi-Supervised Deep Learning**|Guo-Hua Wang et.al.|[2202.08955v1](http://arxiv.org/abs/2202.08955v1)|null|
 |**2022-02-18**|**Classification of ADHD Patients by Kernel Hierarchical Extreme Learning Machine**|Sartaj Ahmed Salman et.al.|[2202.08953v1](http://arxiv.org/abs/2202.08953v1)|**[link](https://github.com/sartajbalti/ADHD-classification)**|
-|**2022-02-17**|**When, Why, and Which Pretrained GANs Are Useful?**|Timofey Grigoryev et.al.|[2202.08937v1](http://arxiv.org/abs/2202.08937v1)|**[link](https://github.com/yandex-research/gan-transfer)**|
+|**2022-02-17**|**When, Why, and Which Pretrained GANs Are Useful?**|Timofey Grigoryev et.al.|[2202.08937v1](http://arxiv.org/abs/2202.08937v1)|null|
 |**2022-02-17**|**Prior image-based medical image reconstruction using a style-based generative adversarial network**|Varun A. Kelkar et.al.|[2202.08936v1](http://arxiv.org/abs/2202.08936v1)|null|
 |**2022-02-17**|**On Guiding Visual Attention with Language Specification**|Suzanne Petryk et.al.|[2202.08926v1](http://arxiv.org/abs/2202.08926v1)|null|
 |**2022-02-17**|**Graph Convolutional Networks for Multi-modality Medical Imaging: Methods, Architectures, and Clinical Applications**|Kexin Ding et.al.|[2202.08916v1](http://arxiv.org/abs/2202.08916v1)|null|

@@ -4,6 +4,41 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-18**|**A Machine Learning Paradigm for Studying Pictorial Realism: Are Constable's Clouds More Real than His Contemporaries?**|Zhuomin Zhang et.al.|[2202.09348v1](http://arxiv.org/abs/2202.09348v1)|null|
+|**2022-02-18**|**Unsupervised Multiple-Object Tracking with a Dynamical Variational Autoencoder**|Xiaoyu Lin et.al.|[2202.09315v1](http://arxiv.org/abs/2202.09315v1)|null|
+|**2022-02-18**|**Exploring Adversarially Robust Training for Unsupervised Domain Adaptation**|Shao-Yuan Lo et.al.|[2202.09300v1](http://arxiv.org/abs/2202.09300v1)|null|
+|**2022-02-18**|**(2.5+1)D Spatio-Temporal Scene Graphs for Video Question Answering**|Anoop Cherian et.al.|[2202.09277v1](http://arxiv.org/abs/2202.09277v1)|null|
+|**2022-02-18**|**Autoencoding Low-Resolution MRI for Semantically Smooth Interpolation of Anisotropic MRI**|Jörg Sander et.al.|[2202.09258v1](http://arxiv.org/abs/2202.09258v1)|null|
+|**2022-02-18**|**Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks**|Haebom Lee et.al.|[2202.09206v1](http://arxiv.org/abs/2202.09206v1)|null|
+|**2022-02-18**|**Incorporating Texture Information into Dimensionality Reduction for High-Dimensional Images**|Alexander Vieth et.al.|[2202.09179v1](http://arxiv.org/abs/2202.09179v1)|null|
+|**2022-02-18**|**MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**|Ahmad Khaliq et.al.|[2202.09146v1](http://arxiv.org/abs/2202.09146v1)|null|
+|**2022-02-18**|**Generalizing Aggregation Functions in GNNs:High-Capacity GNNs via Nonlinear Neighborhood Aggregators**|Beibei Wang et.al.|[2202.09145v1](http://arxiv.org/abs/2202.09145v1)|null|
+|**2022-02-18**|**Towards Simple and Accurate Human Pose Estimation with Stair Network**|Chenru Jiang et.al.|[2202.09115v1](http://arxiv.org/abs/2202.09115v1)|null|
+|**2022-02-18**|**Iterative Learning for Instance Segmentation**|Tuomas Sormunen et.al.|[2202.09110v1](http://arxiv.org/abs/2202.09110v1)|null|
+|**2022-02-18**|**Lightweight Multi-Drone Detection and 3D-Localization via YOLO**|Aryan Sharma et.al.|[2202.09097v1](http://arxiv.org/abs/2202.09097v1)|null|
+|**2022-02-18**|**VCVTS: Multi-speaker Video-to-Speech synthesis via cross-modal knowledge transfer from voice conversion**|Disong Wang et.al.|[2202.09081v1](http://arxiv.org/abs/2202.09081v1)|null|
+|**2022-02-18**|**VLP: A Survey on Vision-Language Pre-training**|Feilong Chen et.al.|[2202.09061v1](http://arxiv.org/abs/2202.09061v1)|null|
+|**2022-02-18**|**Towards better understanding and better generalization of few-shot classification in histology images with contrastive learning**|Jiawei Yang et.al.|[2202.09059v1](http://arxiv.org/abs/2202.09059v1)|**[link](https://github.com/TencentAILabHealthcare/Few-shot-WSI)**|
+|**2022-02-18**|**Guide Local Feature Matching by Overlap Estimation**|Ying Chen et.al.|[2202.09050v1](http://arxiv.org/abs/2202.09050v1)|**[link](https://github.com/abyssgaze/oetr)**|
+|**2022-02-18**|**Task Specific Attention is one more thing you need for object detection**|Sang Yon Lee et.al.|[2202.09048v1](http://arxiv.org/abs/2202.09048v1)|null|
+|**2022-02-18**|**Critical Checkpoints for Evaluating Defence Models Against Adversarial Attack and Robustness**|Kanak Tekwani et.al.|[2202.09039v1](http://arxiv.org/abs/2202.09039v1)|null|
+|**2022-02-18**|**A Comprehensive Survey with Quantitative Comparison of Image Analysis Methods for Microorganism Biovolume Measurements**|Jiawei Zhang et.al.|[2202.09020v1](http://arxiv.org/abs/2202.09020v1)|null|
+|**2022-02-18**|**How Well Do Self-Supervised Methods Perform in Cross-Domain Few-Shot Learning?**|Yiyi Zhang et.al.|[2202.09014v1](http://arxiv.org/abs/2202.09014v1)|null|
+|**2022-02-18**|**LG-LSQ: Learned Gradient Linear Symmetric Quantization**|Shih-Ting Lin et.al.|[2202.09009v1](http://arxiv.org/abs/2202.09009v1)|null|
+|**2022-02-18**|**KINet: Keypoint Interaction Networks for Unsupervised Forward Modeling**|Alireza Rezazadeh et.al.|[2202.09006v1](http://arxiv.org/abs/2202.09006v1)|null|
+|**2022-02-18**|**An Active and Contrastive Learning Framework for Fine-Grained Off-Road Semantic Segmentation**|Biao Gao et.al.|[2202.09002v1](http://arxiv.org/abs/2202.09002v1)|null|
+|**2022-02-18**|**REFUGE2 Challenge: Treasure for Multi-Domain Learning in Glaucoma Assessment**|Huihui Fang et.al.|[2202.08994v1](http://arxiv.org/abs/2202.08994v1)|null|
+|**2022-02-18**|**Joint Learning of Frequency and Spatial Domains for Dense Predictions**|Shaocheng Jia et.al.|[2202.08991v1](http://arxiv.org/abs/2202.08991v1)|null|
+|**2022-02-18**|**R2-D2: Repetitive Reprediction Deep Decipher for Semi-Supervised Deep Learning**|Guo-Hua Wang et.al.|[2202.08955v1](http://arxiv.org/abs/2202.08955v1)|null|
+|**2022-02-18**|**Classification of ADHD Patients by Kernel Hierarchical Extreme Learning Machine**|Sartaj Ahmed Salman et.al.|[2202.08953v1](http://arxiv.org/abs/2202.08953v1)|**[link](https://github.com/sartajbalti/ADHD-classification)**|
+|**2022-02-17**|**When, Why, and Which Pretrained GANs Are Useful?**|Timofey Grigoryev et.al.|[2202.08937v1](http://arxiv.org/abs/2202.08937v1)|**[link](https://github.com/yandex-research/gan-transfer)**|
+|**2022-02-17**|**Prior image-based medical image reconstruction using a style-based generative adversarial network**|Varun A. Kelkar et.al.|[2202.08936v1](http://arxiv.org/abs/2202.08936v1)|null|
+|**2022-02-17**|**On Guiding Visual Attention with Language Specification**|Suzanne Petryk et.al.|[2202.08926v1](http://arxiv.org/abs/2202.08926v1)|null|
+|**2022-02-17**|**Graph Convolutional Networks for Multi-modality Medical Imaging: Methods, Architectures, and Clinical Applications**|Kexin Ding et.al.|[2202.08916v1](http://arxiv.org/abs/2202.08916v1)|null|
+|**2022-02-17**|**Machine learning models and facial regions videos for estimating heart rate: a review on Patents, Datasets and Literature**|Tiago Palma Pagano et.al.|[2202.08913v1](http://arxiv.org/abs/2202.08913v1)|null|
+|**2022-02-17**|**Continuous-Time vs. Discrete-Time Vision-based SLAM: A Comparative Study**|Giovanni Cioffi et.al.|[2202.08894v1](http://arxiv.org/abs/2202.08894v1)|**[link](https://github.com/uzh-rpg/rpg_vision-based_slam)**|
+|**2022-02-17**|**Developing Imperceptible Adversarial Patches to Camouflage Military Assets From Computer Vision Enabled Technologies**|Christopher Wise et.al.|[2202.08892v1](http://arxiv.org/abs/2202.08892v1)|**[link](https://github.com/chriswise07/imperceptible-patch-generator)**|
+|**2022-02-17**|**Deep Transfer Learning on Satellite Imagery Improves Air Quality Estimates in Developing Nations**|Nishant Yadav et.al.|[2202.08890v1](http://arxiv.org/abs/2202.08890v1)|null|
 |**2022-02-17**|**Adiabatic Quantum Computing for Multi Object Tracking**|Jan-Nico Zaech et.al.|[2202.08837v1](http://arxiv.org/abs/2202.08837v1)|null|
 |**2022-02-17**|**General Cyclical Training of Neural Networks**|Leslie N. Smith et.al.|[2202.08835v1](http://arxiv.org/abs/2202.08835v1)|**[link](https://github.com/lnsmith54/cfl)**|
 |**2022-02-17**|**Grammar-Based Grounded Lexicon Learning**|Jiayuan Mao et.al.|[2202.08806v1](http://arxiv.org/abs/2202.08806v1)|null|

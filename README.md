@@ -19,12 +19,12 @@
 |**2022-02-17**|**Domain Randomization for Object Counting**|Enric Moreu et.al.|[2202.08670v1](http://arxiv.org/abs/2202.08670v1)|**[link](https://github.com/enric1994/dr4oc)**|
 |**2022-02-17**|**Semantically Proportional Patchmix for Few-Shot Learning**|Jingquan Wang et.al.|[2202.08647v1](http://arxiv.org/abs/2202.08647v1)|null|
 |**2022-02-17**|**Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time**|Liao Wang et.al.|[2202.08614v1](http://arxiv.org/abs/2202.08614v1)|null|
-|**2022-02-17**|**Two-Stage Architectural Fine-Tuning with Neural Architecture Search using Early-Stopping in Image Classification**|Youngkee Kim et.al.|[2202.08604v1](http://arxiv.org/abs/2202.08604v1)|null|
+|**2022-02-18**|**Two-Stage Architectural Fine-Tuning with Neural Architecture Search using Early-Stopping in Image Classification**|Youngkee Kim et.al.|[2202.08604v2](http://arxiv.org/abs/2202.08604v2)|null|
 |**2022-02-17**|**Single UHD Image Dehazing via Interpretable Pyramid Network**|Boxue Xiao et.al.|[2202.08589v1](http://arxiv.org/abs/2202.08589v1)|null|
 |**2022-02-17**|**Point cloud completion on structured feature map with feedback network**|Zejia Su et.al.|[2202.08583v1](http://arxiv.org/abs/2202.08583v1)|null|
 |**2022-02-17**|**Anatomically Parameterized Statistical Shape Model: Explaining Morphometry through Statistical Learning**|Arnaud Boutillon et.al.|[2202.08580v1](http://arxiv.org/abs/2202.08580v1)|null|
 |**2022-02-17**|**CADRE: A Cascade Deep Reinforcement Learning Framework for Vision-based Autonomous Urban Driving**|Yinuo Zhao et.al.|[2202.08557v1](http://arxiv.org/abs/2202.08557v1)|null|
-|**2022-02-17**|**3D-Aware Indoor Scene Synthesis with Depth Priors**|Zifan Shi et.al.|[2202.08553v1](http://arxiv.org/abs/2202.08553v1)|null|
+|**2022-02-18**|**3D-Aware Indoor Scene Synthesis with Depth Priors**|Zifan Shi et.al.|[2202.08553v2](http://arxiv.org/abs/2202.08553v2)|null|
 |**2022-02-17**|**EBHI:A New Enteroscope Biopsy Histopathological H&E Image Dataset for Image Classification Evaluation**|Weiming Hu et.al.|[2202.08552v1](http://arxiv.org/abs/2202.08552v1)|null|
 |**2022-02-17**|**An overview of deep learning in medical imaging**|Imran Ul Haq et.al.|[2202.08546v1](http://arxiv.org/abs/2202.08546v1)|null|
 |**2022-02-17**|**Domain Adaptation for Underwater Image Enhancement via Content and Style Separation**|Yu-Wei Chen et.al.|[2202.08537v1](http://arxiv.org/abs/2202.08537v1)|null|

@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-21**|**Robotic Telekinesis: Learning a Robotic Hand Imitator by Watching Humans on Youtube**|Aravind Sivakumar et.al.|[2202.10448v1](http://arxiv.org/abs/2202.10448v1)|null|
+|**2022-02-21**|**Malaria detection in Segmented Blood Cell using Convolutional Neural Networks and Canny Edge Detection**|Tahsinur Rahman Talukdar et.al.|[2202.10426v1](http://arxiv.org/abs/2202.10426v1)|null|
+|**2022-02-21**|**Vision-Language Pre-Training with Triple Contrastive Learning**|Jinyu Yang et.al.|[2202.10401v1](http://arxiv.org/abs/2202.10401v1)|**[link](https://github.com/uta-smile/TCL)**|
+|**2022-02-21**|**MIST GAN: Modality Imputation Using Style Transfer for MRI**|Jaya Chandra Raju et.al.|[2202.10396v1](http://arxiv.org/abs/2202.10396v1)|null|
+|**2022-02-21**|**Self-Supervised Bulk Motion Artifact Removal in Optical Coherence Tomography Angiography**|Jiaxiang Ren et.al.|[2202.10360v1](http://arxiv.org/abs/2202.10360v1)|null|
+|**2022-02-21**|**On the Evaluation of RGB-D-based Categorical Pose and Shape Estimation**|Leonard Bruns et.al.|[2202.10346v1](http://arxiv.org/abs/2202.10346v1)|**[link](https://github.com/roym899/pose_and_shape_evaluation)**|
+|**2022-02-21**|**Reducing the Gibbs effect in multimodal medical imaging by the Fake Nodes Approach**|Davide Poggiali et.al.|[2202.10325v1](http://arxiv.org/abs/2202.10325v1)|**[link](https://github.com/pog87/fakeresampling3d)**|
+|**2022-02-21**|**Real-Time Scene Text Detection with Differentiable Binarization and Adaptive Scale Fusion**|Minghui Liao et.al.|[2202.10304v1](http://arxiv.org/abs/2202.10304v1)|null|
+|**2022-02-21**|**VLAD-VSA: Cross-Domain Face Presentation Attack Detection with Vocabulary Separation and Adaptation**|Jiong Wang et.al.|[2202.10301v1](http://arxiv.org/abs/2202.10301v1)|**[link](https://github.com/liubinggunzu/vlad-vsa)**|
+|**2022-02-21**|**Seeing the advantage: visually grounding word embeddings to better capture human semantic knowledge**|Danny Merkx et.al.|[2202.10292v1](http://arxiv.org/abs/2202.10292v1)|null|
+|**2022-02-21**|**A Comprehensive Evaluation on Multi-channel Biometric Face Presentation Attack Detection**|Anjith George et.al.|[2202.10286v1](http://arxiv.org/abs/2202.10286v1)|null|
+|**2022-02-21**|**A Review of Emerging Research Directions in Abstract Visual Reasoning**|Mikołaj Małkiński et.al.|[2202.10284v1](http://arxiv.org/abs/2202.10284v1)|null|
+|**2022-02-21**|**ALGAN: Anomaly Detection by Generating Pseudo Anomalous Data via Latent Variables**|Hironori Murase et.al.|[2202.10281v1](http://arxiv.org/abs/2202.10281v1)|null|
+|**2022-02-21**|**End-to-End High Accuracy License Plate Recognition Based on Depthwise Separable Convolution Networks**|Song-Ren Wang et.al.|[2202.10277v1](http://arxiv.org/abs/2202.10277v1)|null|
+|**2022-02-21**|**A Self-Supervised Descriptor for Image Copy Detection**|Ed Pizzi et.al.|[2202.10261v1](http://arxiv.org/abs/2202.10261v1)|null|
+|**2022-02-21**|**PointSCNet: Point Cloud Structure and Correlation Learning Based on Space Filling Curve-Guided Sampling**|Xingye Chen et.al.|[2202.10251v1](http://arxiv.org/abs/2202.10251v1)|**[link](https://github.com/Chenguoz/PointSCNet)**|
+|**2022-02-21**|**Rethinking the Zigzag Flattening for Image Reading**|Qingsong Zhao et.al.|[2202.10240v1](http://arxiv.org/abs/2202.10240v1)|null|
+|**2022-02-21**|**Offline Text-Independent Writer Identification based on word level data**|Vineet Kumar et.al.|[2202.10207v1](http://arxiv.org/abs/2202.10207v1)|null|
+|**2022-02-21**|**Learning Bayesian Sparse Networks with Full Experience Replay for Continual Learning**|Dong Gong et.al.|[2202.10203v1](http://arxiv.org/abs/2202.10203v1)|null|
+|**2022-02-21**|**OG-SGG: Ontology-Guided Scene Graph Generation. A Case Study in Transfer Learning for Telepresence Robotics**|Fernando Amodeo et.al.|[2202.10201v1](http://arxiv.org/abs/2202.10201v1)|**[link](https://github.com/robotics-upo/og-sgg)**|
+|**2022-02-21**|**Learning Multiple Explainable and Generalizable Cues for Face Anti-spoofing**|Ying Bian et.al.|[2202.10187v1](http://arxiv.org/abs/2202.10187v1)|null|
+|**2022-02-21**|**OSegNet: Operational Segmentation Network for COVID-19 Detection using Chest X-ray Images**|Aysen Degerli et.al.|[2202.10185v1](http://arxiv.org/abs/2202.10185v1)|null|
+|**2022-02-21**|**Cell nuclei classification in histopathological images using hybrid OLConvNet**|Suvidha Tripathi et.al.|[2202.10177v1](http://arxiv.org/abs/2202.10177v1)|null|
+|**2022-02-21**|**Diffusion Causal Models for Counterfactual Estimation**|Pedro Sanchez et.al.|[2202.10166v1](http://arxiv.org/abs/2202.10166v1)|null|
+|**2022-02-21**|**Synthetic CT Skull Generation for Transcranial MR Imaging-Guided Focused Ultrasound Interventions with Conditional Adversarial Networks**|Han Liu et.al.|[2202.10136v1](http://arxiv.org/abs/2202.10136v1)|null|
+|**2022-02-21**|**Multi-Task Conditional Imitation Learning for Autonomous Navigation at Crowded Intersections**|Zeyu Zhu et.al.|[2202.10124v1](http://arxiv.org/abs/2202.10124v1)|null|
+|**2022-02-21**|**A Smoothing and Thresholding Image Segmentation Framework with Weighted Anisotropic-Isotropic Total Variation**|Kevin Bui et.al.|[2202.10115v1](http://arxiv.org/abs/2202.10115v1)|null|
+|**2022-02-21**|**ViTAEv2: Vision Transformer Advanced by Exploring Inductive Bias for Image Recognition and Beyond**|Qiming Zhang et.al.|[2202.10108v1](http://arxiv.org/abs/2202.10108v1)|**[link](https://github.com/Annbless/ViTAE)**|
+|**2022-02-21**|**Simplified Learning of CAD Features Leveraging a Deep Residual Autoencoder**|Raoul Schönhof et.al.|[2202.10099v1](http://arxiv.org/abs/2202.10099v1)|**[link](https://github.com/raoulushpc/deep_residual_voxel_autoencoder)**|
+|**2022-02-21**|**Point Cloud Denoising via Momentum Ascent in Gradient Fields**|Yaping Zhao et.al.|[2202.10094v1](http://arxiv.org/abs/2202.10094v1)|null|
+|**2022-02-21**|**Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution**|Ananya Kumar et.al.|[2202.10054v1](http://arxiv.org/abs/2202.10054v1)|null|
+|**2022-02-21**|**PCSCNet: Fast 3D Semantic Segmentation of LiDAR Point Cloud for Autonomous Car using Point Convolution and Sparse Convolution Network**|Jaehyun Park et.al.|[2202.10047v1](http://arxiv.org/abs/2202.10047v1)|null|
+|**2022-02-21**|**DGAFF: Deep Genetic Algorithm Fitness Formation for EEG Bio-Signal Channel Selection**|Ghazaleh Ghorbanzadeh et.al.|[2202.10034v1](http://arxiv.org/abs/2202.10034v1)|null|
+|**2022-02-21**|**Domain-Augmented Domain Adaptation**|Qiuhao Zeng et.al.|[2202.10000v1](http://arxiv.org/abs/2202.10000v1)|null|
+|**2022-02-21**|**Transferring Adversarial Robustness Through Robust Representation Matching**|Pratik Vaishnavi et.al.|[2202.09994v1](http://arxiv.org/abs/2202.09994v1)|**[link](https://github.com/ethos-lab/robust-representation-matching)**|
+|**2022-02-21**|**Outlier-based Autism Detection using Longitudinal Structural MRI**|Devika K et.al.|[2202.09988v1](http://arxiv.org/abs/2202.09988v1)|null|
+|**2022-02-21**|**Don't Touch What Matters: Task-Aware Lipschitz Data Augmentationfor Visual Reinforcement Learning**|Zhecheng Yuan et.al.|[2202.09982v1](http://arxiv.org/abs/2202.09982v1)|null|
+|**2022-02-21**|**Audio Visual Scene-Aware Dialog Generation with Transformer-based Video Representations**|Yoshihiro Yamazaki et.al.|[2202.09979v1](http://arxiv.org/abs/2202.09979v1)|null|
+|**2022-02-21**|**Deep Feature based Cross-slide Registration**|Ruqayya Awan et.al.|[2202.09971v1](http://arxiv.org/abs/2202.09971v1)|null|
+|**2022-02-21**|**LiDAR-guided Stereo Matching with a Spatial Consistency Constraint**|Yongjun Zhang et.al.|[2202.09953v1](http://arxiv.org/abs/2202.09953v1)|null|
+|**2022-02-21**|**Multiscale Crowd Counting and Localization By Multitask Point Supervision**|Mohsen Zand et.al.|[2202.09942v1](http://arxiv.org/abs/2202.09942v1)|null|
+|**2022-02-21**|**Generative Target Update for Adaptive Siamese Tracking**|Madhu Kiran et.al.|[2202.09938v1](http://arxiv.org/abs/2202.09938v1)|null|
+|**2022-02-20**|**Deconstructing Distributions: A Pointwise Framework of Learning**|Gal Kaplun et.al.|[2202.09931v1](http://arxiv.org/abs/2202.09931v1)|**[link](https://github.com/saurabhgarg1996/cifar-10-neg)**|
+|**2022-02-20**|**SRL-SOA: Self-Representation Learning with Sparse 1D-Operational Autoencoder for Hyperspectral Image Band Selection**|Mete Ahishali et.al.|[2202.09918v1](http://arxiv.org/abs/2202.09918v1)|null|
+|**2022-02-20**|**Non-Deterministic Face Mask Removal Based On 3D Priors**|Xiangnan Yin et.al.|[2202.09856v1](http://arxiv.org/abs/2202.09856v1)|null|
+|**2022-02-20**|**A Novel Framework for Brain Tumor Detection Based on Convolutional Variational Generative Models**|Wessam M. Salama et.al.|[2202.09850v1](http://arxiv.org/abs/2202.09850v1)|null|
+|**2022-02-20**|**Sparsity Winning Twice: Better Robust Generaliztion from More Efficient Training**|Tianlong Chen et.al.|[2202.09844v1](http://arxiv.org/abs/2202.09844v1)|**[link](https://github.com/vita-group/sparsity-win-robust-generalization)**|
+|**2022-02-20**|**Alternative design of DeepPDNet in the context of image restoration**|Mingyuan Jiu et.al.|[2202.09810v1](http://arxiv.org/abs/2202.09810v1)|null|
+|**2022-02-20**|**Distortion-Aware Loop Filtering of Intra 360^o Video Coding with Equirectangular Projection**|Pingping Zhang et.al.|[2202.09802v1](http://arxiv.org/abs/2202.09802v1)|null|
+|**2022-02-20**|**Image quality assessment by overlapping task-specific and task-agnostic measures: application to prostate multiparametric MR images for cancer segmentation**|Shaheer U. Saeed et.al.|[2202.09798v1](http://arxiv.org/abs/2202.09798v1)|null|
 |**2022-02-18**|**A Machine Learning Paradigm for Studying Pictorial Realism: Are Constable's Clouds More Real than His Contemporaries?**|Zhuomin Zhang et.al.|[2202.09348v1](http://arxiv.org/abs/2202.09348v1)|null|
 |**2022-02-18**|**Unsupervised Multiple-Object Tracking with a Dynamical Variational Autoencoder**|Xiaoyu Lin et.al.|[2202.09315v1](http://arxiv.org/abs/2202.09315v1)|null|
 |**2022-02-18**|**Exploring Adversarially Robust Training for Unsupervised Domain Adaptation**|Shao-Yuan Lo et.al.|[2202.09300v1](http://arxiv.org/abs/2202.09300v1)|null|

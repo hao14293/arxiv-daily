@@ -144,7 +144,7 @@
 |**2022-02-17**|**Grammar-Based Grounded Lexicon Learning**|Jiayuan Mao et.al.|[2202.08806v1](http://arxiv.org/abs/2202.08806v1)|null|
 |**2022-02-17**|**Realistic Blur Synthesis for Learning Image Deblurring**|Jaesung Rim et.al.|[2202.08771v1](http://arxiv.org/abs/2202.08771v1)|null|
 |**2022-02-17**|**A Wavelet-based Dual-stream Network for Underwater Image Enhancement**|Ziyin Ma et.al.|[2202.08758v1](http://arxiv.org/abs/2202.08758v1)|null|
-|**2022-02-17**|**OmniSyn: Synthesizing 360 Videos with Wide-baseline Panoramas**|David Li et.al.|[2202.08752v1](http://arxiv.org/abs/2202.08752v1)|null|
+|**2022-02-22**|**OmniSyn: Synthesizing 360 Videos with Wide-baseline Panoramas**|David Li et.al.|[2202.08752v2](http://arxiv.org/abs/2202.08752v2)|null|
 |**2022-02-21**|**Colonoscopy polyp detection with massive endoscopic images**|Jialin Yu et.al.|[2202.08730v2](http://arxiv.org/abs/2202.08730v2)|null|
 |**2022-02-17**|**Level set based particle filter driven by optical flow: an application to track the salt boundary from X-ray CT time-series**|Karim Makki et.al.|[2202.08717v1](http://arxiv.org/abs/2202.08717v1)|null|
 |**2022-02-17**|**Detecting and Learning the Unknown in Semantic Segmentation**|Robin Chan et.al.|[2202.08700v1](http://arxiv.org/abs/2202.08700v1)|null|
@@ -153,7 +153,7 @@
 |**2022-02-17**|**Synthetic data for unsupervised polyp segmentation**|Enric Moreu et.al.|[2202.08680v1](http://arxiv.org/abs/2202.08680v1)|**[link](https://github.com/enric1994/synth-colon)**|
 |**2022-02-17**|**Domain Randomization for Object Counting**|Enric Moreu et.al.|[2202.08670v1](http://arxiv.org/abs/2202.08670v1)|**[link](https://github.com/enric1994/dr4oc)**|
 |**2022-02-17**|**Semantically Proportional Patchmix for Few-Shot Learning**|Jingquan Wang et.al.|[2202.08647v1](http://arxiv.org/abs/2202.08647v1)|null|
-|**2022-02-17**|**Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time**|Liao Wang et.al.|[2202.08614v1](http://arxiv.org/abs/2202.08614v1)|null|
+|**2022-02-22**|**Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time**|Liao Wang et.al.|[2202.08614v2](http://arxiv.org/abs/2202.08614v2)|null|
 |**2022-02-18**|**Two-Stage Architectural Fine-Tuning with Neural Architecture Search using Early-Stopping in Image Classification**|Youngkee Kim et.al.|[2202.08604v2](http://arxiv.org/abs/2202.08604v2)|null|
 |**2022-02-17**|**Single UHD Image Dehazing via Interpretable Pyramid Network**|Boxue Xiao et.al.|[2202.08589v1](http://arxiv.org/abs/2202.08589v1)|null|
 |**2022-02-17**|**Point cloud completion on structured feature map with feedback network**|Zejia Su et.al.|[2202.08583v1](http://arxiv.org/abs/2202.08583v1)|null|

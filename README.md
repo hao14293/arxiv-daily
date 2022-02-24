@@ -4,6 +4,44 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-23**|**Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis**|Shouchang Guo et.al.|[2202.11703v1](http://arxiv.org/abs/2202.11703v1)|null|
+|**2022-02-23**|**Human Motion Detection Using Sharpened Dimensionality Reduction and Clustering**|Jeewon Heo et.al.|[2202.11667v1](http://arxiv.org/abs/2202.11667v1)|null|
+|**2022-02-23**|**Anomaly Detection in 3D Point Clouds using Deep Geometric Descriptors**|Paul Bergmann et.al.|[2202.11660v1](http://arxiv.org/abs/2202.11660v1)|null|
+|**2022-02-23**|**Image Classification on Small Datasets via Masked Feature Mixing**|Christoph Reinders et.al.|[2202.11616v1](http://arxiv.org/abs/2202.11616v1)|null|
+|**2022-02-23**|**Deep Bayesian ICP Covariance Estimation**|Andrea De Maio et.al.|[2202.11607v1](http://arxiv.org/abs/2202.11607v1)|null|
+|**2022-02-23**|**Amodal Panoptic Segmentation**|Rohit Mohan et.al.|[2202.11542v1](http://arxiv.org/abs/2202.11542v1)|null|
+|**2022-02-23**|**Self-Supervised Transformers for Unsupervised Object Discovery using Normalized Cut**|Yangtao Wang et.al.|[2202.11539v1](http://arxiv.org/abs/2202.11539v1)|null|
+|**2022-02-23**|**Diffractive optical system design by cascaded propagation**|Boris Ferdman et.al.|[2202.11535v1](http://arxiv.org/abs/2202.11535v1)|null|
+|**2022-02-23**|**Weakly-supervised learning for image-based classification of primary melanomas into genomic immune subgroups**|Lucy Godson et.al.|[2202.11524v1](http://arxiv.org/abs/2202.11524v1)|null|
+|**2022-02-23**|**Visual-tactile sensing for Real-time liquid Volume Estimation in Grasping**|Fan Zhu et.al.|[2202.11503v1](http://arxiv.org/abs/2202.11503v1)|null|
+|**2022-02-23**|**MITI: SLAM Benchmark for Laparoscopic Surgery**|Regine Hartwig et.al.|[2202.11496v1](http://arxiv.org/abs/2202.11496v1)|null|
+|**2022-02-23**|**Augmentation based unsupervised domain adaptation**|Mauricio Orbes-Arteaga et.al.|[2202.11486v1](http://arxiv.org/abs/2202.11486v1)|null|
+|**2022-02-23**|**Reconstruction Task Finds Universal Winning Tickets**|Ruichen Li et.al.|[2202.11484v1](http://arxiv.org/abs/2202.11484v1)|null|
+|**2022-02-23**|**Thermal hand image segmentation for biometric recognition**|Xavier Font-Aragones et.al.|[2202.11462v1](http://arxiv.org/abs/2202.11462v1)|null|
+|**2022-02-23**|**SLOGAN: Handwriting Style Synthesis for Arbitrary-Length and Out-of-Vocabulary Text**|Canjie Luo et.al.|[2202.11456v1](http://arxiv.org/abs/2202.11456v1)|null|
+|**2022-02-23**|**On PAC-Bayesian reconstruction guarantees for VAEs**|Badr-Eddine Chérief-Abdellatif et.al.|[2202.11455v1](http://arxiv.org/abs/2202.11455v1)|null|
+|**2022-02-23**|**A Novel Self-Supervised Cross-Modal Image Retrieval Method In Remote Sensing**|Gencer Sumbul et.al.|[2202.11429v1](http://arxiv.org/abs/2202.11429v1)|null|
+|**2022-02-23**|**ProFormer: Learning Data-efficient Representations of Body Movement with Prototype-based Feature Augmentation and Visual Transformers**|Kunyu Peng et.al.|[2202.11423v1](http://arxiv.org/abs/2202.11423v1)|**[link](https://github.com/kpeng9510/proformer)**|
+|**2022-02-23**|**Mixed-Block Neural Architecture Search for Medical Image Segmentation**|Martijn M. A. Bosma et.al.|[2202.11401v1](http://arxiv.org/abs/2202.11401v1)|null|
+|**2022-02-23**|**Deep Metric Learning-Based Semi-Supervised Regression With Alternate Learning**|Adina Zell et.al.|[2202.11388v1](http://arxiv.org/abs/2202.11388v1)|null|
+|**2022-02-23**|**Multi-Teacher Knowledge Distillation for Incremental Implicitly-Refined Classification**|Longhui Yu et.al.|[2202.11384v1](http://arxiv.org/abs/2202.11384v1)|null|
+|**2022-02-23**|**Multi-scale Sparse Representation-Based Shadow Inpainting for Retinal OCT Images**|Yaoqi Tang et.al.|[2202.11377v1](http://arxiv.org/abs/2202.11377v1)|null|
+|**2022-02-23**|**Skeleton Sequence and RGB Frame Based Multi-Modality Feature Fusion Network for Action Recognition**|Xiaoguang Zhu et.al.|[2202.11374v1](http://arxiv.org/abs/2202.11374v1)|null|
+|**2022-02-23**|**Localizing Small Apples in Complex Apple Orchard Environments**|Christian Wilms et.al.|[2202.11372v1](http://arxiv.org/abs/2202.11372v1)|null|
+|**2022-02-23**|**Deepfake Detection for Facial Images with Facemasks**|Donggeun Ko et.al.|[2202.11359v1](http://arxiv.org/abs/2202.11359v1)|null|
+|**2022-02-23**|**Commonsense Reasoning for Identifying and Understanding the Implicit Need of Help and Synthesizing Assistive Actions**|Maëlic Neau et.al.|[2202.11337v1](http://arxiv.org/abs/2202.11337v1)|null|
+|**2022-02-23**|**EcoFusion: Energy-Aware Adaptive Sensor Fusion for Efficient Autonomous Vehicle Perception**|Arnav Vaibhav Malawade et.al.|[2202.11330v1](http://arxiv.org/abs/2202.11330v1)|null|
+|**2022-02-23**|**Absolute Zero-Shot Learning**|Rui Gao et.al.|[2202.11319v1](http://arxiv.org/abs/2202.11319v1)|null|
+|**2022-02-23**|**Are We Ready for Robust and Resilient SLAM? A Framework For Quantitative Characterization of SLAM Datasets**|Islam Ali et.al.|[2202.11312v1](http://arxiv.org/abs/2202.11312v1)|null|
+|**2022-02-23**|**Reliable Inlier Evaluation for Unsupervised Point Cloud Registration**|Yaqi Shen et.al.|[2202.11292v1](http://arxiv.org/abs/2202.11292v1)|null|
+|**2022-02-23**|**LPF-Defense: 3D Adversarial Defense based on Frequency Analysis**|Hanieh Naderi et.al.|[2202.11287v1](http://arxiv.org/abs/2202.11287v1)|**[link](https://github.com/kimianoorbakhsh/lpf-defence)**|
+|**2022-02-23**|**An End-to-End Cascaded Image Deraining and Object Detection Neural Network**|Kaige Wang et.al.|[2202.11279v1](http://arxiv.org/abs/2202.11279v1)|null|
+|**2022-02-23**|**FUNQUE: Fusion of Unified Quality Evaluators**|Abhinau K. Venkataramanan et.al.|[2202.11241v1](http://arxiv.org/abs/2202.11241v1)|**[link](https://github.com/abhinaukumar/funque)**|
+|**2022-02-22**|**Retrieval Augmented Classification for Long-Tail Visual Recognition**|Alexander Long et.al.|[2202.11233v1](http://arxiv.org/abs/2202.11233v1)|null|
+|**2022-02-22**|**Enabling Efficient Deep Convolutional Neural Network-based Sensor Fusion for Autonomous Driving**|Xiaoming Zeng et.al.|[2202.11231v1](http://arxiv.org/abs/2202.11231v1)|null|
+|**2022-02-22**|**Arbitrary Shape Text Detection using Transformers**|Zobeir Raisi et.al.|[2202.11221v1](http://arxiv.org/abs/2202.11221v1)|null|
+|**2022-02-22**|**Indiscriminate Poisoning Attacks on Unsupervised Contrastive Learning**|Hao He et.al.|[2202.11202v1](http://arxiv.org/abs/2202.11202v1)|null|
+|**2022-02-22**|**Learning with Free Object Segments for Long-Tailed Instance Segmentation**|Cheng Zhang et.al.|[2202.11124v1](http://arxiv.org/abs/2202.11124v1)|null|
 |**2022-02-22**|**GroupViT: Semantic Segmentation Emerges from Text Supervision**|Jiarui Xu et.al.|[2202.11094v1](http://arxiv.org/abs/2202.11094v1)|null|
 |**2022-02-22**|**ReorientBot: Learning Object Reorientation for Specific-Posed Placement**|Kentaro Wada et.al.|[2202.11092v1](http://arxiv.org/abs/2202.11092v1)|**[link](https://github.com/wkentaro/reorientbot)**|
 |**2022-02-22**|**Constrained Visual-Inertial Localization With Application And Benchmark in Laparoscopic Surgery**|Regine Hartwig et.al.|[2202.11075v1](http://arxiv.org/abs/2202.11075v1)|null|
@@ -11,8 +49,8 @@
 |**2022-02-22**|**Statistical and Spatio-temporal Hand Gesture Features for Sign Language Recognition using the Leap Motion Sensor**|Jordan J. Bird et.al.|[2202.11005v1](http://arxiv.org/abs/2202.11005v1)|null|
 |**2022-02-22**|**Multi-Objective Dual Simplex-Mesh Based Deformable Image Registration for 3D Medical Images -- Proof of Concept**|Georgios Andreadis et.al.|[2202.11001v1](http://arxiv.org/abs/2202.11001v1)|null|
 |**2022-02-22**|**Does prior knowledge in the form of multiple low-dose PET images (at different dose levels) improve standard-dose PET prediction?**|Behnoush Sanaei et.al.|[2202.10998v1](http://arxiv.org/abs/2202.10998v1)|null|
-|**2022-02-22**|**Tracking perovskite crystallization via deep learning-based feature detection on 2D X-ray scattering data**|Vladimir Starostin et.al.|[2202.10983v1](http://arxiv.org/abs/2202.10983v1)|null|
-|**2022-02-22**|**The Winning Solution to the iFLYTEK Challenge 2021 Cultivated Land Extraction from High-Resolution Remote Sensing Image**|Zhen Zhao et.al.|[2202.10974v1](http://arxiv.org/abs/2202.10974v1)|null|
+|**2022-02-22**|**Tracking perovskite crystallization via deep learning-based feature detection on 2D X-ray scattering data**|Vladimir Starostin et.al.|[2202.10983v1](http://arxiv.org/abs/2202.10983v1)|**[link](https://github.com/schreiber-lab/mlgixd)**|
+|**2022-02-23**|**The Winning Solution to the iFLYTEK Challenge 2021 Cultivated Land Extraction from High-Resolution Remote Sensing Image**|Zhen Zhao et.al.|[2202.10974v2](http://arxiv.org/abs/2202.10974v2)|**[link](https://github.com/zhaozhen2333/iflytek2021)**|
 |**2022-02-22**|**Estimation of Looming from LiDAR**|Juan D. Yepes et.al.|[2202.10972v1](http://arxiv.org/abs/2202.10972v1)|null|
 |**2022-02-22**|**Improving Classification Model Performance on Chest X-Rays through Lung Segmentation**|Hilda Azimi et.al.|[2202.10971v1](http://arxiv.org/abs/2202.10971v1)|null|
 |**2022-02-22**|**Comparing Controller With the Hand Gestures Pinch and Grab for Picking Up and Placing Virtual Objects**|Alexander Schäfer et.al.|[2202.10964v1](http://arxiv.org/abs/2202.10964v1)|null|

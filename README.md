@@ -4,6 +4,54 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-24**|**Factorizer: A Scalable Interpretable Approach to Context Modeling for Medical Image Segmentation**|Pooya Ashtari et.al.|[2202.12295v1](http://arxiv.org/abs/2202.12295v1)|null|
+|**2022-02-24**|**Self-Distilled StyleGAN: Towards Generation from Internet Photos**|Ron Mokady et.al.|[2202.12211v1](http://arxiv.org/abs/2202.12211v1)|null|
+|**2022-02-24**|**FreeSOLO: Learning to Segment Objects without Annotations**|Xinlong Wang et.al.|[2202.12181v1](http://arxiv.org/abs/2202.12181v1)|null|
+|**2022-02-24**|**Transformers in Medical Image Analysis: A Review**|Kelei He et.al.|[2202.12165v1](http://arxiv.org/abs/2202.12165v1)|null|
+|**2022-02-24**|**Measuring CLEVRness: Blackbox testing of Visual Reasoning Models**|Spyridon Mouselinos et.al.|[2202.12162v1](http://arxiv.org/abs/2202.12162v1)|null|
+|**2022-02-24**|**Towards Effective and Robust Neural Trojan Defenses via Input Filtering**|Kien Do et.al.|[2202.12154v1](http://arxiv.org/abs/2202.12154v1)|null|
+|**2022-02-24**|**A novel unsupervised covid lung lesion segmentation based on the lung tissue identification**|Faeze Gholamian Khah et.al.|[2202.12148v1](http://arxiv.org/abs/2202.12148v1)|null|
+|**2022-02-24**|**Slow-Fast Visual Tempo Learning for Video-based Action Recognition**|Yuanzhong Liu et.al.|[2202.12116v1](http://arxiv.org/abs/2202.12116v1)|**[link](https://github.com/zphyix/tcm)**|
+|**2022-02-24**|**Light Robust Monocular Depth Estimation For Outdoor Environment Via Monochrome And Color Camera Fusion**|Hyeonsoo Jang et.al.|[2202.12108v1](http://arxiv.org/abs/2202.12108v1)|null|
+|**2022-02-24**|**A Transformer-based Network for Deformable Medical Image Registration**|Yibo Wang et.al.|[2202.12104v1](http://arxiv.org/abs/2202.12104v1)|null|
+|**2022-02-24**|**DeepFusionMOT: A 3D Multi-Object Tracking Framework Based on Camera-LiDAR Fusion with Deep Association**|Xiyang Wang et.al.|[2202.12100v1](http://arxiv.org/abs/2202.12100v1)|**[link](https://github.com/wangxiyang2022/DeepFusionMOT)**|
+|**2022-02-24**|**Data variation-aware medical image segmentation**|Arkadiy Dushatskiy et.al.|[2202.12099v1](http://arxiv.org/abs/2202.12099v1)|null|
+|**2022-02-24**|**Phrase-Based Affordance Detection via Cyclic Bilateral Interaction**|Liangsheng Lu et.al.|[2202.12076v1](http://arxiv.org/abs/2202.12076v1)|**[link](https://github.com/lhc1224/OSAD_Net)**|
+|**2022-02-24**|**AFFDEX 2.0: A Real-Time Facial Expression Analysis Toolkit**|Mina Bishay et.al.|[2202.12059v1](http://arxiv.org/abs/2202.12059v1)|null|
+|**2022-02-24**|**Assessing generalisability of deep learning-based polyp detection and segmentation methods through a computer vision challenge**|Sharib Ali et.al.|[2202.12031v1](http://arxiv.org/abs/2202.12031v1)|null|
+|**2022-02-24**|**Learning to Merge Tokens in Vision Transformers**|Cedric Renggli et.al.|[2202.12015v1](http://arxiv.org/abs/2202.12015v1)|null|
+|**2022-02-24**|**Rare Gems: Finding Lottery Tickets at Initialization**|Kartik Sreenivasan et.al.|[2202.12002v1](http://arxiv.org/abs/2202.12002v1)|null|
+|**2022-02-24**|**Effective Actor-centric Human-object Interaction Detection**|Kunlun Xu et.al.|[2202.11998v1](http://arxiv.org/abs/2202.11998v1)|null|
+|**2022-02-24**|**GIAOTracker: A comprehensive framework for MCMOT with global information and optimizing strategies in VisDrone 2021**|Yunhao Du et.al.|[2202.11983v1](http://arxiv.org/abs/2202.11983v1)|null|
+|**2022-02-24**|**N-QGN: Navigation Map from a Monocular Camera using Quadtree Generating Networks**|Daniel Braun et.al.|[2202.11982v1](http://arxiv.org/abs/2202.11982v1)|null|
+|**2022-02-24**|**Fully Self-Supervised Learning for Semantic Segmentation**|Yuan Wang et.al.|[2202.11981v1](http://arxiv.org/abs/2202.11981v1)|null|
+|**2022-02-24**|**SMILE: Sequence-to-Sequence Domain Adaption with Minimizing Latent Entropy for Text Image Recognition**|Yen-Cheng Chang et.al.|[2202.11949v1](http://arxiv.org/abs/2202.11949v1)|null|
+|**2022-02-24**|**Domain Disentangled Generative Adversarial Network for Zero-Shot Sketch-Based 3D Shape Retrieval**|Rui Xu et.al.|[2202.11948v1](http://arxiv.org/abs/2202.11948v1)|null|
+|**2022-02-24**|**Computer Aided Diagnosis and Out-of-Distribution Detection in Glaucoma Screening Using Color Fundus Photography**|Satoshi Kondo et.al.|[2202.11944v1](http://arxiv.org/abs/2202.11944v1)|null|
+|**2022-02-24**|**Auto-scaling Vision Transformers without Training**|Wuyang Chen et.al.|[2202.11921v1](http://arxiv.org/abs/2202.11921v1)|null|
+|**2022-02-24**|**Interpolation-based Contrastive Learning for Few-Label Semi-Supervised Learning**|Xihong Yang et.al.|[2202.11915v1](http://arxiv.org/abs/2202.11915v1)|null|
+|**2022-02-24**|**When Transformer Meets Robotic Grasping: Exploits Context for Efficient Grasp Detection**|Shaochen Wang et.al.|[2202.11911v1](http://arxiv.org/abs/2202.11911v1)|**[link](https://github.com/wangshaosun/grasp-transformer)**|
+|**2022-02-24**|**Uncertainty-driven Planner for Exploration and Navigation**|Georgios Georgakis et.al.|[2202.11907v1](http://arxiv.org/abs/2202.11907v1)|**[link](https://github.com/ggeorgak11/upen)**|
+|**2022-02-24**|**SLRNet: Semi-Supervised Semantic Segmentation Via Label Reuse for Human Decomposition Images**|Sara Mousavi et.al.|[2202.11900v1](http://arxiv.org/abs/2202.11900v1)|null|
+|**2022-02-24**|**Improving Robustness of Convolutional Neural Networks Using Element-Wise Activation Scaling**|Zhi-Yuan Zhang et.al.|[2202.11898v1](http://arxiv.org/abs/2202.11898v1)|null|
+|**2022-02-24**|**Controlling Memorability of Face Images**|Mohammad Younesi et.al.|[2202.11896v1](http://arxiv.org/abs/2202.11896v1)|null|
+|**2022-02-24**|**HMD-EgoPose: Head-Mounted Display-Based Egocentric Marker-Less Tool and Hand Pose Estimation for Augmented Surgical Guidance**|Mitchell Doughty et.al.|[2202.11891v1](http://arxiv.org/abs/2202.11891v1)|null|
+|**2022-02-24**|**A spectral-spatial fusion anomaly detection method for hyperspectral imagery**|Zengfu Hou et.al.|[2202.11889v1](http://arxiv.org/abs/2202.11889v1)|null|
+|**2022-02-24**|**M2I: From Factored Marginal Trajectory Prediction to Interactive Prediction**|Qiao Sun et.al.|[2202.11884v1](http://arxiv.org/abs/2202.11884v1)|null|
+|**2022-02-24**|**A Note on Machine Learning Approach for Computational Imaging**|Bin Dong et.al.|[2202.11883v1](http://arxiv.org/abs/2202.11883v1)|null|
+|**2022-02-24**|**New Benchmark for Household Garbage Image Recognition**|Zhize Wu et.al.|[2202.11878v1](http://arxiv.org/abs/2202.11878v1)|null|
+|**2022-02-24**|**CG-SSD: Corner Guided Single Stage 3D Object Detection from LiDAR Point Cloud**|Ruiqi Ma et.al.|[2202.11868v1](http://arxiv.org/abs/2202.11868v1)|null|
+|**2022-02-24**|**Learning Multi-Object Dynamics with Compositional Neural Radiance Fields**|Danny Driess et.al.|[2202.11855v1](http://arxiv.org/abs/2202.11855v1)|null|
+|**2022-02-24**|**CAISE: Conversational Agent for Image Search and Editing**|Hyounghun Kim et.al.|[2202.11847v1](http://arxiv.org/abs/2202.11847v1)|**[link](https://github.com/hyounghk/caise)**|
+|**2022-02-24**|**Explanatory Paradigms in Neural Networks**|Ghassan AlRegib et.al.|[2202.11838v1](http://arxiv.org/abs/2202.11838v1)|null|
+|**2022-02-23**|**Near Perfect GAN Inversion**|Qianli Feng et.al.|[2202.11833v1](http://arxiv.org/abs/2202.11833v1)|null|
+|**2022-02-23**|**A modification of the conjugate direction method for motion estimation**|Marcos Faundez-Zanuy et.al.|[2202.11831v1](http://arxiv.org/abs/2202.11831v1)|null|
+|**2022-02-23**|**Nuclei panoptic segmentation and composition regression with multi-task deep neural networks**|Satoshi Kondo et.al.|[2202.11804v1](http://arxiv.org/abs/2202.11804v1)|null|
+|**2022-02-23**|**RadioTransformer: A Cascaded Global-Focal Transformer for Visual Attention-guided Disease Classification**|Moinak Bhattacharya et.al.|[2202.11781v1](http://arxiv.org/abs/2202.11781v1)|null|
+|**2022-02-23**|**Art Creation with Multi-Conditional StyleGANs**|Konstantin Dobler et.al.|[2202.11777v1](http://arxiv.org/abs/2202.11777v1)|null|
+|**2022-02-23**|**Discovering Multiple and Diverse Directions for Cognitive Image Properties**|Umut Kocasari et.al.|[2202.11772v1](http://arxiv.org/abs/2202.11772v1)|null|
+|**2022-02-23**|**When do GANs replicate? On the choice of dataset size**|Qianli Feng et.al.|[2202.11765v1](http://arxiv.org/abs/2202.11765v1)|**[link](https://github.com/chenqiguo/gan_replication)**|
+|**2022-02-23**|**Think Global, Act Local: Dual-scale Graph Transformer for Vision-and-Language Navigation**|Shizhe Chen et.al.|[2202.11742v1](http://arxiv.org/abs/2202.11742v1)|null|
 |**2022-02-23**|**Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis**|Shouchang Guo et.al.|[2202.11703v1](http://arxiv.org/abs/2202.11703v1)|null|
 |**2022-02-23**|**Human Motion Detection Using Sharpened Dimensionality Reduction and Clustering**|Jeewon Heo et.al.|[2202.11667v1](http://arxiv.org/abs/2202.11667v1)|null|
 |**2022-02-23**|**Anomaly Detection in 3D Point Clouds using Deep Geometric Descriptors**|Paul Bergmann et.al.|[2202.11660v1](http://arxiv.org/abs/2202.11660v1)|null|

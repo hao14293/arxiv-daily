@@ -213,7 +213,7 @@
 |**2022-02-18**|**LG-LSQ: Learned Gradient Linear Symmetric Quantization**|Shih-Ting Lin et.al.|[2202.09009v1](http://arxiv.org/abs/2202.09009v1)|null|
 |**2022-02-18**|**KINet: Keypoint Interaction Networks for Unsupervised Forward Modeling**|Alireza Rezazadeh et.al.|[2202.09006v1](http://arxiv.org/abs/2202.09006v1)|null|
 |**2022-02-18**|**An Active and Contrastive Learning Framework for Fine-Grained Off-Road Semantic Segmentation**|Biao Gao et.al.|[2202.09002v1](http://arxiv.org/abs/2202.09002v1)|null|
-|**2022-02-18**|**REFUGE2 Challenge: Treasure for Multi-Domain Learning in Glaucoma Assessment**|Huihui Fang et.al.|[2202.08994v1](http://arxiv.org/abs/2202.08994v1)|null|
+|**2022-02-24**|**REFUGE2 Challenge: Treasure for Multi-Domain Learning in Glaucoma Assessment**|Huihui Fang et.al.|[2202.08994v2](http://arxiv.org/abs/2202.08994v2)|null|
 |**2022-02-18**|**Joint Learning of Frequency and Spatial Domains for Dense Predictions**|Shaocheng Jia et.al.|[2202.08991v1](http://arxiv.org/abs/2202.08991v1)|null|
 |**2022-02-18**|**R2-D2: Repetitive Reprediction Deep Decipher for Semi-Supervised Deep Learning**|Guo-Hua Wang et.al.|[2202.08955v1](http://arxiv.org/abs/2202.08955v1)|null|
 |**2022-02-18**|**Classification of ADHD Patients by Kernel Hierarchical Extreme Learning Machine**|Sartaj Ahmed Salman et.al.|[2202.08953v1](http://arxiv.org/abs/2202.08953v1)|**[link](https://github.com/sartajbalti/ADHD-classification)**|

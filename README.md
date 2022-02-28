@@ -45,7 +45,7 @@
 |**2022-02-24**|**Highly-Efficient Binary Neural Networks for Visual Place Recognition**|Bruno Ferrarini et.al.|[2202.12375v1](http://arxiv.org/abs/2202.12375v1)|null|
 |**2022-02-24**|**On Monocular Depth Estimation and Uncertainty Quantification using Classification Approaches for Regression**|Xuanlong Yu et.al.|[2202.12369v1](http://arxiv.org/abs/2202.12369v1)|null|
 |**2022-02-24**|**Instantaneous Physiological Estimation using Video Transformers**|Ambareesh Revanur et.al.|[2202.12368v1](http://arxiv.org/abs/2202.12368v1)|null|
-|**2022-02-24**|**StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Translation**|Peter Schaldenbrand et.al.|[2202.12362v1](http://arxiv.org/abs/2202.12362v1)|null|
+|**2022-02-24**|**StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Translation**|Peter Schaldenbrand et.al.|[2202.12362v1](http://arxiv.org/abs/2202.12362v1)|**[link](https://github.com/pschaldenbrand/styleclipdraw)**|
 |**2022-02-24**|**RescueNet: A High Resolution UAV Semantic Segmentation Benchmark Dataset for Natural Disaster Damage Assessment**|Tashnim Chowdhury et.al.|[2202.12361v1](http://arxiv.org/abs/2202.12361v1)|null|
 |**2022-02-24**|**Time Efficient Training of Progressive Generative Adversarial Network using Depthwise Separable Convolution and Super Resolution Generative Adversarial Network**|Atharva Karwande et.al.|[2202.12337v1](http://arxiv.org/abs/2202.12337v1)|null|
 |**2022-02-24**|**Retriever: Learning Content-Style Representation as a Token-Level Bipartite Graph**|Dacheng Yin et.al.|[2202.12307v1](http://arxiv.org/abs/2202.12307v1)|null|

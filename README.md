@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-01**|**CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding**|Mohamed Afham et.al.|[2203.00680v1](http://arxiv.org/abs/2203.00680v1)|null|
+|**2022-03-01**|**Generalizable Person Re-Identification via Self-Supervised Batch Norm Test-Time Adaption**|Ke Han et.al.|[2203.00672v1](http://arxiv.org/abs/2203.00672v1)|null|
+|**2022-03-01**|**Generative Adversarial Networks**|Gilad Cohen et.al.|[2203.00667v1](http://arxiv.org/abs/2203.00667v1)|null|
+|**2022-03-01**|**Variational Autoencoders Without the Variation**|Gregory A. Daly et.al.|[2203.00645v1](http://arxiv.org/abs/2203.00645v1)|null|
+|**2022-03-01**|**Multi-Task Multi-Scale Learning For Outcome Prediction in 3D PET Images**|Amine Amyar et.al.|[2203.00641v1](http://arxiv.org/abs/2203.00641v1)|null|
+|**2022-03-01**|**Full RGB Just Noticeable Difference (JND) Modelling**|Jian Jin et.al.|[2203.00629v1](http://arxiv.org/abs/2203.00629v1)|null|
+|**2022-03-01**|**A unified 3D framework for Organs at Risk Localization and Segmentation for Radiation Therapy Planning**|Fernando Navarro et.al.|[2203.00624v1](http://arxiv.org/abs/2203.00624v1)|null|
+|**2022-03-01**|**SwitchHit: A Probabilistic, Complementarity-Based Switching System for Improved Visual Place Recognition in Changing Environments**|Maria Waheed et.al.|[2203.00591v1](http://arxiv.org/abs/2203.00591v1)|null|
+|**2022-03-01**|**Self-Supervised Vision Transformers Learn Visual Concepts in Histopathology**|Richard J. Chen et.al.|[2203.00585v1](http://arxiv.org/abs/2203.00585v1)|**[link](https://github.com/richarizardd/self-supervised-vit-path)**|
+|**2022-03-01**|**Towards a unified view of unsupervised non-local methods for image denoising: the NL-Ridge approach**|Sébastien Herbreteau et.al.|[2203.00570v1](http://arxiv.org/abs/2203.00570v1)|null|
+|**2022-03-01**|**Descriptellation: Deep Learned Constellation Descriptors for SLAM**|Chunwei Xing et.al.|[2203.00567v1](http://arxiv.org/abs/2203.00567v1)|null|
+|**2022-03-01**|**Towards deep learning-powered IVF: A large public benchmark for morphokinetic parameter prediction**|Tristan Gomez et.al.|[2203.00531v1](http://arxiv.org/abs/2203.00531v1)|null|
+|**2022-03-01**|**Towards Creativity Characterization of Generative Models via Group-based Subset Scanning**|Celia Cintas et.al.|[2203.00523v1](http://arxiv.org/abs/2203.00523v1)|null|
+|**2022-03-01**|**Compliance Challenges in Forensic Image Analysis Under the Artificial Intelligence Act**|Benedikt Lorch et.al.|[2203.00469v1](http://arxiv.org/abs/2203.00469v1)|null|
+|**2022-03-01**|**JOINED : Prior Guided Multi-task Learning for Joint Optic Disc/Cup Segmentation and Fovea Detection**|Huaqing He et.al.|[2203.00461v1](http://arxiv.org/abs/2203.00461v1)|null|
+|**2022-03-01**|**Bridge the Gap between Supervised and Unsupervised Learning for Fine-Grained Classification**|Jiabao Wang et.al.|[2203.00441v1](http://arxiv.org/abs/2203.00441v1)|null|
+|**2022-03-01**|**Boundary Corrected Multi-scale Fusion Network for Real-time Semantic Segmentation**|Tianjiao Jiang et.al.|[2203.00436v1](http://arxiv.org/abs/2203.00436v1)|null|
+|**2022-03-01**|**Beam-Shape Effects and Noise Removal from THz Time-Domain Images in Reflection Geometry in the 0.25-6 THz Range**|Marina Ljubenovic et.al.|[2203.00417v1](http://arxiv.org/abs/2203.00417v1)|null|
+|**2022-03-01**|**Motion-aware Dynamic Graph Neural Network for Video Compressive Sensing**|Ruiying Lu et.al.|[2203.00387v1](http://arxiv.org/abs/2203.00387v1)|null|
+|**2022-03-01**|**CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP**|Zihao Wang et.al.|[2203.00386v1](http://arxiv.org/abs/2203.00386v1)|null|
+|**2022-03-01**|**Exploring Wilderness Using Explainable Machine Learning in Satellite Imagery**|Timo T. Stomberg et.al.|[2203.00379v1](http://arxiv.org/abs/2203.00379v1)|null|
+|**2022-03-01**|**Tempera: Spatial Transformer Feature Pyramid Network for Cardiac MRI Segmentation**|Christoforos Galazis et.al.|[2203.00355v1](http://arxiv.org/abs/2203.00355v1)|**[link](https://github.com/cgalaz01/mnms2_challenge)**|
+|**2022-03-01**|**Affordance Learning from Play for Sample-Efficient Policy Learning**|Jessica Borja-Diaz et.al.|[2203.00352v1](http://arxiv.org/abs/2203.00352v1)|null|
+|**2022-03-01**|**Towards IID representation learning and its application on biomedical data**|Jiqing Wu et.al.|[2203.00332v1](http://arxiv.org/abs/2203.00332v1)|**[link](https://github.com/ctplab/iid_representation_learning)**|
+|**2022-03-01**|**Temporal Perceiver: A General Architecture for Arbitrary Boundary Detection**|Jing Tan et.al.|[2203.00307v1](http://arxiv.org/abs/2203.00307v1)|null|
+|**2022-03-01**|**Comprehensive Analysis of the Object Detection Pipeline on UAVs**|Leon Amadeus Varga et.al.|[2203.00306v1](http://arxiv.org/abs/2203.00306v1)|null|
+|**2022-03-01**|**Adversarial samples for deep monocular 6D object pose estimation**|Jinlai Zhang et.al.|[2203.00302v1](http://arxiv.org/abs/2203.00302v1)|**[link](https://github.com/cuge1995/u6da)**|
+|**2022-03-01**|**FP-Loc: Lightweight and Drift-free Floor Plan-assisted LiDAR Localization**|Ling Gao et.al.|[2203.00292v1](http://arxiv.org/abs/2203.00292v1)|null|
+|**2022-03-01**|**Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles**|Ling Gao et.al.|[2203.00291v1](http://arxiv.org/abs/2203.00291v1)|null|
+|**2022-03-01**|**ProgressLabeller: Visual Data Stream Annotation for Training Object-Centric 3D Perception**|Xiaotong Chen et.al.|[2203.00283v1](http://arxiv.org/abs/2203.00283v1)|null|
+|**2022-03-01**|**Separable-HoverNet and Instance-YOLO for Colon Nuclei Identification and Counting**|Chunhui Lin et.al.|[2203.00262v1](http://arxiv.org/abs/2203.00262v1)|null|
+|**2022-03-01**|**Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection**|Yufei Liang et.al.|[2203.00259v1](http://arxiv.org/abs/2203.00259v1)|null|
+|**2022-03-01**|**When A Conventional Filter Meets Deep Learning: Basis Composition Learning on Image Filters**|Fu Lee Wang et.al.|[2203.00258v1](http://arxiv.org/abs/2203.00258v1)|**[link](https://github.com/dengsgithub/composition-learning)**|
+|**2022-03-01**|**Unsupervised Vision-and-Language Pre-training via Retrieval-based Multi-Granular Alignment**|Mingyang Zhou et.al.|[2203.00242v1](http://arxiv.org/abs/2203.00242v1)|null|
+|**2022-03-01**|**How certain are your uncertainties?**|Luke Whitbread et.al.|[2203.00238v1](http://arxiv.org/abs/2203.00238v1)|null|
+|**2022-03-01**|**Understanding the Challenges When 3D Semantic Segmentation Faces Class Imbalanced and OOD Data**|Yancheng Pan et.al.|[2203.00214v1](http://arxiv.org/abs/2203.00214v1)|null|
+|**2022-03-01**|**Semi-supervised Deep Learning for Image Classification with Distribution Mismatch: A Survey**|Saul Calderon-Ramirez et.al.|[2203.00190v1](http://arxiv.org/abs/2203.00190v1)|null|
+|**2022-03-01**|**Robots Autonomously Detecting People: A Multimodal Deep Contrastive Learning Method Robust to Intraclass Variations**|Angus Fung et.al.|[2203.00187v1](http://arxiv.org/abs/2203.00187v1)|null|
+|**2022-03-01**|**ACTIVE:Augmentation-Free Graph Contrastive Learning for Partial Multi-View Clustering**|Yiming Wang et.al.|[2203.00186v1](http://arxiv.org/abs/2203.00186v1)|null|
+|**2022-03-01**|**Enhancing Local Feature Learning for 3D Point Cloud Processing using Unary-Pairwise Attention**|Haoyi Xiu et.al.|[2203.00172v1](http://arxiv.org/abs/2203.00172v1)|null|
+|**2022-03-01**|**Nuclear Segmentation and Classification Model with Imbalanced Classes for CoNiC Challenge**|Jijun Cheng et.al.|[2203.00171v1](http://arxiv.org/abs/2203.00171v1)|null|
+|**2022-03-01**|**Simultaneous Semantic and Instance Segmentation for Colon Nuclei Identification and Counting**|Lihao Liu et.al.|[2203.00157v1](http://arxiv.org/abs/2203.00157v1)|null|
+|**2022-03-01**|**Preemptive Motion Planning for Human-to-Robot Indirect Placement Handovers**|Andrew Choi et.al.|[2203.00156v1](http://arxiv.org/abs/2203.00156v1)|null|
+|**2022-02-28**|**Spatiotemporal Transformer Attention Network for 3D Voxel Level Joint Segmentation and Motion Prediction in Point Cloud**|Zhensong Wei et.al.|[2203.00138v1](http://arxiv.org/abs/2203.00138v1)|null|
+|**2022-02-28**|**Learning Cross-Video Neural Representations for High-Quality Frame Interpolation**|Wentao Shangguan et.al.|[2203.00137v1](http://arxiv.org/abs/2203.00137v1)|null|
+|**2022-02-28**|**A Multi-scale Transformer for Medical Image Segmentation: Architectures, Model Efficiency, and Benchmarks**|Yunhe Gao et.al.|[2203.00131v1](http://arxiv.org/abs/2203.00131v1)|**[link](https://github.com/yhygao/cbim-medical-image-segmentation)**|
+|**2022-02-28**|**BlazeNeo: Blazing fast polyp segmentation and neoplasm detection**|Nguyen Sy An et.al.|[2203.00129v1](http://arxiv.org/abs/2203.00129v1)|**[link](https://github.com/tofuai/neoplasm-segmentation)**|
+|**2022-02-28**|**Rectifying homographies for stereo vision: analytical solution for minimal distortion**|Pasquale Lafiosca et.al.|[2203.00123v1](http://arxiv.org/abs/2203.00123v1)|**[link](https://github.com/decadenza/directstereorectification)**|
+|**2022-02-28**|**Effectiveness of Delivered Information Trade Study**|Matthew Ciolino et.al.|[2203.00116v1](http://arxiv.org/abs/2203.00116v1)|null|
+|**2022-02-28**|**The Right Spin: Learning Object Motion from Rotation-Compensated Flow Fields**|Pia Bideau et.al.|[2203.00115v1](http://arxiv.org/abs/2203.00115v1)|null|
 |**2022-02-28**|**Attribute Descent: Simulating Object-Centric Datasets on the Content Level and Beyond**|Yue Yao et.al.|[2202.14034v1](http://arxiv.org/abs/2202.14034v1)|null|
 |**2022-02-28**|**Learning Semantic Segmentation from Multiple Datasets with Label Shifts**|Dongwan Kim et.al.|[2202.14030v1](http://arxiv.org/abs/2202.14030v1)|null|
 |**2022-02-28**|**Robust Training under Label Noise by Over-parameterization**|Sheng Liu et.al.|[2202.14026v1](http://arxiv.org/abs/2202.14026v1)|**[link](https://github.com/shengliu66/sop)**|

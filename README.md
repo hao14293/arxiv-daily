@@ -1,4 +1,4 @@
-## Updated on 2022.03.02
+## Updated on 2022.03.03
 
 ## cs.CV
 
@@ -12,8 +12,8 @@
 |**2022-03-01**|**Full RGB Just Noticeable Difference (JND) Modelling**|Jian Jin et.al.|[2203.00629v1](http://arxiv.org/abs/2203.00629v1)|null|
 |**2022-03-01**|**A unified 3D framework for Organs at Risk Localization and Segmentation for Radiation Therapy Planning**|Fernando Navarro et.al.|[2203.00624v1](http://arxiv.org/abs/2203.00624v1)|null|
 |**2022-03-01**|**SwitchHit: A Probabilistic, Complementarity-Based Switching System for Improved Visual Place Recognition in Changing Environments**|Maria Waheed et.al.|[2203.00591v1](http://arxiv.org/abs/2203.00591v1)|null|
-|**2022-03-01**|**Self-Supervised Vision Transformers Learn Visual Concepts in Histopathology**|Richard J. Chen et.al.|[2203.00585v1](http://arxiv.org/abs/2203.00585v1)|**[link](https://github.com/richarizardd/self-supervised-vit-path)**|
-|**2022-03-01**|**Towards a unified view of unsupervised non-local methods for image denoising: the NL-Ridge approach**|Sébastien Herbreteau et.al.|[2203.00570v1](http://arxiv.org/abs/2203.00570v1)|null|
+|**2022-03-01**|**Self-Supervised Vision Transformers Learn Visual Concepts in Histopathology**|Richard J. Chen et.al.|[2203.00585v1](http://arxiv.org/abs/2203.00585v1)|null|
+|**2022-03-01**|**Towards a unified view of unsupervised non-local methods for image denoising: the NL-Ridge approach**|Sébastien Herbreteau et.al.|[2203.00570v1](http://arxiv.org/abs/2203.00570v1)|**[link](https://github.com/sherbret/nl-ridge)**|
 |**2022-03-01**|**Descriptellation: Deep Learned Constellation Descriptors for SLAM**|Chunwei Xing et.al.|[2203.00567v1](http://arxiv.org/abs/2203.00567v1)|null|
 |**2022-03-01**|**Towards deep learning-powered IVF: A large public benchmark for morphokinetic parameter prediction**|Tristan Gomez et.al.|[2203.00531v1](http://arxiv.org/abs/2203.00531v1)|null|
 |**2022-03-01**|**Towards Creativity Characterization of Generative Models via Group-based Subset Scanning**|Celia Cintas et.al.|[2203.00523v1](http://arxiv.org/abs/2203.00523v1)|null|
@@ -30,7 +30,7 @@
 |**2022-03-01**|**Towards IID representation learning and its application on biomedical data**|Jiqing Wu et.al.|[2203.00332v1](http://arxiv.org/abs/2203.00332v1)|**[link](https://github.com/ctplab/iid_representation_learning)**|
 |**2022-03-01**|**Temporal Perceiver: A General Architecture for Arbitrary Boundary Detection**|Jing Tan et.al.|[2203.00307v1](http://arxiv.org/abs/2203.00307v1)|null|
 |**2022-03-01**|**Comprehensive Analysis of the Object Detection Pipeline on UAVs**|Leon Amadeus Varga et.al.|[2203.00306v1](http://arxiv.org/abs/2203.00306v1)|null|
-|**2022-03-01**|**Adversarial samples for deep monocular 6D object pose estimation**|Jinlai Zhang et.al.|[2203.00302v1](http://arxiv.org/abs/2203.00302v1)|**[link](https://github.com/cuge1995/u6da)**|
+|**2022-03-01**|**Adversarial samples for deep monocular 6D object pose estimation**|Jinlai Zhang et.al.|[2203.00302v1](http://arxiv.org/abs/2203.00302v1)|null|
 |**2022-03-01**|**FP-Loc: Lightweight and Drift-free Floor Plan-assisted LiDAR Localization**|Ling Gao et.al.|[2203.00292v1](http://arxiv.org/abs/2203.00292v1)|null|
 |**2022-03-01**|**Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles**|Ling Gao et.al.|[2203.00291v1](http://arxiv.org/abs/2203.00291v1)|null|
 |**2022-03-01**|**ProgressLabeller: Visual Data Stream Annotation for Training Object-Centric 3D Perception**|Xiaotong Chen et.al.|[2203.00283v1](http://arxiv.org/abs/2203.00283v1)|null|

@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-02**|**Protecting Celebrities with Identity Consistency Transformer**|Xiaoyi Dong et.al.|[2203.01318v1](http://arxiv.org/abs/2203.01318v1)|null|
+|**2022-03-02**|**HighMMT: Towards Modality and Task Generalization for High-Modality Representation Learning**|Paul Pu Liang et.al.|[2203.01311v1](http://arxiv.org/abs/2203.01311v1)|null|
+|**2022-03-02**|**DN-DETR: Accelerate DETR Training by Introducing Query DeNoising**|Feng Li et.al.|[2203.01305v1](http://arxiv.org/abs/2203.01305v1)|null|
+|**2022-03-02**|**Half Wavelet Attention on M-Net+ for Low-Light Image Enhancement**|Chi-Mao Fan et.al.|[2203.01296v1](http://arxiv.org/abs/2203.01296v1)|**[link](https://github.com/fanchimao/hwmnet)**|
+|**2022-03-02**|**ADVISE: ADaptive Feature Relevance and VISual Explanations for Convolutional Neural Networks**|Mohammad Mahdi Dehshibi et.al.|[2203.01289v1](http://arxiv.org/abs/2203.01289v1)|**[link](https://github.com/dehshibi/advise)**|
+|**2022-03-02**|**Self-supervised Transformer for Deepfake Detection**|Hanqing Zhao et.al.|[2203.01265v1](http://arxiv.org/abs/2203.01265v1)|null|
+|**2022-03-02**|**A Unified Query-based Paradigm for Point Cloud Understanding**|Zetong Yang et.al.|[2203.01252v1](http://arxiv.org/abs/2203.01252v1)|null|
+|**2022-03-02**|**H4D: Human 4D Modeling by Learning Neural Compositional Representation**|Boyan Jiang et.al.|[2203.01247v1](http://arxiv.org/abs/2203.01247v1)|null|
+|**2022-03-02**|**Differentiable IFS Fractals**|Cory Braker Scott et.al.|[2203.01231v1](http://arxiv.org/abs/2203.01231v1)|null|
+|**2022-03-02**|**Video Question Answering: Datasets, Algorithms and Challenges**|Yaoyao Zhong et.al.|[2203.01225v1](http://arxiv.org/abs/2203.01225v1)|null|
+|**2022-03-02**|**Hybrid Tracker with Pixel and Instance for Video Panoptic Segmentation**|Weicai Ye et.al.|[2203.01217v1](http://arxiv.org/abs/2203.01217v1)|null|
+|**2022-03-02**|**A simple and universal rotation equivariant point-cloud network**|Ben Finkelshtein et.al.|[2203.01216v1](http://arxiv.org/abs/2203.01216v1)|**[link](https://github.com/simpleinvariance/universalnetwork)**|
+|**2022-03-02**|**Container Localisation and Mass Estimation with an RGB-D Camera**|Tommaso Apicella et.al.|[2203.01207v1](http://arxiv.org/abs/2203.01207v1)|**[link](https://github.com/corsmal/visual)**|
+|**2022-03-02**|**VAE-iForest: Auto-encoding Reconstruction and Isolation-based Anomalies Detecting Fallen Objects on Road Surface**|Takato Yasuno et.al.|[2203.01193v1](http://arxiv.org/abs/2203.01193v1)|null|
+|**2022-03-02**|**Improving Generalization of Deep Networks for Estimating Physical Properties of Containers and Fillings**|Hengyi Wang et.al.|[2203.01192v1](http://arxiv.org/abs/2203.01192v1)|null|
+|**2022-03-02**|**Visual Feature Encoding for GNNs on Road Networks**|Oliver Stromann et.al.|[2203.01187v1](http://arxiv.org/abs/2203.01187v1)|null|
+|**2022-03-02**|**Fast and Robust Ground Surface Estimation from LIDAR Measurements using Uniform B-Splines**|Sascha Wirges et.al.|[2203.01180v1](http://arxiv.org/abs/2203.01180v1)|null|
+|**2022-03-02**|**Detecting Adversarial Perturbations in Multi-Task Perception**|Marvin Klingner et.al.|[2203.01177v1](http://arxiv.org/abs/2203.01177v1)|null|
+|**2022-03-02**|**DisARM: Displacement Aware Relation Module for 3D Detection**|Yao Duan et.al.|[2203.01152v1](http://arxiv.org/abs/2203.01152v1)|null|
+|**2022-03-02**|**Improving Lidar-Based Semantic Segmentation of Top-View Grid Maps by Learning Features in Complementary Representations**|Frank Bieder et.al.|[2203.01151v1](http://arxiv.org/abs/2203.01151v1)|null|
+|**2022-03-02**|**Self-Supervised Scene Flow Estimation with 4D Automotive Radar**|Fangqiang Ding et.al.|[2203.01137v1](http://arxiv.org/abs/2203.01137v1)|null|
+|**2022-03-02**|**A Generalized Approach for Cancellable Template and Its Realization for Minutia Cylinder-Code**|Xingbo Dong et.al.|[2203.01095v1](http://arxiv.org/abs/2203.01095v1)|null|
+|**2022-03-02**|**Shape constrained CNN for segmentation guided prediction of myocardial shape and pose parameters in cardiac MRI**|Sofie Tilborghs et.al.|[2203.01089v1](http://arxiv.org/abs/2203.01089v1)|null|
+|**2022-03-02**|**Vision-based Large-scale 3D Semantic Mapping for Autonomous Driving Applications**|Qing Cheng et.al.|[2203.01087v1](http://arxiv.org/abs/2203.01087v1)|null|
+|**2022-03-02**|**Continual BatchNorm Adaptation (CBNA) for Semantic Segmentation**|Marvin Klingner et.al.|[2203.01074v1](http://arxiv.org/abs/2203.01074v1)|null|
+|**2022-03-02**|**OVE6D: Object Viewpoint Encoding for Depth-based 6D Object Pose Estimation**|Dingding Cai et.al.|[2203.01072v1](http://arxiv.org/abs/2203.01072v1)|null|
+|**2022-03-02**|**Colar: Effective and Efficient Online Action Detection by Consulting Exemplars**|Le Yang et.al.|[2203.01057v1](http://arxiv.org/abs/2203.01057v1)|null|
+|**2022-03-02**|**Unsupervised Anomaly Detection from Time-of-Flight Depth Images**|Pascal Schneider et.al.|[2203.01052v1](http://arxiv.org/abs/2203.01052v1)|null|
+|**2022-03-02**|**3D object reconstruction and 6D-pose estimation from 2D shape for robotic grasping of objects**|Marcell Wolnitza et.al.|[2203.01051v1](http://arxiv.org/abs/2203.01051v1)|null|
+|**2022-03-02**|**Image-based material analysis of ancient historical documents**|Thomas Reynolds et.al.|[2203.01042v1](http://arxiv.org/abs/2203.01042v1)|null|
+|**2022-03-02**|**Asynchronous Optimisation for Event-based Visual Odometry**|Daqi Liu et.al.|[2203.01037v1](http://arxiv.org/abs/2203.01037v1)|null|
+|**2022-03-02**|**TableFormer: Table Structure Understanding with Transformers**|Ahmed Nassar et.al.|[2203.01017v1](http://arxiv.org/abs/2203.01017v1)|null|
+|**2022-03-02**|**Improving Point Cloud Based Place Recognition with Ranking-based Loss and Large Batch Training**|Jacek Komorowski et.al.|[2203.00972v1](http://arxiv.org/abs/2203.00972v1)|**[link](https://github.com/jac99/minkloc3dv2)**|
+|**2022-03-02**|**Class Re-Activation Maps for Weakly-Supervised Semantic Segmentation**|Zhaozheng Chen et.al.|[2203.00962v1](http://arxiv.org/abs/2203.00962v1)|**[link](https://github.com/zhaozhengchen/recam)**|
+|**2022-03-02**|**Aggregated Pyramid Vision Transformer: Split-transform-merge Strategy for Image Recognition without Convolutions**|Rui-Yang Ju et.al.|[2203.00960v1](http://arxiv.org/abs/2203.00960v1)|null|
+|**2022-03-02**|**Learning Moving-Object Tracking with FMCW LiDAR**|Yi Gu et.al.|[2203.00959v1](http://arxiv.org/abs/2203.00959v1)|null|
+|**2022-03-02**|**GRASP EARTH: Intuitive Software for Discovering Changes on the Planet**|Waku Hatakeyama et.al.|[2203.00955v1](http://arxiv.org/abs/2203.00955v1)|null|
+|**2022-03-02**|**Sketched RT3D: How to reconstruct billions of photons per second**|Julián Tachella et.al.|[2203.00952v1](http://arxiv.org/abs/2203.00952v1)|null|
+|**2022-03-02**|**CD-GAN: a robust fusion-based generative adversarial network for unsupervised change detection between heterogeneous images**|Jin-Ju Wang et.al.|[2203.00948v1](http://arxiv.org/abs/2203.00948v1)|null|
+|**2022-03-02**|**ParaPose: Parameter and Domain Randomization Optimization for Pose Estimation using Synthetic Data**|Frederik Hagelskjaer et.al.|[2203.00945v1](http://arxiv.org/abs/2203.00945v1)|null|
+|**2022-03-02**|**TransDARC: Transformer-based Driver Activity Recognition with Latent Space Feature Calibration**|Kunyu Peng et.al.|[2203.00927v1](http://arxiv.org/abs/2203.00927v1)|null|
+|**2022-03-02**|**Parameterized Image Quality Score Distribution Prediction**|Yixuan Gao et.al.|[2203.00926v1](http://arxiv.org/abs/2203.00926v1)|null|
+|**2022-03-02**|**Translation Invariant Global Estimation of Heading Angle Using Sinogram of LiDAR Point Cloud**|Xiaqing Ding et.al.|[2203.00924v1](http://arxiv.org/abs/2203.00924v1)|null|
+|**2022-03-02**|**PUFA-GAN: A Frequency-Aware Generative Adversarial Network for 3D Point Cloud Upsampling**|Hao Liu et.al.|[2203.00914v1](http://arxiv.org/abs/2203.00914v1)|null|
+|**2022-03-02**|**A Principled Design of Image Representation: Towards Forensic Tasks**|Shuren Qi et.al.|[2203.00913v1](http://arxiv.org/abs/2203.00913v1)|**[link](https://github.com/shurenqi/dir)**|
+|**2022-03-02**|**Towards Bidirectional Arbitrary Image Rescaling: Joint Optimization and Cycle Idempotence**|Zhihong Pan et.al.|[2203.00911v1](http://arxiv.org/abs/2203.00911v1)|null|
+|**2022-03-02**|**A Split Semantic Detection Algorithm for Psychological Sandplay Image**|Xiaokun Feng et.al.|[2203.00907v1](http://arxiv.org/abs/2203.00907v1)|null|
+|**2022-03-02**|**Dense Voxel Fusion for 3D Object Detection**|Anas Mahmoud et.al.|[2203.00871v1](http://arxiv.org/abs/2203.00871v1)|null|
+|**2022-03-02**|**Hybrid Optimized Deep Convolution Neural Network based Learning Model for Object Detection**|Venkata Beri et.al.|[2203.00869v1](http://arxiv.org/abs/2203.00869v1)|null|
+|**2022-03-02**|**Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding**|Qiaole Dong et.al.|[2203.00867v1](http://arxiv.org/abs/2203.00867v1)|**[link](https://github.com/dqiaole/zits_inpainting)**|
 |**2022-03-01**|**CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding**|Mohamed Afham et.al.|[2203.00680v1](http://arxiv.org/abs/2203.00680v1)|**[link](https://github.com/mohamedafham/crosspoint)**|
 |**2022-03-01**|**Generalizable Person Re-Identification via Self-Supervised Batch Norm Test-Time Adaption**|Ke Han et.al.|[2203.00672v1](http://arxiv.org/abs/2203.00672v1)|null|
 |**2022-03-01**|**Generative Adversarial Networks**|Gilad Cohen et.al.|[2203.00667v1](http://arxiv.org/abs/2203.00667v1)|null|

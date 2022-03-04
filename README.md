@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-03**|**CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation**|Muhammad Zubair Irshad et.al.|[2203.01929v1](http://arxiv.org/abs/2203.01929v1)|null|
+|**2022-03-03**|**Label-Only Model Inversion Attacks via Boundary Repulsion**|Mostafa Kahla et.al.|[2203.01925v1](http://arxiv.org/abs/2203.01925v1)|null|
+|**2022-03-03**|**Recovering 3D Human Mesh from Monocular Images: A Survey**|Yating Tian et.al.|[2203.01923v1](http://arxiv.org/abs/2203.01923v1)|**[link](https://github.com/tinatiansjz/hmr-survey)**|
+|**2022-03-03**|**Vision-Language Intelligence: Tasks, Representation Learning, and Large Models**|Feng Li et.al.|[2203.01922v1](http://arxiv.org/abs/2203.01922v1)|null|
+|**2022-03-03**|**NUQ: A Noise Metric for Diffusion MRI via Uncertainty Discrepancy Quantification**|Shreyas Fadnavis et.al.|[2203.01921v1](http://arxiv.org/abs/2203.01921v1)|null|
+|**2022-03-03**|**Investigating the limited performance of a deep-learning-based SPECT denoising approach: An observer-study-based characterization**|Zitong Yu et.al.|[2203.01918v1](http://arxiv.org/abs/2203.01918v1)|null|
+|**2022-03-03**|**Playable Environments: Video Manipulation in Space and Time**|Willi Menapace et.al.|[2203.01914v1](http://arxiv.org/abs/2203.01914v1)|null|
+|**2022-03-03**|**NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields**|Lin Yen-Chen et.al.|[2203.01913v1](http://arxiv.org/abs/2203.01913v1)|null|
+|**2022-03-03**|**Computer Vision Aided Blockage Prediction in Real-World Millimeter Wave Deployments**|Gouranga Charan et.al.|[2203.01907v1](http://arxiv.org/abs/2203.01907v1)|null|
+|**2022-03-03**|**Instance Segmentation for Autonomous Log Grasping in Forestry Operations**|Jean-Michel Fortin et.al.|[2203.01902v1](http://arxiv.org/abs/2203.01902v1)|null|
+|**2022-03-03**|**TCTrack: Temporal Contexts for Aerial Tracking**|Ziang Cao et.al.|[2203.01885v1](http://arxiv.org/abs/2203.01885v1)|**[link](https://github.com/vision4robotics/tctrack)**|
+|**2022-03-03**|**ROCT-Net: A new ensemble deep convolutional model with improved spatial resolution learning for detecting common diseases from retinal OCT images**|Mohammad Rahimzadeh et.al.|[2203.01883v1](http://arxiv.org/abs/2203.01883v1)|**[link](https://github.com/mr7495/oct-classification)**|
+|**2022-03-03**|**DenseUNets with feedback non-local attention for the segmentation of specular microscopy images of the corneal endothelium with Fuchs dystrophy**|Juan P. Vigueras-Guillén et.al.|[2203.01882v1](http://arxiv.org/abs/2203.01882v1)|null|
+|**2022-03-03**|**Understanding Failure Modes of Self-Supervised Learning**|Neha Mukund Kalibhat et.al.|[2203.01881v1](http://arxiv.org/abs/2203.01881v1)|null|
+|**2022-03-03**|**LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction**|Elmira Amirloo et.al.|[2203.01880v1](http://arxiv.org/abs/2203.01880v1)|null|
+|**2022-03-03**|**Robustness and Adaptation to Hidden Factors of Variation**|William Paul et.al.|[2203.01864v1](http://arxiv.org/abs/2203.01864v1)|null|
+|**2022-03-03**|**A study on the distribution of social biases in self-supervised learning visual models**|Kirill Sirotkin et.al.|[2203.01854v1](http://arxiv.org/abs/2203.01854v1)|null|
+|**2022-03-03**|**Efficient Video Instance Segmentation via Tracklet Query and Proposal**|Jialian Wu et.al.|[2203.01853v1](http://arxiv.org/abs/2203.01853v1)|null|
+|**2022-03-03**|**STUN: Self-Teaching Uncertainty Estimation for Place Recognition**|Kaiwen Cai et.al.|[2203.01851v1](http://arxiv.org/abs/2203.01851v1)|null|
+|**2022-03-03**|**LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network**|Zhigang Jiang et.al.|[2203.01824v1](http://arxiv.org/abs/2203.01824v1)|**[link](https://github.com/zhigangjiang/LGT-Net)**|
+|**2022-03-03**|**Intensity Image-based LiDAR Fiducial Marker System**|Yibo Liu et.al.|[2203.01816v1](http://arxiv.org/abs/2203.01816v1)|**[link](https://github.com/York-SDCNLab/IILFM)**|
+|**2022-03-03**|**Adaptive Local-Global Relational Network for Facial Action Units Recognition and Facial Paralysis Estimation**|Xuri Ge et.al.|[2203.01800v1](http://arxiv.org/abs/2203.01800v1)|null|
+|**2022-03-03**|**On Learning Contrastive Representations for Learning with Noisy Labels**|Li Yi et.al.|[2203.01785v1](http://arxiv.org/abs/2203.01785v1)|null|
+|**2022-03-03**|**Revisiting Click-based Interactive Video Object Segmentation**|Stephane Vujasinovic et.al.|[2203.01784v1](http://arxiv.org/abs/2203.01784v1)|null|
+|**2022-03-03**|**Random Quantum Neural Networks (RQNN) for Noisy Image Recognition**|Debanjan Konar et.al.|[2203.01764v1](http://arxiv.org/abs/2203.01764v1)|**[link](https://github.com/darthsimpus/RQNN)**|
+|**2022-03-03**|**NeuroFluid: Fluid Dynamics Grounding with Particle-Driven Neural Radiance Fields**|Shanyan Guan et.al.|[2203.01762v1](http://arxiv.org/abs/2203.01762v1)|null|
+|**2022-03-03**|**PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video Sequence**|Zijian Dong et.al.|[2203.01754v1](http://arxiv.org/abs/2203.01754v1)|null|
+|**2022-03-03**|**Modality-Adaptive Mixup and Invariant Decomposition for RGB-Infrared Person Re-Identification**|Zhipeng Huang et.al.|[2203.01735v1](http://arxiv.org/abs/2203.01735v1)|null|
+|**2022-03-03**|**Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds**|Chaoda Zheng et.al.|[2203.01730v1](http://arxiv.org/abs/2203.01730v1)|null|
+|**2022-03-03**|**Ensembles of Vision Transformers as a New Paradigm for Automated Classification in Ecology**|S. Kyathanahally et.al.|[2203.01726v1](http://arxiv.org/abs/2203.01726v1)|null|
+|**2022-03-03**|**Debiased Batch Normalization via Gaussian Process for Generalizable Person Re-Identification**|Jiawei Liu et.al.|[2203.01723v1](http://arxiv.org/abs/2203.01723v1)|null|
+|**2022-03-03**|**Detecting High-Quality GAN-Generated Face Images using Neural Networks**|Ehsan Nowroozi et.al.|[2203.01716v1](http://arxiv.org/abs/2203.01716v1)|null|
+|**2022-03-03**|**Weakly Supervised Object Localization as Domain Adaption**|Lei Zhu et.al.|[2203.01714v1](http://arxiv.org/abs/2203.01714v1)|null|
+|**2022-03-03**|**Capturing Shape Information with Multi-Scale Topological Loss Terms for 3D Reconstruction**|Dominik J. E. Waibel et.al.|[2203.01703v1](http://arxiv.org/abs/2203.01703v1)|null|
+|**2022-03-03**|**Relative distance matters for one-shot landmark detection**|Qingsong Yao et.al.|[2203.01687v1](http://arxiv.org/abs/2203.01687v1)|null|
+|**2022-03-03**|**Bridging the Source-to-target Gap for Cross-domain Person Re-Identification with Intermediate Domains**|Yongxing Dai et.al.|[2203.01682v1](http://arxiv.org/abs/2203.01682v1)|null|
+|**2022-03-03**|**Cross-Modality Earth Mover's Distance for Visible Thermal Person Re-Identification**|Yongguo Ling et.al.|[2203.01675v1](http://arxiv.org/abs/2203.01675v1)|null|
+|**2022-03-03**|**Constrained unsupervised anomaly segmentation**|Julio Silva-Rodríguez et.al.|[2203.01671v1](http://arxiv.org/abs/2203.01671v1)|**[link](https://github.com/jusiro/constrained_anomaly_segmentation)**|
+|**2022-03-03**|**Translational Lung Imaging Analysis Through Disentangled Representations**|Pedro M. Gordaliza et.al.|[2203.01668v1](http://arxiv.org/abs/2203.01668v1)|null|
+|**2022-03-03**|**Correlation-Aware Deep Tracking**|Fei Xie et.al.|[2203.01666v1](http://arxiv.org/abs/2203.01666v1)|null|
+|**2022-03-03**|**Selective Residual M-Net for Real Image Denoising**|Chi-Mao Fan et.al.|[2203.01645v1](http://arxiv.org/abs/2203.01645v1)|**[link](https://github.com/tentativegithub/srmnet)**|
+|**2022-03-03**|**Adaptive Path Planning for UAVs for Multi-Resolution Semantic Segmentation**|Felix Stache et.al.|[2203.01642v1](http://arxiv.org/abs/2203.01642v1)|null|
+|**2022-03-03**|**Syntax-Aware Network for Handwritten Mathematical Expression Recognition**|Ye Yuan et.al.|[2203.01601v1](http://arxiv.org/abs/2203.01601v1)|null|
+|**2022-03-03**|**A Deep Neural Framework for Image Caption Generation Using GRU-Based Attention Mechanism**|Rashid Khan et.al.|[2203.01594v1](http://arxiv.org/abs/2203.01594v1)|null|
+|**2022-03-03**|**3D Human Motion Prediction: A Survey**|Kedi Lyu et.al.|[2203.01593v1](http://arxiv.org/abs/2203.01593v1)|null|
+|**2022-03-03**|**Multi-Tailed Vision Transformer for Efficient Inference**|Yunke Wang et.al.|[2203.01587v1](http://arxiv.org/abs/2203.01587v1)|null|
+|**2022-03-03**|**Towards Universal Backward-Compatible Representation Learning**|Binjie Zhang et.al.|[2203.01583v1](http://arxiv.org/abs/2203.01583v1)|null|
+|**2022-03-03**|**HOI4D: A 4D Egocentric Dataset for Category-Level Human-Object Interaction**|Yunze Liu et.al.|[2203.01577v1](http://arxiv.org/abs/2203.01577v1)|null|
+|**2022-03-03**|**Occlusion-Aware Cost Constructor for Light Field Depth Estimation**|Yingqian Wang et.al.|[2203.01576v1](http://arxiv.org/abs/2203.01576v1)|**[link](https://github.com/yingqianwang/oacc-net)**|
+|**2022-03-03**|**ViTransPAD: Video Transformer using convolution and self-attention for Face Presentation Attack Detection**|Zuheng Ming et.al.|[2203.01562v1](http://arxiv.org/abs/2203.01562v1)|null|
 |**2022-03-02**|**Protecting Celebrities with Identity Consistency Transformer**|Xiaoyi Dong et.al.|[2203.01318v1](http://arxiv.org/abs/2203.01318v1)|null|
 |**2022-03-02**|**HighMMT: Towards Modality and Task Generalization for High-Modality Representation Learning**|Paul Pu Liang et.al.|[2203.01311v1](http://arxiv.org/abs/2203.01311v1)|**[link](https://github.com/pliang279/highmmt)**|
 |**2022-03-02**|**DN-DETR: Accelerate DETR Training by Introducing Query DeNoising**|Feng Li et.al.|[2203.01305v1](http://arxiv.org/abs/2203.01305v1)|null|

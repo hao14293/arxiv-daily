@@ -18,7 +18,7 @@
 |**2022-03-04**|**Mobile authentication of copy detection patterns**|Olga Taran et.al.|[2203.02397v1](http://arxiv.org/abs/2203.02397v1)|null|
 |**2022-03-04**|**Simultaneous Alignment and Surface Regression Using Hybrid 2D-3D Networks for 3D Coherent Layer Segmentation of Retina OCT Images**|Hong Liu et.al.|[2203.02390v1](http://arxiv.org/abs/2203.02390v1)|**[link](https://github.com/ccarliu/Retinal-OCT-LayerSeg)**|
 |**2022-03-04**|**AutoMO-Mixer: An automated multi-objective Mixer model for balanced, safe and robust prediction in medicine**|Xi Chen et.al.|[2203.02384v1](http://arxiv.org/abs/2203.02384v1)|null|
-|**2022-03-04**|**DiT: Self-supervised Pre-training for Document Image Transformer**|Junlong Li et.al.|[2203.02378v1](http://arxiv.org/abs/2203.02378v1)|null|
+|**2022-03-04**|**DiT: Self-supervised Pre-training for Document Image Transformer**|Junlong Li et.al.|[2203.02378v1](http://arxiv.org/abs/2203.02378v1)|**[link](https://github.com/microsoft/unilm/tree/master/dit)**|
 |**2022-03-04**|**ViT-P: Rethinking Data-efficient Vision Transformers from Locality**|Bin Chen et.al.|[2203.02358v1](http://arxiv.org/abs/2203.02358v1)|**[link](https://github.com/freder-chen/vitp)**|
 |**2022-03-04**|**Computer-Aided Road Inspection: Systems and Algorithms**|Rui Fan et.al.|[2203.02355v1](http://arxiv.org/abs/2203.02355v1)|**[link](https://github.com/hlwang1124/AAFramework)**|
 |**2022-03-04**|**Uncertainty Estimation for Heatmap-based Landmark Localization**|Lawrence Schobs et.al.|[2203.02351v1](http://arxiv.org/abs/2203.02351v1)|**[link](https://github.com/pykale/pykale)**|

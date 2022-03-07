@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-04**|**HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening**|Wele Gedara Chaminda Bandara et.al.|[2203.02503v1](http://arxiv.org/abs/2203.02503v1)|**[link](https://github.com/wgcban/HyperTransformer)**|
+|**2022-03-04**|**Pedestrian Stop and Go Forecasting with Hybrid Feature Fusion**|Dongxu Guo et.al.|[2203.02489v1](http://arxiv.org/abs/2203.02489v1)|null|
+|**2022-03-04**|**Behavioural Curves Analysis Using Near-Infrared-Iris Image Sequences**|L. Causa et.al.|[2203.02488v1](http://arxiv.org/abs/2203.02488v1)|null|
+|**2022-03-04**|**The Familiarity Hypothesis: Explaining the Behavior of Deep Open Set Methods**|Thomas G. Dietterich et.al.|[2203.02486v1](http://arxiv.org/abs/2203.02486v1)|null|
+|**2022-03-04**|**Didn't see that coming: a survey on non-verbal social human behavior forecasting**|German Barquero et.al.|[2203.02480v1](http://arxiv.org/abs/2203.02480v1)|null|
+|**2022-03-04**|**Real-Time Hybrid Mapping of Populated Indoor Scenes using a Low-Cost Monocular UAV**|Stuart Golodetz et.al.|[2203.02453v1](http://arxiv.org/abs/2203.02453v1)|null|
+|**2022-03-04**|**Contextformer: A Transformer with Spatio-Channel Attention for Context Modeling in Learned Image Compression**|A. Burakhan Koyuncu et.al.|[2203.02452v1](http://arxiv.org/abs/2203.02452v1)|null|
+|**2022-03-04**|**SFPN: Synthetic FPN for Object Detection**|Yu-Ming Zhang et.al.|[2203.02445v1](http://arxiv.org/abs/2203.02445v1)|null|
+|**2022-03-04**|**Rethinking Efficient Lane Detection via Curve Modeling**|Zhengyang Feng et.al.|[2203.02431v1](http://arxiv.org/abs/2203.02431v1)|**[link](https://github.com/voldemortX/pytorch-auto-drive)**|
+|**2022-03-04**|**Characterizing Renal Structures with 3D Block Aggregate Transformers**|Xin Yu et.al.|[2203.02430v1](http://arxiv.org/abs/2203.02430v1)|null|
+|**2022-03-04**|**Differentiable Control Barrier Functions for Vision-based End-to-End Autonomous Driving**|Wei Xiao et.al.|[2203.02401v1](http://arxiv.org/abs/2203.02401v1)|null|
+|**2022-03-04**|**Mobile authentication of copy detection patterns**|Olga Taran et.al.|[2203.02397v1](http://arxiv.org/abs/2203.02397v1)|null|
+|**2022-03-04**|**Simultaneous Alignment and Surface Regression Using Hybrid 2D-3D Networks for 3D Coherent Layer Segmentation of Retina OCT Images**|Hong Liu et.al.|[2203.02390v1](http://arxiv.org/abs/2203.02390v1)|**[link](https://github.com/ccarliu/Retinal-OCT-LayerSeg)**|
+|**2022-03-04**|**AutoMO-Mixer: An automated multi-objective Mixer model for balanced, safe and robust prediction in medicine**|Xi Chen et.al.|[2203.02384v1](http://arxiv.org/abs/2203.02384v1)|null|
+|**2022-03-04**|**DiT: Self-supervised Pre-training for Document Image Transformer**|Junlong Li et.al.|[2203.02378v1](http://arxiv.org/abs/2203.02378v1)|null|
+|**2022-03-04**|**ViT-P: Rethinking Data-efficient Vision Transformers from Locality**|Bin Chen et.al.|[2203.02358v1](http://arxiv.org/abs/2203.02358v1)|**[link](https://github.com/freder-chen/vitp)**|
+|**2022-03-04**|**Computer-Aided Road Inspection: Systems and Algorithms**|Rui Fan et.al.|[2203.02355v1](http://arxiv.org/abs/2203.02355v1)|**[link](https://github.com/hlwang1124/AAFramework)**|
+|**2022-03-04**|**Uncertainty Estimation for Heatmap-based Landmark Localization**|Lawrence Schobs et.al.|[2203.02351v1](http://arxiv.org/abs/2203.02351v1)|**[link](https://github.com/pykale/pykale)**|
+|**2022-03-04**|**F2DNet: Fast Focal Detection Network for Pedestrian Detection**|Abdul Hannan Khan et.al.|[2203.02331v1](http://arxiv.org/abs/2203.02331v1)|**[link](https://github.com/abdulhannankhan/f2dnet)**|
+|**2022-03-04**|**Quantum Levenberg--Marquardt Algorithm for optimization in Bundle Adjustment**|Luca Bernecker et.al.|[2203.02311v1](http://arxiv.org/abs/2203.02311v1)|null|
+|**2022-03-04**|**Mixed Reality Depth Contour Occlusion Using Binocular Similarity Matching and Three-dimensional Contour Optimisation**|Naye Ji et.al.|[2203.02300v1](http://arxiv.org/abs/2203.02300v1)|null|
+|**2022-03-04**|**Freeform Body Motion Generation from Speech**|Jing Xu et.al.|[2203.02291v1](http://arxiv.org/abs/2203.02291v1)|**[link](https://github.com/thetempaccount/co-speech-motion-generation)**|
+|**2022-03-04**|**Semi-parametric Makeup Transfer via Semantic-aware Correspondence**|Mingrui Zhu et.al.|[2203.02286v1](http://arxiv.org/abs/2203.02286v1)|**[link](https://github.com/anonymscholar/spmt)**|
+|**2022-03-04**|**Feature Transformation for Cross-domain Few-shot Remote Sensing Scene Classification**|Qiaoling Chen et.al.|[2203.02270v1](http://arxiv.org/abs/2203.02270v1)|null|
+|**2022-03-04**|**Do Explanations Explain? Model Knows Best**|Ashkan Khakzar et.al.|[2203.02269v1](http://arxiv.org/abs/2203.02269v1)|null|
+|**2022-03-04**|**Class-Aware Contrastive Semi-Supervised Learning**|Fan Yang et.al.|[2203.02261v1](http://arxiv.org/abs/2203.02261v1)|null|
+|**2022-03-04**|**Patch Similarity Aware Data-Free Quantization for Vision Transformers**|Zhikai Li et.al.|[2203.02250v1](http://arxiv.org/abs/2203.02250v1)|null|
+|**2022-03-04**|**Detecting GAN-generated Images by Orthogonal Training of Multiple CNNs**|Sara Mandelli et.al.|[2203.02246v1](http://arxiv.org/abs/2203.02246v1)|**[link](https://github.com/polimi-ispl/gan-image-detection)**|
+|**2022-03-04**|**OPAL: Occlusion Pattern Aware Loss for Unsupervised Light Field Disparity Estimation**|Peng Li et.al.|[2203.02231v1](http://arxiv.org/abs/2203.02231v1)|null|
+|**2022-03-04**|**Partial Wasserstein Adversarial Network for Non-rigid Point Set Registration**|Zi-Ming Wang et.al.|[2203.02227v1](http://arxiv.org/abs/2203.02227v1)|null|
+|**2022-03-04**|**Safety-aware metrics for object detectors in autonomous driving**|Andrea Ceccarelli et.al.|[2203.02205v1](http://arxiv.org/abs/2203.02205v1)|**[link](https://github.com/andreaceccarelli/metrics_model)**|
+|**2022-03-04**|**Carbon Footprint of Selecting and Training Deep Learning Models for Medical Image Analysis**|Raghavendra Selvan et.al.|[2203.02202v1](http://arxiv.org/abs/2203.02202v1)|null|
+|**2022-03-04**|**Voice-Face Homogeneity Tells Deepfake**|Harry Cheng et.al.|[2203.02195v1](http://arxiv.org/abs/2203.02195v1)|**[link](https://github.com/xacheng1996/vfd)**|
+|**2022-03-04**|**Rethinking Reconstruction Autoencoder-Based Out-of-Distribution Detection**|Yibo Zhou et.al.|[2203.02194v1](http://arxiv.org/abs/2203.02194v1)|null|
+|**2022-03-04**|**Time-to-Label: Temporal Consistency for Self-Supervised Monocular 3D Object Detection**|Issa Mouawad et.al.|[2203.02193v1](http://arxiv.org/abs/2203.02193v1)|null|
+|**2022-03-04**|**Semantic-Aware Representation Blending for Multi-Label Image Recognition with Partial Labels**|Tao Pu et.al.|[2203.02172v1](http://arxiv.org/abs/2203.02172v1)|**[link](https://github.com/hcplab-sysu/hcp-mlr-pl)**|
+|**2022-03-04**|**Convolutional Analysis Operator Learning by End-To-End Training of Iterative Neural Networks**|Andreas Kofler et.al.|[2203.02166v1](http://arxiv.org/abs/2203.02166v1)|null|
+|**2022-03-04**|**MF-Hovernet: An Extension of Hovernet for Colon Nuclei Identification and Counting (CoNiC) Challenge**|Vi Thi-Tuong Vo et.al.|[2203.02161v1](http://arxiv.org/abs/2203.02161v1)|null|
+|**2022-03-04**|**Transformations in Learned Image Compression from a Communication Perspective**|Youneng Bao et.al.|[2203.02158v1](http://arxiv.org/abs/2203.02158v1)|null|
+|**2022-03-04**|**DetFlowTrack: 3D Multi-object Tracking based on Simultaneous Optimization of Object Detection and Scene Flow Estimation**|Yueling Shen et.al.|[2203.02157v1](http://arxiv.org/abs/2203.02157v1)|null|
+|**2022-03-04**|**PatchMVSNet: Patch-wise Unsupervised Multi-View Stereo for Weakly-Textured Surface Reconstruction**|Haonan Dong et.al.|[2203.02156v1](http://arxiv.org/abs/2203.02156v1)|null|
+|**2022-03-04**|**HDNet: High-resolution Dual-domain Learning for Spectral Compressive Imaging**|Xiaowan Hu et.al.|[2203.02149v1](http://arxiv.org/abs/2203.02149v1)|null|
+|**2022-03-04**|**ACVNet: Attention Concatenation Volume for Accurate and Efficient Stereo Matching**|Gangwei Xu et.al.|[2203.02146v1](http://arxiv.org/abs/2203.02146v1)|**[link](https://github.com/gangweix/acvnet)**|
+|**2022-03-04**|**A Versatile Multi-View Framework for LiDAR-based 3D Object Detection with Guidance from Panoptic Segmentation**|Hamidreza Fazlali et.al.|[2203.02133v1](http://arxiv.org/abs/2203.02133v1)|null|
+|**2022-03-04**|**3D endoscopic depth estimation using 3D surface-aware constraints**|Shang Zhao et.al.|[2203.02131v1](http://arxiv.org/abs/2203.02131v1)|null|
+|**2022-03-04**|**Towards Benchmarking and Evaluating Deepfake Detection**|Chenhao Lin et.al.|[2203.02115v1](http://arxiv.org/abs/2203.02115v1)|null|
+|**2022-03-04**|**MixCL: Pixel label matters to contrastive learning**|Jun Li et.al.|[2203.02114v1](http://arxiv.org/abs/2203.02114v1)|null|
+|**2022-03-04**|**FS-COCO: Towards Understanding of Freehand Sketches of Common Objects in Context**|Pinaki Nath Chowdhury et.al.|[2203.02113v1](http://arxiv.org/abs/2203.02113v1)|null|
+|**2022-03-04**|**Pseudo-Stereo for Monocular 3D Object Detection in Autonomous Driving**|Yi-Nan Chen et.al.|[2203.02112v1](http://arxiv.org/abs/2203.02112v1)|**[link](https://github.com/revisitq/Pseudo-Stereo-3D)**|
+|**2022-03-04**|**FairPrune: Achieving Fairness Through Pruning for Dermatological Disease Diagnosis**|Yawen Wu et.al.|[2203.02110v1](http://arxiv.org/abs/2203.02110v1)|null|
 |**2022-03-03**|**CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation**|Muhammad Zubair Irshad et.al.|[2203.01929v1](http://arxiv.org/abs/2203.01929v1)|null|
 |**2022-03-03**|**Label-Only Model Inversion Attacks via Boundary Repulsion**|Mostafa Kahla et.al.|[2203.01925v1](http://arxiv.org/abs/2203.01925v1)|null|
 |**2022-03-03**|**Recovering 3D Human Mesh from Monocular Images: A Survey**|Yating Tian et.al.|[2203.01923v1](http://arxiv.org/abs/2203.01923v1)|**[link](https://github.com/tinatiansjz/hmr-survey)**|

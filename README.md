@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-08**|**A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation**|Yutong Chen et.al.|[2203.04287v1](http://arxiv.org/abs/2203.04287v1)|null|
+|**2022-03-08**|**Probabilistic Warp Consistency for Weakly-Supervised Semantic Correspondences**|Prune Truong et.al.|[2203.04279v1](http://arxiv.org/abs/2203.04279v1)|**[link](https://github.com/PruneTruong/DenseMatching)**|
+|**2022-03-08**|**Robust Multi-Task Learning and Online Refinement for Spacecraft Pose Estimation across Domain Gap**|Tae Ha Park et.al.|[2203.04275v1](http://arxiv.org/abs/2203.04275v1)|null|
+|**2022-03-08**|**End-to-End Semi-Supervised Learning for Video Action Detection**|Akash Kumar et.al.|[2203.04251v1](http://arxiv.org/abs/2203.04251v1)|null|
+|**2022-03-08**|**A Lightweight and Detector-free 3D Single Object Tracker on Point Clouds**|Yan Xia et.al.|[2203.04232v1](http://arxiv.org/abs/2203.04232v1)|null|
+|**2022-03-08**|**Neural Face Identification in a 2D Wireframe Projection of a Manifold Object**|Kehan Wang et.al.|[2203.04229v1](http://arxiv.org/abs/2203.04229v1)|**[link](https://github.com/manycore-research/faceformer)**|
+|**2022-03-08**|**Towards Universal Texture Synthesis by Combining Texton Broadcasting with Noise Injection in StyleGAN-2**|Jue Lin et.al.|[2203.04221v1](http://arxiv.org/abs/2203.04221v1)|null|
+|**2022-03-08**|**Lightweight Monocular Depth Estimation through Guided Decoding**|Michael Rudolph et.al.|[2203.04206v1](http://arxiv.org/abs/2203.04206v1)|null|
+|**2022-03-08**|**AssistQ: Affordance-centric Question-driven Task Completion for Egocentric Assistant**|Benita Wong et.al.|[2203.04203v1](http://arxiv.org/abs/2203.04203v1)|null|
+|**2022-03-08**|**Trustable Co-label Learning from Multiple Noisy Annotators**|Shikun Li et.al.|[2203.04199v1](http://arxiv.org/abs/2203.04199v1)|**[link](https://github.com/shikunli/tcl)**|
+|**2022-03-08**|**A Gating Model for Bias Calibration in Generalized Zero-shot Learning**|Gukyeong Kwon et.al.|[2203.04195v1](http://arxiv.org/abs/2203.04195v1)|null|
+|**2022-03-08**|**MLSeg: Image and Video Segmentation as Multi-Label Classification and Selected-Label Pixel Classification**|Haodi He et.al.|[2203.04187v1](http://arxiv.org/abs/2203.04187v1)|**[link](https://github.com/openseg-group/mlseg)**|
+|**2022-03-08**|**Selective-Supervised Contrastive Learning with Noisy Labels**|Shikun Li et.al.|[2203.04181v1](http://arxiv.org/abs/2203.04181v1)|**[link](https://github.com/shikunli/sel-cl)**|
+|**2022-03-08**|**Tuning-free multi-coil compressed sensing MRI with Parallel Variable Density Approximate Message Passing (P-VDAMP)**|Charles Millard et.al.|[2203.04180v1](http://arxiv.org/abs/2203.04180v1)|**[link](https://github.com/charlesmillard/p-vdamp)**|
+|**2022-03-08**|**Understanding person identification via gait**|Simon Hanisch et.al.|[2203.04179v1](http://arxiv.org/abs/2203.04179v1)|null|
+|**2022-03-08**|**Robust Local Preserving and Global Aligning Network for Adversarial Domain Adaptation**|Wenwen Qiang et.al.|[2203.04156v1](http://arxiv.org/abs/2203.04156v1)|null|
+|**2022-03-08**|**Easy Ensemble: Simple Deep Ensemble Learning for Sensor-Based Human Activity Recognition**|Tatsuhito Hasegawa et.al.|[2203.04153v1](http://arxiv.org/abs/2203.04153v1)|**[link](https://github.com/t-hasegawa-fu/easy-ensemble)**|
+|**2022-03-08**|**Motron: Multimodal Probabilistic Human Motion Forecasting**|Tim Salzmann et.al.|[2203.04132v1](http://arxiv.org/abs/2203.04132v1)|null|
+|**2022-03-08**|**NeReF: Neural Refractive Field for Fluid Surface Reconstruction and Implicit Representation**|Ziyu Wang et.al.|[2203.04130v1](http://arxiv.org/abs/2203.04130v1)|null|
+|**2022-03-08**|**YouTube-GDD: A challenging gun detection dataset with rich contextual information**|Yongxiang Gu et.al.|[2203.04129v1](http://arxiv.org/abs/2203.04129v1)|**[link](https://github.com/ucas-gyx/youtube-gdd)**|
+|**2022-03-08**|**An Efficient Polyp Segmentation Network**|Tugberk Erol et.al.|[2203.04118v1](http://arxiv.org/abs/2203.04118v1)|null|
+|**2022-03-08**|**Quantification of Occlusion Handling Capability of a 3D Human Pose Estimation Framework**|Mehwish Ghafoor et.al.|[2203.04113v1](http://arxiv.org/abs/2203.04113v1)|null|
+|**2022-03-08**|**VoViT: Low Latency Graph-based Audio-Visual Voice Separation Transformer**|Juan F. Montesinos et.al.|[2203.04099v1](http://arxiv.org/abs/2203.04099v1)|**[link](https://github.com/JuanFMontesinos/VoViT)**|
+|**2022-03-08**|**Contrastive Enhancement Using Latent Prototype for Few-Shot Segmentation**|Xiaoyu Zhao et.al.|[2203.04095v1](http://arxiv.org/abs/2203.04095v1)|**[link](https://github.com/zhaoxiaoyu1995/celp-pytorch)**|
+|**2022-03-08**|**Semantic Distillation Guided Salient Object Detection**|Bo Xu et.al.|[2203.04076v1](http://arxiv.org/abs/2203.04076v1)|null|
+|**2022-03-08**|**E2EC: An End-to-End Contour-based Method for High-Quality High-Speed Instance Segmentation**|Tao Zhang et.al.|[2203.04074v1](http://arxiv.org/abs/2203.04074v1)|**[link](https://github.com/zhang-tao-whu/e2ec)**|
+|**2022-03-08**|**Lane Detection with Versatile AtrousFormer and Local Semantic Guidance**|Jiaxing Yang et.al.|[2203.04067v1](http://arxiv.org/abs/2203.04067v1)|null|
+|**2022-03-08**|**Analyzing General-Purpose Deep-Learning Detection and Segmentation Models with Images from a Lidar as a Camera Sensor**|Yu Xianjia et.al.|[2203.04064v1](http://arxiv.org/abs/2203.04064v1)|null|
+|**2022-03-08**|**Counting with Adaptive Auxiliary Learning**|Yanda Meng et.al.|[2203.04061v1](http://arxiv.org/abs/2203.04061v1)|**[link](https://github.com/smallmax00/counting_with_adaptive_auxiliary)**|
+|**2022-03-08**|**BEVSegFormer: Bird's Eye View Semantic Segmentation From Arbitrary Camera Rigs**|Lang Peng et.al.|[2203.04050v1](http://arxiv.org/abs/2203.04050v1)|null|
+|**2022-03-08**|**Graph Attention Transformer Network for Multi-Label Image Classification**|Jin Yuan et.al.|[2203.04049v1](http://arxiv.org/abs/2203.04049v1)|null|
+|**2022-03-08**|**Learning to Erase the Bayer-Filter to See in the Dark**|Xingbo Dong et.al.|[2203.04042v1](http://arxiv.org/abs/2203.04042v1)|null|
+|**2022-03-08**|**Shape-invariant 3D Adversarial Point Clouds**|Qidong Huang et.al.|[2203.04041v1](http://arxiv.org/abs/2203.04041v1)|**[link](https://github.com/shikiw/si-adv)**|
+|**2022-03-08**|**Gait Recognition with Mask-based Regularization**|Chuanfu Shen et.al.|[2203.04038v1](http://arxiv.org/abs/2203.04038v1)|null|
+|**2022-03-08**|**Deep Multi-Branch Aggregation Network for Real-Time Semantic Segmentation in Street Scenes**|Xi Weng et.al.|[2203.04037v1](http://arxiv.org/abs/2203.04037v1)|null|
+|**2022-03-08**|**StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pretrained StyleGAN**|Fei Yin et.al.|[2203.04036v1](http://arxiv.org/abs/2203.04036v1)|null|
+|**2022-03-08**|**Stage-Aware Feature Alignment Network for Real-Time Semantic Segmentation of Street Scenes**|Xi Weng et.al.|[2203.04031v1](http://arxiv.org/abs/2203.04031v1)|null|
+|**2022-03-08**|**Data augmentation with mixtures of max-entropy transformations for filling-level classification**|Apostolos Modas et.al.|[2203.04027v1](http://arxiv.org/abs/2203.04027v1)|null|
+|**2022-03-08**|**Mutual Contrastive Learning to Disentangle Whole Slide Image Representations for Glioma Grading**|Lipei Zhang et.al.|[2203.04013v1](http://arxiv.org/abs/2203.04013v1)|null|
+|**2022-03-08**|**Evolutionary Neural Cascade Search across Supernetworks**|Alexander Chebykin et.al.|[2203.04011v1](http://arxiv.org/abs/2203.04011v1)|**[link](https://github.com/awesomelemon/encas)**|
+|**2022-03-08**|**DuMLP-Pin: A Dual-MLP-dot-product Permutation-invariant Network for Set Feature Extraction**|Jiajun Fei et.al.|[2203.04007v1](http://arxiv.org/abs/2203.04007v1)|**[link](https://github.com/jaronthu/dumlp-pin)**|
+|**2022-03-08**|**Visual-Language Navigation Pretraining via Prompt-based Environmental Self-exploration**|Xiwen Liang et.al.|[2203.04006v1](http://arxiv.org/abs/2203.04006v1)|null|
+|**2022-03-08**|**DeltaCNN: End-to-End CNN Inference of Sparse Frame Differences in Videos**|Mathias Parger et.al.|[2203.03996v1](http://arxiv.org/abs/2203.03996v1)|null|
+|**2022-03-08**|**Skating-Mixer: Multimodal MLP for Scoring Figure Skating**|Jingfei Xia et.al.|[2203.03990v1](http://arxiv.org/abs/2203.03990v1)|null|
+|**2022-03-08**|**SimpleTrack: Rethinking and Improving the JDE Approach for Multi-Object Tracking**|Jiaxin Li et.al.|[2203.03985v1](http://arxiv.org/abs/2203.03985v1)|null|
+|**2022-03-08**|**Attention-Based Lip Audio-Visual Synthesis for Talking Face Generation in the Wild**|Ganglai Wang et.al.|[2203.03984v1](http://arxiv.org/abs/2203.03984v1)|null|
+|**2022-03-08**|**End-to-end Multiple Instance Learning with Gradient Accumulation**|Axel Andersson et.al.|[2203.03981v1](http://arxiv.org/abs/2203.03981v1)|**[link](https://github.com/axanderssonuu/abmil_with_accumulating_gradients)**|
+|**2022-03-08**|**GaitEdge: Beyond Plain End-to-end Gait Recognition for Better Practicality**|Junhao Liang et.al.|[2203.03972v1](http://arxiv.org/abs/2203.03972v1)|null|
+|**2022-03-08**|**Universal Prototype Transport for Zero-Shot Action Recognition and Localization**|Pascal Mettes et.al.|[2203.03971v1](http://arxiv.org/abs/2203.03971v1)|null|
+|**2022-03-08**|**On Generalizing Beyond Domains in Cross-Domain Continual Learning**|Christian Simon et.al.|[2203.03970v1](http://arxiv.org/abs/2203.03970v1)|null|
 |**2022-03-07**|**ZippyPoint: Fast Interest Point Detection, Description, and Matching through Mixed Precision Discretization**|Simon Maurer et.al.|[2203.03610v1](http://arxiv.org/abs/2203.03610v1)|null|
 |**2022-03-07**|**Human-Aware Object Placement for Visual Environment Reconstruction**|Hongwei Yi et.al.|[2203.03609v1](http://arxiv.org/abs/2203.03609v1)|null|
 |**2022-03-07**|**DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection**|Hao Zhang et.al.|[2203.03605v1](http://arxiv.org/abs/2203.03605v1)|**[link](https://github.com/IDEACVR/DINO)**|

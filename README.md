@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-09**|**On the surprising tradeoff between ImageNet accuracy and perceptual similarity**|Manoj Kumar et.al.|[2203.04946v1](http://arxiv.org/abs/2203.04946v1)|null|
+|**2022-03-09**|**Triangular Character Animation Sampling with Motion, Emotion, and Relation**|Yizhou Zhao et.al.|[2203.04930v1](http://arxiv.org/abs/2203.04930v1)|null|
+|**2022-03-09**|**Leveling Down in Computer Vision: Pareto Inefficiencies in Fair Deep Classifiers**|Dominik Zietlow et.al.|[2203.04913v1](http://arxiv.org/abs/2203.04913v1)|null|
+|**2022-03-09**|**Rethinking data-driven point spread function modeling with a differentiable optical model**|Tobias Liaudat et.al.|[2203.04908v1](http://arxiv.org/abs/2203.04908v1)|null|
+|**2022-03-09**|**Pose Guided Multi-person Image Generation From Text**|Soon Yau Cheong et.al.|[2203.04907v1](http://arxiv.org/abs/2203.04907v1)|null|
+|**2022-03-09**|**What Matters For Meta-Learning Vision Regression Tasks?**|Ning Gao et.al.|[2203.04905v1](http://arxiv.org/abs/2203.04905v1)|null|
+|**2022-03-09**|**Model-Agnostic Multitask Fine-tuning for Few-shot Vision-Language Transfer Learning**|Zhenhailong Wang et.al.|[2203.04904v1](http://arxiv.org/abs/2203.04904v1)|null|
+|**2022-03-09**|**Joint Learning of Salient Object Detection, Depth Estimation and Contour Extraction**|Xiaoqi Zhao et.al.|[2203.04895v1](http://arxiv.org/abs/2203.04895v1)|null|
+|**2022-03-09**|**Low-light Image and Video Enhancement via Selective Manipulation of Chromaticity**|Sumit Shekhar et.al.|[2203.04889v1](http://arxiv.org/abs/2203.04889v1)|null|
+|**2022-03-09**|**Efficient Image Representation Learning with Federated Sampled Softmax**|Sagar M. Waghmare et.al.|[2203.04888v1](http://arxiv.org/abs/2203.04888v1)|null|
+|**2022-03-09**|**VGQ-CNN: Moving Beyond Fixed Cameras and Top-Grasps for Grasp Quality Prediction**|A. Konrad et.al.|[2203.04874v1](http://arxiv.org/abs/2203.04874v1)|null|
+|**2022-03-09**|**CEU-Net: Ensemble Semantic Segmentation of Hyperspectral Images Using Clustering**|Nicholas Soucy et.al.|[2203.04873v1](http://arxiv.org/abs/2203.04873v1)|null|
+|**2022-03-09**|**Coarse-to-Fine Sparse Transformer for Hyperspectral Image Reconstruction**|Jing Lin et.al.|[2203.04845v1](http://arxiv.org/abs/2203.04845v1)|null|
+|**2022-03-09**|**CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers**|Huayao Liu et.al.|[2203.04838v1](http://arxiv.org/abs/2203.04838v1)|**[link](https://github.com/huaaaliu/rgbx_semantic_segmentation)**|
+|**2022-03-09**|**A high-precision underwater object detection based on joint self-supervised deblurring and improved spatial transformer network**|Xiuyuan Li et.al.|[2203.04822v1](http://arxiv.org/abs/2203.04822v1)|null|
+|**2022-03-09**|**Text-DIAE: Degradation Invariant Autoencoders for Text Recognition and Document Enhancement**|Mohamed Ali Souibgui et.al.|[2203.04814v1](http://arxiv.org/abs/2203.04814v1)|null|
+|**2022-03-09**|**A high-precision self-supervised monocular visual odometry in foggy weather based on robust cycled generative adversarial networks and multi-task learning aided depth estimation**|Xiuyuan Li et.al.|[2203.04812v1](http://arxiv.org/abs/2203.04812v1)|null|
+|**2022-03-09**|**NeRF-Pose: A First-Reconstruct-Then-Regress Approach for Weakly-supervised 6D Object Pose Estimation**|Fu Li et.al.|[2203.04802v1](http://arxiv.org/abs/2203.04802v1)|null|
+|**2022-03-09**|**Evaluation of YOLO Models with Sliced Inference for Small Object Detection**|Muhammed Can Keles et.al.|[2203.04799v1](http://arxiv.org/abs/2203.04799v1)|null|
+|**2022-03-09**|**How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting**|Alessio Monti et.al.|[2203.04781v1](http://arxiv.org/abs/2203.04781v1)|null|
+|**2022-03-09**|**Multiscale Convolutional Transformer with Center Mask Pretraining for Hyperspectral Image Classificationtion**|Yifan Wang et.al.|[2203.04771v1](http://arxiv.org/abs/2203.04771v1)|null|
+|**2022-03-09**|**Using Human Gaze For Surgical Activity Recognition**|Abdishakour Awale et.al.|[2203.04752v1](http://arxiv.org/abs/2203.04752v1)|null|
+|**2022-03-09**|**SkinningNet: Two-Stream Graph Convolutional Neural Network for Skinning Prediction of Synthetic Characters**|Albert Mosella-Montoro et.al.|[2203.04746v1](http://arxiv.org/abs/2203.04746v1)|null|
+|**2022-03-09**|**Defending Black-box Skeleton-based Human Activity Classifiers**|He Wang et.al.|[2203.04713v1](http://arxiv.org/abs/2203.04713v1)|null|
+|**2022-03-09**|**A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection**|Yukun Su et.al.|[2203.04708v1](http://arxiv.org/abs/2203.04708v1)|**[link](https://github.com/suyukun666/UFO)**|
+|**2022-03-09**|**FlexIT: Towards Flexible Semantic Image Translation**|Guillaume Couairon et.al.|[2203.04705v1](http://arxiv.org/abs/2203.04705v1)|null|
+|**2022-03-09**|**Align-Deform-Subtract: An Interventional Framework for Explaining Object Differences**|Cian Eastwood et.al.|[2203.04694v1](http://arxiv.org/abs/2203.04694v1)|null|
+|**2022-03-09**|**Structure-Aware Flow Generation for Human Body Reshaping**|Jianqiang Ren et.al.|[2203.04670v1](http://arxiv.org/abs/2203.04670v1)|null|
+|**2022-03-09**|**Inadequately Pre-trained Models are Better Feature Extractors**|Andong Deng et.al.|[2203.04668v1](http://arxiv.org/abs/2203.04668v1)|null|
+|**2022-03-09**|**Simulation of Plenoptic Cameras**|Tim Michels et.al.|[2203.04662v1](http://arxiv.org/abs/2203.04662v1)|**[link](https://github.com/arne-petersen/plenoptic-simulation)**|
+|**2022-03-09**|**Creating Realistic Ground Truth Data for the Evaluation of Calibration Methods for Plenoptic and Conventional Cameras**|Tim Michels et.al.|[2203.04661v1](http://arxiv.org/abs/2203.04661v1)|**[link](https://gitlab.com/ungetym/plenoptic_ground_truth_creator)**|
+|**2022-03-09**|**Ray Tracing-Guided Design of Plenoptic Cameras**|Tim Michels et.al.|[2203.04660v1](http://arxiv.org/abs/2203.04660v1)|**[link](https://gitlab.com/ungetym/fpc-design)**|
+|**2022-03-09**|**Normal and Visibility Estimation of Human Face from a Single Image**|Fuzhi Zhong et.al.|[2203.04647v1](http://arxiv.org/abs/2203.04647v1)|null|
+|**2022-03-09**|**3D Dense Face Alignment with Fused Features by Aggregating CNNs and GCNs**|Yanda Meng et.al.|[2203.04643v1](http://arxiv.org/abs/2203.04643v1)|null|
+|**2022-03-09**|**Evaluation and Generation of Physical Adversarial Patch**|Xiao Yang et.al.|[2203.04623v1](http://arxiv.org/abs/2203.04623v1)|null|
+|**2022-03-09**|**Uni4Eye: Unified 2D and 3D Self-supervised Pre-training via Masked Image Modeling Transformer for Ophthalmic Image Classification**|Zhiyuan Cai et.al.|[2203.04614v1](http://arxiv.org/abs/2203.04614v1)|null|
+|**2022-03-09**|**Object-Based Visual Camera Pose Estimation From Ellipsoidal Model and 3D-Aware Ellipse Prediction**|Matthieu Zins et.al.|[2203.04613v1](http://arxiv.org/abs/2203.04613v1)|null|
+|**2022-03-09**|**Practical No-box Adversarial Attacks with Training-free Hybrid Image Transformation**|Qilong Zhang et.al.|[2203.04607v1](http://arxiv.org/abs/2203.04607v1)|null|
+|**2022-03-09**|**Attention-effective multiple instance learning on weakly stem cell colony segmentation**|Novanto Yudistira et.al.|[2203.04606v1](http://arxiv.org/abs/2203.04606v1)|null|
+|**2022-03-09**|**Domain Generalization using Pretrained Models without Fine-tuning**|Ziyue Li et.al.|[2203.04600v1](http://arxiv.org/abs/2203.04600v1)|null|
+|**2022-03-09**|**Mapping global dynamics of benchmark creation and saturation in artificial intelligence**|Adriano Barbosa-Silva et.al.|[2203.04592v1](http://arxiv.org/abs/2203.04592v1)|null|
+|**2022-03-09**|**Multi-modal Brain Tumor Segmentation via Missing Modality Synthesis and Modality-level Attention Fusion**|Ziqi Huang et.al.|[2203.04586v1](http://arxiv.org/abs/2203.04586v1)|null|
+|**2022-03-09**|**A Neuro-vector-symbolic Architecture for Solving Raven's Progressive Matrices**|Michael Hersche et.al.|[2203.04571v1](http://arxiv.org/abs/2203.04571v1)|null|
+|**2022-03-09**|**CP-ViT: Cascade Vision Transformer Pruning via Progressive Sparsity Prediction**|Zhuoran Song et.al.|[2203.04570v1](http://arxiv.org/abs/2203.04570v1)|null|
+|**2022-03-09**|**PHTrans: Parallelly Aggregating Global and Local Representations for Medical Image Segmentation**|Wentao Liu et.al.|[2203.04568v1](http://arxiv.org/abs/2203.04568v1)|null|
+|**2022-03-09**|**All You Need is LUV: Unsupervised Collection of Labeled Images using Invisible UV Fluorescent Indicators**|Brijen Thananjeyan et.al.|[2203.04566v1](http://arxiv.org/abs/2203.04566v1)|null|
+|**2022-03-09**|**Region-Aware Face Swapping**|Chao Xu et.al.|[2203.04564v1](http://arxiv.org/abs/2203.04564v1)|null|
+|**2022-03-09**|**MLNav: Learning to Safely Navigate on Martian Terrains**|Shreyansh Daftry et.al.|[2203.04563v1](http://arxiv.org/abs/2203.04563v1)|null|
+|**2022-03-09**|**Active Self-Semi-Supervised Learning for Few Labeled Samples Fast Training**|Ziting Wen et.al.|[2203.04560v1](http://arxiv.org/abs/2203.04560v1)|null|
+|**2022-03-09**|**Learning Temporal Consistency for Source-Free Video Domain Adaptation**|Yuecong Xu et.al.|[2203.04559v1](http://arxiv.org/abs/2203.04559v1)|null|
 |**2022-03-08**|**A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation**|Yutong Chen et.al.|[2203.04287v1](http://arxiv.org/abs/2203.04287v1)|null|
 |**2022-03-08**|**Probabilistic Warp Consistency for Weakly-Supervised Semantic Correspondences**|Prune Truong et.al.|[2203.04279v1](http://arxiv.org/abs/2203.04279v1)|**[link](https://github.com/PruneTruong/DenseMatching)**|
 |**2022-03-08**|**Robust Multi-Task Learning and Online Refinement for Spacecraft Pose Estimation across Domain Gap**|Tae Ha Park et.al.|[2203.04275v1](http://arxiv.org/abs/2203.04275v1)|null|

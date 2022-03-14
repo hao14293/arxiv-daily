@@ -1,4 +1,4 @@
-## Updated on 2022.03.13
+## Updated on 2022.03.14
 
 ## cs.CV
 
@@ -7,7 +7,7 @@
 |**2022-03-10**|**Conditional Prompt Learning for Vision-Language Models**|Kaiyang Zhou et.al.|[2203.05557v1](http://arxiv.org/abs/2203.05557v1)|**[link](https://github.com/kaiyangzhou/coop)**|
 |**2022-03-10**|**Transfer of Representations to Video Label Propagation: Implementation Factors Matter**|Daniel McKee et.al.|[2203.05553v1](http://arxiv.org/abs/2203.05553v1)|null|
 |**2022-03-10**|**An Empirical Investigation of 3D Anomaly Detection and Segmentation**|Eliahu Horwitz et.al.|[2203.05550v1](http://arxiv.org/abs/2203.05550v1)|null|
-|**2022-03-10**|**AGCN: Augmented Graph Convolutional Network for Lifelong Multi-label Image Recognition**|Kaile Du et.al.|[2203.05534v1](http://arxiv.org/abs/2203.05534v1)|null|
+|**2022-03-11**|**AGCN: Augmented Graph Convolutional Network for Lifelong Multi-label Image Recognition**|Kaile Du et.al.|[2203.05534v2](http://arxiv.org/abs/2203.05534v2)|null|
 |**2022-03-10**|**Towards Less Constrained Macro-Neural Architecture Search**|Vasco Lopes et.al.|[2203.05508v1](http://arxiv.org/abs/2203.05508v1)|**[link](https://github.com/vascolopes/lcmnas)**|
 |**2022-03-10**|**Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time**|Mitchell Wortsman et.al.|[2203.05482v1](http://arxiv.org/abs/2203.05482v1)|null|
 |**2022-03-10**|**Prediction-Guided Distillation for Dense Object Detection**|Chenhongyi Yang et.al.|[2203.05469v1](http://arxiv.org/abs/2203.05469v1)|**[link](https://github.com/chenhongyiyang/pgd)**|
@@ -19,17 +19,17 @@
 |**2022-03-10**|**Two-stream Hierarchical Similarity Reasoning for Image-text Matching**|Ran Chen et.al.|[2203.05349v1](http://arxiv.org/abs/2203.05349v1)|null|
 |**2022-03-10**|**Knowledge-enriched Attention Network with Group-wise Semantic for Visual Storytelling**|Tengpeng Li et.al.|[2203.05346v1](http://arxiv.org/abs/2203.05346v1)|null|
 |**2022-03-10**|**EyeLoveGAN: Exploiting domain-shifts to boost network learning with cycleGANs**|Josefine Vilsbøll Sundgaard et.al.|[2203.05344v1](http://arxiv.org/abs/2203.05344v1)|null|
-|**2022-03-10**|**Domain Generalization via Shuffled Style Assembly for Face Anti-Spoofing**|Zhuo Wang et.al.|[2203.05340v1](http://arxiv.org/abs/2203.05340v1)|null|
-|**2022-03-10**|**TrueType Transformer: Character and Font Style Recognition in Outline Format**|Yusuke Nagata et.al.|[2203.05338v1](http://arxiv.org/abs/2203.05338v1)|null|
+|**2022-03-11**|**Domain Generalization via Shuffled Style Assembly for Face Anti-Spoofing**|Zhuo Wang et.al.|[2203.05340v2](http://arxiv.org/abs/2203.05340v2)|null|
+|**2022-03-11**|**TrueType Transformer: Character and Font Style Recognition in Outline Format**|Yusuke Nagata et.al.|[2203.05338v2](http://arxiv.org/abs/2203.05338v2)|null|
 |**2022-03-10**|**Non-generative Generalized Zero-shot Learning via Task-correlated Disentanglement and Controllable Samples Synthesis**|Yaogong Feng et.al.|[2203.05335v1](http://arxiv.org/abs/2203.05335v1)|null|
 |**2022-03-10**|**Iterative Corresponding Geometry: Fusing Region and Depth for Highly Efficient 3D Tracking of Textureless Objects**|Manuel Stoiber et.al.|[2203.05334v1](http://arxiv.org/abs/2203.05334v1)|**[link](https://github.com/dlr-rm/3dobjecttracking)**|
 |**2022-03-10**|**SelfTune: Metrically Scaled Monocular Depth Estimation through Self-Supervised Learning**|Jaehoon Choi et.al.|[2203.05332v1](http://arxiv.org/abs/2203.05332v1)|null|
 |**2022-03-10**|**Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking**|Boyu Chen et.al.|[2203.05328v1](http://arxiv.org/abs/2203.05328v1)|null|
-|**2022-03-10**|**StyleBabel: Artistic Style Tagging and Captioning**|Dan Ruta et.al.|[2203.05321v1](http://arxiv.org/abs/2203.05321v1)|null|
+|**2022-03-11**|**StyleBabel: Artistic Style Tagging and Captioning**|Dan Ruta et.al.|[2203.05321v2](http://arxiv.org/abs/2203.05321v2)|null|
 |**2022-03-10**|**GrainSpace: A Large-scale Dataset for Fine-grained and Domain-adaptive Recognition of Cereal Grains**|Lei Fan et.al.|[2203.05306v1](http://arxiv.org/abs/2203.05306v1)|null|
-|**2022-03-10**|**BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis**|Haiyang Liu et.al.|[2203.05297v1](http://arxiv.org/abs/2203.05297v1)|null|
+|**2022-03-11**|**BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis**|Haiyang Liu et.al.|[2203.05297v2](http://arxiv.org/abs/2203.05297v2)|null|
 |**2022-03-10**|**Domain Generalisation for Object Detection**|Karthik Seemakurthy et.al.|[2203.05294v1](http://arxiv.org/abs/2203.05294v1)|null|
-|**2022-03-10**|**Contrastive Boundary Learning for Point Cloud Segmentation**|Liyao Tang et.al.|[2203.05272v1](http://arxiv.org/abs/2203.05272v1)|**[link](https://github.com/liyaotang/contrastboundary)**|
+|**2022-03-11**|**Contrastive Boundary Learning for Point Cloud Segmentation**|Liyao Tang et.al.|[2203.05272v2](http://arxiv.org/abs/2203.05272v2)|**[link](https://github.com/liyaotang/contrastboundary)**|
 |**2022-03-10**|**Real-time Scene Text Detection Based on Global Level and Word Level Features**|Fuqiang Zhao et.al.|[2203.05251v1](http://arxiv.org/abs/2203.05251v1)|null|
 |**2022-03-10**|**A Closer Look at Debiased Temporal Sentence Grounding in Videos: Dataset, Metric, and Approach**|Xiaohan Lan et.al.|[2203.05243v1](http://arxiv.org/abs/2203.05243v1)|null|
 |**2022-03-10**|**Back to Reality: Weakly-supervised 3D Object Detection with Shape-guided Label Enhancement**|Xiuwei Xu et.al.|[2203.05238v1](http://arxiv.org/abs/2203.05238v1)|**[link](https://github.com/xuxw98/backtoreality)**|

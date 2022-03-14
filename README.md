@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-11**|**Masked Visual Pre-training for Motor Control**|Tete Xiao et.al.|[2203.06173v1](http://arxiv.org/abs/2203.06173v1)|null|
+|**2022-03-11**|**Deep AutoAugment**|Yu Zheng et.al.|[2203.06172v1](http://arxiv.org/abs/2203.06172v1)|**[link](https://github.com/msu-mlsys-lab/deepaa)**|
+|**2022-03-11**|**Neuromorphic Data Augmentation for Training Spiking Neural Networks**|Yuhang Li et.al.|[2203.06145v1](http://arxiv.org/abs/2203.06145v1)|null|
+|**2022-03-11**|**Spatial Consistency Loss for Training Multi-Label Classifiers from Single-Label Annotations**|Thomas Verelst et.al.|[2203.06127v1](http://arxiv.org/abs/2203.06127v1)|null|
+|**2022-03-11**|**Detection of multiple retinal diseases in ultra-widefield fundus images using deep learning: data-driven identification of relevant regions**|Justin Engelmann et.al.|[2203.06113v1](http://arxiv.org/abs/2203.06113v1)|null|
+|**2022-03-11**|**Multi-sensor large-scale dataset for multi-view 3D reconstruction**|Oleg Voynov et.al.|[2203.06111v1](http://arxiv.org/abs/2203.06111v1)|null|
+|**2022-03-11**|**ActiveMLP: An MLP-like Architecture with Active Token Mixer**|Guoqiang Wei et.al.|[2203.06108v1](http://arxiv.org/abs/2203.06108v1)|null|
+|**2022-03-11**|**REX: Reasoning-aware and Grounded Explanation**|Shi Chen et.al.|[2203.06107v1](http://arxiv.org/abs/2203.06107v1)|**[link](https://github.com/szzexpoi/rex)**|
+|**2022-03-11**|**WLASL-LEX: a Dataset for Recognising Phonological Properties in American Sign Language**|Federico Tavella et.al.|[2203.06096v1](http://arxiv.org/abs/2203.06096v1)|null|
+|**2022-03-11**|**LFW-Beautified: A Dataset of Face Images with Beautification and Augmented Reality Filters**|Pontus Hedman et.al.|[2203.06082v1](http://arxiv.org/abs/2203.06082v1)|**[link](https://github.com/halmstaduniversitybiometrics/lfw-beautified)**|
+|**2022-03-11**|**TAPE: Task-Agnostic Prior Embedding for Image Restoration**|Lin Liu et.al.|[2203.06074v1](http://arxiv.org/abs/2203.06074v1)|null|
+|**2022-03-11**|**ROOD-MRI: Benchmarking the robustness of deep learning segmentation models to out-of-distribution and corrupted data in MRI**|Lyndon Boone et.al.|[2203.06060v1](http://arxiv.org/abs/2203.06060v1)|**[link](https://github.com/aiconslab/roodmri)**|
+|**2022-03-11**|**Embedding Earth: Self-supervised contrastive pre-training for dense land cover classification**|Michail Tarasiou et.al.|[2203.06041v1](http://arxiv.org/abs/2203.06041v1)|**[link](https://github.com/michaeltrs/deepsatmodels)**|
+|**2022-03-11**|**The Role of ImageNet Classes in Fréchet Inception Distance**|Tuomas Kynkäänniemi et.al.|[2203.06026v1](http://arxiv.org/abs/2203.06026v1)|null|
+|**2022-03-11**|**Towards Self-Supervised Learning of Global and Object-Centric Representations**|Federico Baldassarre et.al.|[2203.05997v1](http://arxiv.org/abs/2203.05997v1)|**[link](https://github.com/baldassarrefe/iclr-osc-22)**|
+|**2022-03-11**|**Graph Neural Networks for Relational Inductive Bias in Vision-based Deep Reinforcement Learning of Robot Control**|Marco Oliva et.al.|[2203.05985v1](http://arxiv.org/abs/2203.05985v1)|null|
+|**2022-03-11**|**Deep Class Incremental Learning from Decentralized Data**|Xiaohan Zhang et.al.|[2203.05984v1](http://arxiv.org/abs/2203.05984v1)|null|
+|**2022-03-11**|**PseudoProp: Robust Pseudo-Label Generation for Semi-Supervised Object Detection in Autonomous Driving Systems**|Shu Hu et.al.|[2203.05983v1](http://arxiv.org/abs/2203.05983v1)|null|
+|**2022-03-11**|**Peng Cheng Object Detection Benchmark for Smart City**|Yaowei Wang et.al.|[2203.05949v1](http://arxiv.org/abs/2203.05949v1)|null|
+|**2022-03-11**|**Saliency-Driven Versatile Video Coding for Neural Object Detection**|Kristian Fischer et.al.|[2203.05944v1](http://arxiv.org/abs/2203.05944v1)|null|
+|**2022-03-11**|**PD-Flow: A Point Cloud Denoising Framework with Normalizing Flows**|Aihua Mao et.al.|[2203.05940v1](http://arxiv.org/abs/2203.05940v1)|null|
+|**2022-03-11**|**TFCNet: Temporal Fully Connected Networks for Static Unbiased Temporal Reasoning**|Shiwen Zhang et.al.|[2203.05928v1](http://arxiv.org/abs/2203.05928v1)|null|
+|**2022-03-11**|**Visualizing and Understanding Patch Interactions in Vision Transformer**|Jie Ma et.al.|[2203.05922v1](http://arxiv.org/abs/2203.05922v1)|null|
+|**2022-03-11**|**BabyNet: Reconstructing 3D faces of babies from uncalibrated photographs**|Araceli Morales et.al.|[2203.05908v1](http://arxiv.org/abs/2203.05908v1)|null|
+|**2022-03-11**|**Hyperbolic Image Segmentation**|Mina GhadimiAtigh et.al.|[2203.05898v1](http://arxiv.org/abs/2203.05898v1)|**[link](https://github.com/minaghadimiatigh/hyperbolicimagesegmentation)**|
+|**2022-03-11**|**DRTAM: Dual Rank-1 Tensor Attention Module**|Hanxing Chi et.al.|[2203.05893v1](http://arxiv.org/abs/2203.05893v1)|null|
+|**2022-03-11**|**Video Coding for Machines with Feature-Based Rate-Distortion Optimization**|Kristian Fischer et.al.|[2203.05890v1](http://arxiv.org/abs/2203.05890v1)|null|
+|**2022-03-11**|**Multi-modal Graph Learning for Disease Prediction**|Shuai Zheng et.al.|[2203.05880v1](http://arxiv.org/abs/2203.05880v1)|**[link](https://github.com/ssgood/mmgl)**|
+|**2022-03-11**|**Human Silhouette and Skeleton Video Synthesis through Wi-Fi signals**|Danilo Avola et.al.|[2203.05864v1](http://arxiv.org/abs/2203.05864v1)|null|
+|**2022-03-11**|**Automatic Fine-grained Glomerular Lesion Recognition in Kidney Pathology**|Yang Nan et.al.|[2203.05847v1](http://arxiv.org/abs/2203.05847v1)|null|
+|**2022-03-11**|**Flexible Amortized Variational Inference in qBOLD MRI**|Ivor J. A. Simpson et.al.|[2203.05845v1](http://arxiv.org/abs/2203.05845v1)|null|
+|**2022-03-11**|**WiCV 2021: The Eighth Women In Computer Vision Workshop**|Arushi Goel et.al.|[2203.05825v1](http://arxiv.org/abs/2203.05825v1)|null|
+|**2022-03-11**|**aiWave: Volumetric Image Compression with 3-D Trained Affine Wavelet-like Transform**|Dongmei Xue et.al.|[2203.05822v1](http://arxiv.org/abs/2203.05822v1)|null|
+|**2022-03-11**|**Font Shape-to-Impression Translation**|Masaya Ueda et.al.|[2203.05808v1](http://arxiv.org/abs/2203.05808v1)|null|
+|**2022-03-11**|**Improve Convolutional Neural Network Pruning by Maximizing Filter Variety**|Nathan Hubens et.al.|[2203.05807v1](http://arxiv.org/abs/2203.05807v1)|null|
+|**2022-03-11**|**Democratizing Contrastive Language-Image Pre-training: A CLIP Benchmark of Data, Model, and Supervision**|Yufeng Cui et.al.|[2203.05796v1](http://arxiv.org/abs/2203.05796v1)|**[link](https://github.com/sense-gvt/declip)**|
+|**2022-03-11**|**FLAG: Flow-based 3D Avatar Generation from Sparse Observations**|Sadegh Aliakbarian et.al.|[2203.05789v1](http://arxiv.org/abs/2203.05789v1)|null|
+|**2022-03-11**|**Democracy Does Matter: Comprehensive Feature Mining for Co-Salient Object Detection**|Siyue Yu et.al.|[2203.05787v1](http://arxiv.org/abs/2203.05787v1)|null|
+|**2022-03-11**|**AI-enabled Automatic Multimodal Fusion of Cone-Beam CT and Intraoral Scans for Intelligent 3D Tooth-Bone Reconstruction and Clinical Applications**|Jin Hao et.al.|[2203.05784v1](http://arxiv.org/abs/2203.05784v1)|null|
+|**2022-03-11**|**Physics-informed Reinforcement Learning for Perception and Reasoning about Fluids**|Beatriz Moya et.al.|[2203.05775v1](http://arxiv.org/abs/2203.05775v1)|**[link](https://github.com/beatrizmoya/rlfluidperception)**|
+|**2022-03-11**|**Federated Remote Physiological Measurement with Imperfect Data**|Xin Liu et.al.|[2203.05759v1](http://arxiv.org/abs/2203.05759v1)|null|
+|**2022-03-11**|**Active Phase-Encode Selection for Slice-Specific Fast MR Scanning Using a Transformer-Based Deep Reinforcement Learning Framework**|Yiming Liu et.al.|[2203.05756v1](http://arxiv.org/abs/2203.05756v1)|null|
+|**2022-03-11**|**QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization**|Xiuying Wei et.al.|[2203.05740v1](http://arxiv.org/abs/2203.05740v1)|**[link](https://github.com/wimh966/QDrop)**|
+|**2022-03-11**|**Learning Distinctive Margin toward Active Domain Adaptation**|Ming Xie et.al.|[2203.05738v1](http://arxiv.org/abs/2203.05738v1)|null|
+|**2022-03-11**|**A Survey of Surface Defect Detection of Industrial Products Based on A Small Number of Labeled Data**|Qifan Jin et.al.|[2203.05733v1](http://arxiv.org/abs/2203.05733v1)|null|
+|**2022-03-11**|**Dual-Domain Reconstruction Networks with V-Net and K-Net for fast MRI**|Xiaohan Liu et.al.|[2203.05725v1](http://arxiv.org/abs/2203.05725v1)|null|
+|**2022-03-11**|**Information-Theoretic Odometry Learning**|Sen Zhang et.al.|[2203.05724v1](http://arxiv.org/abs/2203.05724v1)|null|
+|**2022-03-11**|**Evaluating U-net Brain Extraction for Multi-site and Longitudinal Preclinical Stroke Imaging**|Erendiz Tarakci et.al.|[2203.05716v1](http://arxiv.org/abs/2203.05716v1)|null|
+|**2022-03-11**|**Image-based Stroke Assessment for Multi-site Preclinical Evaluation of Cerebroprotectants**|Ryan P. Cabeen et.al.|[2203.05714v1](http://arxiv.org/abs/2203.05714v1)|null|
+|**2022-03-11**|**Towards Scale Consistent Monocular Visual Odometry by Learning from the Virtual World**|Sen Zhang et.al.|[2203.05712v1](http://arxiv.org/abs/2203.05712v1)|null|
 |**2022-03-10**|**Conditional Prompt Learning for Vision-Language Models**|Kaiyang Zhou et.al.|[2203.05557v1](http://arxiv.org/abs/2203.05557v1)|**[link](https://github.com/kaiyangzhou/coop)**|
 |**2022-03-10**|**Transfer of Representations to Video Label Propagation: Implementation Factors Matter**|Daniel McKee et.al.|[2203.05553v1](http://arxiv.org/abs/2203.05553v1)|null|
 |**2022-03-10**|**An Empirical Investigation of 3D Anomaly Detection and Segmentation**|Eliahu Horwitz et.al.|[2203.05550v1](http://arxiv.org/abs/2203.05550v1)|null|

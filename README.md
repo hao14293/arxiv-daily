@@ -1,4 +1,4 @@
-## Updated on 2022.03.14
+## Updated on 2022.03.15
 
 ## cs.CV
 
@@ -49,7 +49,7 @@
 |**2022-03-11**|**QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization**|Xiuying Wei et.al.|[2203.05740v1](http://arxiv.org/abs/2203.05740v1)|**[link](https://github.com/wimh966/QDrop)**|
 |**2022-03-11**|**Learning Distinctive Margin toward Active Domain Adaptation**|Ming Xie et.al.|[2203.05738v1](http://arxiv.org/abs/2203.05738v1)|null|
 |**2022-03-11**|**A Survey of Surface Defect Detection of Industrial Products Based on A Small Number of Labeled Data**|Qifan Jin et.al.|[2203.05733v1](http://arxiv.org/abs/2203.05733v1)|null|
-|**2022-03-11**|**Dual-Domain Reconstruction Networks with V-Net and K-Net for fast MRI**|Xiaohan Liu et.al.|[2203.05725v1](http://arxiv.org/abs/2203.05725v1)|null|
+|**2022-03-14**|**Dual-Domain Reconstruction Networks with V-Net and K-Net for fast MRI**|Xiaohan Liu et.al.|[2203.05725v2](http://arxiv.org/abs/2203.05725v2)|null|
 |**2022-03-11**|**Information-Theoretic Odometry Learning**|Sen Zhang et.al.|[2203.05724v1](http://arxiv.org/abs/2203.05724v1)|null|
 |**2022-03-11**|**Evaluating U-net Brain Extraction for Multi-site and Longitudinal Preclinical Stroke Imaging**|Erendiz Tarakci et.al.|[2203.05716v1](http://arxiv.org/abs/2203.05716v1)|**[link](https://github.com/cabeen/neu-net)**|
 |**2022-03-11**|**Image-based Stroke Assessment for Multi-site Preclinical Evaluation of Cerebroprotectants**|Ryan P. Cabeen et.al.|[2203.05714v1](http://arxiv.org/abs/2203.05714v1)|null|

@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-14**|**Implicit Motion Handling for Video Camouflaged Object Detection**|Xuelian Cheng et.al.|[2203.07363v1](http://arxiv.org/abs/2203.07363v1)|null|
+|**2022-03-14**|**Federated Cycling (FedCy): Semi-supervised Federated Learning of Surgical Phases**|Hasan Kassem et.al.|[2203.07345v1](http://arxiv.org/abs/2203.07345v1)|null|
+|**2022-03-14**|**Defending From Physically-Realizable Adversarial Attacks Through Internal Over-Activation Analysis**|Giulio Rossolini et.al.|[2203.07341v1](http://arxiv.org/abs/2203.07341v1)|null|
+|**2022-03-14**|**GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors**|Jingwen He et.al.|[2203.07319v1](http://arxiv.org/abs/2203.07319v1)|null|
+|**2022-03-14**|**Accelerating Plug-and-Play Image Reconstruction via Multi-Stage Sketched Gradients**|Junqi Tang et.al.|[2203.07308v1](http://arxiv.org/abs/2203.07308v1)|null|
+|**2022-03-14**|**S5CL: Unifying Fully-Supervised, Self-Supervised, and Semi-Supervised Learning Through Hierarchical Contrastive Learning**|Manuel Tran et.al.|[2203.07307v1](http://arxiv.org/abs/2203.07307v1)|**[link](https://github.com/manuel-tran/s5cl)**|
+|**2022-03-14**|**All in One: Exploring Unified Video-Language Pre-training**|Alex Jinpeng Wang et.al.|[2203.07303v1](http://arxiv.org/abs/2203.07303v1)|**[link](https://github.com/showlab/all-in-one)**|
+|**2022-03-14**|**Mobile Behavioral Biometrics for Passive Authentication**|Giuseppe Stragapede et.al.|[2203.07300v1](http://arxiv.org/abs/2203.07300v1)|null|
+|**2022-03-14**|**InsetGAN for Full-Body Image Generation**|Anna Frühstück et.al.|[2203.07293v1](http://arxiv.org/abs/2203.07293v1)|null|
+|**2022-03-14**|**FisheyeHDK: Hyperbolic Deformable Kernel Learning for Ultra-Wide Field-of-View Image Recognition**|Ola Ahmad et.al.|[2203.07255v1](http://arxiv.org/abs/2203.07255v1)|null|
+|**2022-03-14**|**TransCAM: Transformer Attention-based CAM Refinement for Weakly Supervised Semantic Segmentation**|Ruiwen Li et.al.|[2203.07239v1](http://arxiv.org/abs/2203.07239v1)|null|
+|**2022-03-14**|**CLIP Models are Few-shot Learners: Empirical Studies on VQA and Visual Entailment**|Haoyu Song et.al.|[2203.07190v1](http://arxiv.org/abs/2203.07190v1)|null|
+|**2022-03-14**|**LiDAR-based 4D Panoptic Segmentation via Dynamic Shifting Network**|Fangzhou Hong et.al.|[2203.07186v1](http://arxiv.org/abs/2203.07186v1)|**[link](https://github.com/hongfz16/DS-Net)**|
+|**2022-03-14**|**NeILF: Neural Incident Light Field for Physically-based Material Estimation**|Yao Yao et.al.|[2203.07182v1](http://arxiv.org/abs/2203.07182v1)|null|
+|**2022-03-14**|**Dataset and Case Studies for Visual Near-Duplicates Detection in the Context of Social Media**|Hana Matatov et.al.|[2203.07167v1](http://arxiv.org/abs/2203.07167v1)|**[link](https://github.com/stechlab/visual-near-duplicates-detection-in-the-context-of-social-media)**|
+|**2022-03-14**|**RAUM-VO: Rotational Adjusted Unsupervised Monocular Visual Odometry**|Claudio Cimarelli et.al.|[2203.07162v1](http://arxiv.org/abs/2203.07162v1)|null|
+|**2022-03-14**|**CAR: Class-aware Regularizations for Semantic Segmentation**|Ye Huang et.al.|[2203.07160v1](http://arxiv.org/abs/2203.07160v1)|null|
+|**2022-03-14**|**Towards More Efficient EfficientDets and Low-Light Real-Time Marine Debris Detection**|Federico Zocco et.al.|[2203.07155v1](http://arxiv.org/abs/2203.07155v1)|null|
+|**2022-03-14**|**Adversarial amplitude swap towards robust image classifiers**|Tan Chun Yang et.al.|[2203.07138v1](http://arxiv.org/abs/2203.07138v1)|null|
+|**2022-03-14**|**EIT: Efficiently Lead Inductive Biases to ViT**|Rui Xia et.al.|[2203.07116v1](http://arxiv.org/abs/2203.07116v1)|null|
+|**2022-03-14**|**RCL: Recurrent Continuous Localization for Temporal Action Detection**|Qiang Wang et.al.|[2203.07112v1](http://arxiv.org/abs/2203.07112v1)|null|
+|**2022-03-14**|**Disentangled Representation Learning for Text-Video Retrieval**|Qiang Wang et.al.|[2203.07111v1](http://arxiv.org/abs/2203.07111v1)|null|
+|**2022-03-14**|**A Two-Block RNN-based Trajectory Prediction from Incomplete Trajectory**|Ryo Fujii et.al.|[2203.07098v1](http://arxiv.org/abs/2203.07098v1)|null|
+|**2022-03-14**|**MDMMT-2: Multidomain Multimodal Transformer for Video Retrieval, One More Step Towards Generalization**|Alexander Kunitsyn et.al.|[2203.07086v1](http://arxiv.org/abs/2203.07086v1)|null|
+|**2022-03-14**|**MotionSC: Data Set and Network for Real-Time Semantic Mapping in Dynamic Environments**|Joey Wilson et.al.|[2203.07060v1](http://arxiv.org/abs/2203.07060v1)|**[link](https://github.com/umich-curly/3dmapping)**|
+|**2022-03-14**|**Self-Promoted Supervision for Few-Shot Transformer**|Bowen Dong et.al.|[2203.07057v1](http://arxiv.org/abs/2203.07057v1)|**[link](https://github.com/dongsky/few-shot-vit)**|
+|**2022-03-14**|**Active Learning by Feature Mixing**|Amin Parvaneh et.al.|[2203.07034v1](http://arxiv.org/abs/2203.07034v1)|**[link](https://github.com/aminparvaneh/alpha_mix_active_learning)**|
+|**2022-03-14**|**Extracting associations and meanings of objects depicted in artworks through bi-modal deep networks**|Gregory Kell et.al.|[2203.07026v1](http://arxiv.org/abs/2203.07026v1)|null|
+|**2022-03-14**|**Rethinking Minimal Sufficient Representation in Contrastive Learning**|Haoqing Wang et.al.|[2203.07004v1](http://arxiv.org/abs/2203.07004v1)|**[link](https://github.com/haoqing-wang/infocl)**|
+|**2022-03-14**|**MTLDesc: Looking Wider to Describe Better**|Changwei Wang et.al.|[2203.07003v1](http://arxiv.org/abs/2203.07003v1)|**[link](https://github.com/vignywang/mtldesc)**|
+|**2022-03-14**|**Cross-View-Prediction: Exploring Contrastive Feature for Hyperspectral Image Classification**|Haotian Wu et.al.|[2203.07000v1](http://arxiv.org/abs/2203.07000v1)|null|
+|**2022-03-14**|**Supervised segmentation of NO2 plumes from individual ships using TROPOMI satellite data**|Solomiia Kurchaba et.al.|[2203.06993v1](http://arxiv.org/abs/2203.06993v1)|null|
+|**2022-03-14**|**Blind2Unblind: Self-Supervised Image Denoising with Visible Blind Spots**|Zejin Wang et.al.|[2203.06967v1](http://arxiv.org/abs/2203.06967v1)|**[link](https://github.com/demonsjin/blind2unblind)**|
+|**2022-03-14**|**UniVIP: A Unified Framework for Self-Supervised Visual Pre-training**|Zhaowen Li et.al.|[2203.06965v1](http://arxiv.org/abs/2203.06965v1)|null|
+|**2022-03-14**|**Forward Compatible Few-Shot Class-Incremental Learning**|Da-Wei Zhou et.al.|[2203.06953v1](http://arxiv.org/abs/2203.06953v1)|**[link](https://github.com/zhoudw-zdw/cvpr22-fact)**|
+|**2022-03-14**|**Deep Learning for Underwater Fish-Habitat Monitoring: A Survey**|Alzayat Saleh et.al.|[2203.06951v1](http://arxiv.org/abs/2203.06951v1)|null|
+|**2022-03-14**|**XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding**|Zhangxuan Gu et.al.|[2203.06947v1](http://arxiv.org/abs/2203.06947v1)|null|
+|**2022-03-14**|**DS3-Net: Difficulty-perceived Common-to-T1ce Semi-Supervised Multimodal MRI Synthesis Network**|Ziqi Huang et.al.|[2203.06920v1](http://arxiv.org/abs/2203.06920v1)|null|
+|**2022-03-14**|**SimMatch: Semi-supervised Learning with Similarity Matching**|Mingkai Zheng et.al.|[2203.06915v1](http://arxiv.org/abs/2203.06915v1)|**[link](https://github.com/kylezheng1997/simmatch)**|
+|**2022-03-14**|**Hierarchical Memory Learning for Fine-Grained Scene Graph Generation**|Youming Deng et.al.|[2203.06907v1](http://arxiv.org/abs/2203.06907v1)|null|
+|**2022-03-14**|**Texture Generation Using Dual-Domain Feature Flow with Multi-View Hallucinations**|Seunggyu Chang et.al.|[2203.06901v1](http://arxiv.org/abs/2203.06901v1)|null|
+|**2022-03-14**|**Efficient universal shuffle attack for visual object tracking**|Siao Liu et.al.|[2203.06898v1](http://arxiv.org/abs/2203.06898v1)|null|
+|**2022-03-14**|**Attention based Memory video portrait matting**|Shufeng Song et.al.|[2203.06890v1](http://arxiv.org/abs/2203.06890v1)|null|
+|**2022-03-14**|**DKMA-ULD: Domain Knowledge augmented Multi-head Attention based Robust Universal Lesion Detection**|Manu Sheoran et.al.|[2203.06886v1](http://arxiv.org/abs/2203.06886v1)|null|
+|**2022-03-14**|**Accelerating DETR Convergence via Semantic-Aligned Matching**|Gongjie Zhang et.al.|[2203.06883v1](http://arxiv.org/abs/2203.06883v1)|**[link](https://github.com/zhanggongjie/sam-detr)**|
+|**2022-03-14**|**TSR-DSAW: Table Structure Recognition via Deep Spatial Association of Words**|Arushi Jain et.al.|[2203.06873v1](http://arxiv.org/abs/2203.06873v1)|null|
+|**2022-03-14**|**ACID: Action-Conditional Implicit Visual Dynamics for Deformable Object Manipulation**|Bokui Shen et.al.|[2203.06856v1](http://arxiv.org/abs/2203.06856v1)|null|
+|**2022-03-14**|**RecursiveMix: Mixed Learning with History**|Lingfeng Yang et.al.|[2203.06844v1](http://arxiv.org/abs/2203.06844v1)|null|
+|**2022-03-14**|**STDAN: Deformable Attention Network for Space-Time Video Super-Resolution**|Hai Wang et.al.|[2203.06841v1](http://arxiv.org/abs/2203.06841v1)|null|
+|**2022-03-14**|**Bures Joint Distribution Alignment with Dynamic Margin for Unsupervised Domain Adaptation**|Yong-Hui Liu et.al.|[2203.06836v1](http://arxiv.org/abs/2203.06836v1)|null|
 |**2022-03-11**|**Masked Visual Pre-training for Motor Control**|Tete Xiao et.al.|[2203.06173v1](http://arxiv.org/abs/2203.06173v1)|null|
 |**2022-03-11**|**Deep AutoAugment**|Yu Zheng et.al.|[2203.06172v1](http://arxiv.org/abs/2203.06172v1)|**[link](https://github.com/msu-mlsys-lab/deepaa)**|
 |**2022-03-11**|**Neuromorphic Data Augmentation for Training Spiking Neural Networks**|Yuhang Li et.al.|[2203.06145v1](http://arxiv.org/abs/2203.06145v1)|null|

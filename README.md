@@ -14,13 +14,13 @@
 |**2022-03-14**|**Mobile Behavioral Biometrics for Passive Authentication**|Giuseppe Stragapede et.al.|[2203.07300v1](http://arxiv.org/abs/2203.07300v1)|null|
 |**2022-03-14**|**InsetGAN for Full-Body Image Generation**|Anna Frühstück et.al.|[2203.07293v1](http://arxiv.org/abs/2203.07293v1)|null|
 |**2022-03-14**|**FisheyeHDK: Hyperbolic Deformable Kernel Learning for Ultra-Wide Field-of-View Image Recognition**|Ola Ahmad et.al.|[2203.07255v1](http://arxiv.org/abs/2203.07255v1)|null|
-|**2022-03-14**|**TransCAM: Transformer Attention-based CAM Refinement for Weakly Supervised Semantic Segmentation**|Ruiwen Li et.al.|[2203.07239v1](http://arxiv.org/abs/2203.07239v1)|null|
+|**2022-03-14**|**TransCAM: Transformer Attention-based CAM Refinement for Weakly Supervised Semantic Segmentation**|Ruiwen Li et.al.|[2203.07239v1](http://arxiv.org/abs/2203.07239v1)|**[link](https://github.com/liruiwen/transcam)**|
 |**2022-03-14**|**CLIP Models are Few-shot Learners: Empirical Studies on VQA and Visual Entailment**|Haoyu Song et.al.|[2203.07190v1](http://arxiv.org/abs/2203.07190v1)|null|
 |**2022-03-14**|**LiDAR-based 4D Panoptic Segmentation via Dynamic Shifting Network**|Fangzhou Hong et.al.|[2203.07186v1](http://arxiv.org/abs/2203.07186v1)|**[link](https://github.com/hongfz16/DS-Net)**|
 |**2022-03-14**|**NeILF: Neural Incident Light Field for Physically-based Material Estimation**|Yao Yao et.al.|[2203.07182v1](http://arxiv.org/abs/2203.07182v1)|null|
 |**2022-03-14**|**Dataset and Case Studies for Visual Near-Duplicates Detection in the Context of Social Media**|Hana Matatov et.al.|[2203.07167v1](http://arxiv.org/abs/2203.07167v1)|**[link](https://github.com/stechlab/visual-near-duplicates-detection-in-the-context-of-social-media)**|
 |**2022-03-14**|**RAUM-VO: Rotational Adjusted Unsupervised Monocular Visual Odometry**|Claudio Cimarelli et.al.|[2203.07162v1](http://arxiv.org/abs/2203.07162v1)|null|
-|**2022-03-14**|**CAR: Class-aware Regularizations for Semantic Segmentation**|Ye Huang et.al.|[2203.07160v1](http://arxiv.org/abs/2203.07160v1)|null|
+|**2022-03-14**|**CAR: Class-aware Regularizations for Semantic Segmentation**|Ye Huang et.al.|[2203.07160v1](http://arxiv.org/abs/2203.07160v1)|**[link](https://github.com/edwardyehuang/CAR)**|
 |**2022-03-14**|**Towards More Efficient EfficientDets and Low-Light Real-Time Marine Debris Detection**|Federico Zocco et.al.|[2203.07155v1](http://arxiv.org/abs/2203.07155v1)|null|
 |**2022-03-14**|**Adversarial amplitude swap towards robust image classifiers**|Tan Chun Yang et.al.|[2203.07138v1](http://arxiv.org/abs/2203.07138v1)|null|
 |**2022-03-14**|**EIT: Efficiently Lead Inductive Biases to ViT**|Rui Xia et.al.|[2203.07116v1](http://arxiv.org/abs/2203.07116v1)|null|
@@ -31,7 +31,7 @@
 |**2022-03-14**|**MotionSC: Data Set and Network for Real-Time Semantic Mapping in Dynamic Environments**|Joey Wilson et.al.|[2203.07060v1](http://arxiv.org/abs/2203.07060v1)|**[link](https://github.com/umich-curly/3dmapping)**|
 |**2022-03-14**|**Self-Promoted Supervision for Few-Shot Transformer**|Bowen Dong et.al.|[2203.07057v1](http://arxiv.org/abs/2203.07057v1)|**[link](https://github.com/dongsky/few-shot-vit)**|
 |**2022-03-14**|**Active Learning by Feature Mixing**|Amin Parvaneh et.al.|[2203.07034v1](http://arxiv.org/abs/2203.07034v1)|**[link](https://github.com/aminparvaneh/alpha_mix_active_learning)**|
-|**2022-03-14**|**Extracting associations and meanings of objects depicted in artworks through bi-modal deep networks**|Gregory Kell et.al.|[2203.07026v1](http://arxiv.org/abs/2203.07026v1)|null|
+|**2022-03-14**|**Extracting associations and meanings of objects depicted in artworks through bi-modal deep networks**|Gregory Kell et.al.|[2203.07026v1](http://arxiv.org/abs/2203.07026v1)|**[link](https://github.com/gck25/fine_art_asssociations_meanings)**|
 |**2022-03-14**|**Rethinking Minimal Sufficient Representation in Contrastive Learning**|Haoqing Wang et.al.|[2203.07004v1](http://arxiv.org/abs/2203.07004v1)|**[link](https://github.com/haoqing-wang/infocl)**|
 |**2022-03-14**|**MTLDesc: Looking Wider to Describe Better**|Changwei Wang et.al.|[2203.07003v1](http://arxiv.org/abs/2203.07003v1)|**[link](https://github.com/vignywang/mtldesc)**|
 |**2022-03-14**|**Cross-View-Prediction: Exploring Contrastive Feature for Hyperspectral Image Classification**|Haotian Wu et.al.|[2203.07000v1](http://arxiv.org/abs/2203.07000v1)|null|

@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-15**|**Object Manipulation via Visual Target Localization**|Kiana Ehsani et.al.|[2203.08141v1](http://arxiv.org/abs/2203.08141v1)|null|
+|**2022-03-15**|**Learning Spatio-Temporal Downsampling for Effective Video Upscaling**|Xiaoyu Xiang et.al.|[2203.08140v1](http://arxiv.org/abs/2203.08140v1)|null|
+|**2022-03-15**|**CryoAI: Amortized Inference of Poses for Ab Initio Reconstruction of 3D Molecular Volumes from Real Cryo-EM Images**|Axel Levy et.al.|[2203.08138v1](http://arxiv.org/abs/2203.08138v1)|null|
+|**2022-03-15**|**Animatable Neural Implicit Surfaces for Creating Avatars from Videos**|Sida Peng et.al.|[2203.08133v1](http://arxiv.org/abs/2203.08133v1)|null|
+|**2022-03-15**|**One Network Doesn't Rule Them All: Moving Beyond Handcrafted Architectures in Self-Supervised Learning**|Sharath Girish et.al.|[2203.08130v1](http://arxiv.org/abs/2203.08130v1)|null|
+|**2022-03-15**|**Can Neural Nets Learn the Same Model Twice? Investigating Reproducibility and Double Descent from the Decision Boundary Perspective**|Gowthami Somepalli et.al.|[2203.08124v1](http://arxiv.org/abs/2203.08124v1)|**[link](https://github.com/somepago/dbviz)**|
+|**2022-03-15**|**From 2D to 3D: Re-thinking Benchmarking of Monocular Depth Prediction**|Evin Pınar Örnek et.al.|[2203.08122v1](http://arxiv.org/abs/2203.08122v1)|null|
+|**2022-03-15**|**ARTEMIS: Attention-based Retrieval with Text-Explicit Matching and Implicit Similarity**|Ginger Delmas et.al.|[2203.08101v1](http://arxiv.org/abs/2203.08101v1)|null|
+|**2022-03-15**|**Implicit Feature Decoupling with Depthwise Quantization**|Iordanis Fostiropoulos et.al.|[2203.08080v1](http://arxiv.org/abs/2203.08080v1)|**[link](https://github.com/fostiropoulos/depthwise-quantization)**|
+|**2022-03-15**|**Things not Written in Text: Exploring Spatial Commonsense from Visual Signals**|Xiao Liu et.al.|[2203.08075v1](http://arxiv.org/abs/2203.08075v1)|**[link](https://github.com/xxxiaol/spatial-commonsense)**|
+|**2022-03-15**|**MotionCLIP: Exposing Human Motion Generation to CLIP Space**|Guy Tevet et.al.|[2203.08063v1](http://arxiv.org/abs/2203.08063v1)|**[link](https://github.com/guytevet/motionclip)**|
+|**2022-03-15**|**Seeking Commonness and Inconsistencies: A Jointly Smoothed Approach to Multi-view Subspace Clustering**|Xiaosha Cai et.al.|[2203.08060v1](http://arxiv.org/abs/2203.08060v1)|null|
+|**2022-03-15**|**On Hyperbolic Embeddings in 2D Object Detection**|Christopher Lang et.al.|[2203.08049v1](http://arxiv.org/abs/2203.08049v1)|null|
+|**2022-03-15**|**A multi-organ point cloud registration algorithm for abdominal CT registration**|Samuel Joutard et.al.|[2203.08041v1](http://arxiv.org/abs/2203.08041v1)|null|
+|**2022-03-15**|**Simultaneous Localisation and Mapping with Quadric Surfaces**|Tristan Laidlow et.al.|[2203.08040v1](http://arxiv.org/abs/2203.08040v1)|null|
+|**2022-03-15**|**Deep learning for radar data exploitation of autonomous vehicle**|Arthur Ouaknine et.al.|[2203.08038v1](http://arxiv.org/abs/2203.08038v1)|null|
+|**2022-03-15**|**A Noise-level-aware Framework for PET Image Denoising**|Ye Li et.al.|[2203.08034v1](http://arxiv.org/abs/2203.08034v1)|null|
+|**2022-03-15**|**End-to-End Modeling via Information Tree for One-Shot Natural Language Spatial Video Grounding**|Mengze Li et.al.|[2203.08013v1](http://arxiv.org/abs/2203.08013v1)|null|
+|**2022-03-15**|**Inverted Pyramid Multi-task Transformer for Dense Scene Understanding**|Hanrong Ye et.al.|[2203.07997v1](http://arxiv.org/abs/2203.07997v1)|null|
+|**2022-03-15**|**Smoothing Matters: Momentum Transformer for Domain Adaptive Semantic Segmentation**|Runfa Chen et.al.|[2203.07988v1](http://arxiv.org/abs/2203.07988v1)|null|
+|**2022-03-15**|**Object Detection as Probabilistic Set Prediction**|Georg Hess et.al.|[2203.07980v1](http://arxiv.org/abs/2203.07980v1)|null|
+|**2022-03-15**|**OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction**|Wenbin Lin et.al.|[2203.07977v1](http://arxiv.org/abs/2203.07977v1)|null|
+|**2022-03-15**|**On the Pitfalls of Batch Normalization for End-to-End Video Learning: A Study on Surgical Workflow Analysis**|Dominik Rivoir et.al.|[2203.07976v1](http://arxiv.org/abs/2203.07976v1)|null|
+|**2022-03-15**|**MOBDrone: a Drone Video Dataset for Man OverBoard Rescue**|Donato Cafarelli et.al.|[2203.07973v1](http://arxiv.org/abs/2203.07973v1)|null|
+|**2022-03-15**|**Intrinsic Neural Fields: Learning Functions on Manifolds**|Lukas Koestler et.al.|[2203.07967v1](http://arxiv.org/abs/2203.07967v1)|null|
+|**2022-03-15**|**Style Transformer for Image Inversion and Editing**|Xueqi Hu et.al.|[2203.07932v1](http://arxiv.org/abs/2203.07932v1)|**[link](https://github.com/sapphire497/style-transformer)**|
+|**2022-03-15**|**DialogueNeRF: Towards Realistic Avatar Face-to-face Conversation Video Generation**|Zanwei Zhou et.al.|[2203.07931v1](http://arxiv.org/abs/2203.07931v1)|null|
+|**2022-03-15**|**Relative Pose from SIFT Features**|Daniel Barath et.al.|[2203.07930v1](http://arxiv.org/abs/2203.07930v1)|null|
+|**2022-03-15**|**GPV-Pose: Category-level Object Pose Estimation via Geometry-guided Point-wise Voting**|Yan Di et.al.|[2203.07918v1](http://arxiv.org/abs/2203.07918v1)|**[link](https://github.com/lolrudy/gpv_pose)**|
+|**2022-03-15**|**Panoptic SwiftNet: Pyramidal Fusion for Real-time Panoptic Segmentation**|Josip Šarić et.al.|[2203.07908v1](http://arxiv.org/abs/2203.07908v1)|null|
+|**2022-03-15**|**K-VQG: Knowledge-aware Visual Question Generation for Common-sense Acquisition**|Kohei Uehara et.al.|[2203.07890v1](http://arxiv.org/abs/2203.07890v1)|null|
+|**2022-03-15**|**LiP-Flow: Learning Inference-time Priors for Codec Avatars via Normalizing Flows in Latent Space**|Emre Aksan et.al.|[2203.07881v1](http://arxiv.org/abs/2203.07881v1)|null|
+|**2022-03-15**|**Bamboo: Building Mega-Scale Vision Dataset Continually with Human-Machine Synergy**|Yuanhan Zhang et.al.|[2203.07845v1](http://arxiv.org/abs/2203.07845v1)|**[link](https://github.com/davidzhangyuanhan/bamboo)**|
+|**2022-03-15**|**Pose-MUM : Reinforcing Key Points Relationship for Semi-Supervised Human Pose Estimation**|JongMok Kim et.al.|[2203.07837v1](http://arxiv.org/abs/2203.07837v1)|null|
+|**2022-03-15**|**SPA-VAE: Similar-Parts-Assignment for Unsupervised 3D Point Cloud Generation**|Shidi Li et.al.|[2203.07825v1](http://arxiv.org/abs/2203.07825v1)|null|
+|**2022-03-15**|**SISL:Self-Supervised Image Signature Learning for Splicing Detection and Localization**|Susmit Agrawal et.al.|[2203.07824v1](http://arxiv.org/abs/2203.07824v1)|null|
+|**2022-03-15**|**Adversarial Counterfactual Augmentation: Application in Alzheimer's Disease Classification**|Tian Xia et.al.|[2203.07815v1](http://arxiv.org/abs/2203.07815v1)|null|
+|**2022-03-15**|**Image Quality Assessment for Magnetic Resonance Imaging**|Segrey Kastryulin et.al.|[2203.07809v1](http://arxiv.org/abs/2203.07809v1)|null|
+|**2022-03-15**|**Interspace Pruning: Using Adaptive Filter Representations to Improve Training of Sparse CNNs**|Paul Wimmer et.al.|[2203.07808v1](http://arxiv.org/abs/2203.07808v1)|null|
+|**2022-03-15**|**On the focusing of thermal images**|Marcos Faundez-Zanuy et.al.|[2203.07805v1](http://arxiv.org/abs/2203.07805v1)|null|
+|**2022-03-15**|**Parking Analytics Framework using Deep Learning**|Bilel Benjdira et.al.|[2203.07792v1](http://arxiv.org/abs/2203.07792v1)|null|
+|**2022-03-15**|**Scalable Penalized Regression for Noise Detection in Learning with Noisy Labels**|Yikai Wang et.al.|[2203.07788v1](http://arxiv.org/abs/2203.07788v1)|null|
+|**2022-03-15**|**Fast Autofocusing using Tiny Networks for Digital Holographic Microscopy**|Stéphane Cuenat et.al.|[2203.07772v1](http://arxiv.org/abs/2203.07772v1)|null|
+|**2022-03-15**|**Multi-Curve Translator for Real-Time High-Resolution Image-to-Image Translation**|Yuda Song et.al.|[2203.07756v1](http://arxiv.org/abs/2203.07756v1)|null|
+|**2022-03-15**|**Exact Feature Distribution Matching for Arbitrary Style Transfer and Domain Generalization**|Yabin Zhang et.al.|[2203.07740v1](http://arxiv.org/abs/2203.07740v1)|**[link](https://github.com/ybzh/efdm)**|
+|**2022-03-15**|**CSN: Component-Supervised Network for Few-Shot Classification**|Shuai Shao et.al.|[2203.07738v1](http://arxiv.org/abs/2203.07738v1)|null|
+|**2022-03-15**|**An Annotation-free Restoration Network for Cataractous Fundus Images**|Heng Li et.al.|[2203.07737v1](http://arxiv.org/abs/2203.07737v1)|null|
+|**2022-03-15**|**S2F2: Self-Supervised High Fidelity Face Reconstruction from Monocular Image**|Abdallah Dib et.al.|[2203.07732v1](http://arxiv.org/abs/2203.07732v1)|null|
+|**2022-03-15**|**Securing the Classification of COVID-19 in Chest X-ray Images: A Privacy-Preserving Deep Learning Approach**|Wadii Boulila et.al.|[2203.07728v1](http://arxiv.org/abs/2203.07728v1)|null|
+|**2022-03-15**|**Meta Ordinal Regression Forest for Medical Image Classification with Ordinal Labels**|Yiming Lei et.al.|[2203.07725v1](http://arxiv.org/abs/2203.07725v1)|null|
 |**2022-03-15**|**Implicit Motion Handling for Video Camouflaged Object Detection**|Xuelian Cheng et.al.|[2203.07363v2](http://arxiv.org/abs/2203.07363v2)|null|
 |**2022-03-14**|**Federated Cycling (FedCy): Semi-supervised Federated Learning of Surgical Phases**|Hasan Kassem et.al.|[2203.07345v1](http://arxiv.org/abs/2203.07345v1)|null|
 |**2022-03-14**|**Defending From Physically-Realizable Adversarial Attacks Through Internal Over-Activation Analysis**|Giulio Rossolini et.al.|[2203.07341v1](http://arxiv.org/abs/2203.07341v1)|null|

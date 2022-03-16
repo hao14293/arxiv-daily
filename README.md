@@ -1,10 +1,10 @@
-## Updated on 2022.03.15
+## Updated on 2022.03.16
 
 ## cs.CV
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-03-14**|**Implicit Motion Handling for Video Camouflaged Object Detection**|Xuelian Cheng et.al.|[2203.07363v1](http://arxiv.org/abs/2203.07363v1)|null|
+|**2022-03-15**|**Implicit Motion Handling for Video Camouflaged Object Detection**|Xuelian Cheng et.al.|[2203.07363v2](http://arxiv.org/abs/2203.07363v2)|null|
 |**2022-03-14**|**Federated Cycling (FedCy): Semi-supervised Federated Learning of Surgical Phases**|Hasan Kassem et.al.|[2203.07345v1](http://arxiv.org/abs/2203.07345v1)|null|
 |**2022-03-14**|**Defending From Physically-Realizable Adversarial Attacks Through Internal Over-Activation Analysis**|Giulio Rossolini et.al.|[2203.07341v1](http://arxiv.org/abs/2203.07341v1)|null|
 |**2022-03-14**|**GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors**|Jingwen He et.al.|[2203.07319v1](http://arxiv.org/abs/2203.07319v1)|null|
@@ -22,7 +22,7 @@
 |**2022-03-14**|**RAUM-VO: Rotational Adjusted Unsupervised Monocular Visual Odometry**|Claudio Cimarelli et.al.|[2203.07162v1](http://arxiv.org/abs/2203.07162v1)|null|
 |**2022-03-14**|**CAR: Class-aware Regularizations for Semantic Segmentation**|Ye Huang et.al.|[2203.07160v1](http://arxiv.org/abs/2203.07160v1)|**[link](https://github.com/edwardyehuang/CAR)**|
 |**2022-03-14**|**Towards More Efficient EfficientDets and Low-Light Real-Time Marine Debris Detection**|Federico Zocco et.al.|[2203.07155v1](http://arxiv.org/abs/2203.07155v1)|null|
-|**2022-03-14**|**Adversarial amplitude swap towards robust image classifiers**|Tan Chun Yang et.al.|[2203.07138v1](http://arxiv.org/abs/2203.07138v1)|null|
+|**2022-03-15**|**Adversarial amplitude swap towards robust image classifiers**|Tan Chun Yang et.al.|[2203.07138v2](http://arxiv.org/abs/2203.07138v2)|null|
 |**2022-03-14**|**EIT: Efficiently Lead Inductive Biases to ViT**|Rui Xia et.al.|[2203.07116v1](http://arxiv.org/abs/2203.07116v1)|null|
 |**2022-03-14**|**RCL: Recurrent Continuous Localization for Temporal Action Detection**|Qiang Wang et.al.|[2203.07112v1](http://arxiv.org/abs/2203.07112v1)|null|
 |**2022-03-14**|**Disentangled Representation Learning for Text-Video Retrieval**|Qiang Wang et.al.|[2203.07111v1](http://arxiv.org/abs/2203.07111v1)|null|
@@ -36,11 +36,11 @@
 |**2022-03-14**|**MTLDesc: Looking Wider to Describe Better**|Changwei Wang et.al.|[2203.07003v1](http://arxiv.org/abs/2203.07003v1)|**[link](https://github.com/vignywang/mtldesc)**|
 |**2022-03-14**|**Cross-View-Prediction: Exploring Contrastive Feature for Hyperspectral Image Classification**|Haotian Wu et.al.|[2203.07000v1](http://arxiv.org/abs/2203.07000v1)|null|
 |**2022-03-14**|**Supervised segmentation of NO2 plumes from individual ships using TROPOMI satellite data**|Solomiia Kurchaba et.al.|[2203.06993v1](http://arxiv.org/abs/2203.06993v1)|null|
-|**2022-03-14**|**Blind2Unblind: Self-Supervised Image Denoising with Visible Blind Spots**|Zejin Wang et.al.|[2203.06967v1](http://arxiv.org/abs/2203.06967v1)|**[link](https://github.com/demonsjin/blind2unblind)**|
+|**2022-03-15**|**Blind2Unblind: Self-Supervised Image Denoising with Visible Blind Spots**|Zejin Wang et.al.|[2203.06967v2](http://arxiv.org/abs/2203.06967v2)|**[link](https://github.com/demonsjin/blind2unblind)**|
 |**2022-03-14**|**UniVIP: A Unified Framework for Self-Supervised Visual Pre-training**|Zhaowen Li et.al.|[2203.06965v1](http://arxiv.org/abs/2203.06965v1)|null|
 |**2022-03-14**|**Forward Compatible Few-Shot Class-Incremental Learning**|Da-Wei Zhou et.al.|[2203.06953v1](http://arxiv.org/abs/2203.06953v1)|**[link](https://github.com/zhoudw-zdw/cvpr22-fact)**|
-|**2022-03-14**|**Deep Learning for Underwater Fish-Habitat Monitoring: A Survey**|Alzayat Saleh et.al.|[2203.06951v1](http://arxiv.org/abs/2203.06951v1)|null|
-|**2022-03-14**|**XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding**|Zhangxuan Gu et.al.|[2203.06947v1](http://arxiv.org/abs/2203.06947v1)|null|
+|**2022-03-15**|**Computer Vision and Deep Learning for Fish Classification in Underwater Habitats: A Survey**|Alzayat Saleh et.al.|[2203.06951v2](http://arxiv.org/abs/2203.06951v2)|null|
+|**2022-03-15**|**XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding**|Zhangxuan Gu et.al.|[2203.06947v2](http://arxiv.org/abs/2203.06947v2)|null|
 |**2022-03-14**|**DS3-Net: Difficulty-perceived Common-to-T1ce Semi-Supervised Multimodal MRI Synthesis Network**|Ziqi Huang et.al.|[2203.06920v1](http://arxiv.org/abs/2203.06920v1)|null|
 |**2022-03-14**|**SimMatch: Semi-supervised Learning with Similarity Matching**|Mingkai Zheng et.al.|[2203.06915v1](http://arxiv.org/abs/2203.06915v1)|**[link](https://github.com/kylezheng1997/simmatch)**|
 |**2022-03-14**|**Hierarchical Memory Learning for Fine-Grained Scene Graph Generation**|Youming Deng et.al.|[2203.06907v1](http://arxiv.org/abs/2203.06907v1)|null|

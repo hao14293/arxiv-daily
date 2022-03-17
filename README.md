@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-16**|**A Continual Learning Framework for Adaptive Defect Classification and Inspection**|Wenbo Sun et.al.|[2203.08796v1](http://arxiv.org/abs/2203.08796v1)|null|
+|**2022-03-16**|**Zero Pixel Directional Boundary by Vector Transform**|Edoardo Mello Rella et.al.|[2203.08795v1](http://arxiv.org/abs/2203.08795v1)|null|
+|**2022-03-16**|**PosePipe: Open-Source Human Pose Estimation Pipeline for Clinical Research**|R. James Cotton et.al.|[2203.08792v1](http://arxiv.org/abs/2203.08792v1)|**[link](https://github.com/peabody124/posepipeline)**|
+|**2022-03-16**|**Object discovery and representation networks**|Olivier J. Hénaff et.al.|[2203.08777v1](http://arxiv.org/abs/2203.08777v1)|null|
+|**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765v1](http://arxiv.org/abs/2203.08765v1)|null|
+|**2022-03-16**|**X-Learner: Learning Cross Sources and Tasks for Universal Visual Representation**|Yinan He et.al.|[2203.08764v1](http://arxiv.org/abs/2203.08764v1)|null|
+|**2022-03-16**|**UnseenNet: Fast Training Detector for Any Unseen Concept**|Asra Aslam et.al.|[2203.08759v1](http://arxiv.org/abs/2203.08759v1)|null|
+|**2022-03-16**|**What Do Adversarially trained Neural Networks Focus: A Fourier Domain-based Study**|Binxiao Huang et.al.|[2203.08739v1](http://arxiv.org/abs/2203.08739v1)|null|
+|**2022-03-16**|**Learning Where To Look -- Generative NAS is Surprisingly Efficient**|Jovita Lukasik et.al.|[2203.08734v1](http://arxiv.org/abs/2203.08734v1)|null|
+|**2022-03-16**|**Tangles and Hierarchical Clustering**|Eva Fluck et.al.|[2203.08731v1](http://arxiv.org/abs/2203.08731v1)|null|
+|**2022-03-16**|**Attacking deep networks with surrogate-based adversarial black-box methods is easy**|Nicholas A. Lord et.al.|[2203.08725v1](http://arxiv.org/abs/2203.08725v1)|**[link](https://github.com/fiveai/gfcs)**|
+|**2022-03-16**|**Relational Self-Supervised Learning**|Mingkai Zheng et.al.|[2203.08717v1](http://arxiv.org/abs/2203.08717v1)|null|
+|**2022-03-16**|**DeciWatch: A Simple Baseline for 10x Efficient 2D and 3D Pose Estimation**|Ailing Zeng et.al.|[2203.08713v1](http://arxiv.org/abs/2203.08713v1)|null|
+|**2022-03-16**|**Learning video retrieval models with relevance-aware online mining**|Alex Falcon et.al.|[2203.08688v1](http://arxiv.org/abs/2203.08688v1)|null|
+|**2022-03-16**|**Decoupled Knowledge Distillation**|Borui Zhao et.al.|[2203.08679v1](http://arxiv.org/abs/2203.08679v1)|null|
+|**2022-03-16**|**Know your sensORs $\unicode{x2013}$ A Modality Study For Surgical Action Classification**|Lennart Bastian et.al.|[2203.08674v1](http://arxiv.org/abs/2203.08674v1)|null|
+|**2022-03-16**|**Graph Flow: Cross-layer Graph Flow Distillation for Dual-Efficient Medical Image Segmentation**|Wenxuan Zou et.al.|[2203.08667v1](http://arxiv.org/abs/2203.08667v1)|null|
+|**2022-03-16**|**Occlusion Fields: An Implicit Representation for Non-Line-of-Sight Surface Reconstruction**|Javier Grau et.al.|[2203.08657v1](http://arxiv.org/abs/2203.08657v1)|null|
+|**2022-03-16**|**Topology-Preserving Shape Reconstruction and Registration via Neural Diffeomorphic Flow**|Shanlin Sun et.al.|[2203.08652v1](http://arxiv.org/abs/2203.08652v1)|null|
+|**2022-03-16**|**Complexity Reduction of Learned In-Loop Filtering in Video Coding**|Woody Bayliss et.al.|[2203.08650v1](http://arxiv.org/abs/2203.08650v1)|null|
+|**2022-03-16**|**Coverage Optimization of Camera Network for Continuous Deformable Object**|Chang Li et.al.|[2203.08632v1](http://arxiv.org/abs/2203.08632v1)|null|
+|**2022-03-16**|**Conditional Measurement Density Estimation in Sequential Monte Carlo via Normalizing Flow**|Xiongjie Chen et.al.|[2203.08617v1](http://arxiv.org/abs/2203.08617v1)|null|
+|**2022-03-16**|**CtlGAN: Few-shot Artistic Portraits Generation with Contrastive Transfer Learning**|Yue Wang et.al.|[2203.08612v1](http://arxiv.org/abs/2203.08612v1)|null|
+|**2022-03-16**|**Deep vanishing point detection: Geometric priors make dataset variations vanish**|Yancong Lin et.al.|[2203.08586v1](http://arxiv.org/abs/2203.08586v1)|**[link](https://github.com/yanconglin/vanishingpoint_houghtransform_gaussiansphere)**|
+|**2022-03-16**|**A Survey on Infrared Image and Video Sets**|Kevser Irem Danaci et.al.|[2203.08581v1](http://arxiv.org/abs/2203.08581v1)|null|
+|**2022-03-16**|**PMAL: Open Set Recognition via Robust Prototype Mining**|Jing Lu et.al.|[2203.08569v1](http://arxiv.org/abs/2203.08569v1)|null|
+|**2022-03-16**|**EDTER: Edge Detection with Transformer**|Mengyang Pu et.al.|[2203.08566v1](http://arxiv.org/abs/2203.08566v1)|**[link](https://github.com/mengyangpu/edter)**|
+|**2022-03-16**|**MonoJSG: Joint Semantic and Geometric Cost Volume for Monocular 3D Object Detection**|Qing Lian et.al.|[2203.08563v1](http://arxiv.org/abs/2203.08563v1)|null|
+|**2022-03-16**|**Is it all a cluster game? -- Exploring Out-of-Distribution Detection based on Clustering in the Embedding Space**|Poulami Sinhamahapatra et.al.|[2203.08549v1](http://arxiv.org/abs/2203.08549v1)|null|
+|**2022-03-16**|**Non-isotropy Regularization for Proxy-based Deep Metric Learning**|Karsten Roth et.al.|[2203.08547v1](http://arxiv.org/abs/2203.08547v1)|**[link](https://github.com/explainableml/nonisotropicproxydml)**|
+|**2022-03-16**|**Integrating Language Guidance into Vision-based Deep Metric Learning**|Karsten Roth et.al.|[2203.08543v1](http://arxiv.org/abs/2203.08543v1)|**[link](https://github.com/explainableml/languageguidance_for_dml)**|
+|**2022-03-16**|**Scribble-Supervised LiDAR Semantic Segmentation**|Ozan Unal et.al.|[2203.08537v1](http://arxiv.org/abs/2203.08537v1)|**[link](https://github.com/ouenal/scribblekitti)**|
+|**2022-03-16**|**Capturing Humans in Motion: Temporal-Attentive 3D Human Pose and Shape Estimation from Monocular Video**|Wen-Li Wei et.al.|[2203.08534v1](http://arxiv.org/abs/2203.08534v1)|null|
+|**2022-03-16**|**Towards Practical Certifiable Patch Defense with Vision Transformer**|Zhaoyu Chen et.al.|[2203.08519v1](http://arxiv.org/abs/2203.08519v1)|null|
+|**2022-03-16**|**Fantastic Style Channels and Where to Find Them: A Submodular Framework for Discovering Diverse Directions in GANs**|Enis Simsar et.al.|[2203.08516v1](http://arxiv.org/abs/2203.08516v1)|null|
+|**2022-03-16**|**Multi-focus thermal image fusion**|Radek Benes et.al.|[2203.08513v1](http://arxiv.org/abs/2203.08513v1)|null|
+|**2022-03-16**|**A Survey of Historical Document Image Datasets**|Konstantina Nikolaidou et.al.|[2203.08504v1](http://arxiv.org/abs/2203.08504v1)|null|
+|**2022-03-16**|**PointAttN: You Only Need Attention for Point Cloud Completion**|Jun Wang et.al.|[2203.08485v1](http://arxiv.org/abs/2203.08485v1)|**[link](https://github.com/ohhhyeahhh/pointattn)**|
+|**2022-03-16**|**QS-Attn: Query-Selected Attention for Contrastive Learning in I2I Translation**|Xueqi Hu et.al.|[2203.08483v1](http://arxiv.org/abs/2203.08483v1)|**[link](https://github.com/sapphire497/query-selected-attention)**|
+|**2022-03-16**|**Pseudo-Q: Generating Pseudo Language Queries for Visual Grounding**|Haojun Jiang et.al.|[2203.08481v1](http://arxiv.org/abs/2203.08481v1)|**[link](https://github.com/leaplabthu/pseudo-q)**|
+|**2022-03-16**|**Data Efficient 3D Learner via Knowledge Transferred from 2D Model**|Ping-Chung Yu et.al.|[2203.08479v1](http://arxiv.org/abs/2203.08479v1)|null|
+|**2022-03-16**|**Fusing Local Similarities for Retrieval-based 3D Orientation Estimation of Unseen Objects**|Chen Zhao et.al.|[2203.08472v1](http://arxiv.org/abs/2203.08472v1)|null|
+|**2022-03-16**|**PPCD-GAN: Progressive Pruning and Class-Aware Distillation for Large-Scale Conditional GANs Compression**|Duc Minh Vo et.al.|[2203.08456v1](http://arxiv.org/abs/2203.08456v1)|null|
+|**2022-03-16**|**The Devil Is in the Details: Window-based Attention for Image Compression**|Renjie Zou et.al.|[2203.08450v1](http://arxiv.org/abs/2203.08450v1)|**[link](https://github.com/googolxx/stf)**|
+|**2022-03-16**|**Panini-Net: GAN Prior Based Degradation-Aware Feature Interpolation for Face Restoration**|Yinhuai Wang et.al.|[2203.08444v1](http://arxiv.org/abs/2203.08444v1)|null|
+|**2022-03-16**|**Open Set Recognition using Vision Transformer with an Additional Detection Head**|Feiyang Cai et.al.|[2203.08441v1](http://arxiv.org/abs/2203.08441v1)|null|
+|**2022-03-16**|**DiFT: Differentiable Differential Feature Transform for Multi-View Stereo**|Kaizhang Kang et.al.|[2203.08435v1](http://arxiv.org/abs/2203.08435v1)|null|
+|**2022-03-16**|**Attribute Group Editing for Reliable Few-shot Image Generation**|Guanqi Ding et.al.|[2203.08422v1](http://arxiv.org/abs/2203.08422v1)|**[link](https://github.com/unibester/age)**|
+|**2022-03-16**|**WegFormer: Transformers for Weakly Supervised Semantic Segmentation**|Chunmeng Liu et.al.|[2203.08421v1](http://arxiv.org/abs/2203.08421v1)|null|
+|**2022-03-16**|**Unsupervised Semantic Segmentation by Distilling Feature Correspondences**|Mark Hamilton et.al.|[2203.08414v1](http://arxiv.org/abs/2203.08414v1)|null|
 |**2022-03-15**|**Object Manipulation via Visual Target Localization**|Kiana Ehsani et.al.|[2203.08141v1](http://arxiv.org/abs/2203.08141v1)|null|
 |**2022-03-15**|**Learning Spatio-Temporal Downsampling for Effective Video Upscaling**|Xiaoyu Xiang et.al.|[2203.08140v1](http://arxiv.org/abs/2203.08140v1)|null|
 |**2022-03-16**|**CryoAI: Amortized Inference of Poses for Ab Initio Reconstruction of 3D Molecular Volumes from Real Cryo-EM Images**|Axel Levy et.al.|[2203.08138v2](http://arxiv.org/abs/2203.08138v2)|null|

@@ -1,4 +1,4 @@
-## Updated on 2022.03.16
+## Updated on 2022.03.17
 
 ## cs.CV
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2022-03-15**|**Object Manipulation via Visual Target Localization**|Kiana Ehsani et.al.|[2203.08141v1](http://arxiv.org/abs/2203.08141v1)|null|
 |**2022-03-15**|**Learning Spatio-Temporal Downsampling for Effective Video Upscaling**|Xiaoyu Xiang et.al.|[2203.08140v1](http://arxiv.org/abs/2203.08140v1)|null|
-|**2022-03-15**|**CryoAI: Amortized Inference of Poses for Ab Initio Reconstruction of 3D Molecular Volumes from Real Cryo-EM Images**|Axel Levy et.al.|[2203.08138v1](http://arxiv.org/abs/2203.08138v1)|null|
+|**2022-03-16**|**CryoAI: Amortized Inference of Poses for Ab Initio Reconstruction of 3D Molecular Volumes from Real Cryo-EM Images**|Axel Levy et.al.|[2203.08138v2](http://arxiv.org/abs/2203.08138v2)|null|
 |**2022-03-15**|**Animatable Neural Implicit Surfaces for Creating Avatars from Videos**|Sida Peng et.al.|[2203.08133v1](http://arxiv.org/abs/2203.08133v1)|null|
 |**2022-03-15**|**One Network Doesn't Rule Them All: Moving Beyond Handcrafted Architectures in Self-Supervised Learning**|Sharath Girish et.al.|[2203.08130v1](http://arxiv.org/abs/2203.08130v1)|null|
 |**2022-03-15**|**Can Neural Nets Learn the Same Model Twice? Investigating Reproducibility and Double Descent from the Decision Boundary Perspective**|Gowthami Somepalli et.al.|[2203.08124v1](http://arxiv.org/abs/2203.08124v1)|**[link](https://github.com/somepago/dbviz)**|
@@ -16,7 +16,7 @@
 |**2022-03-15**|**Things not Written in Text: Exploring Spatial Commonsense from Visual Signals**|Xiao Liu et.al.|[2203.08075v1](http://arxiv.org/abs/2203.08075v1)|**[link](https://github.com/xxxiaol/spatial-commonsense)**|
 |**2022-03-15**|**MotionCLIP: Exposing Human Motion Generation to CLIP Space**|Guy Tevet et.al.|[2203.08063v1](http://arxiv.org/abs/2203.08063v1)|**[link](https://github.com/guytevet/motionclip)**|
 |**2022-03-15**|**Seeking Commonness and Inconsistencies: A Jointly Smoothed Approach to Multi-view Subspace Clustering**|Xiaosha Cai et.al.|[2203.08060v1](http://arxiv.org/abs/2203.08060v1)|null|
-|**2022-03-15**|**On Hyperbolic Embeddings in 2D Object Detection**|Christopher Lang et.al.|[2203.08049v1](http://arxiv.org/abs/2203.08049v1)|null|
+|**2022-03-16**|**On Hyperbolic Embeddings in 2D Object Detection**|Christopher Lang et.al.|[2203.08049v2](http://arxiv.org/abs/2203.08049v2)|null|
 |**2022-03-15**|**A multi-organ point cloud registration algorithm for abdominal CT registration**|Samuel Joutard et.al.|[2203.08041v1](http://arxiv.org/abs/2203.08041v1)|null|
 |**2022-03-15**|**Simultaneous Localisation and Mapping with Quadric Surfaces**|Tristan Laidlow et.al.|[2203.08040v1](http://arxiv.org/abs/2203.08040v1)|null|
 |**2022-03-15**|**Deep learning for radar data exploitation of autonomous vehicle**|Arthur Ouaknine et.al.|[2203.08038v1](http://arxiv.org/abs/2203.08038v1)|**[link](https://github.com/valeoai/MVRSS)**|
@@ -24,7 +24,7 @@
 |**2022-03-15**|**End-to-End Modeling via Information Tree for One-Shot Natural Language Spatial Video Grounding**|Mengze Li et.al.|[2203.08013v1](http://arxiv.org/abs/2203.08013v1)|null|
 |**2022-03-15**|**Inverted Pyramid Multi-task Transformer for Dense Scene Understanding**|Hanrong Ye et.al.|[2203.07997v1](http://arxiv.org/abs/2203.07997v1)|null|
 |**2022-03-15**|**Smoothing Matters: Momentum Transformer for Domain Adaptive Semantic Segmentation**|Runfa Chen et.al.|[2203.07988v1](http://arxiv.org/abs/2203.07988v1)|null|
-|**2022-03-15**|**Object Detection as Probabilistic Set Prediction**|Georg Hess et.al.|[2203.07980v1](http://arxiv.org/abs/2203.07980v1)|null|
+|**2022-03-16**|**Object Detection as Probabilistic Set Prediction**|Georg Hess et.al.|[2203.07980v2](http://arxiv.org/abs/2203.07980v2)|null|
 |**2022-03-15**|**OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction**|Wenbin Lin et.al.|[2203.07977v1](http://arxiv.org/abs/2203.07977v1)|null|
 |**2022-03-15**|**On the Pitfalls of Batch Normalization for End-to-End Video Learning: A Study on Surgical Workflow Analysis**|Dominik Rivoir et.al.|[2203.07976v1](http://arxiv.org/abs/2203.07976v1)|null|
 |**2022-03-15**|**MOBDrone: a Drone Video Dataset for Man OverBoard Rescue**|Donato Cafarelli et.al.|[2203.07973v1](http://arxiv.org/abs/2203.07973v1)|null|

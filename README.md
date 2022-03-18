@@ -1,4 +1,4 @@
-## Updated on 2022.03.17
+## Updated on 2022.03.18
 
 ## cs.CV
 
@@ -20,10 +20,10 @@
 |**2022-03-16**|**Learning video retrieval models with relevance-aware online mining**|Alex Falcon et.al.|[2203.08688v1](http://arxiv.org/abs/2203.08688v1)|**[link](https://github.com/aranciokov/ranp)**|
 |**2022-03-16**|**Decoupled Knowledge Distillation**|Borui Zhao et.al.|[2203.08679v1](http://arxiv.org/abs/2203.08679v1)|null|
 |**2022-03-16**|**Know your sensORs $\unicode{x2013}$ A Modality Study For Surgical Action Classification**|Lennart Bastian et.al.|[2203.08674v1](http://arxiv.org/abs/2203.08674v1)|null|
-|**2022-03-16**|**Graph Flow: Cross-layer Graph Flow Distillation for Dual-Efficient Medical Image Segmentation**|Wenxuan Zou et.al.|[2203.08667v1](http://arxiv.org/abs/2203.08667v1)|null|
+|**2022-03-17**|**Graph Flow: Cross-layer Graph Flow Distillation for Dual-Efficient Medical Image Segmentation**|Wenxuan Zou et.al.|[2203.08667v2](http://arxiv.org/abs/2203.08667v2)|null|
 |**2022-03-16**|**Occlusion Fields: An Implicit Representation for Non-Line-of-Sight Surface Reconstruction**|Javier Grau et.al.|[2203.08657v1](http://arxiv.org/abs/2203.08657v1)|null|
 |**2022-03-16**|**Topology-Preserving Shape Reconstruction and Registration via Neural Diffeomorphic Flow**|Shanlin Sun et.al.|[2203.08652v1](http://arxiv.org/abs/2203.08652v1)|null|
-|**2022-03-16**|**Complexity Reduction of Learned In-Loop Filtering in Video Coding**|Woody Bayliss et.al.|[2203.08650v1](http://arxiv.org/abs/2203.08650v1)|null|
+|**2022-03-17**|**Complexity Reduction of Learned In-Loop Filtering in Video Coding**|Woody Bayliss et.al.|[2203.08650v2](http://arxiv.org/abs/2203.08650v2)|null|
 |**2022-03-16**|**Coverage Optimization of Camera Network for Continuous Deformable Object**|Chang Li et.al.|[2203.08632v1](http://arxiv.org/abs/2203.08632v1)|null|
 |**2022-03-16**|**Conditional Measurement Density Estimation in Sequential Monte Carlo via Normalizing Flow**|Xiongjie Chen et.al.|[2203.08617v1](http://arxiv.org/abs/2203.08617v1)|null|
 |**2022-03-16**|**CtlGAN: Few-shot Artistic Portraits Generation with Contrastive Transfer Learning**|Yue Wang et.al.|[2203.08612v1](http://arxiv.org/abs/2203.08612v1)|null|
@@ -44,7 +44,7 @@
 |**2022-03-16**|**PointAttN: You Only Need Attention for Point Cloud Completion**|Jun Wang et.al.|[2203.08485v1](http://arxiv.org/abs/2203.08485v1)|**[link](https://github.com/ohhhyeahhh/pointattn)**|
 |**2022-03-16**|**QS-Attn: Query-Selected Attention for Contrastive Learning in I2I Translation**|Xueqi Hu et.al.|[2203.08483v1](http://arxiv.org/abs/2203.08483v1)|**[link](https://github.com/sapphire497/query-selected-attention)**|
 |**2022-03-16**|**Pseudo-Q: Generating Pseudo Language Queries for Visual Grounding**|Haojun Jiang et.al.|[2203.08481v1](http://arxiv.org/abs/2203.08481v1)|**[link](https://github.com/leaplabthu/pseudo-q)**|
-|**2022-03-16**|**Data Efficient 3D Learner via Knowledge Transferred from 2D Model**|Ping-Chung Yu et.al.|[2203.08479v1](http://arxiv.org/abs/2203.08479v1)|null|
+|**2022-03-17**|**Data Efficient 3D Learner via Knowledge Transferred from 2D Model**|Ping-Chung Yu et.al.|[2203.08479v2](http://arxiv.org/abs/2203.08479v2)|null|
 |**2022-03-16**|**Fusing Local Similarities for Retrieval-based 3D Orientation Estimation of Unseen Objects**|Chen Zhao et.al.|[2203.08472v1](http://arxiv.org/abs/2203.08472v1)|null|
 |**2022-03-16**|**PPCD-GAN: Progressive Pruning and Class-Aware Distillation for Large-Scale Conditional GANs Compression**|Duc Minh Vo et.al.|[2203.08456v1](http://arxiv.org/abs/2203.08456v1)|null|
 |**2022-03-16**|**The Devil Is in the Details: Window-based Attention for Image Compression**|Renjie Zou et.al.|[2203.08450v1](http://arxiv.org/abs/2203.08450v1)|**[link](https://github.com/googolxx/stf)**|

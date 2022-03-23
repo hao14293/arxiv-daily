@@ -149,6 +149,7 @@ if __name__ == "__main__":
 
     keywords = dict()
     keywords["cs.CV"] = 'cat:cs.CV'
+    keywords["CVPR2022"] = 'cvpr2022'
     
     getArxivPapers().run(keywords, 50)
 

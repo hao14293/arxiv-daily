@@ -148,8 +148,8 @@ class getArxivPapers:
 if __name__ == "__main__":
 
     keywords = dict()
-    keywords["cs.CV"] = 'cat:cs.CV'
     keywords["CVPR2022"] = 'cvpr2022'
+    keywords["cs.CV"] = 'cat:cs.CV'
     
     getArxivPapers().run(keywords, 50)
 

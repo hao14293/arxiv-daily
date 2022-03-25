@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-24**|**EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation**|Hansheng Chen et.al.|[2203.13254v1](http://arxiv.org/abs/2203.13254v1)|null|
+|**2022-03-24**|**Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer**|Omkar Thawakar et.al.|[2203.13253v1](http://arxiv.org/abs/2203.13253v1)|null|
+|**2022-03-24**|**Dexterous Imitation Made Easy: A Learning-Based Framework for Efficient Dexterous Manipulation**|Sridhar Pandian Arunachalam et.al.|[2203.13251v1](http://arxiv.org/abs/2203.13251v1)|null|
+|**2022-03-24**|**Global Tracking Transformers**|Xingyi Zhou et.al.|[2203.13250v1](http://arxiv.org/abs/2203.13250v1)|null|
+|**2022-03-24**|**BigDetection: A Large-scale Benchmark for Improved Object Detector Pre-training**|Likun Cai et.al.|[2203.13249v1](http://arxiv.org/abs/2203.13249v1)|null|
+|**2022-03-24**|**Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer**|Shuai Yang et.al.|[2203.13248v1](http://arxiv.org/abs/2203.13248v1)|null|
+|**2022-03-24**|**VRNet: Learning the Rectified Virtual Corresponding Points for 3D Point Cloud Registration**|Zhiyuan Zhang et.al.|[2203.13241v1](http://arxiv.org/abs/2203.13241v1)|null|
+|**2022-03-24**|**A Representation Separation Perspective to Correspondences-free Unsupervised 3D Point Cloud Registration**|Zhiyuan Zhang et.al.|[2203.13239v1](http://arxiv.org/abs/2203.13239v1)|null|
+|**2022-03-24**|**Open-set Recognition via Augmentation-based Similarity Learning**|Sepideh Esmaeilpour et.al.|[2203.13238v1](http://arxiv.org/abs/2203.13238v1)|null|
+|**2022-03-24**|**Facial Expression Recognition based on Multi-head Cross Attention Network**|Jae-Yeop Jeong et.al.|[2203.13235v1](http://arxiv.org/abs/2203.13235v1)|null|
+|**2022-03-24**|**Neural Neighbor Style Transfer**|Nicholas Kolkin et.al.|[2203.13215v1](http://arxiv.org/abs/2203.13215v1)|**[link](https://github.com/nkolkin13/neuralneighborstyletransfer)**|
+|**2022-03-24**|**A Perturbation Constrained Adversarial Attack for Evaluating the Robustness of Optical Flow**|Jenny Schmalfuss et.al.|[2203.13214v1](http://arxiv.org/abs/2203.13214v1)|null|
+|**2022-03-24**|**Quantum Motion Segmentation**|Federica Arrigoni et.al.|[2203.13185v1](http://arxiv.org/abs/2203.13185v1)|null|
+|**2022-03-24**|**Towards Exemplar-Free Continual Learning in Vision Transformers: an Account of Attention, Functional and Weight Regularization**|Francesco Pelosin et.al.|[2203.13167v1](http://arxiv.org/abs/2203.13167v1)|null|
+|**2022-03-24**|**Self-supervised Video-centralised Transformer for Video Face Clustering**|Yujiang Wang et.al.|[2203.13166v1](http://arxiv.org/abs/2203.13166v1)|null|
+|**2022-03-24**|**Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation**|Xian Liu et.al.|[2203.13161v1](http://arxiv.org/abs/2203.13161v1)|null|
+|**2022-03-24**|**Physics-based Learning of Parameterized Thermodynamics from Real-time Thermography**|Hamza El-Kebir et.al.|[2203.13148v1](http://arxiv.org/abs/2203.13148v1)|null|
+|**2022-03-24**|**Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors**|Oran Gafni et.al.|[2203.13131v1](http://arxiv.org/abs/2203.13131v1)|null|
+|**2022-03-24**|**Moving Window Regression: A Novel Approach to Ordinal Regression**|Nyeong-Ho Shin et.al.|[2203.13122v1](http://arxiv.org/abs/2203.13122v1)|**[link](https://github.com/nhshin-mcl/mwr)**|
+|**2022-03-24**|**Feature visualization for convolutional neural network models trained on neuroimaging data**|Fabian Eitel et.al.|[2203.13120v1](http://arxiv.org/abs/2203.13120v1)|null|
+|**2022-03-24**|**X-ray Dissectography Improves Lung Nodule Detection**|Chuang Niu et.al.|[2203.13118v1](http://arxiv.org/abs/2203.13118v1)|null|
+|**2022-03-24**|**Egocentric Prediction of Action Target in 3D**|Yiming Li et.al.|[2203.13116v1](http://arxiv.org/abs/2203.13116v1)|null|
+|**2022-03-24**|**R-DFCIL: Relation-Guided Representation Learning for Data-Free Class Incremental Learning**|Qiankun Gao et.al.|[2203.13104v1](http://arxiv.org/abs/2203.13104v1)|null|
+|**2022-03-24**|**IA-FaceS, Bidirectional Method, Disentangled Attribute Manipulation, Flexible Component Editing**|Wenjing Huang et.al.|[2203.13097v1](http://arxiv.org/abs/2203.13097v1)|null|
+|**2022-03-24**|**A Preliminary Research on Space Situational Awareness Based on Event Cameras**|Kun Xiao et.al.|[2203.13093v1](http://arxiv.org/abs/2203.13093v1)|null|
+|**2022-03-24**|**AziNorm: Exploiting the Radial Symmetry of Point Cloud for Azimuth-Normalized 3D Perception**|Shaoyu Chen et.al.|[2203.13090v1](http://arxiv.org/abs/2203.13090v1)|**[link](https://github.com/hustvl/azinorm)**|
+|**2022-03-24**|**Multitask Emotion Recognition Model with Knowledge Distillation and Task Discriminator**|Euiseok Jeong et.al.|[2203.13072v1](http://arxiv.org/abs/2203.13072v1)|null|
+|**2022-03-24**|**SIFT and SURF based feature extraction for the anomaly detection**|Simon Bilik et.al.|[2203.13068v1](http://arxiv.org/abs/2203.13068v1)|**[link](https://github.com/boortel/sift-and-surf-based-ad)**|
+|**2022-03-24**|**Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory**|Li Siyao et.al.|[2203.13055v1](http://arxiv.org/abs/2203.13055v1)|**[link](https://github.com/lisiyao21/bailando)**|
+|**2022-03-24**|**Coarse-to-Fine Cascaded Networks with Smooth Predicting for Video Facial Expression Recognition**|Fanglei Xue et.al.|[2203.13052v1](http://arxiv.org/abs/2203.13052v1)|null|
+|**2022-03-24**|**Compositional Temporal Grounding with Structured Variational Cross-Graph Correspondence Learning**|Juncheng Li et.al.|[2203.13049v1](http://arxiv.org/abs/2203.13049v1)|**[link](https://github.com/yyjmjc/compositional-temporal-grounding)**|
+|**2022-03-24**|**A Simulation Benchmark for Vision-based Autonomous Navigation**|Lauri Suomela et.al.|[2203.13048v1](http://arxiv.org/abs/2203.13048v1)|null|
+|**2022-03-24**|**Facial Action Unit Recognition With Multi-models Ensembling**|Wenqiang Jiang et.al.|[2203.13046v1](http://arxiv.org/abs/2203.13046v1)|null|
+|**2022-03-24**|**Interpretable Prediction of Pulmonary Hypertension in Newborns using Echocardiograms**|Hanna Ragnarsdottir et.al.|[2203.13038v1](http://arxiv.org/abs/2203.13038v1)|null|
+|**2022-03-24**|**Multi-modal Emotion Estimation for in-the-wild Videos**|Liyu Meng et.al.|[2203.13032v1](http://arxiv.org/abs/2203.13032v1)|null|
+|**2022-03-24**|**Continuous Emotion Recognition using Visual-audio-linguistic information: A Technical Report for ABAW3**|Su Zhang et.al.|[2203.13031v1](http://arxiv.org/abs/2203.13031v1)|null|
+|**2022-03-24**|**CVF-SID: Cyclic multi-Variate Function for Self-Supervised Image Denoising by Disentangling Noise from Image**|Reyhaneh Neshatavar et.al.|[2203.13009v1](http://arxiv.org/abs/2203.13009v1)|**[link](https://github.com/reyhanehne/cvf-sid_pytorch)**|
+|**2022-03-24**|**Compound Domain Generalization via Meta-Knowledge Encoding**|Chaoqi Chen et.al.|[2203.13006v1](http://arxiv.org/abs/2203.13006v1)|null|
+|**2022-03-24**|**A Deep-Discrete Learning Framework for Spherical Surface Registration**|Mohamed A. Suliman et.al.|[2203.12999v1](http://arxiv.org/abs/2203.12999v1)|null|
+|**2022-03-24**|**Hierarchical Nearest Neighbor Graph Embedding for Efficient Dimensionality Reduction**|M. Saquib Sarfraz et.al.|[2203.12997v1](http://arxiv.org/abs/2203.12997v1)|**[link](https://github.com/koulakis/h-nne)**|
+|**2022-03-24**|**Learning Disentangled Representation for One-shot Progressive Face Swapping**|Qi Li et.al.|[2203.12985v1](http://arxiv.org/abs/2203.12985v1)|**[link](https://github.com/liqi-casia/faceswapper)**|
+|**2022-03-24**|**Is Geometry Enough for Matching in Visual Localization?**|Qunjie Zhou et.al.|[2203.12979v1](http://arxiv.org/abs/2203.12979v1)|null|
+|**2022-03-24**|**Focus-and-Detect: A Small Object Detection Framework for Aerial Images**|Onur Can Koyun et.al.|[2203.12976v1](http://arxiv.org/abs/2203.12976v1)|null|
+|**2022-03-24**|**Transformers Meet Visual Learning Understanding: A Comprehensive Review**|Yuting Yang et.al.|[2203.12944v1](http://arxiv.org/abs/2203.12944v1)|null|
+|**2022-03-24**|**Towards Escaping from Language Bias and OCR Error: Semantics-Centered Text Visual Question Answering**|Chengyang Fang et.al.|[2203.12929v1](http://arxiv.org/abs/2203.12929v1)|null|
+|**2022-03-24**|**The Fixed Sub-Center: A Better Way to Capture Data Complexity**|Zhemin Zhang et.al.|[2203.12928v1](http://arxiv.org/abs/2203.12928v1)|null|
+|**2022-03-24**|**Learning Dense Correspondence from Synthetic Environments**|Mithun Lal et.al.|[2203.12919v1](http://arxiv.org/abs/2203.12919v1)|null|
+|**2022-03-24**|**WarpingGAN: Warping Multiple Uniform Priors for Adversarial 3D Point Cloud Generation**|Yingzhi Tang et.al.|[2203.12917v1](http://arxiv.org/abs/2203.12917v1)|**[link](https://github.com/yztang4/warpinggan)**|
+|**2022-03-24**|**NPC: Neuron Path Coverage via Characterizing Decision Logic of Deep Neural Networks**|Xiaofei Xie et.al.|[2203.12915v1](http://arxiv.org/abs/2203.12915v1)|null|
+|**2022-03-24**|**Neural Reflectance for Shape Recovery with Shadow Handling**|Junxuan Li et.al.|[2203.12909v1](http://arxiv.org/abs/2203.12909v1)|**[link](https://github.com/junxuan-li/neural-reflectance-ps)**|
 |**2022-03-23**|**Unsupervised Salient Object Detection with Spectral Cluster Voting**|Gyungin Shin et.al.|[2203.12614v1](http://arxiv.org/abs/2203.12614v1)|**[link](https://github.com/noelshin/selfmask)**|
 |**2022-03-24**|**A Hybrid Mesh-neural Representation for 3D Transparent Object Reconstruction**|Jiamin Xu et.al.|[2203.12613v2](http://arxiv.org/abs/2203.12613v2)|null|
 |**2022-03-23**|**StructToken : Rethinking Semantic Segmentation with Structural Prior**|Fangjian Lin et.al.|[2203.12612v1](http://arxiv.org/abs/2203.12612v1)|null|
@@ -2215,6 +2265,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-24**|**Beyond Fixation: Dynamic Window Visual Transformer**|Pengzhen Ren et.al.|[2203.12856v1](http://arxiv.org/abs/2203.12856v1)|**[link](https://github.com/pzhren/dw-vit)**|
+|**2022-03-24**|**Sparse Instance Activation for Real-Time Instance Segmentation**|Tianheng Cheng et.al.|[2203.12827v1](http://arxiv.org/abs/2203.12827v1)|**[link](https://github.com/hustvl/sparseinst)**|
 |**2022-03-23**|**Transformer-based Multimodal Information Fusion for Facial Expression Analysis**|Wei Zhang et.al.|[2203.12367v1](http://arxiv.org/abs/2203.12367v1)|null|
 |**2022-03-24**|**Towards Semi-Supervised Deep Facial Expression Recognition with An Adaptive Confidence Margin**|Hangyu Li et.al.|[2203.12341v2](http://arxiv.org/abs/2203.12341v2)|**[link](https://github.com/hangyu94/ada-cm)**|
 |**2022-03-22**|**DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification**|Hongrun Zhang et.al.|[2203.12081v1](http://arxiv.org/abs/2203.12081v1)|null|

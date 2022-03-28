@@ -17,7 +17,7 @@
 |**2022-03-25**|**Salt Detection Using Segmentation of Seismic Image**|Mrinmoy Sarkar et.al.|[2203.13721v1](http://arxiv.org/abs/2203.13721v1)|null|
 |**2022-03-25**|**Digital Fingerprinting of Microstructures**|Michael D. White et.al.|[2203.13718v1](http://arxiv.org/abs/2203.13718v1)|null|
 |**2022-03-25**|**Stabilizing Adversarially Learned One-Class Novelty Detection Using Pseudo Anomalies**|Muhammad Zaigham Zaheer et.al.|[2203.13716v1](http://arxiv.org/abs/2203.13716v1)|null|
-|**2022-03-25**|**Searching for Network Width with Bilaterally Coupled Network**|Xiu Su et.al.|[2203.13714v1](http://arxiv.org/abs/2203.13714v1)|null|
+|**2022-03-25**|**Searching for Network Width with Bilaterally Coupled Network**|Xiu Su et.al.|[2203.13714v1](http://arxiv.org/abs/2203.13714v1)|**[link](https://github.com/xiusu/Channel-Bench-Macro)**|
 |**2022-03-25**|**Clustering Aided Weakly Supervised Training to Detect Anomalous Events in Surveillance Videos**|Muhammad Zaigham Zaheer et.al.|[2203.13704v1](http://arxiv.org/abs/2203.13704v1)|null|
 |**2022-03-25**|**Unsupervised Image Deraining: Optimization Model Driven Deep CNN**|Changfeng Yu et.al.|[2203.13699v1](http://arxiv.org/abs/2203.13699v1)|null|
 |**2022-03-25**|**Implicit Neural Representations for Variable Length Human Motion Generation**|Pablo Cervantes et.al.|[2203.13694v1](http://arxiv.org/abs/2203.13694v1)|null|

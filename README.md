@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-28**|**Frame-wise Action Representations for Long Videos via Sequence Contrastive Learning**|Minghao Chen et.al.|[2203.14957v1](http://arxiv.org/abs/2203.14957v1)|**[link](https://github.com/minghchen/carl_code)**|
+|**2022-03-28**|**LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection**|Yi Wei et.al.|[2203.14956v1](http://arxiv.org/abs/2203.14956v1)|**[link](https://github.com/weiyithu/lidar-distillation)**|
+|**2022-03-28**|**GIRAFFE HD: A High-Resolution 3D-aware Generative Model**|Yang Xue et.al.|[2203.14954v1](http://arxiv.org/abs/2203.14954v1)|null|
+|**2022-03-28**|**Energy-based Latent Aligner for Incremental Learning**|K J Joseph et.al.|[2203.14952v1](http://arxiv.org/abs/2203.14952v1)|**[link](https://github.com/josephkj/eli)**|
+|**2022-03-28**|**Controllable Dynamic Multi-Task Architectures**|Dripta S. Raychaudhuri et.al.|[2203.14949v1](http://arxiv.org/abs/2203.14949v1)|null|
+|**2022-03-28**|**Differentiable Microscopy for Content and Task Aware Compressive Fluorescence Imaging**|Udith Haputhanthri et.al.|[2203.14945v1](http://arxiv.org/abs/2203.14945v1)|null|
+|**2022-03-28**|**Differentiable Microscopy Designs an All Optical Quantitative Phase Microscope**|Kithmini Herath et.al.|[2203.14944v1](http://arxiv.org/abs/2203.14944v1)|null|
+|**2022-03-28**|**Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model**|Yu Du et.al.|[2203.14940v1](http://arxiv.org/abs/2203.14940v1)|**[link](https://github.com/dyabel/detpro)**|
+|**2022-03-28**|**FedVLN: Privacy-preserving Federated Vision-and-Language Navigation**|Kaiwen Zhou et.al.|[2203.14936v1](http://arxiv.org/abs/2203.14936v1)|null|
+|**2022-03-28**|**Attributable Visual Similarity Learning**|Borui Zhang et.al.|[2203.14932v1](http://arxiv.org/abs/2203.14932v1)|**[link](https://github.com/zbr17/avsl)**|
+|**2022-03-28**|**RAVIR: A Dataset and Methodology for the Semantic Segmentation and Quantitative Analysis of Retinal Arteries and Veins in Infrared Reflectance Imaging**|Ali Hatamizadeh et.al.|[2203.14928v1](http://arxiv.org/abs/2203.14928v1)|null|
+|**2022-03-28**|**Expanding Low-Density Latent Regions for Open-Set Object Detection**|Jiaming Han et.al.|[2203.14911v1](http://arxiv.org/abs/2203.14911v1)|**[link](https://github.com/csuhan/opendet2)**|
+|**2022-03-28**|**Optimizing Elimination Templates by Greedy Parameter Search**|Evgeniy Martyushev et.al.|[2203.14901v1](http://arxiv.org/abs/2203.14901v1)|null|
+|**2022-03-28**|**Learning Where to Learn in Cross-View Self-Supervised Learning**|Lang Huang et.al.|[2203.14898v1](http://arxiv.org/abs/2203.14898v1)|null|
+|**2022-03-28**|**Multi-Task Learning for Visual Scene Understanding**|Simon Vandenhende et.al.|[2203.14896v1](http://arxiv.org/abs/2203.14896v1)|null|
+|**2022-03-28**|**HUNIS: High-Performance Unsupervised Nuclei Instance Segmentation**|Vasileios Magoulianitis et.al.|[2203.14887v1](http://arxiv.org/abs/2203.14887v1)|null|
+|**2022-03-28**|**HIME: Efficient Headshot Image Super-Resolution with Multiple Exemplars**|Xiaoyu Xiang et.al.|[2203.14863v1](http://arxiv.org/abs/2203.14863v1)|null|
+|**2022-03-28**|**WSEBP: A Novel Width-depth Synchronous Extension-based Basis Pursuit Algorithm for Multi-Layer Convolutional Sparse Coding**|Haitong Tang et.al.|[2203.14856v1](http://arxiv.org/abs/2203.14856v1)|null|
+|**2022-03-28**|**Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches**|Ayan Kumar Bhunia et.al.|[2203.14843v1](http://arxiv.org/abs/2203.14843v1)|null|
+|**2022-03-28**|**A Framework of Meta Functional Learning for Regularising Knowledge Transfer**|Pan Li et.al.|[2203.14840v1](http://arxiv.org/abs/2203.14840v1)|null|
+|**2022-03-28**|**HDR Reconstruction from Bracketed Exposures and Events**|Richard Shaw et.al.|[2203.14825v1](http://arxiv.org/abs/2203.14825v1)|null|
+|**2022-03-28**|**Sketching without Worrying: Noise-Tolerant Sketch-Based Image Retrieval**|Ayan Kumar Bhunia et.al.|[2203.14817v1](http://arxiv.org/abs/2203.14817v1)|**[link](https://github.com/ayankumarbhunia/stroke_subset_selector-for-fgsbir)**|
+|**2022-03-28**|**An attention mechanism based convolutional network for satellite precipitation downscaling over China**|Yinghong Jing et.al.|[2203.14812v1](http://arxiv.org/abs/2203.14812v1)|null|
+|**2022-03-28**|**Extracting Image Characteristics to Predict Crowdfunding Success**|S. J. Blanchard et.al.|[2203.14806v1](http://arxiv.org/abs/2203.14806v1)|null|
+|**2022-03-28**|**Partially Does It: Towards Scene-Level FG-SBIR with Partial Input**|Pinaki Nath Chowdhury et.al.|[2203.14804v1](http://arxiv.org/abs/2203.14804v1)|null|
+|**2022-03-28**|**Limited Parameter Denoising for Low-dose X-ray Computed Tomography Using Deep Reinforcement Learning**|Mayank Patwari et.al.|[2203.14794v1](http://arxiv.org/abs/2203.14794v1)|null|
+|**2022-03-28**|**A Joint Cross-Attention Model for Audio-Visual Fusion in Dimensional Emotion Recognition**|Gnana Praveen Rajasekar et.al.|[2203.14779v1](http://arxiv.org/abs/2203.14779v1)|**[link](https://github.com/praveena2j/jointcrossattentional-av-fusion)**|
+|**2022-03-28**|**A Long Short-term Memory Based Recurrent Neural Network for Interventional MRI Reconstruction**|Ruiyang Zhao et.al.|[2203.14769v1](http://arxiv.org/abs/2203.14769v1)|null|
+|**2022-03-28**|**Open-VICO: An Open-Source Gazebo Toolkit for Multi-Camera-based Skeleton Tracking in Human-Robot Collaboration**|Luca Fortini et.al.|[2203.14733v1](http://arxiv.org/abs/2203.14733v1)|null|
+|**2022-03-28**|**Primitive-based Shape Abstraction via Nonparametric Bayesian Inference**|Yuwei Wu et.al.|[2203.14714v1](http://arxiv.org/abs/2203.14714v1)|null|
+|**2022-03-28**|**Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities**|Fadime Sener et.al.|[2203.14712v1](http://arxiv.org/abs/2203.14712v1)|null|
+|**2022-03-28**|**MSTR: Multi-Scale Transformer for End-to-End Human-Object Interaction Detection**|Bumsoo Kim et.al.|[2203.14709v1](http://arxiv.org/abs/2203.14709v1)|null|
+|**2022-03-28**|**LiDARCap: Long-range Marker-less 3D Human Motion Capture with LiDAR Point Clouds**|Jialian Li et.al.|[2203.14698v1](http://arxiv.org/abs/2203.14698v1)|null|
+|**2022-03-28**|**Sketch3T: Test-Time Training for Zero-Shot SBIR**|Aneeshan Sain et.al.|[2203.14691v1](http://arxiv.org/abs/2203.14691v1)|null|
+|**2022-03-28**|**ObjectFormer for Image Manipulation Detection and Localization**|Junke Wang et.al.|[2203.14681v1](http://arxiv.org/abs/2203.14681v1)|null|
+|**2022-03-28**|**Brain-inspired Multilayer Perceptron with Spiking Neurons**|Wenshuo Li et.al.|[2203.14679v1](http://arxiv.org/abs/2203.14679v1)|null|
+|**2022-03-28**|**Part-based Pseudo Label Refinement for Unsupervised Person Re-identification**|Yoonki Cho et.al.|[2203.14675v1](http://arxiv.org/abs/2203.14675v1)|null|
+|**2022-03-28**|**Using Machine Learning to generate an open-access cropland map from satellite images time series in the Indian Himalayan Region**|Danya Li et.al.|[2203.14673v1](http://arxiv.org/abs/2203.14673v1)|null|
+|**2022-03-28**|**Are High-Resolution Event Cameras Really Needed?**|Daniel Gehrig et.al.|[2203.14672v1](http://arxiv.org/abs/2203.14672v1)|null|
+|**2022-03-28**|**Diverse Plausible 360-Degree Image Outpainting for Efficient 3DCG Background Creation**|Naofumi Akimoto et.al.|[2203.14668v1](http://arxiv.org/abs/2203.14668v1)|null|
+|**2022-03-28**|**Federated Learning with Position-Aware Neurons**|Xin-Chun Li et.al.|[2203.14666v1](http://arxiv.org/abs/2203.14666v1)|null|
+|**2022-03-28**|**MaskGroup: Hierarchical Point Grouping and Masking for 3D Instance Segmentation**|Min Zhong et.al.|[2203.14662v1](http://arxiv.org/abs/2203.14662v1)|null|
+|**2022-03-28**|**To Fold or Not to Fold: a Necessary and Sufficient Condition on Batch-Normalization Layers Folding**|Edouard Yvinec et.al.|[2203.14646v1](http://arxiv.org/abs/2203.14646v1)|null|
+|**2022-03-28**|**REx: Data-Free Residual Quantization Error Expansion**|Edouard Yvinec et.al.|[2203.14645v1](http://arxiv.org/abs/2203.14645v1)|null|
+|**2022-03-28**|**SPIQ: Data-Free Per-Channel Static Input Quantization**|Edouard Yvinec et.al.|[2203.14642v1](http://arxiv.org/abs/2203.14642v1)|null|
+|**2022-03-28**|**A quantitative comparison of plantar soft tissue strainability distribution and homogeneity between ulcerated and non-ulcerated patients using strain elastography**|Maaynk Patwari et.al.|[2203.14629v1](http://arxiv.org/abs/2203.14629v1)|null|
+|**2022-03-28**|**FS6D: Few-Shot 6D Pose Estimation of Novel Objects**|Yisheng He et.al.|[2203.14628v1](http://arxiv.org/abs/2203.14628v1)|null|
+|**2022-03-28**|**Towards Implicit Text-Guided 3D Shape Generation**|Zhengzhe Liu et.al.|[2203.14622v1](http://arxiv.org/abs/2203.14622v1)|**[link](https://github.com/liuzhengzhe/towards-implicit-text-guided-shape-generation)**|
+|**2022-03-28**|**Adaptation to CT Reconstruction Kernels by Enforcing Cross-domain Feature Maps Consistency**|Stanislav Shimovolos et.al.|[2203.14616v1](http://arxiv.org/abs/2203.14616v1)|null|
+|**2022-03-28**|**Boosting Black-Box Adversarial Attacks with Meta Learning**|Junjie Fu et.al.|[2203.14607v1](http://arxiv.org/abs/2203.14607v1)|null|
 |**2022-03-25**|**AutoAvatar: Autoregressive Neural Fields for Dynamic Avatar Modeling**|Ziqian Bai et.al.|[2203.13817v1](http://arxiv.org/abs/2203.13817v1)|null|
 |**2022-03-25**|**Versatile Multi-Modal Pre-Training for Human-Centric Perception**|Fangzhou Hong et.al.|[2203.13815v1](http://arxiv.org/abs/2203.13815v1)|null|
 |**2022-03-25**|**Spatially Multi-conditional Image Generation**|Ritika Chakraborty et.al.|[2203.13812v1](http://arxiv.org/abs/2203.13812v1)|null|
@@ -2315,11 +2365,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-28**|**Expanding Low-Density Latent Regions for Open-Set Object Detection**|Jiaming Han et.al.|[2203.14911v1](http://arxiv.org/abs/2203.14911v1)|**[link](https://github.com/csuhan/opendet2)**|
+|**2022-03-28**|**Towards Implicit Text-Guided 3D Shape Generation**|Zhengzhe Liu et.al.|[2203.14622v1](http://arxiv.org/abs/2203.14622v1)|**[link](https://github.com/liuzhengzhe/towards-implicit-text-guided-shape-generation)**|
+|**2022-03-28**|**Uni6D: A Unified CNN Framework without Projection Breakdown for 6D Pose Estimation**|Xiaoke Jiang et.al.|[2203.14531v1](http://arxiv.org/abs/2203.14531v1)|null|
+|**2022-03-28**|**REGTR: End-to-end Point Cloud Correspondences with Transformers**|Zi Jian Yew et.al.|[2203.14517v1](http://arxiv.org/abs/2203.14517v1)|**[link](https://github.com/yewzijian/regtr)**|
+|**2022-03-28**|**Stratified Transformer for 3D Point Cloud Segmentation**|Xin Lai et.al.|[2203.14508v1](http://arxiv.org/abs/2203.14508v1)|**[link](https://github.com/dvlab-research/stratified-transformer)**|
+|**2022-03-28**|**Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection**|Choubo Ding et.al.|[2203.14506v1](http://arxiv.org/abs/2203.14506v1)|**[link](https://github.com/choubo/dra)**|
+|**2022-03-26**|**Learning to Answer Questions in Dynamic Audio-Visual Scenarios**|Guangyao Li et.al.|[2203.14072v1](http://arxiv.org/abs/2203.14072v1)|null|
+|**2022-03-26**|**Visual Abductive Reasoning**|Chen Liang et.al.|[2203.14040v1](http://arxiv.org/abs/2203.14040v1)|**[link](https://github.com/leonnnop/var)**|
+|**2022-03-25**|**Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection**|Li Yin et.al.|[2203.13903v1](http://arxiv.org/abs/2203.13903v1)|null|
 |**2022-03-25**|**Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion**|Tianpei Gu et.al.|[2203.13777v1](http://arxiv.org/abs/2203.13777v1)|**[link](https://github.com/gutianpei/mid)**|
 |**2022-03-25**|**Rope3D: TheRoadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task**|Xiaoqing Ye et.al.|[2203.13608v1](http://arxiv.org/abs/2203.13608v1)|null|
 |**2022-03-25**|**CAD: Co-Adapting Discriminative Features for Improved Few-Shot Classification**|Philip Chikontwe et.al.|[2203.13465v1](http://arxiv.org/abs/2203.13465v1)|null|
-|**2022-03-25**|**Noisy Boundaries: Lemon or Lemonade for Semi-supervised Instance Segmentation?**|Zhenyu Wang et.al.|[2203.13427v1](http://arxiv.org/abs/2203.13427v1)|null|
-|**2022-03-25**|**Point2Seq: Detecting 3D Objects as Sequences**|Yujing Xue et.al.|[2203.13394v1](http://arxiv.org/abs/2203.13394v1)|null|
+|**2022-03-25**|**Noisy Boundaries: Lemon or Lemonade for Semi-supervised Instance Segmentation?**|Zhenyu Wang et.al.|[2203.13427v1](http://arxiv.org/abs/2203.13427v1)|**[link](https://github.com/zhenyuw16/noisyboundaries)**|
+|**2022-03-25**|**Point2Seq: Detecting 3D Objects as Sequences**|Yujing Xue et.al.|[2203.13394v1](http://arxiv.org/abs/2203.13394v1)|**[link](https://github.com/ocnflag/point2seq)**|
 |**2022-03-24**|**Beyond Fixation: Dynamic Window Visual Transformer**|Pengzhen Ren et.al.|[2203.12856v1](http://arxiv.org/abs/2203.12856v1)|**[link](https://github.com/pzhren/dw-vit)**|
 |**2022-03-24**|**Sparse Instance Activation for Real-Time Instance Segmentation**|Tianheng Cheng et.al.|[2203.12827v1](http://arxiv.org/abs/2203.12827v1)|**[link](https://github.com/hustvl/sparseinst)**|
 |**2022-03-23**|**Transformer-based Multimodal Information Fusion for Facial Expression Analysis**|Wei Zhang et.al.|[2203.12367v1](http://arxiv.org/abs/2203.12367v1)|null|
@@ -2342,6 +2401,7 @@
 |**2022-03-19**|**Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds**|Chenhang He et.al.|[2203.10314v1](http://arxiv.org/abs/2203.10314v1)|**[link](https://github.com/skyhehe123/voxset)**|
 |**2022-03-18**|**Fourier Document Restoration for Robust Document Dewarping and Recognition**|Chuhui Xue et.al.|[2203.09910v1](http://arxiv.org/abs/2203.09910v1)|null|
 |**2022-03-18**|**Learning Affordance Grounding from Exocentric Images**|Hongchen Luo et.al.|[2203.09905v1](http://arxiv.org/abs/2203.09905v1)|**[link](https://github.com/lhc1224/cross-view-ag)**|
+|**2022-03-27**|**CodedVTR: Codebook-based Sparse Voxel Transformer with Geometric Guidance**|Tianchen Zhao et.al.|[2203.09887v2](http://arxiv.org/abs/2203.09887v2)|null|
 |**2022-03-18**|**A Dual Weighting Label Assignment Scheme for Object Detection**|Shuai Li et.al.|[2203.09730v1](http://arxiv.org/abs/2203.09730v1)|**[link](https://github.com/strongwolf/dw)**|
 |**2022-03-18**|**VISTA: Boosting 3D Object Detection via Dual Cross-VIew SpaTial Attention**|Shengheng Deng et.al.|[2203.09704v1](http://arxiv.org/abs/2203.09704v1)|**[link](https://github.com/gorilla-lab-scut/vista)**|
 |**2022-03-20**|**FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos**|Yan Wang et.al.|[2203.09463v2](http://arxiv.org/abs/2203.09463v2)|null|

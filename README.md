@@ -2567,7 +2567,7 @@
 |---|---|---|---|---|
 |**2022-04-01**|**LASER: LAtent SpacE Rendering for 2D Visual Localization**|Zhixiang Min et.al.|[2204.00157v1](http://arxiv.org/abs/2204.00157v1)|null|
 |**2022-03-30**|**Investigating Top-$k$ White-Box and Transferable Black-box Attack**|Chaoning Zhang et.al.|[2204.00089v1](http://arxiv.org/abs/2204.00089v1)|null|
-|**2022-03-30**|**Dual Temperature Helps Contrastive Learning Without Many Negative Samples: Towards Understanding and Simplifying MoCo**|Chaoning Zhang et.al.|[2203.17248v1](http://arxiv.org/abs/2203.17248v1)|null|
+|**2022-03-30**|**Dual Temperature Helps Contrastive Learning Without Many Negative Samples: Towards Understanding and Simplifying MoCo**|Chaoning Zhang et.al.|[2203.17248v1](http://arxiv.org/abs/2203.17248v1)|**[link](https://github.com/ChaoningZhang/Dual-temperature)**|
 |**2022-03-31**|**End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps**|Ke Guo et.al.|[2203.16910v1](http://arxiv.org/abs/2203.16910v1)|**[link](https://github.com/kguo-cs/tdor)**|
 |**2022-03-31**|**Personalized Image Aesthetics Assessment with Rich Attributes**|Yuzhe Yang et.al.|[2203.16754v1](http://arxiv.org/abs/2203.16754v1)|null|
 |**2022-03-31**|**Exploiting Explainable Metrics for Augmented SGD**|Mahdi S. Hosseini et.al.|[2203.16723v1](http://arxiv.org/abs/2203.16723v1)|**[link](https://github.com/mahdihosseini/rmsgd)**|

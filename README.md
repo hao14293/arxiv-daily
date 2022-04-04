@@ -4,7 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-04-01**|**Simplicial Embeddings in Self-Supervised Learning and Downstream Classification**|Samuel Lavoie et.al.|[2204.00616v1](http://arxiv.org/abs/2204.00616v1)|null|
+|**2022-04-01**|**Simplicial Embeddings in Self-Supervised Learning and Downstream Classification**|Samuel Lavoie et.al.|[2204.00616v1](http://arxiv.org/abs/2204.00616v1)|**[link](https://github.com/lavoiems/simplicial-embeddings)**|
 |**2022-04-01**|**On the Importance of Asymmetry for Siamese Representation Learning**|Xiao Wang et.al.|[2204.00613v1](http://arxiv.org/abs/2204.00613v1)|**[link](https://github.com/facebookresearch/asym-siam)**|
 |**2022-04-01**|**Quantized GAN for Complex Music Generation from Dance Videos**|Ye Zhu et.al.|[2204.00604v1](http://arxiv.org/abs/2204.00604v1)|**[link](https://github.com/l-yezhu/d2m-gan)**|
 |**2022-04-01**|**Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**|Andy Zeng et.al.|[2204.00598v1](http://arxiv.org/abs/2204.00598v1)|null|
@@ -13,7 +13,7 @@
 |**2022-04-01**|**DFNet: Enhance Aboslute Pose Regression with Direct Feature Matching**|Shuai Chen et.al.|[2204.00559v1](http://arxiv.org/abs/2204.00559v1)|null|
 |**2022-04-01**|**FrequencyLowCut Pooling -- Plug & Play against Catastrophic Overfitting**|Julia Grabinski et.al.|[2204.00491v1](http://arxiv.org/abs/2204.00491v1)|null|
 |**2022-04-01**|**Generic Event Boundary Captioning: A Benchmark for Status Changes Understanding**|Yuxuan Wang et.al.|[2204.00486v1](http://arxiv.org/abs/2204.00486v1)|null|
-|**2022-04-01**|**Proper Reuse of Image Classification Features Improves Object Detection**|Cristina Vasconcelos et.al.|[2204.00484v1](http://arxiv.org/abs/2204.00484v1)|null|
+|**2022-04-01**|**Proper Reuse of Image Classification Features Improves Object Detection**|Cristina Vasconcelos et.al.|[2204.00484v1](http://arxiv.org/abs/2204.00484v1)|**[link](https://github.com/tensorflow/models)**|
 |**2022-04-01**|**Autonomous crater detection on asteroids using a fully-convolutional neural network**|Francesco Latorre et.al.|[2204.00477v1](http://arxiv.org/abs/2204.00477v1)|null|
 |**2022-04-01**|**Vision Transformer with Cross-attention by Temporal Shift for Efficient Action Recognition**|Ryota Hashiguchi et.al.|[2204.00452v1](http://arxiv.org/abs/2204.00452v1)|null|
 |**2022-04-01**|**Marginal Contrastive Correspondence for Guided Image Generation**|Fangneng Zhan et.al.|[2204.00442v1](http://arxiv.org/abs/2204.00442v1)|null|

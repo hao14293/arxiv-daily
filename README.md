@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-01**|**Simplicial Embeddings in Self-Supervised Learning and Downstream Classification**|Samuel Lavoie et.al.|[2204.00616v1](http://arxiv.org/abs/2204.00616v1)|null|
+|**2022-04-01**|**On the Importance of Asymmetry for Siamese Representation Learning**|Xiao Wang et.al.|[2204.00613v1](http://arxiv.org/abs/2204.00613v1)|**[link](https://github.com/facebookresearch/asym-siam)**|
+|**2022-04-01**|**Quantized GAN for Complex Music Generation from Dance Videos**|Ye Zhu et.al.|[2204.00604v1](http://arxiv.org/abs/2204.00604v1)|**[link](https://github.com/l-yezhu/d2m-gan)**|
+|**2022-04-01**|**Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**|Andy Zeng et.al.|[2204.00598v1](http://arxiv.org/abs/2204.00598v1)|null|
+|**2022-04-01**|**Fast and Automatic Object Registration for Human-Robot Collaboration in Industrial Manufacturing**|Manuela Geiß et.al.|[2204.00597v1](http://arxiv.org/abs/2204.00597v1)|null|
+|**2022-04-01**|**Connect, Not Collapse: Explaining Contrastive Learning for Unsupervised Domain Adaptation**|Kendrick Shen et.al.|[2204.00570v1](http://arxiv.org/abs/2204.00570v1)|null|
+|**2022-04-01**|**DFNet: Enhance Aboslute Pose Regression with Direct Feature Matching**|Shuai Chen et.al.|[2204.00559v1](http://arxiv.org/abs/2204.00559v1)|null|
+|**2022-04-01**|**FrequencyLowCut Pooling -- Plug & Play against Catastrophic Overfitting**|Julia Grabinski et.al.|[2204.00491v1](http://arxiv.org/abs/2204.00491v1)|null|
+|**2022-04-01**|**Generic Event Boundary Captioning: A Benchmark for Status Changes Understanding**|Yuxuan Wang et.al.|[2204.00486v1](http://arxiv.org/abs/2204.00486v1)|null|
+|**2022-04-01**|**Proper Reuse of Image Classification Features Improves Object Detection**|Cristina Vasconcelos et.al.|[2204.00484v1](http://arxiv.org/abs/2204.00484v1)|null|
+|**2022-04-01**|**Autonomous crater detection on asteroids using a fully-convolutional neural network**|Francesco Latorre et.al.|[2204.00477v1](http://arxiv.org/abs/2204.00477v1)|null|
+|**2022-04-01**|**Vision Transformer with Cross-attention by Temporal Shift for Efficient Action Recognition**|Ryota Hashiguchi et.al.|[2204.00452v1](http://arxiv.org/abs/2204.00452v1)|null|
+|**2022-04-01**|**Marginal Contrastive Correspondence for Guided Image Generation**|Fangneng Zhan et.al.|[2204.00442v1](http://arxiv.org/abs/2204.00442v1)|null|
+|**2022-04-01**|**Comparison of convolutional neural networks for cloudy optical images reconstruction from single or multitemporal joint SAR and optical images**|Rémi Cresson et.al.|[2204.00424v1](http://arxiv.org/abs/2204.00424v1)|null|
+|**2022-04-01**|**Autoencoder for Synthetic to Real Generalization: From Simple to More Complex Scenes**|Steve Dias Da Cruz et.al.|[2204.00386v1](http://arxiv.org/abs/2204.00386v1)|**[link](https://github.com/stevecruz/icpr2022-autoencoder-syn2real)**|
+|**2022-04-01**|**Autoencoder Attractors for Uncertainty Estimation**|Steve Dias Da Cruz et.al.|[2204.00382v1](http://arxiv.org/abs/2204.00382v1)|**[link](https://github.com/stevecruz/icpr2022-autoencoder-attractors)**|
+|**2022-04-01**|**Weakly Supervised Regional and Temporal Learning for Facial Action Unit Recognition**|Jingwei Yan et.al.|[2204.00379v1](http://arxiv.org/abs/2204.00379v1)|null|
+|**2022-04-01**|**Few-shot One-class Domain Adaptation Based on Frequency for Iris Presentation Attack Detection**|Yachun Li et.al.|[2204.00376v1](http://arxiv.org/abs/2204.00376v1)|null|
+|**2022-04-01**|**Learning to Deblur using Light Field Generated and Real Defocus Images**|Lingyan Ruan et.al.|[2204.00367v1](http://arxiv.org/abs/2204.00367v1)|**[link](https://github.com/lingyanruan/DRBNet)**|
+|**2022-04-01**|**RMS-FlowNet: Efficient and Robust Multi-Scale Scene Flow Estimation for Large-Scale Point Clouds**|Ramy Battrawy et.al.|[2204.00354v1](http://arxiv.org/abs/2204.00354v1)|null|
+|**2022-04-01**|**DIP: Deep Inverse Patchmatch for High-Resolution Optical Flow**|Zihua Zheng et.al.|[2204.00330v1](http://arxiv.org/abs/2204.00330v1)|**[link](https://github.com/zihuazheng/dip)**|
+|**2022-04-01**|**CAT-Det: Contrastively Augmented Transformer for Multi-modal 3D Object Detection**|Yanan Zhang et.al.|[2204.00325v1](http://arxiv.org/abs/2204.00325v1)|null|
+|**2022-04-01**|**Unimodal-Concentrated Loss: Fully Adaptive Label Distribution Learning for Ordinal Regression**|Qiang Li et.al.|[2204.00309v1](http://arxiv.org/abs/2204.00309v1)|null|
+|**2022-04-01**|**Face identification by means of a neural net classifier**|Virginia Espinosa-Duro et.al.|[2204.00305v1](http://arxiv.org/abs/2204.00305v1)|null|
+|**2022-04-01**|**Unitail: Detecting, Reading, and Matching in Retail Scene**|Fangyi Chen et.al.|[2204.00298v1](http://arxiv.org/abs/2204.00298v1)|null|
+|**2022-04-01**|**GrowliFlower: An image time series dataset for GROWth analysis of cauLIFLOWER**|Jana Kierdorf et.al.|[2204.00294v1](http://arxiv.org/abs/2204.00294v1)|null|
+|**2022-04-01**|**Selecting task with optimal transport self-supervised learning for few-shot classification**|Renjie Xu et.al.|[2204.00289v1](http://arxiv.org/abs/2204.00289v1)|null|
+|**2022-04-01**|**MS-HLMO: Multi-scale Histogram of Local Main Orientation for Remote Sensing Image Registration**|Chenzhong Gao et.al.|[2204.00260v1](http://arxiv.org/abs/2204.00260v1)|null|
+|**2022-04-01**|**ObjectMix: Data Augmentation by Copy-Pasting Objects in Videos for Action Recognition**|Jun Kimata et.al.|[2204.00239v1](http://arxiv.org/abs/2204.00239v1)|null|
+|**2022-04-01**|**Online panoptic 3D reconstruction as a Linear Assignment Problem**|Leevi Raivio et.al.|[2204.00231v1](http://arxiv.org/abs/2204.00231v1)|null|
+|**2022-04-01**|**Perception Prioritized Training of Diffusion Models**|Jooyoung Choi et.al.|[2204.00227v1](http://arxiv.org/abs/2204.00227v1)|**[link](https://github.com/jychoi118/p2-weighting)**|
+|**2022-04-01**|**Bridging the Gap between Classification and Localization for Weakly Supervised Object Localization**|Eunji Kim et.al.|[2204.00220v1](http://arxiv.org/abs/2204.00220v1)|null|
+|**2022-04-01**|**Epipolar Focus Spectrum: A Novel Light Field Representation and Application in Dense-view Reconstruction**|Yaning Li et.al.|[2204.00193v1](http://arxiv.org/abs/2204.00193v1)|null|
+|**2022-04-01**|**Dynamic Supervisor for Cross-dataset Object Detection**|Ze Chen et.al.|[2204.00183v1](http://arxiv.org/abs/2204.00183v1)|null|
+|**2022-04-01**|**GraftNet: Towards Domain Generalized Stereo Matching with a Broad-Spectrum and Task-Oriented Feature**|Biyang Liu et.al.|[2204.00179v1](http://arxiv.org/abs/2204.00179v1)|**[link](https://github.com/spadeliu/graft-psmnet)**|
+|**2022-04-01**|**A Unified Framework for Domain Adaptive Pose Estimation**|Donghyun Kim et.al.|[2204.00172v1](http://arxiv.org/abs/2204.00172v1)|null|
+|**2022-04-01**|**Mutual Scene Synthesis for Mixed Reality Telepresence**|Mohammad Keshavarzi et.al.|[2204.00161v1](http://arxiv.org/abs/2204.00161v1)|null|
+|**2022-04-01**|**LASER: LAtent SpacE Rendering for 2D Visual Localization**|Zhixiang Min et.al.|[2204.00157v1](http://arxiv.org/abs/2204.00157v1)|null|
+|**2022-04-01**|**Stereo Unstructured Magnification: Multiple Homography Image for View Synthesis**|Qi Zhang et.al.|[2204.00156v1](http://arxiv.org/abs/2204.00156v1)|null|
+|**2022-04-01**|**An End-to-end Supervised Domain Adaptation Framework for Cross-Domain Change Detection**|Jia Liu et.al.|[2204.00154v1](http://arxiv.org/abs/2204.00154v1)|**[link](https://github.com/perfect-you/sdacd)**|
+|**2022-04-01**|**Semi-Weakly Supervised Object Detection by Sampling Pseudo Ground-Truth Boxes**|Akhil Meethal et.al.|[2204.00147v1](http://arxiv.org/abs/2204.00147v1)|null|
+|**2022-03-31**|**Model Predictive Control for Fluid Human-to-Robot Handovers**|Wei Yang et.al.|[2204.00134v1](http://arxiv.org/abs/2204.00134v1)|null|
+|**2022-03-31**|**Real-Time and Robust 3D Object Detection Within Road-Side LiDARs Using Domain Adaptation**|Walter Zimmer et.al.|[2204.00132v1](http://arxiv.org/abs/2204.00132v1)|null|
+|**2022-03-31**|**Perceptual Quality Assessment of UGC Gaming Videos**|Xiangxu Yu et.al.|[2204.00128v1](http://arxiv.org/abs/2204.00128v1)|null|
+|**2022-03-31**|**GALA: Toward Geometry-and-Lighting-Aware Object Search for Compositing**|Sijie Zhu et.al.|[2204.00125v1](http://arxiv.org/abs/2204.00125v1)|null|
+|**2022-03-31**|**A Survey of Robust 3D Object Detection Methods in Point Clouds**|Walter Zimmer et.al.|[2204.00106v1](http://arxiv.org/abs/2204.00106v1)|null|
+|**2022-03-31**|**Dynamic Multimodal Fusion**|Zihui Xue et.al.|[2204.00102v1](http://arxiv.org/abs/2204.00102v1)|null|
+|**2022-03-31**|**TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization**|Sijie Zhu et.al.|[2204.00097v1](http://arxiv.org/abs/2204.00097v1)|**[link](https://github.com/jeff-zilence/transgeo2022)**|
+|**2022-03-31**|**Tooth Instance Segmentation on Panoramic Dental Radiographs Using U-Nets and Morphological Processing**|Selahattin Serdar Helli et.al.|[2204.00095v1](http://arxiv.org/abs/2204.00095v1)|**[link](https://github.com/imagingyeditepe/segmentation-of-teeth-in-panoramic-x-ray-image)**|
+|**2022-03-31**|**Efficient Maximal Coding Rate Reduction by Variational Forms**|Christina Baek et.al.|[2204.00077v1](http://arxiv.org/abs/2204.00077v1)|null|
 |**2022-03-31**|**Bringing Old Films Back to Life**|Ziyu Wan et.al.|[2203.17276v1](http://arxiv.org/abs/2203.17276v1)|**[link](https://github.com/raywzy/bringing-old-films-back-to-life)**|
 |**2022-03-31**|**DiffSkill: Skill Abstraction from Differentiable Physics for Deformable Object Manipulations with Tools**|Xingyu Lin et.al.|[2203.17275v1](http://arxiv.org/abs/2203.17275v1)|null|
 |**2022-03-31**|**Visual Prompting: Modifying Pixel Space to Adapt Pre-trained Models**|Hyojin Bahng et.al.|[2203.17274v1](http://arxiv.org/abs/2203.17274v1)|null|
@@ -2515,6 +2565,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-01**|**LASER: LAtent SpacE Rendering for 2D Visual Localization**|Zhixiang Min et.al.|[2204.00157v1](http://arxiv.org/abs/2204.00157v1)|null|
+|**2022-03-30**|**Investigating Top-$k$ White-Box and Transferable Black-box Attack**|Chaoning Zhang et.al.|[2204.00089v1](http://arxiv.org/abs/2204.00089v1)|null|
 |**2022-03-30**|**Dual Temperature Helps Contrastive Learning Without Many Negative Samples: Towards Understanding and Simplifying MoCo**|Chaoning Zhang et.al.|[2203.17248v1](http://arxiv.org/abs/2203.17248v1)|null|
 |**2022-03-31**|**End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps**|Ke Guo et.al.|[2203.16910v1](http://arxiv.org/abs/2203.16910v1)|**[link](https://github.com/kguo-cs/tdor)**|
 |**2022-03-31**|**Personalized Image Aesthetics Assessment with Rich Attributes**|Yuzhe Yang et.al.|[2203.16754v1](http://arxiv.org/abs/2203.16754v1)|null|

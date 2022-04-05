@@ -1,4 +1,4 @@
-## Updated on 2022.04.04
+## Updated on 2022.04.05
 
 ## cs.CV
 
@@ -25,7 +25,7 @@
 |**2022-04-01**|**Learning to Deblur using Light Field Generated and Real Defocus Images**|Lingyan Ruan et.al.|[2204.00367v1](http://arxiv.org/abs/2204.00367v1)|**[link](https://github.com/lingyanruan/DRBNet)**|
 |**2022-04-01**|**RMS-FlowNet: Efficient and Robust Multi-Scale Scene Flow Estimation for Large-Scale Point Clouds**|Ramy Battrawy et.al.|[2204.00354v1](http://arxiv.org/abs/2204.00354v1)|null|
 |**2022-04-01**|**DIP: Deep Inverse Patchmatch for High-Resolution Optical Flow**|Zihua Zheng et.al.|[2204.00330v1](http://arxiv.org/abs/2204.00330v1)|**[link](https://github.com/zihuazheng/dip)**|
-|**2022-04-01**|**CAT-Det: Contrastively Augmented Transformer for Multi-modal 3D Object Detection**|Yanan Zhang et.al.|[2204.00325v1](http://arxiv.org/abs/2204.00325v1)|null|
+|**2022-04-04**|**CAT-Det: Contrastively Augmented Transformer for Multi-modal 3D Object Detection**|Yanan Zhang et.al.|[2204.00325v2](http://arxiv.org/abs/2204.00325v2)|null|
 |**2022-04-01**|**Unimodal-Concentrated Loss: Fully Adaptive Label Distribution Learning for Ordinal Regression**|Qiang Li et.al.|[2204.00309v1](http://arxiv.org/abs/2204.00309v1)|null|
 |**2022-04-01**|**Face identification by means of a neural net classifier**|Virginia Espinosa-Duro et.al.|[2204.00305v1](http://arxiv.org/abs/2204.00305v1)|null|
 |**2022-04-01**|**Unitail: Detecting, Reading, and Matching in Retail Scene**|Fangyi Chen et.al.|[2204.00298v1](http://arxiv.org/abs/2204.00298v1)|null|
@@ -2592,7 +2592,7 @@
 |**2022-03-29**|**Eigenlanes: Data-Driven Lane Descriptors for Structurally Diverse Lanes**|Dongkwon Jin et.al.|[2203.15302v1](http://arxiv.org/abs/2203.15302v1)|**[link](https://github.com/dongkwonjin/eigenlanes)**|
 |**2022-03-30**|**MAT: Mask-Aware Transformer for Large Hole Image Inpainting**|Wenbo Li et.al.|[2203.15270v2](http://arxiv.org/abs/2203.15270v2)|**[link](https://github.com/fenglinglwb/mat)**|
 |**2022-03-29**|**Eigencontours: Novel Contour Descriptors Based on Low-Rank Approximation**|Wonhui Park et.al.|[2203.15259v1](http://arxiv.org/abs/2203.15259v1)|null|
-|**2022-03-29**|**Temporal Feature Alignment and Mutual Information Maximization for Video-Based Human Pose Estimation**|Zhenguang Liu et.al.|[2203.15227v1](http://arxiv.org/abs/2203.15227v1)|**[link](https://github.com/pose-group/fami-pose)**|
+|**2022-04-03**|**Temporal Feature Alignment and Mutual Information Maximization for Video-Based Human Pose Estimation**|Zhenguang Liu et.al.|[2203.15227v2](http://arxiv.org/abs/2203.15227v2)|**[link](https://github.com/pose-group/fami-pose)**|
 |**2022-03-30**|**Affine Medical Image Registration with Coarse-to-Fine Vision Transformer**|Tony C. W. Mok et.al.|[2203.15216v2](http://arxiv.org/abs/2203.15216v2)|**[link](https://github.com/cwmok/C2FViT)**|
 |**2022-03-28**|**Text2Pos: Text-to-Point-Cloud Cross-Modal Localization**|Manuel Kolmet et.al.|[2203.15125v1](http://arxiv.org/abs/2203.15125v1)|null|
 |**2022-03-28**|**Expanding Low-Density Latent Regions for Open-Set Object Detection**|Jiaming Han et.al.|[2203.14911v1](http://arxiv.org/abs/2203.14911v1)|**[link](https://github.com/csuhan/opendet2)**|

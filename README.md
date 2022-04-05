@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-04**|**MaxViT: Multi-Axis Vision Transformer**|Zhengzhong Tu et.al.|[2204.01697v1](http://arxiv.org/abs/2204.01697v1)|null|
+|**2022-04-04**|**Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos**|Shaowei Liu et.al.|[2204.01696v1](http://arxiv.org/abs/2204.01696v1)|null|
+|**2022-04-04**|**LISA: Learning Implicit Shape and Appearance of Hands**|Enric Corona et.al.|[2204.01695v1](http://arxiv.org/abs/2204.01695v1)|null|
+|**2022-04-04**|**"This is my unicorn, Fluffy": Personalizing frozen vision-language representations**|Niv Cohen et.al.|[2204.01694v1](http://arxiv.org/abs/2204.01694v1)|null|
+|**2022-04-04**|**Monitoring social distancing with single image depth estimation**|Alessio Mingozzi et.al.|[2204.01693v1](http://arxiv.org/abs/2204.01693v1)|null|
+|**2022-04-04**|**Long Movie Clip Classification with State-Space Video Models**|Md Mohaiminul Islam et.al.|[2204.01692v1](http://arxiv.org/abs/2204.01692v1)|null|
+|**2022-04-04**|**End-to-end multi-particle reconstruction in high occupancy imaging calorimeters with graph neural networks**|Shah Rukh Qasim et.al.|[2204.01681v1](http://arxiv.org/abs/2204.01681v1)|null|
+|**2022-04-04**|**TALLFormer: Temporal Action Localization with Long-memory Transformer**|Feng Cheng et.al.|[2204.01680v1](http://arxiv.org/abs/2204.01680v1)|null|
+|**2022-04-04**|**MultiMAE: Multi-modal Multi-task Masked Autoencoders**|Roman Bachmann et.al.|[2204.01678v1](http://arxiv.org/abs/2204.01678v1)|**[link](https://github.com/EPFL-VILAB/MultiMAE)**|
+|**2022-04-04**|**Exemplar-bsaed Pattern Synthesis with Implicit Periodic Field Network**|Haiwei Chen et.al.|[2204.01671v1](http://arxiv.org/abs/2204.01671v1)|null|
+|**2022-04-04**|**A Novel Capsule Neural Network Based Model for Drowsiness Detection Using Electroencephalography Signals**|Luis Guarda et.al.|[2204.01666v1](http://arxiv.org/abs/2204.01666v1)|null|
+|**2022-04-04**|**Evolving Neural Selection with Adaptive Regularization**|Li Ding et.al.|[2204.01662v1](http://arxiv.org/abs/2204.01662v1)|null|
+|**2022-04-04**|**Three-dimensional Microstructural Image Synthesis from 2D Backscattered Electron Image of Cement Paste**|Xin Zhao et.al.|[2204.01645v1](http://arxiv.org/abs/2204.01645v1)|null|
+|**2022-04-04**|**APP: Anytime Progressive Pruning**|Diganta Misra et.al.|[2204.01640v1](http://arxiv.org/abs/2204.01640v1)|**[link](https://github.com/landskape-ai/progressive-pruning)**|
+|**2022-04-04**|**DODA: Data-oriented Sim-to-Real Domain Adaptation for 3D Indoor Semantic Segmentation**|Runyu Ding et.al.|[2204.01599v1](http://arxiv.org/abs/2204.01599v1)|null|
+|**2022-04-04**|**FIFO: Learning Fog-invariant Features for Foggy Scene Segmentation**|Sohyun Lee et.al.|[2204.01587v1](http://arxiv.org/abs/2204.01587v1)|null|
+|**2022-04-04**|**Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation From Monocular RGB Image**|Zhaoxin Fan et.al.|[2204.01586v1](http://arxiv.org/abs/2204.01586v1)|null|
+|**2022-04-04**|**Coarse-to-Fine Q-attention with Learned Path Ranking**|Stephen James et.al.|[2204.01571v1](http://arxiv.org/abs/2204.01571v1)|**[link](https://github.com/stepjam/ARM)**|
+|**2022-04-04**|**DAD: Data-free Adversarial Defense at Test Time**|Gaurav Kumar Nayak et.al.|[2204.01568v1](http://arxiv.org/abs/2204.01568v1)|null|
+|**2022-04-04**|**HiT-DVAE: Human Motion Generation via Hierarchical Transformer Dynamical VAE**|Xiaoyu Bie et.al.|[2204.01565v1](http://arxiv.org/abs/2204.01565v1)|null|
+|**2022-04-04**|**Con$^{2}$DA: Simplifying Semi-supervised Domain Adaptation by Learning Consistent and Contrastive Feature Representations**|Manuel Pérez-Carrasco et.al.|[2204.01558v1](http://arxiv.org/abs/2204.01558v1)|null|
+|**2022-04-04**|**Context-aware Visual Tracking with Joint Meta-updating**|Qiuhong Shen et.al.|[2204.01513v1](http://arxiv.org/abs/2204.01513v1)|null|
+|**2022-04-04**|**The Group Loss++: A deeper look into group loss for deep metric learning**|Ismail Elezi et.al.|[2204.01509v1](http://arxiv.org/abs/2204.01509v1)|null|
+|**2022-04-04**|**Adaptive Network Combination for Single-Image Reflection Removal: A Domain Generalization Perspective**|Ming Liu et.al.|[2204.01505v1](http://arxiv.org/abs/2204.01505v1)|**[link](https://github.com/csmliu/adanec)**|
+|**2022-04-04**|**Unsupervised Learning of Accurate Siamese Tracking**|Qiuhong Shen et.al.|[2204.01475v1](http://arxiv.org/abs/2204.01475v1)|**[link](https://github.com/florinshum/ulast)**|
+|**2022-04-04**|**Optimizing the Consumption of Spiking Neural Networks with Activity Regularization**|Simon Narduzzi et.al.|[2204.01460v1](http://arxiv.org/abs/2204.01460v1)|null|
+|**2022-04-04**|**Correlation Verification for Image Retrieval**|Seongwon Lee et.al.|[2204.01458v1](http://arxiv.org/abs/2204.01458v1)|**[link](https://github.com/sungonce/cvnet)**|
+|**2022-04-04**|**Learning Commonsense-aware Moment-Text Alignment for Fast Video Temporal Grounding**|Ziyue Wu et.al.|[2204.01450v1](http://arxiv.org/abs/2204.01450v1)|**[link](https://github.com/ziyuewu59/cca)**|
+|**2022-04-04**|**WildNet: Learning Domain Generalized Semantic Segmentation from the Wild**|Suhyeon Lee et.al.|[2204.01446v1](http://arxiv.org/abs/2204.01446v1)|**[link](https://github.com/suhyeonlee/wildnet)**|
+|**2022-04-04**|**Degradation-agnostic Correspondence from Resolution-asymmetric Stereo**|Xihao Chen et.al.|[2204.01429v1](http://arxiv.org/abs/2204.01429v1)|null|
+|**2022-04-04**|**Computer-Aided Extraction of Select MRI Markers of Cerebral Small Vessel Disease: A Systematic Review**|Jiyang Jiang et.al.|[2204.01411v1](http://arxiv.org/abs/2204.01411v1)|null|
+|**2022-04-04**|**Re-examining Distillation For Continual Object Detection**|Eli Verwimp et.al.|[2204.01407v1](http://arxiv.org/abs/2204.01407v1)|null|
+|**2022-04-04**|**How stable are Transferability Metrics evaluations?**|Andrea Agostinelli et.al.|[2204.01403v1](http://arxiv.org/abs/2204.01403v1)|null|
+|**2022-04-04**|**Dressi: A Hardware-Agnostic Differentiable Renderer with Reactive Shader Packing and Soft Rasterization**|Yusuke Takimoto et.al.|[2204.01386v1](http://arxiv.org/abs/2204.01386v1)|null|
+|**2022-04-04**|**Learning to solve Minimum Cost Multicuts efficiently using Edge-Weighted Graph Convolutional Neural Networks**|Steffen Jung et.al.|[2204.01366v1](http://arxiv.org/abs/2204.01366v1)|null|
+|**2022-04-04**|**MGRR-Net: Multi-level Graph Relational Reasoning Network for Facial Action Units Detection**|Xuri Ge et.al.|[2204.01349v1](http://arxiv.org/abs/2204.01349v1)|null|
+|**2022-04-04**|**Extended Reality for Anxiety and Depression Therapy amidst Mental Disorders -- A Systematic Review**|Omisore Olatunji et.al.|[2204.01348v1](http://arxiv.org/abs/2204.01348v1)|null|
+|**2022-04-04**|**An application of Pixel Interval Down-sampling (PID) for dense tiny microorganism counting on environmental microorganism images**|Jiawei Zhang et.al.|[2204.01341v1](http://arxiv.org/abs/2204.01341v1)|null|
+|**2022-04-04**|**IMOT: General-Purpose, Fast and Robust Estimation for Spatial Perception Problems with Outliers**|Lei Sun et.al.|[2204.01324v1](http://arxiv.org/abs/2204.01324v1)|null|
+|**2022-04-04**|**RayMVSNet: Learning Ray-based 1D Implicit Fields for Accurate Multi-View Stereo**|Junhua Xi et.al.|[2204.01320v1](http://arxiv.org/abs/2204.01320v1)|null|
+|**2022-04-04**|**Flexible Portrait Image Editing with Fine-Grained Control**|Linlin Liu et.al.|[2204.01318v1](http://arxiv.org/abs/2204.01318v1)|null|
+|**2022-04-04**|**REM: Routing Entropy Minimization for Capsule Networks**|Riccardo Renzulli et.al.|[2204.01298v1](http://arxiv.org/abs/2204.01298v1)|null|
+|**2022-04-04**|**Learning Dynamic Correlations in Spatiotemporal Graphs for Motion Prediction**|Jiajun Fu et.al.|[2204.01297v1](http://arxiv.org/abs/2204.01297v1)|null|
+|**2022-04-04**|**SPFNet:Subspace Pyramid Fusion Network for Semantic Segmentation**|Mohammed A. M. Elhassan et.al.|[2204.01278v1](http://arxiv.org/abs/2204.01278v1)|**[link](https://github.com/mohamedac29/SPFNet)**|
+|**2022-04-04**|**Aligning Silhouette Topology for Self-Adaptive 3D Human Pose Recovery**|Mugalodi Rakesh et.al.|[2204.01276v1](http://arxiv.org/abs/2204.01276v1)|null|
+|**2022-04-04**|**Improving Monocular Visual Odometry Using Learned Depth**|Libo Sun et.al.|[2204.01268v1](http://arxiv.org/abs/2204.01268v1)|null|
+|**2022-04-04**|**FoV-Net: Field-of-View Extrapolation Using Self-Attention and Uncertainty**|Liqian Ma et.al.|[2204.01267v1](http://arxiv.org/abs/2204.01267v1)|null|
+|**2022-04-04**|**Multi-modality Associative Bridging through Memory: Speech Sound Recollected from Face Video**|Minsu Kim et.al.|[2204.01265v1](http://arxiv.org/abs/2204.01265v1)|null|
+|**2022-04-04**|**Probabilistic Implicit Scene Completion**|Dongsu Zhang et.al.|[2204.01264v1](http://arxiv.org/abs/2204.01264v1)|**[link](https://github.com/96lives/gca)**|
+|**2022-04-04**|**Learning Neural Acoustic Fields**|Andrew Luo et.al.|[2204.00628v1](http://arxiv.org/abs/2204.00628v1)|null|
 |**2022-04-01**|**Simplicial Embeddings in Self-Supervised Learning and Downstream Classification**|Samuel Lavoie et.al.|[2204.00616v1](http://arxiv.org/abs/2204.00616v1)|**[link](https://github.com/lavoiems/simplicial-embeddings)**|
 |**2022-04-01**|**On the Importance of Asymmetry for Siamese Representation Learning**|Xiao Wang et.al.|[2204.00613v1](http://arxiv.org/abs/2204.00613v1)|**[link](https://github.com/facebookresearch/asym-siam)**|
 |**2022-04-01**|**Quantized GAN for Complex Music Generation from Dance Videos**|Ye Zhu et.al.|[2204.00604v1](http://arxiv.org/abs/2204.00604v1)|**[link](https://github.com/l-yezhu/d2m-gan)**|
@@ -2565,6 +2615,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-03**|**STCrowd: A Multimodal Dataset for Pedestrian Perception in Crowded Scenes**|Peishan Cong et.al.|[2204.01026v1](http://arxiv.org/abs/2204.01026v1)|**[link](https://github.com/4dvlab/stcrowd)**|
+|**2022-04-03**|**Neural Global Shutter: Learn to Restore Video from a Rolling Shutter Camera with Global Reset Feature**|Zhixiang Wang et.al.|[2204.00974v1](http://arxiv.org/abs/2204.00974v1)|**[link](https://github.com/lightchaserx/neural-global-shutter)**|
+|**2022-04-03**|**DST: Dynamic Substitute Training for Data-free Black-box Attack**|Wenxuan Wang et.al.|[2204.00972v1](http://arxiv.org/abs/2204.00972v1)|null|
+|**2022-04-03**|**AdaFace: Quality Adaptive Margin for Face Recognition**|Minchul Kim et.al.|[2204.00964v1](http://arxiv.org/abs/2204.00964v1)|**[link](https://github.com/mk-minchul/adaface)**|
+|**2022-04-02**|**R(Det)^2: Randomized Decision Routing for Object Detection**|Ya-Li Li et.al.|[2204.00794v1](http://arxiv.org/abs/2204.00794v1)|null|
 |**2022-04-01**|**LASER: LAtent SpacE Rendering for 2D Visual Localization**|Zhixiang Min et.al.|[2204.00157v1](http://arxiv.org/abs/2204.00157v1)|null|
 |**2022-03-30**|**Investigating Top-$k$ White-Box and Transferable Black-box Attack**|Chaoning Zhang et.al.|[2204.00089v1](http://arxiv.org/abs/2204.00089v1)|null|
 |**2022-03-30**|**Dual Temperature Helps Contrastive Learning Without Many Negative Samples: Towards Understanding and Simplifying MoCo**|Chaoning Zhang et.al.|[2203.17248v1](http://arxiv.org/abs/2203.17248v1)|**[link](https://github.com/ChaoningZhang/Dual-temperature)**|

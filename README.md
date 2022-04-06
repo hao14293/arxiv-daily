@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-05**|**SALISA: Saliency-based Input Sampling for Efficient Video Object Detection**|Babak Ehteshami Bejnordi et.al.|[2204.02397v1](http://arxiv.org/abs/2204.02397v1)|null|
+|**2022-04-05**|**SE(3)-Equivariant Attention Networks for Shape Reconstruction in Function Space**|Evangelos Chatzipantazis et.al.|[2204.02394v1](http://arxiv.org/abs/2204.02394v1)|null|
+|**2022-04-05**|**Action-Conditioned Contrastive Policy Pretraining**|Qihang Zhang et.al.|[2204.02393v1](http://arxiv.org/abs/2204.02393v1)|null|
+|**2022-04-05**|**Learning Pneumatic Non-Prehensile Manipulation with a Mobile Blower**|Jimmy Wu et.al.|[2204.02390v1](http://arxiv.org/abs/2204.02390v1)|null|
+|**2022-04-05**|**ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer**|Ruohan Gao et.al.|[2204.02389v1](http://arxiv.org/abs/2204.02389v1)|**[link](https://github.com/rhgao/objectfolder)**|
+|**2022-04-05**|**Pyramid Frequency Network with Spatial Attention Residual Refinement Module for Monocular Depth Estimation**|Zhengyang Lu et.al.|[2204.02386v1](http://arxiv.org/abs/2204.02386v1)|null|
+|**2022-04-05**|**CLEVR-X: A Visual Reasoning Dataset for Natural Language Explanations**|Leonard Salewski et.al.|[2204.02380v1](http://arxiv.org/abs/2204.02380v1)|**[link](https://github.com/explainableml/clevr-x)**|
+|**2022-04-05**|**A lightweight and accurate YOLO-like network for small target detection in Aerial Imagery**|Alessandro Betti et.al.|[2204.02325v1](http://arxiv.org/abs/2204.02325v1)|null|
+|**2022-04-05**|**Learning Generalizable Dexterous Manipulation from Human Grasp Affordance**|Yueh-Hua Wu et.al.|[2204.02320v1](http://arxiv.org/abs/2204.02320v1)|null|
+|**2022-04-05**|**iSDF: Real-Time Neural Signed Distance Fields for Robot Perception**|Joseph Ortiz et.al.|[2204.02296v1](http://arxiv.org/abs/2204.02296v1)|null|
+|**2022-04-05**|**Neural Convolutional Surfaces**|Luca Morreale et.al.|[2204.02289v1](http://arxiv.org/abs/2204.02289v1)|null|
+|**2022-04-05**|**Rethinking Visual Geo-localization for Large-Scale Applications**|Gabriele Berton et.al.|[2204.02287v1](http://arxiv.org/abs/2204.02287v1)|**[link](https://github.com/gmberton/cosplace)**|
+|**2022-04-05**|**SwapMix: Diagnosing and Regularizing the Over-Reliance on Visual Context in Visual Question Answering**|Vipul Gupta et.al.|[2204.02285v1](http://arxiv.org/abs/2204.02285v1)|**[link](https://github.com/vipulgupta1011/swapmix)**|
+|**2022-04-05**|**Lost in Latent Space: Disentangled Models and the Challenge of Combinatorial Generalisation**|Milton L. Montero et.al.|[2204.02283v1](http://arxiv.org/abs/2204.02283v1)|null|
+|**2022-04-05**|**Grounding of the Functional Object-Oriented Network in Industrial Tasks**|Rafik Ayari et.al.|[2204.02274v1](http://arxiv.org/abs/2204.02274v1)|null|
+|**2022-04-05**|**Arbitrary-Scale Image Synthesis**|Evangelos Ntavelis et.al.|[2204.02273v1](http://arxiv.org/abs/2204.02273v1)|**[link](https://github.com/vglsd/scaleparty)**|
+|**2022-04-05**|**The Probabilistic Normal Epipolar Constraint for Frame-To-Frame Rotation Optimization under Uncertain Feature Positions**|Dominik Muhle et.al.|[2204.02256v1](http://arxiv.org/abs/2204.02256v1)|null|
+|**2022-04-05**|**RBGNet: Ray-based Grouping for 3D Object Detection**|Haiyang Wang et.al.|[2204.02251v1](http://arxiv.org/abs/2204.02251v1)|**[link](https://github.com/haiyang-w/rbgnet)**|
+|**2022-04-05**|**IRON: Inverse Rendering by Optimizing Neural SDFs and Materials from Photometric Images**|Kai Zhang et.al.|[2204.02232v1](http://arxiv.org/abs/2204.02232v1)|null|
+|**2022-04-05**|**When Sparsity Meets Dynamic Convolution**|Shwai He et.al.|[2204.02227v1](http://arxiv.org/abs/2204.02227v1)|null|
+|**2022-04-05**|**SNUG: Self-Supervised Neural Dynamic Garments**|Igor Santesteban et.al.|[2204.02219v1](http://arxiv.org/abs/2204.02219v1)|null|
+|**2022-04-05**|**Vision Transformer Equipped with Neural Resizer on Facial Expression Recognition Task**|Hyeonbin Hwang et.al.|[2204.02181v1](http://arxiv.org/abs/2204.02181v1)|null|
+|**2022-04-05**|**Multi-View Transformer for 3D Visual Grounding**|Shijia Huang et.al.|[2204.02174v1](http://arxiv.org/abs/2204.02174v1)|**[link](https://github.com/sega-hsj/mvt-3dvg)**|
+|**2022-04-05**|**Joint Learning of Feature Extraction and Cost Aggregation for Semantic Correspondence**|Jiwon Kim et.al.|[2204.02164v1](http://arxiv.org/abs/2204.02164v1)|null|
+|**2022-04-05**|**Leveraging Equivariant Features for Absolute Pose Regression**|Mohamed Adel Musallam et.al.|[2204.02163v1](http://arxiv.org/abs/2204.02163v1)|null|
+|**2022-04-05**|**Automatic Image Content Extraction: Operationalizing Machine Learning in Humanistic Photographic Studies of Large Visual Archives**|Anssi Männistö et.al.|[2204.02149v1](http://arxiv.org/abs/2204.02149v1)|null|
+|**2022-04-05**|**Dual-AI: Dual-path Action Interaction Learning for Group Activity Recognition**|Mingfei Han et.al.|[2204.02148v1](http://arxiv.org/abs/2204.02148v1)|null|
+|**2022-04-05**|**Detector-Free Weakly Supervised Group Activity Recognition**|Dongkeun Kim et.al.|[2204.02139v1](http://arxiv.org/abs/2204.02139v1)|null|
+|**2022-04-05**|**Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation**|Tao Feng et.al.|[2204.02136v1](http://arxiv.org/abs/2204.02136v1)|**[link](https://github.com/hi-ft/erd)**|
+|**2022-04-05**|**Birds of A Feather Flock Together: Category-Divergence Guidance for Domain Adaptive Segmentation**|Bo Yuan et.al.|[2204.02111v1](http://arxiv.org/abs/2204.02111v1)|null|
+|**2022-04-05**|**P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior**|Vaishakh Patil et.al.|[2204.02091v1](http://arxiv.org/abs/2204.02091v1)|**[link](https://github.com/syscv/p3depth)**|
+|**2022-04-05**|**VocaLiST: An Audio-Visual Synchronisation Model for Lips and Voices**|Venkatesh S. Kadandale et.al.|[2204.02090v1](http://arxiv.org/abs/2204.02090v1)|null|
+|**2022-04-05**|**Real-time Hyperspectral Imaging in Hardware via Trained Metasurface Encoders**|Maksim Makarenko et.al.|[2204.02084v1](http://arxiv.org/abs/2204.02084v1)|**[link](https://github.com/makamoa/hyplex)**|
+|**2022-04-05**|**Real-time Online Multi-Object Tracking in Compressed Domain**|Qiankun Liu et.al.|[2204.02081v1](http://arxiv.org/abs/2204.02081v1)|null|
+|**2022-04-05**|**Semi-supervised Semantic Segmentation with Error Localization Network**|Donghyeon Kwon et.al.|[2204.02078v1](http://arxiv.org/abs/2204.02078v1)|null|
+|**2022-04-05**|**Complex-Valued Autoencoders for Object Discovery**|Sindy Löwe et.al.|[2204.02075v1](http://arxiv.org/abs/2204.02075v1)|null|
+|**2022-04-05**|**Split Hierarchical Variational Compression**|Tom Ryder et.al.|[2204.02071v1](http://arxiv.org/abs/2204.02071v1)|null|
+|**2022-04-05**|**Spread Spurious Attribute: Improving Worst-group Accuracy with Spurious Attribute Estimation**|Junhyun Nam et.al.|[2204.02070v1](http://arxiv.org/abs/2204.02070v1)|null|
+|**2022-04-05**|**An efficient real-time target tracking algorithm using adaptive feature fusion**|Yanyan Liu et.al.|[2204.02054v1](http://arxiv.org/abs/2204.02054v1)|null|
+|**2022-04-05**|**DT2I: Dense Text-to-Image Generation from Region Descriptions**|Stanislav Frolov et.al.|[2204.02035v1](http://arxiv.org/abs/2204.02035v1)|null|
+|**2022-04-05**|**Learning to Reduce Information Bottleneck for Object Detection in Aerial Images**|Yuchen Shen et.al.|[2204.02033v1](http://arxiv.org/abs/2204.02033v1)|**[link](https://github.com/ssyc123/gsnet)**|
+|**2022-04-05**|**A Generative Deep Learning Approach to Stochastic Downscaling of Precipitation Forecasts**|Lucy Harris et.al.|[2204.02028v1](http://arxiv.org/abs/2204.02028v1)|null|
+|**2022-04-05**|**LatentGAN Autoencoder: Learning Disentangled Latent Distribution**|Sanket Kalwar et.al.|[2204.02010v1](http://arxiv.org/abs/2204.02010v1)|null|
+|**2022-04-05**|**Learning Video Salient Object Detection Progressively from Unlabeled Videos**|Binwei Xu et.al.|[2204.02008v1](http://arxiv.org/abs/2204.02008v1)|null|
+|**2022-04-05**|**Bimodal Distributed Binarized Neural Networks**|Tal Rozen et.al.|[2204.02004v1](http://arxiv.org/abs/2204.02004v1)|**[link](https://github.com/blueanon/bd-bnn)**|
+|**2022-04-05**|**Multi-Weight Respecification of Scan-specific Learning for Parallel Imaging**|Hui Tao et.al.|[2204.01979v1](http://arxiv.org/abs/2204.01979v1)|null|
+|**2022-04-05**|**Audio-visual multi-channel speech separation, dereverberation and recognition**|Guinan Li et.al.|[2204.01977v1](http://arxiv.org/abs/2204.01977v1)|null|
+|**2022-04-05**|**Non-Local Latent Relation Distillation for Self-Adaptive 3D Human Pose Estimation**|Jogendra Nath Kundu et.al.|[2204.01971v1](http://arxiv.org/abs/2204.01971v1)|null|
+|**2022-04-05**|**Region Rebalance for Long-Tailed Semantic Segmentation**|Jiequan Cui et.al.|[2204.01969v1](http://arxiv.org/abs/2204.01969v1)|null|
+|**2022-04-05**|**PSDoodle: Searching for App Screens via Interactive Sketching**|Soumik Mohian et.al.|[2204.01968v1](http://arxiv.org/abs/2204.01968v1)|null|
 |**2022-04-04**|**MaxViT: Multi-Axis Vision Transformer**|Zhengzhong Tu et.al.|[2204.01697v1](http://arxiv.org/abs/2204.01697v1)|null|
 |**2022-04-04**|**Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos**|Shaowei Liu et.al.|[2204.01696v1](http://arxiv.org/abs/2204.01696v1)|null|
 |**2022-04-04**|**LISA: Learning Implicit Shape and Appearance of Hands**|Enric Corona et.al.|[2204.01695v1](http://arxiv.org/abs/2204.01695v1)|null|
@@ -2615,6 +2665,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-05**|**Arbitrary-Scale Image Synthesis**|Evangelos Ntavelis et.al.|[2204.02273v1](http://arxiv.org/abs/2204.02273v1)|**[link](https://github.com/vglsd/scaleparty)**|
+|**2022-04-05**|**Multi-View Transformer for 3D Visual Grounding**|Shijia Huang et.al.|[2204.02174v1](http://arxiv.org/abs/2204.02174v1)|**[link](https://github.com/sega-hsj/mvt-3dvg)**|
+|**2022-04-05**|**Leveraging Equivariant Features for Absolute Pose Regression**|Mohamed Adel Musallam et.al.|[2204.02163v1](http://arxiv.org/abs/2204.02163v1)|null|
 |**2022-04-03**|**STCrowd: A Multimodal Dataset for Pedestrian Perception in Crowded Scenes**|Peishan Cong et.al.|[2204.01026v1](http://arxiv.org/abs/2204.01026v1)|**[link](https://github.com/4dvlab/stcrowd)**|
 |**2022-04-03**|**Neural Global Shutter: Learn to Restore Video from a Rolling Shutter Camera with Global Reset Feature**|Zhixiang Wang et.al.|[2204.00974v1](http://arxiv.org/abs/2204.00974v1)|**[link](https://github.com/lightchaserx/neural-global-shutter)**|
 |**2022-04-03**|**DST: Dynamic Substitute Training for Data-free Black-box Attack**|Wenxuan Wang et.al.|[2204.00972v1](http://arxiv.org/abs/2204.00972v1)|null|
@@ -2656,6 +2709,7 @@
 |**2022-03-28**|**REGTR: End-to-end Point Cloud Correspondences with Transformers**|Zi Jian Yew et.al.|[2203.14517v1](http://arxiv.org/abs/2203.14517v1)|**[link](https://github.com/yewzijian/regtr)**|
 |**2022-03-28**|**Stratified Transformer for 3D Point Cloud Segmentation**|Xin Lai et.al.|[2203.14508v1](http://arxiv.org/abs/2203.14508v1)|**[link](https://github.com/dvlab-research/stratified-transformer)**|
 |**2022-03-28**|**Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection**|Choubo Ding et.al.|[2203.14506v1](http://arxiv.org/abs/2203.14506v1)|**[link](https://github.com/choubo/dra)**|
+|**2022-04-05**|**Towards Discriminative Representation: Multi-view Trajectory Contrastive Learning for Online Multi-object Tracking**|En Yu et.al.|[2203.14208v2](http://arxiv.org/abs/2203.14208v2)|null|
 |**2022-04-05**|**Learning to Answer Questions in Dynamic Audio-Visual Scenarios**|Guangyao Li et.al.|[2203.14072v2](http://arxiv.org/abs/2203.14072v2)|null|
 |**2022-03-26**|**Visual Abductive Reasoning**|Chen Liang et.al.|[2203.14040v1](http://arxiv.org/abs/2203.14040v1)|**[link](https://github.com/leonnnop/var)**|
 |**2022-04-05**|**Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection**|Li Yin et.al.|[2203.13903v2](http://arxiv.org/abs/2203.13903v2)|null|

@@ -1,4 +1,4 @@
-## Updated on 2022.04.05
+## Updated on 2022.04.06
 
 ## cs.CV
 
@@ -2649,16 +2649,16 @@
 |**2022-03-29**|**Eigencontours: Novel Contour Descriptors Based on Low-Rank Approximation**|Wonhui Park et.al.|[2203.15259v1](http://arxiv.org/abs/2203.15259v1)|null|
 |**2022-04-03**|**Temporal Feature Alignment and Mutual Information Maximization for Video-Based Human Pose Estimation**|Zhenguang Liu et.al.|[2203.15227v2](http://arxiv.org/abs/2203.15227v2)|**[link](https://github.com/pose-group/fami-pose)**|
 |**2022-03-30**|**Affine Medical Image Registration with Coarse-to-Fine Vision Transformer**|Tony C. W. Mok et.al.|[2203.15216v2](http://arxiv.org/abs/2203.15216v2)|**[link](https://github.com/cwmok/C2FViT)**|
-|**2022-03-28**|**Text2Pos: Text-to-Point-Cloud Cross-Modal Localization**|Manuel Kolmet et.al.|[2203.15125v1](http://arxiv.org/abs/2203.15125v1)|null|
+|**2022-04-05**|**Text2Pos: Text-to-Point-Cloud Cross-Modal Localization**|Manuel Kolmet et.al.|[2203.15125v2](http://arxiv.org/abs/2203.15125v2)|null|
 |**2022-03-28**|**Expanding Low-Density Latent Regions for Open-Set Object Detection**|Jiaming Han et.al.|[2203.14911v1](http://arxiv.org/abs/2203.14911v1)|**[link](https://github.com/csuhan/opendet2)**|
 |**2022-03-28**|**Towards Implicit Text-Guided 3D Shape Generation**|Zhengzhe Liu et.al.|[2203.14622v1](http://arxiv.org/abs/2203.14622v1)|**[link](https://github.com/liuzhengzhe/towards-implicit-text-guided-shape-generation)**|
-|**2022-03-28**|**Uni6D: A Unified CNN Framework without Projection Breakdown for 6D Pose Estimation**|Xiaoke Jiang et.al.|[2203.14531v1](http://arxiv.org/abs/2203.14531v1)|null|
+|**2022-04-05**|**Uni6D: A Unified CNN Framework without Projection Breakdown for 6D Pose Estimation**|Xiaoke Jiang et.al.|[2203.14531v2](http://arxiv.org/abs/2203.14531v2)|null|
 |**2022-03-28**|**REGTR: End-to-end Point Cloud Correspondences with Transformers**|Zi Jian Yew et.al.|[2203.14517v1](http://arxiv.org/abs/2203.14517v1)|**[link](https://github.com/yewzijian/regtr)**|
 |**2022-03-28**|**Stratified Transformer for 3D Point Cloud Segmentation**|Xin Lai et.al.|[2203.14508v1](http://arxiv.org/abs/2203.14508v1)|**[link](https://github.com/dvlab-research/stratified-transformer)**|
 |**2022-03-28**|**Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection**|Choubo Ding et.al.|[2203.14506v1](http://arxiv.org/abs/2203.14506v1)|**[link](https://github.com/choubo/dra)**|
-|**2022-03-26**|**Learning to Answer Questions in Dynamic Audio-Visual Scenarios**|Guangyao Li et.al.|[2203.14072v1](http://arxiv.org/abs/2203.14072v1)|null|
+|**2022-04-05**|**Learning to Answer Questions in Dynamic Audio-Visual Scenarios**|Guangyao Li et.al.|[2203.14072v2](http://arxiv.org/abs/2203.14072v2)|null|
 |**2022-03-26**|**Visual Abductive Reasoning**|Chen Liang et.al.|[2203.14040v1](http://arxiv.org/abs/2203.14040v1)|**[link](https://github.com/leonnnop/var)**|
-|**2022-03-25**|**Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection**|Li Yin et.al.|[2203.13903v1](http://arxiv.org/abs/2203.13903v1)|null|
+|**2022-04-05**|**Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection**|Li Yin et.al.|[2203.13903v2](http://arxiv.org/abs/2203.13903v2)|null|
 |**2022-03-25**|**Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion**|Tianpei Gu et.al.|[2203.13777v1](http://arxiv.org/abs/2203.13777v1)|**[link](https://github.com/gutianpei/mid)**|
 |**2022-03-25**|**Rope3D: TheRoadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task**|Xiaoqing Ye et.al.|[2203.13608v1](http://arxiv.org/abs/2203.13608v1)|null|
 |**2022-03-25**|**CAD: Co-Adapting Discriminative Features for Improved Few-Shot Classification**|Philip Chikontwe et.al.|[2203.13465v1](http://arxiv.org/abs/2203.13465v1)|null|

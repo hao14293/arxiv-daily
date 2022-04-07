@@ -1,4 +1,4 @@
-## Updated on 2022.04.06
+## Updated on 2022.04.07
 
 ## cs.CV
 
@@ -30,7 +30,7 @@
 |**2022-04-05**|**Joint Learning of Feature Extraction and Cost Aggregation for Semantic Correspondence**|Jiwon Kim et.al.|[2204.02164v1](http://arxiv.org/abs/2204.02164v1)|null|
 |**2022-04-05**|**Leveraging Equivariant Features for Absolute Pose Regression**|Mohamed Adel Musallam et.al.|[2204.02163v1](http://arxiv.org/abs/2204.02163v1)|null|
 |**2022-04-05**|**Automatic Image Content Extraction: Operationalizing Machine Learning in Humanistic Photographic Studies of Large Visual Archives**|Anssi Männistö et.al.|[2204.02149v1](http://arxiv.org/abs/2204.02149v1)|null|
-|**2022-04-05**|**Dual-AI: Dual-path Action Interaction Learning for Group Activity Recognition**|Mingfei Han et.al.|[2204.02148v1](http://arxiv.org/abs/2204.02148v1)|null|
+|**2022-04-06**|**Dual-AI: Dual-path Actor Interaction Learning for Group Activity Recognition**|Mingfei Han et.al.|[2204.02148v2](http://arxiv.org/abs/2204.02148v2)|null|
 |**2022-04-05**|**Detector-Free Weakly Supervised Group Activity Recognition**|Dongkeun Kim et.al.|[2204.02139v1](http://arxiv.org/abs/2204.02139v1)|null|
 |**2022-04-05**|**Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation**|Tao Feng et.al.|[2204.02136v1](http://arxiv.org/abs/2204.02136v1)|**[link](https://github.com/hi-ft/erd)**|
 |**2022-04-05**|**Birds of A Feather Flock Together: Category-Divergence Guidance for Domain Adaptive Segmentation**|Bo Yuan et.al.|[2204.02111v1](http://arxiv.org/abs/2204.02111v1)|null|
@@ -51,7 +51,7 @@
 |**2022-04-05**|**Bimodal Distributed Binarized Neural Networks**|Tal Rozen et.al.|[2204.02004v1](http://arxiv.org/abs/2204.02004v1)|**[link](https://github.com/blueanon/bd-bnn)**|
 |**2022-04-05**|**Multi-Weight Respecification of Scan-specific Learning for Parallel Imaging**|Hui Tao et.al.|[2204.01979v1](http://arxiv.org/abs/2204.01979v1)|null|
 |**2022-04-05**|**Audio-visual multi-channel speech separation, dereverberation and recognition**|Guinan Li et.al.|[2204.01977v1](http://arxiv.org/abs/2204.01977v1)|null|
-|**2022-04-05**|**Non-Local Latent Relation Distillation for Self-Adaptive 3D Human Pose Estimation**|Jogendra Nath Kundu et.al.|[2204.01971v1](http://arxiv.org/abs/2204.01971v1)|null|
+|**2022-04-06**|**Non-Local Latent Relation Distillation for Self-Adaptive 3D Human Pose Estimation**|Jogendra Nath Kundu et.al.|[2204.01971v2](http://arxiv.org/abs/2204.01971v2)|null|
 |**2022-04-05**|**Region Rebalance for Long-Tailed Semantic Segmentation**|Jiequan Cui et.al.|[2204.01969v1](http://arxiv.org/abs/2204.01969v1)|null|
 |**2022-04-05**|**PSDoodle: Searching for App Screens via Interactive Sketching**|Soumik Mohian et.al.|[2204.01968v1](http://arxiv.org/abs/2204.01968v1)|null|
 |**2022-04-04**|**MaxViT: Multi-Axis Vision Transformer**|Zhengzhong Tu et.al.|[2204.01697v1](http://arxiv.org/abs/2204.01697v1)|null|

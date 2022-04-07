@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-06**|**Temporal Alignment Networks for Long-term Video**|Tengda Han et.al.|[2204.02968v1](http://arxiv.org/abs/2204.02968v1)|null|
+|**2022-04-06**|**LilNetX: Lightweight Networks with EXtreme Model Compression and Structured Sparsification**|Sharath Girish et.al.|[2204.02965v1](http://arxiv.org/abs/2204.02965v1)|**[link](https://github.com/sharath-girish/lilnetx)**|
+|**2022-04-06**|**Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection**|Yuxin Fang et.al.|[2204.02964v1](http://arxiv.org/abs/2204.02964v1)|**[link](https://github.com/hustvl/mimdet)**|
+|**2022-04-06**|**SMU-Net: Style matching U-Net for brain tumor segmentation with missing modalities**|Reza Azad et.al.|[2204.02961v1](http://arxiv.org/abs/2204.02961v1)|**[link](https://github.com/rezazad68/smunet)**|
+|**2022-04-06**|**Simple and Effective Synthesis of Indoor 3D Scenes**|Jing Yu Koh et.al.|[2204.02960v1](http://arxiv.org/abs/2204.02960v1)|null|
+|**2022-04-06**|**LEAD: Self-Supervised Landmark Estimation by Aligning Distributions of Feature Similarity**|Tejan Karmali et.al.|[2204.02958v1](http://arxiv.org/abs/2204.02958v1)|null|
+|**2022-04-06**|**Video Demoireing with Relation-Based Temporal Consistency**|Peng Dai et.al.|[2204.02957v1](http://arxiv.org/abs/2204.02957v1)|null|
+|**2022-04-06**|**"The Pedestrian next to the Lamppost" Adaptive Object Graphs for Better Instantaneous Mapping**|Avishkar Saha et.al.|[2204.02944v1](http://arxiv.org/abs/2204.02944v1)|null|
+|**2022-04-06**|**Intervertebral Disc Labeling With Learning Shape Information, A Look Once Approach**|Reza Azad et.al.|[2204.02943v1](http://arxiv.org/abs/2204.02943v1)|null|
+|**2022-04-06**|**S-R2F2U-Net: A single-stage model for teeth segmentation**|Mrinal Kanti Dhar et.al.|[2204.02939v1](http://arxiv.org/abs/2204.02939v1)|**[link](https://github.com/mrinal054/teethseg_sr2f2u-net)**|
+|**2022-04-06**|**Last Layer Re-Training is Sufficient for Robustness to Spurious Correlations**|Polina Kirichenko et.al.|[2204.02937v1](http://arxiv.org/abs/2204.02937v1)|**[link](https://github.com/polinakirichenko/deep_feature_reweighting)**|
+|**2022-04-06**|**An Empirical Study of End-to-End Temporal Action Detection**|Xiaolong Liu et.al.|[2204.02932v1](http://arxiv.org/abs/2204.02932v1)|**[link](https://github.com/xlliu7/E2E-TAD)**|
+|**2022-04-06**|**End-to-End Instance Edge Detection**|Xueyan Zou et.al.|[2204.02898v1](http://arxiv.org/abs/2204.02898v1)|null|
+|**2022-04-06**|**DBF: Dynamic Belief Fusion for Combining Multiple Object Detectors**|Hyungtae Lee et.al.|[2204.02890v1](http://arxiv.org/abs/2204.02890v1)|null|
+|**2022-04-06**|**Sampling-based Fast Gradient Rescaling Method for Highly Transferable Adversarial Attacks**|Xu Han et.al.|[2204.02887v1](http://arxiv.org/abs/2204.02887v1)|null|
+|**2022-04-06**|**ECLIPSE: Efficient Long-range Video Retrieval using Sight and Sound**|Yan-Bo Lin et.al.|[2204.02874v1](http://arxiv.org/abs/2204.02874v1)|null|
+|**2022-04-06**|**Demonstrate Once, Imitate Immediately (DOME): Learning Visual Servoing for One-Shot Imitation Learning**|Eugene Valassakis et.al.|[2204.02863v1](http://arxiv.org/abs/2204.02863v1)|null|
+|**2022-04-06**|**Retrieval-based Spatially Adaptive Normalization for Semantic Image Synthesis**|Yupeng Shi et.al.|[2204.02854v1](http://arxiv.org/abs/2204.02854v1)|null|
+|**2022-04-06**|**Influence of Color Spaces for Deep Learning Image Colorization**|Coloma Ballester et.al.|[2204.02850v1](http://arxiv.org/abs/2204.02850v1)|null|
+|**2022-04-06**|**KNN-Diffusion: Image Generation via Large-Scale Retrieval**|Oron Ashual et.al.|[2204.02849v1](http://arxiv.org/abs/2204.02849v1)|null|
+|**2022-04-06**|**Learning to Generate Realistic Noisy Images via Pixel-level Noise-aware Adversarial Training**|Yuanhao Cai et.al.|[2204.02844v1](http://arxiv.org/abs/2204.02844v1)|null|
+|**2022-04-06**|**Open-Source Tools for Behavioral Video Analysis: Setup, Methods, and Development**|Kevin Luxem et.al.|[2204.02842v1](http://arxiv.org/abs/2204.02842v1)|null|
+|**2022-04-06**|**CCAT-NET: A Novel Transformer Based Semi-supervised Framework for Covid-19 Lung Lesion Segmentation**|Mingyang Liu et.al.|[2204.02839v1](http://arxiv.org/abs/2204.02839v1)|null|
+|**2022-04-06**|**An Empirical Study of Remote Sensing Pretraining**|Di Wang et.al.|[2204.02825v1](http://arxiv.org/abs/2204.02825v1)|**[link](https://github.com/vitae-transformer/vitae-transformer-remote-sensing)**|
+|**2022-04-06**|**ShowFace: Coordinated Face Inpainting with Memory-Disentangled Refinement Networks**|Zhuojie Wu et.al.|[2204.02824v1](http://arxiv.org/abs/2204.02824v1)|null|
+|**2022-04-06**|**BMD: A General Class-balanced Multicentric Dynamic Prototype Strategy for Source-free Domain Adaptation**|Sanqing Qu et.al.|[2204.02811v1](http://arxiv.org/abs/2204.02811v1)|**[link](https://github.com/ispc-lab/bmd)**|
+|**2022-04-06**|**Expression-preserving face frontalization improves visually assisted speech processing**|Zhiqi Kang et.al.|[2204.02810v1](http://arxiv.org/abs/2204.02810v1)|null|
+|**2022-04-06**|**Implicit Motion-Compensated Network for Unsupervised Video Object Segmentation**|Lin Xi et.al.|[2204.02791v1](http://arxiv.org/abs/2204.02791v1)|null|
+|**2022-04-06**|**3D face reconstruction with dense landmarks**|Erroll Wood et.al.|[2204.02776v1](http://arxiv.org/abs/2204.02776v1)|null|
+|**2022-04-06**|**Semi-DRDNet Semi-supervised Detail-recovery Image Deraining Network via Unpaired Contrastive Learning**|Yiyang Shen et.al.|[2204.02772v1](http://arxiv.org/abs/2204.02772v1)|null|
+|**2022-04-06**|**BFRnet: A deep learning-based MR background field removal method for QSM of the brain containing significant pathological susceptibility sources**|Xuanyu Zhu et.al.|[2204.02760v1](http://arxiv.org/abs/2204.02760v1)|null|
+|**2022-04-06**|**Universal Representations: A Unified Look at Multiple Task and Domain Learning**|Wei-Hong Li et.al.|[2204.02744v1](http://arxiv.org/abs/2204.02744v1)|null|
+|**2022-04-06**|**Masking Adversarial Damage: Finding Adversarial Saliency for Robust and Sparse Network**|Byung-Kwan Lee et.al.|[2204.02738v1](http://arxiv.org/abs/2204.02738v1)|null|
+|**2022-04-06**|**Georeferencing of Photovoltaic Modules from Aerial Infrared Videos using Structure-from-Motion**|Lukas Bommes et.al.|[2204.02733v1](http://arxiv.org/abs/2204.02733v1)|**[link](https://github.com/lukasbommes/pv-hawk)**|
+|**2022-04-06**|**Aesthetic Text Logo Synthesis via Content-aware Layout Inferring**|Yizhi Wang et.al.|[2204.02701v1](http://arxiv.org/abs/2204.02701v1)|**[link](https://github.com/yizhiwang96/textlogolayout)**|
+|**2022-04-06**|**SEAL: A Large-scale Video Dataset of Multi-grained Spatio-temporally Action Localization**|Shimin Chen et.al.|[2204.02688v1](http://arxiv.org/abs/2204.02688v1)|null|
+|**2022-04-06**|**Domain-Agnostic Prior for Transfer Semantic Segmentation**|Xinyue Huo et.al.|[2204.02684v1](http://arxiv.org/abs/2204.02684v1)|null|
+|**2022-04-06**|**PP-LiteSeg: A Superior Real-Time Semantic Segmentation Model**|Juncai Peng et.al.|[2204.02681v1](http://arxiv.org/abs/2204.02681v1)|**[link](https://github.com/PaddlePaddle/PaddleSeg)**|
+|**2022-04-06**|**Rolling Colors: Adversarial Laser Exploits against Traffic Light Recognition**|Chen Yan et.al.|[2204.02675v1](http://arxiv.org/abs/2204.02675v1)|null|
+|**2022-04-06**|**Faster-TAD: Towards Temporal Action Detection with Proposal Generation and Classification in a Unified Network**|Shimin Chen et.al.|[2204.02674v1](http://arxiv.org/abs/2204.02674v1)|null|
+|**2022-04-06**|**Towards An End-to-End Framework for Flow-Guided Video Inpainting**|Zhen Li et.al.|[2204.02663v1](http://arxiv.org/abs/2204.02663v1)|**[link](https://github.com/MCG-NKU/E2FGVI)**|
+|**2022-04-06**|**CAIPI in Practice: Towards Explainable Interactive Medical Image Classification**|Emanuel Slany et.al.|[2204.02661v1](http://arxiv.org/abs/2204.02661v1)|null|
+|**2022-04-06**|**The Swiss Army Knife for Image-to-Image Translation: Multi-Task Diffusion Models**|Julia Wolleb et.al.|[2204.02641v1](http://arxiv.org/abs/2204.02641v1)|null|
+|**2022-04-06**|**Super-resolved multi-temporal segmentation with deep permutation-invariant networks**|Diego Valsesia et.al.|[2204.02631v1](http://arxiv.org/abs/2204.02631v1)|null|
+|**2022-04-06**|**IterVM: Iterative Vision Modeling Module for Scene Text Recognition**|Xiaojie Chu et.al.|[2204.02630v1](http://arxiv.org/abs/2204.02630v1)|null|
+|**2022-04-06**|**Towards Robust Adaptive Object Detection under Noisy Annotations**|Xinyu Liu et.al.|[2204.02620v1](http://arxiv.org/abs/2204.02620v1)|**[link](https://github.com/cityu-aim-group/nlte)**|
+|**2022-04-06**|**Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification**|Yanan Wang et.al.|[2204.02611v1](http://arxiv.org/abs/2204.02611v1)|**[link](https://github.com/yanan-wang-cs/clonedperson)**|
+|**2022-04-06**|**Face recognition in a transformed domain**|Marcos Faundez-Zanuy et.al.|[2204.02608v1](http://arxiv.org/abs/2204.02608v1)|null|
+|**2022-04-06**|**Fine-Grained Predicates Learning for Scene Graph Generation**|Xinyu Lyu et.al.|[2204.02597v1](http://arxiv.org/abs/2204.02597v1)|null|
+|**2022-04-06**|**Contextual Attention Mechanism, SRGAN Based Inpainting System for Eliminating Interruptions from Images**|Narayana Darapaneni et.al.|[2204.02591v1](http://arxiv.org/abs/2204.02591v1)|null|
 |**2022-04-05**|**SALISA: Saliency-based Input Sampling for Efficient Video Object Detection**|Babak Ehteshami Bejnordi et.al.|[2204.02397v1](http://arxiv.org/abs/2204.02397v1)|null|
 |**2022-04-05**|**SE(3)-Equivariant Attention Networks for Shape Reconstruction in Function Space**|Evangelos Chatzipantazis et.al.|[2204.02394v1](http://arxiv.org/abs/2204.02394v1)|null|
 |**2022-04-05**|**Action-Conditioned Contrastive Policy Pretraining**|Qihang Zhang et.al.|[2204.02393v1](http://arxiv.org/abs/2204.02393v1)|null|
@@ -2665,6 +2715,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-06**|**Temporal Alignment Networks for Long-term Video**|Tengda Han et.al.|[2204.02968v1](http://arxiv.org/abs/2204.02968v1)|null|
+|**2022-04-06**|**FocalClick: Towards Practical Interactive Image Segmentation**|Xi Chen et.al.|[2204.02574v1](http://arxiv.org/abs/2204.02574v1)|**[link](https://github.com/XavierCHEN34/ClickSEG)**|
+|**2022-04-06**|**MixFormer: Mixing Features across Windows and Dimensions**|Qiang Chen et.al.|[2204.02557v1](http://arxiv.org/abs/2204.02557v1)|**[link](https://github.com/PaddlePaddle/PaddleClas)**|
+|**2022-04-06**|**Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation**|Wangbo Zhao et.al.|[2204.02547v1](http://arxiv.org/abs/2204.02547v1)|**[link](https://github.com/wangbo-zhao/2022cvpr-mmmmtbvs)**|
+|**2022-04-05**|**Learning Optimal K-space Acquisition and Reconstruction using Physics-Informed Neural Networks**|Wei Peng et.al.|[2204.02480v1](http://arxiv.org/abs/2204.02480v1)|null|
 |**2022-04-05**|**Arbitrary-Scale Image Synthesis**|Evangelos Ntavelis et.al.|[2204.02273v1](http://arxiv.org/abs/2204.02273v1)|**[link](https://github.com/vglsd/scaleparty)**|
 |**2022-04-05**|**Multi-View Transformer for 3D Visual Grounding**|Shijia Huang et.al.|[2204.02174v1](http://arxiv.org/abs/2204.02174v1)|**[link](https://github.com/sega-hsj/mvt-3dvg)**|
 |**2022-04-05**|**Leveraging Equivariant Features for Absolute Pose Regression**|Mohamed Adel Musallam et.al.|[2204.02163v1](http://arxiv.org/abs/2204.02163v1)|null|

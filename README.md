@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-07**|**Unsupervised Prompt Learning for Vision-Language Models**|Tony Huang et.al.|[2204.03649v1](http://arxiv.org/abs/2204.03649v1)|**[link](https://github.com/tonyhuang2022/upl)**|
+|**2022-04-07**|**SunStage: Portrait Reconstruction and Relighting using the Sun as a Light Stage**|Yifan Wang et.al.|[2204.03648v1](http://arxiv.org/abs/2204.03648v1)|null|
+|**2022-04-07**|**Adapting CLIP For Phrase Localization Without Further Training**|Jiahao Li et.al.|[2204.03647v1](http://arxiv.org/abs/2204.03647v1)|null|
+|**2022-04-07**|**FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment**|Jinglin Xu et.al.|[2204.03646v1](http://arxiv.org/abs/2204.03646v1)|**[link](https://github.com/xujinglin/finediving)**|
+|**2022-04-07**|**DaViT: Dual Attention Vision Transformers**|Mingyu Ding et.al.|[2204.03645v1](http://arxiv.org/abs/2204.03645v1)|**[link](https://github.com/dingmyu/davit)**|
+|**2022-04-07**|**Total Variation Optimization Layers for Computer Vision**|Raymond A. Yeh et.al.|[2204.03643v1](http://arxiv.org/abs/2204.03643v1)|**[link](https://github.com/raymondyeh07/tv_layers_for_cv)**|
+|**2022-04-07**|**Pre-train, Self-train, Distill: A simple recipe for Supersizing 3D Reconstruction**|Kalyan Vasudev Alwala et.al.|[2204.03642v1](http://arxiv.org/abs/2204.03642v1)|null|
+|**2022-04-07**|**Unsupervised Image-to-Image Translation with Generative Prior**|Shuai Yang et.al.|[2204.03641v1](http://arxiv.org/abs/2204.03641v1)|**[link](https://github.com/williamyang1991/gp-unit)**|
+|**2022-04-07**|**Equivariance Discovery by Learned Parameter-Sharing**|Raymond A. Yeh et.al.|[2204.03640v1](http://arxiv.org/abs/2204.03640v1)|**[link](https://github.com/raymondyeh07/equivariance_discovery)**|
+|**2022-04-07**|**Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer**|Songwei Ge et.al.|[2204.03638v1](http://arxiv.org/abs/2204.03638v1)|null|
+|**2022-04-07**|**SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation**|Yi Wei et.al.|[2204.03636v1](http://arxiv.org/abs/2204.03636v1)|**[link](https://github.com/weiyithu/surrounddepth)**|
+|**2022-04-07**|**Zero-Shot Category-Level Object Pose Estimation**|Walter Goodwin et.al.|[2204.03635v1](http://arxiv.org/abs/2204.03635v1)|null|
+|**2022-04-07**|**Class-Incremental Learning with Strong Pre-trained Models**|Tz-Ying Wu et.al.|[2204.03634v1](http://arxiv.org/abs/2204.03634v1)|null|
+|**2022-04-07**|**The Effects of Regularization and Data Augmentation are Class Dependent**|Randall Balestriero et.al.|[2204.03632v1](http://arxiv.org/abs/2204.03632v1)|null|
+|**2022-04-07**|**Pneumonia Detection in Chest X-Rays using Neural Networks**|Narayana Darapaneni et.al.|[2204.03618v1](http://arxiv.org/abs/2204.03618v1)|null|
+|**2022-04-07**|**Unified Contrastive Learning in Image-Text-Label Space**|Jianwei Yang et.al.|[2204.03610v1](http://arxiv.org/abs/2204.03610v1)|**[link](https://github.com/microsoft/unicl)**|
+|**2022-04-07**|**Pin the Memory: Learning to Generalize Semantic Segmentation**|Jin Kim et.al.|[2204.03609v1](http://arxiv.org/abs/2204.03609v1)|null|
+|**2022-04-07**|**AutoRF: Learning 3D Object Radiance Fields from Single View Observations**|Norman Müller et.al.|[2204.03593v1](http://arxiv.org/abs/2204.03593v1)|null|
+|**2022-04-07**|**Learning to Compose Soft Prompts for Compositional Zero-Shot Learning**|Nihal V. Nayak et.al.|[2204.03574v1](http://arxiv.org/abs/2204.03574v1)|null|
+|**2022-04-07**|**A Pathology-Based Machine Learning Method to Assist in Epithelial Dysplasia Diagnosis**|Karoline da Rocha et.al.|[2204.03572v1](http://arxiv.org/abs/2204.03572v1)|null|
+|**2022-04-07**|**Practical Digital Disguises: Leveraging Face Swaps to Protect Patient Privacy**|Ethan Wilson et.al.|[2204.03559v1](http://arxiv.org/abs/2204.03559v1)|null|
+|**2022-04-07**|**Evaluating Procedures for Establishing Generative Adversarial Network-based Stochastic Image Models in Medical Imaging**|Varun A. Kelkar et.al.|[2204.03547v1](http://arxiv.org/abs/2204.03547v1)|null|
+|**2022-04-07**|**Efficient Multiscale Object-based Superpixel Framework**|Felipe Belém et.al.|[2204.03533v1](http://arxiv.org/abs/2204.03533v1)|null|
+|**2022-04-07**|**Visualizing Deep Neural Networks with Topographic Activation Maps**|Andreas Krug et.al.|[2204.03528v1](http://arxiv.org/abs/2204.03528v1)|**[link](https://github.com/andreaskrug/ann-topomaps)**|
+|**2022-04-07**|**Habitat-Web: Learning Embodied Object-Search Strategies from Human Demonstrations at Scale**|Ram Ramrakhya et.al.|[2204.03514v1](http://arxiv.org/abs/2204.03514v1)|null|
+|**2022-04-07**|**Many-to-many Splatting for Efficient Video Frame Interpolation**|Ping Hu et.al.|[2204.03513v1](http://arxiv.org/abs/2204.03513v1)|**[link](https://github.com/feinanshan/m2m_vfi)**|
+|**2022-04-07**|**Multi-Task Distributed Learning using Vision Transformer with Random Patch Permutation**|Sangjoon Park et.al.|[2204.03500v1](http://arxiv.org/abs/2204.03500v1)|null|
+|**2022-04-07**|**Optimizing the Long-Term Behaviour of Deep Reinforcement Learning for Pushing and Grasping**|Rodrigo Chau et.al.|[2204.03487v1](http://arxiv.org/abs/2204.03487v1)|null|
+|**2022-04-07**|**ProbNVS: Fast Novel View Synthesis with Learned Probability-Guided Sampling**|Yuemei Zhou et.al.|[2204.03476v1](http://arxiv.org/abs/2204.03476v1)|null|
+|**2022-04-07**|**Solving ImageNet: a Unified Scheme for Training any Backbone to Top Results**|Tal Ridnik et.al.|[2204.03475v1](http://arxiv.org/abs/2204.03475v1)|**[link](https://github.com/alibaba-miil/solving_imagenet)**|
+|**2022-04-07**|**Video Diffusion Models**|Jonathan Ho et.al.|[2204.03458v1](http://arxiv.org/abs/2204.03458v1)|null|
+|**2022-04-07**|**Deep Visual Geo-localization Benchmark**|Gabriele Berton et.al.|[2204.03444v1](http://arxiv.org/abs/2204.03444v1)|null|
+|**2022-04-07**|**Task-Aware Active Learning for Endoscopic Image Analysis**|Shrawan Kumar Thapa et.al.|[2204.03440v1](http://arxiv.org/abs/2204.03440v1)|null|
+|**2022-04-07**|**Incremental Prototype Prompt-tuning with Pre-trained Representation for Class Incremental Learning**|Jieren Deng et.al.|[2204.03410v1](http://arxiv.org/abs/2204.03410v1)|null|
+|**2022-04-07**|**Surface Vision Transformers: Flexible Attention-Based Modelling of Biomedical Surfaces**|Simon Dahan et.al.|[2204.03408v1](http://arxiv.org/abs/2204.03408v1)|null|
+|**2022-04-07**|**HunYuan_tvr for Text-Video Retrivial**|Shaobo Min et.al.|[2204.03382v1](http://arxiv.org/abs/2204.03382v1)|null|
+|**2022-04-07**|**Detection of Distracted Driver using Convolution Neural Network**|Narayana Darapaneni et.al.|[2204.03371v1](http://arxiv.org/abs/2204.03371v1)|null|
+|**2022-04-07**|**ECCV Caption: Correcting False Negatives by Collecting Machine-and-Human-verified Image-Caption Associations for MS-COCO**|Sanghyuk Chun et.al.|[2204.03359v1](http://arxiv.org/abs/2204.03359v1)|**[link](https://github.com/naver-ai/eccv-caption)**|
+|**2022-04-07**|**Event Transformer. A sparse-aware solution for efficient event data processing**|Alberto Sabater et.al.|[2204.03355v1](http://arxiv.org/abs/2204.03355v1)|**[link](https://github.com/albertosabater/eventtransformer)**|
+|**2022-04-07**|**Learning Online Multi-Sensor Depth Fusion**|Erik Sandström et.al.|[2204.03353v1](http://arxiv.org/abs/2204.03353v1)|null|
+|**2022-04-07**|**Implementing a Real-Time, YOLOv5 based Social Distancing Measuring System for Covid-19**|Narayana Darapaneni et.al.|[2204.03350v1](http://arxiv.org/abs/2204.03350v1)|null|
+|**2022-04-07**|**PSTR: End-to-End One-Step Person Search With Transformers**|Jiale Cao et.al.|[2204.03340v1](http://arxiv.org/abs/2204.03340v1)|**[link](https://github.com/jialecao001/pstr)**|
+|**2022-04-07**|**Learning to Sieve: Prediction of Grading Curves from Images of Concrete Aggregate**|Max Coenen et.al.|[2204.03333v1](http://arxiv.org/abs/2204.03333v1)|null|
+|**2022-04-07**|**Sparse Optical Flow-Based Line Feature Tracking**|Qiang Fu et.al.|[2204.03331v1](http://arxiv.org/abs/2204.03331v1)|null|
+|**2022-04-07**|**Coarse-to-Fine Feature Mining for Video Semantic Segmentation**|Guolei Sun et.al.|[2204.03330v1](http://arxiv.org/abs/2204.03330v1)|**[link](https://github.com/guoleisun/vss-cffm)**|
+|**2022-04-07**|**A Comprehensive Review of Sign Language Recognition: Different Types, Modalities, and Datasets**|Dr. M. Madhiarasan et.al.|[2204.03328v1](http://arxiv.org/abs/2204.03328v1)|null|
+|**2022-04-07**|**Multi-Sample $ζ$-mixup: Richer, More Realistic Synthetic Samples from a $p$-Series Interpolant**|Kumar Abhishek et.al.|[2204.03323v1](http://arxiv.org/abs/2204.03323v1)|null|
+|**2022-04-07**|**Swarm behavior tracking based on a deep vision algorithm**|Meihong Wu et.al.|[2204.03319v1](http://arxiv.org/abs/2204.03319v1)|null|
+|**2022-04-07**|**Deep Learning for Real Time Satellite Pose Estimation on Low Power Edge TPU**|Alessandro Lotti et.al.|[2204.03296v1](http://arxiv.org/abs/2204.03296v1)|null|
+|**2022-04-07**|**Context-Sensitive Temporal Feature Learning for Gait Recognition**|Xiaohu Huang et.al.|[2204.03270v1](http://arxiv.org/abs/2204.03270v1)|**[link](https://github.com/oliverhxh/cstl)**|
 |**2022-04-06**|**Temporal Alignment Networks for Long-term Video**|Tengda Han et.al.|[2204.02968v1](http://arxiv.org/abs/2204.02968v1)|null|
 |**2022-04-06**|**LilNetX: Lightweight Networks with EXtreme Model Compression and Structured Sparsification**|Sharath Girish et.al.|[2204.02965v1](http://arxiv.org/abs/2204.02965v1)|**[link](https://github.com/sharath-girish/lilnetx)**|
 |**2022-04-06**|**Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection**|Yuxin Fang et.al.|[2204.02964v1](http://arxiv.org/abs/2204.02964v1)|**[link](https://github.com/hustvl/mimdet)**|
@@ -2715,6 +2765,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-07**|**Many-to-many Splatting for Efficient Video Frame Interpolation**|Ping Hu et.al.|[2204.03513v1](http://arxiv.org/abs/2204.03513v1)|**[link](https://github.com/feinanshan/m2m_vfi)**|
+|**2022-04-07**|**PSTR: End-to-End One-Step Person Search With Transformers**|Jiale Cao et.al.|[2204.03340v1](http://arxiv.org/abs/2204.03340v1)|**[link](https://github.com/jialecao001/pstr)**|
+|**2022-04-07**|**Coarse-to-Fine Feature Mining for Video Semantic Segmentation**|Guolei Sun et.al.|[2204.03330v1](http://arxiv.org/abs/2204.03330v1)|**[link](https://github.com/guoleisun/vss-cffm)**|
+|**2022-04-06**|**Learning from Untrimmed Videos: Self-Supervised Video Representation Learning with Hierarchical Consistency**|Zhiwu Qing et.al.|[2204.03017v1](http://arxiv.org/abs/2204.03017v1)|null|
 |**2022-04-06**|**Temporal Alignment Networks for Long-term Video**|Tengda Han et.al.|[2204.02968v1](http://arxiv.org/abs/2204.02968v1)|null|
 |**2022-04-06**|**FocalClick: Towards Practical Interactive Image Segmentation**|Xi Chen et.al.|[2204.02574v1](http://arxiv.org/abs/2204.02574v1)|**[link](https://github.com/XavierCHEN34/ClickSEG)**|
 |**2022-04-06**|**MixFormer: Mixing Features across Windows and Dimensions**|Qiang Chen et.al.|[2204.02557v1](http://arxiv.org/abs/2204.02557v1)|**[link](https://github.com/PaddlePaddle/PaddleClas)**|

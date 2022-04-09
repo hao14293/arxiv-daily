@@ -22,7 +22,7 @@
 |**2022-04-07**|**Unified Contrastive Learning in Image-Text-Label Space**|Jianwei Yang et.al.|[2204.03610v1](http://arxiv.org/abs/2204.03610v1)|**[link](https://github.com/microsoft/unicl)**|
 |**2022-04-07**|**Pin the Memory: Learning to Generalize Semantic Segmentation**|Jin Kim et.al.|[2204.03609v1](http://arxiv.org/abs/2204.03609v1)|null|
 |**2022-04-07**|**AutoRF: Learning 3D Object Radiance Fields from Single View Observations**|Norman Müller et.al.|[2204.03593v1](http://arxiv.org/abs/2204.03593v1)|null|
-|**2022-04-07**|**Learning to Compose Soft Prompts for Compositional Zero-Shot Learning**|Nihal V. Nayak et.al.|[2204.03574v1](http://arxiv.org/abs/2204.03574v1)|null|
+|**2022-04-07**|**Learning to Compose Soft Prompts for Compositional Zero-Shot Learning**|Nihal V. Nayak et.al.|[2204.03574v1](http://arxiv.org/abs/2204.03574v1)|**[link](https://github.com/batsresearch/csp)**|
 |**2022-04-07**|**A Pathology-Based Machine Learning Method to Assist in Epithelial Dysplasia Diagnosis**|Karoline da Rocha et.al.|[2204.03572v1](http://arxiv.org/abs/2204.03572v1)|null|
 |**2022-04-07**|**Practical Digital Disguises: Leveraging Face Swaps to Protect Patient Privacy**|Ethan Wilson et.al.|[2204.03559v1](http://arxiv.org/abs/2204.03559v1)|null|
 |**2022-04-07**|**Evaluating Procedures for Establishing Generative Adversarial Network-based Stochastic Image Models in Medical Imaging**|Varun A. Kelkar et.al.|[2204.03547v1](http://arxiv.org/abs/2204.03547v1)|null|

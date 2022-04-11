@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-08**|**Dancing under the stars: video denoising in starlight**|Kristina Monakhova et.al.|[2204.04210v1](http://arxiv.org/abs/2204.04210v1)|null|
+|**2022-04-08**|**Underwater Image Enhancement Using Pre-trained Transformer**|Abderrahmene Boudiaf et.al.|[2204.04199v1](http://arxiv.org/abs/2204.04199v1)|null|
+|**2022-04-08**|**Particle Videos Revisited: Tracking Through Occlusions Using Point Trajectories**|Adam W. Harley et.al.|[2204.04153v1](http://arxiv.org/abs/2204.04153v1)|null|
+|**2022-04-08**|**A Video Anomaly Detection Framework based on Appearance-Motion Semantics Representation Consistency**|Xiangyu Huang et.al.|[2204.04151v1](http://arxiv.org/abs/2204.04151v1)|null|
+|**2022-04-08**|**Constrained Bundle Adjustment for Structure From Motion Using Uncalibrated Multi-Camera Systems**|Debao Huang et.al.|[2204.04145v1](http://arxiv.org/abs/2204.04145v1)|null|
+|**2022-04-08**|**Optical tracking in team sports**|Pegah Rahimian et.al.|[2204.04143v1](http://arxiv.org/abs/2204.04143v1)|null|
+|**2022-04-08**|**A Novel Intrinsic Image Decomposition Method to Recover Albedo for Aerial Images in Photogrammetry Processing**|Shuang Song et.al.|[2204.04142v1](http://arxiv.org/abs/2204.04142v1)|null|
+|**2022-04-08**|**Investigating Spherical Epipolar Rectification for Multi-View Stereo 3D Reconstruction**|Mostafa Elhashash et.al.|[2204.04141v1](http://arxiv.org/abs/2204.04141v1)|null|
+|**2022-04-08**|**Sat2lod2: A Software For Automated Lod-2 Modeling From Satellite-Derived Orthophoto And Digital Surface Model**|Shengxi Gui et.al.|[2204.04139v1](http://arxiv.org/abs/2204.04139v1)|**[link](https://github.com/gdaosu/lod2buildingmodel)**|
+|**2022-04-08**|**Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline**|Pengyu Zhang et.al.|[2204.04120v1](http://arxiv.org/abs/2204.04120v1)|null|
+|**2022-04-08**|**Dynamic super-resolution in particle tracking problems**|Ping Liu et.al.|[2204.04092v1](http://arxiv.org/abs/2204.04092v1)|null|
+|**2022-04-08**|**POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition**|Ce Zheng et.al.|[2204.04083v1](http://arxiv.org/abs/2204.04083v1)|**[link](https://github.com/zczcwh/poster)**|
+|**2022-04-08**|**General Incremental Learning with Domain-aware Categorical Representations**|Jiangwei Xie et.al.|[2204.04078v1](http://arxiv.org/abs/2204.04078v1)|null|
+|**2022-04-08**|**Invariant Descriptors for Intrinsic Reflectance Optimization**|Anil S. Baslamisli et.al.|[2204.04076v1](http://arxiv.org/abs/2204.04076v1)|null|
+|**2022-04-08**|**Deep Learning-Based Intra Mode Derivation for Versatile Video Coding**|Linwei Zhu et.al.|[2204.04059v1](http://arxiv.org/abs/2204.04059v1)|null|
+|**2022-04-08**|**Identifying Ambiguous Similarity Conditions via Semantic Matching**|Han-Jia Ye et.al.|[2204.04053v1](http://arxiv.org/abs/2204.04053v1)|null|
+|**2022-04-08**|**Efficient tracking of team sport players with few game-specific annotations**|Adrien Maglo et.al.|[2204.04049v1](http://arxiv.org/abs/2204.04049v1)|null|
+|**2022-04-08**|**A Generic Image Retrieval Method for Date Estimation of Historical Document Collections**|Adrià Molina et.al.|[2204.04028v1](http://arxiv.org/abs/2204.04028v1)|null|
+|**2022-04-08**|**Engagement Detection with Multi-Task Training in E-Learning Environments**|Onur Copur et.al.|[2204.04020v1](http://arxiv.org/abs/2204.04020v1)|null|
+|**2022-04-08**|**Multimodal Quasi-AutoRegression: Forecasting the visual popularity of new fashion products**|Stefanos I. Papadopoulos et.al.|[2204.04014v1](http://arxiv.org/abs/2204.04014v1)|null|
+|**2022-04-08**|**SnapMode: An Intelligent and Distributed Large-Scale Fashion Image Retrieval Platform Based On Big Data and Deep Generative Adversarial Network Technologies**|Narges Norouzi et.al.|[2204.03998v1](http://arxiv.org/abs/2204.03998v1)|null|
+|**2022-04-08**|**Points to Patches: Enabling the Use of Self-Attention for 3D Shape Recognition**|Axel Berg et.al.|[2204.03957v1](http://arxiv.org/abs/2204.03957v1)|**[link](https://github.com/axeber01/point-tnt)**|
+|**2022-04-08**|**Probabilistic Representations for Video Contrastive Learning**|Jungin Park et.al.|[2204.03946v1](http://arxiv.org/abs/2204.03946v1)|null|
+|**2022-04-08**|**On Distinctive Image Captioning via Comparing and Reweighting**|Jiuniu Wang et.al.|[2204.03938v1](http://arxiv.org/abs/2204.03938v1)|null|
+|**2022-04-08**|**Study of a committee of neural networks for biometric hand-geometry recognition**|Marcos Faundez-Zanuy et.al.|[2204.03935v1](http://arxiv.org/abs/2204.03935v1)|null|
+|**2022-04-08**|**Does Robustness on ImageNet Transfer to Downstream Tasks?**|Yutaro Yamada et.al.|[2204.03934v1](http://arxiv.org/abs/2204.03934v1)|null|
+|**2022-04-08**|**Deep Hyperspectral-Depth Reconstruction Using Single Color-Dot Projection**|Chunyu Li et.al.|[2204.03929v1](http://arxiv.org/abs/2204.03929v1)|null|
+|**2022-04-08**|**Biometric identification by means of hand geometry and a neural net classifier**|Marcos Faundez-Zanuy et.al.|[2204.03925v1](http://arxiv.org/abs/2204.03925v1)|null|
+|**2022-04-08**|**SuperNet in Neural Architecture Search: A Taxonomic Survey**|Stephen Cha et.al.|[2204.03916v1](http://arxiv.org/abs/2204.03916v1)|null|
+|**2022-04-08**|**Vision Transformers for Single Image Dehazing**|Yuda Song et.al.|[2204.03883v1](http://arxiv.org/abs/2204.03883v1)|**[link](https://github.com/IDKiro/DehazeFormer)**|
+|**2022-04-08**|**CD$^2$-pFed: Cyclic Distillation-guided Channel Decoupling for Model Personalization in Federated Learning**|Yiqing Shen et.al.|[2204.03880v1](http://arxiv.org/abs/2204.03880v1)|null|
+|**2022-04-08**|**Spatial Transformer Network on Skeleton-based Gait Recognition**|Cun Zhang et.al.|[2204.03873v1](http://arxiv.org/abs/2204.03873v1)|null|
+|**2022-04-08**|**Controllable Missingness from Uncontrollable Missingness: Joint Learning Measurement Policy and Imputation**|Seongwook Yoon et.al.|[2204.03872v1](http://arxiv.org/abs/2204.03872v1)|null|
+|**2022-04-08**|**Spatiotemporal Augmentation on Selective Frequencies for Video Representation Learning**|Jinhyung Kim et.al.|[2204.03865v1](http://arxiv.org/abs/2204.03865v1)|null|
+|**2022-04-08**|**Multi-scale temporal network for continuous sign language recognition**|Qidan Zhu et.al.|[2204.03864v1](http://arxiv.org/abs/2204.03864v1)|null|
+|**2022-04-08**|**Prediction of COVID-19 using chest X-ray images**|Narayana Darapaneni et.al.|[2204.03849v1](http://arxiv.org/abs/2204.03849v1)|**[link](https://github.com/ieee8023/covid-chestxray-dataset)**|
+|**2022-04-08**|**From 2D Images to 3D Model:Weakly Supervised Multi-View Face Reconstruction with Deep Fusion**|Weiguang Zhao et.al.|[2204.03842v1](http://arxiv.org/abs/2204.03842v1)|null|
+|**2022-04-08**|**Reusing the Task-specific Classifier as a Discriminator: Discriminator-free Adversarial Domain Adaptation**|Lin Chen et.al.|[2204.03838v1](http://arxiv.org/abs/2204.03838v1)|**[link](https://github.com/xiaoachen98/daln)**|
+|**2022-04-08**|**Canonical Mean Filter for Almost Zero-Shot Multi-Task classification**|Yong Li et.al.|[2204.03815v1](http://arxiv.org/abs/2204.03815v1)|null|
+|**2022-04-08**|**A Learnable Variational Model for Joint Multimodal MRI Reconstruction and Synthesis**|Wanyu Bian et.al.|[2204.03804v1](http://arxiv.org/abs/2204.03804v1)|null|
+|**2022-04-08**|**Semantic Representation and Dependency Learning for Multi-Label Image Recognition**|Tao Pu et.al.|[2204.03795v1](http://arxiv.org/abs/2204.03795v1)|null|
+|**2022-04-07**|**TorMentor: Deterministic dynamic-path, data augmentations with fractals**|Anguelos Nicolaou et.al.|[2204.03776v1](http://arxiv.org/abs/2204.03776v1)|null|
+|**2022-04-07**|**Multi-objective optimization determines when, which and how to fuse deep networks: an application to predict COVID-19 outcomes**|Valerio Guarrasi et.al.|[2204.03772v1](http://arxiv.org/abs/2204.03772v1)|null|
+|**2022-04-07**|**Powering Finetuning in Few-shot Learning: Domain-Agnostic Feature Adaptation with Rectified Class Prototypes**|Ran Tao et.al.|[2204.03749v1](http://arxiv.org/abs/2204.03749v1)|null|
+|**2022-04-07**|**BankNote-Net: Open dataset for assistive universal currency recognition**|Felipe Oviedo et.al.|[2204.03738v1](http://arxiv.org/abs/2204.03738v1)|**[link](https://github.com/microsoft/banknote-net)**|
+|**2022-04-07**|**MHMS: Multimodal Hierarchical Multimedia Summarization**|Jielin Qiu et.al.|[2204.03734v1](http://arxiv.org/abs/2204.03734v1)|null|
+|**2022-04-07**|**Automated Design of Salient Object Detection Algorithms with Brain Programming**|Gustavo Olague et.al.|[2204.03722v1](http://arxiv.org/abs/2204.03722v1)|null|
+|**2022-04-07**|**Gravitationally Lensed Black Hole Emission Tomography**|Aviad Levis et.al.|[2204.03715v1](http://arxiv.org/abs/2204.03715v1)|null|
+|**2022-04-07**|**Using Multiple Self-Supervised Tasks Improves Model Robustness**|Matthew Lawhon et.al.|[2204.03714v1](http://arxiv.org/abs/2204.03714v1)|null|
+|**2022-04-07**|**Predicting Solar Flares Using CNN and LSTM on Two Solar Cycles of Active Region Data**|Zeyu Sun et.al.|[2204.03710v1](http://arxiv.org/abs/2204.03710v1)|**[link](https://github.com/zeyusun/flare-prediction-smarp)**|
 |**2022-04-07**|**Unsupervised Prompt Learning for Vision-Language Models**|Tony Huang et.al.|[2204.03649v1](http://arxiv.org/abs/2204.03649v1)|**[link](https://github.com/tonyhuang2022/upl)**|
 |**2022-04-07**|**SunStage: Portrait Reconstruction and Relighting using the Sun as a Light Stage**|Yifan Wang et.al.|[2204.03648v1](http://arxiv.org/abs/2204.03648v1)|null|
 |**2022-04-07**|**Adapting CLIP For Phrase Localization Without Further Training**|Jiahao Li et.al.|[2204.03647v1](http://arxiv.org/abs/2204.03647v1)|**[link](https://github.com/pals-ttic/adapting-clip)**|
@@ -2765,6 +2815,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-08**|**General Incremental Learning with Domain-aware Categorical Representations**|Jiangwei Xie et.al.|[2204.04078v1](http://arxiv.org/abs/2204.04078v1)|null|
+|**2022-04-08**|**Identifying Ambiguous Similarity Conditions via Semantic Matching**|Han-Jia Ye et.al.|[2204.04053v1](http://arxiv.org/abs/2204.04053v1)|null|
+|**2022-04-08**|**CD$^2$-pFed: Cyclic Distillation-guided Channel Decoupling for Model Personalization in Federated Learning**|Yiqing Shen et.al.|[2204.03880v1](http://arxiv.org/abs/2204.03880v1)|null|
+|**2022-04-08**|**Reusing the Task-specific Classifier as a Discriminator: Discriminator-free Adversarial Domain Adaptation**|Lin Chen et.al.|[2204.03838v1](http://arxiv.org/abs/2204.03838v1)|**[link](https://github.com/xiaoachen98/daln)**|
 |**2022-04-07**|**Many-to-many Splatting for Efficient Video Frame Interpolation**|Ping Hu et.al.|[2204.03513v1](http://arxiv.org/abs/2204.03513v1)|**[link](https://github.com/feinanshan/m2m_vfi)**|
 |**2022-04-07**|**PSTR: End-to-End One-Step Person Search With Transformers**|Jiale Cao et.al.|[2204.03340v1](http://arxiv.org/abs/2204.03340v1)|**[link](https://github.com/jialecao001/pstr)**|
 |**2022-04-07**|**Coarse-to-Fine Feature Mining for Video Semantic Segmentation**|Guolei Sun et.al.|[2204.03330v1](http://arxiv.org/abs/2204.03330v1)|**[link](https://github.com/guoleisun/vss-cffm)**|

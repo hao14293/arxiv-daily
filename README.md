@@ -22,7 +22,7 @@
 |**2022-04-08**|**Identifying Ambiguous Similarity Conditions via Semantic Matching**|Han-Jia Ye et.al.|[2204.04053v1](http://arxiv.org/abs/2204.04053v1)|null|
 |**2022-04-08**|**Efficient tracking of team sport players with few game-specific annotations**|Adrien Maglo et.al.|[2204.04049v1](http://arxiv.org/abs/2204.04049v1)|null|
 |**2022-04-08**|**A Generic Image Retrieval Method for Date Estimation of Historical Document Collections**|Adrià Molina et.al.|[2204.04028v1](http://arxiv.org/abs/2204.04028v1)|null|
-|**2022-04-08**|**Engagement Detection with Multi-Task Training in E-Learning Environments**|Onur Copur et.al.|[2204.04020v1](http://arxiv.org/abs/2204.04020v1)|null|
+|**2022-04-08**|**Engagement Detection with Multi-Task Training in E-Learning Environments**|Onur Copur et.al.|[2204.04020v1](http://arxiv.org/abs/2204.04020v1)|**[link](https://github.com/CopurOnur/ED-MTT)**|
 |**2022-04-08**|**Multimodal Quasi-AutoRegression: Forecasting the visual popularity of new fashion products**|Stefanos I. Papadopoulos et.al.|[2204.04014v1](http://arxiv.org/abs/2204.04014v1)|null|
 |**2022-04-08**|**SnapMode: An Intelligent and Distributed Large-Scale Fashion Image Retrieval Platform Based On Big Data and Deep Generative Adversarial Network Technologies**|Narges Norouzi et.al.|[2204.03998v1](http://arxiv.org/abs/2204.03998v1)|null|
 |**2022-04-08**|**Points to Patches: Enabling the Use of Self-Attention for 3D Shape Recognition**|Axel Berg et.al.|[2204.03957v1](http://arxiv.org/abs/2204.03957v1)|**[link](https://github.com/axeber01/point-tnt)**|
@@ -45,14 +45,14 @@
 |**2022-04-08**|**Canonical Mean Filter for Almost Zero-Shot Multi-Task classification**|Yong Li et.al.|[2204.03815v1](http://arxiv.org/abs/2204.03815v1)|null|
 |**2022-04-08**|**A Learnable Variational Model for Joint Multimodal MRI Reconstruction and Synthesis**|Wanyu Bian et.al.|[2204.03804v1](http://arxiv.org/abs/2204.03804v1)|null|
 |**2022-04-08**|**Semantic Representation and Dependency Learning for Multi-Label Image Recognition**|Tao Pu et.al.|[2204.03795v1](http://arxiv.org/abs/2204.03795v1)|null|
-|**2022-04-07**|**TorMentor: Deterministic dynamic-path, data augmentations with fractals**|Anguelos Nicolaou et.al.|[2204.03776v1](http://arxiv.org/abs/2204.03776v1)|null|
+|**2022-04-07**|**TorMentor: Deterministic dynamic-path, data augmentations with fractals**|Anguelos Nicolaou et.al.|[2204.03776v1](http://arxiv.org/abs/2204.03776v1)|**[link](https://github.com/anguelos/tormentor)**|
 |**2022-04-07**|**Multi-objective optimization determines when, which and how to fuse deep networks: an application to predict COVID-19 outcomes**|Valerio Guarrasi et.al.|[2204.03772v1](http://arxiv.org/abs/2204.03772v1)|null|
 |**2022-04-07**|**Powering Finetuning in Few-shot Learning: Domain-Agnostic Feature Adaptation with Rectified Class Prototypes**|Ran Tao et.al.|[2204.03749v1](http://arxiv.org/abs/2204.03749v1)|null|
 |**2022-04-07**|**BankNote-Net: Open dataset for assistive universal currency recognition**|Felipe Oviedo et.al.|[2204.03738v1](http://arxiv.org/abs/2204.03738v1)|**[link](https://github.com/microsoft/banknote-net)**|
 |**2022-04-07**|**MHMS: Multimodal Hierarchical Multimedia Summarization**|Jielin Qiu et.al.|[2204.03734v1](http://arxiv.org/abs/2204.03734v1)|null|
 |**2022-04-07**|**Automated Design of Salient Object Detection Algorithms with Brain Programming**|Gustavo Olague et.al.|[2204.03722v1](http://arxiv.org/abs/2204.03722v1)|null|
 |**2022-04-07**|**Gravitationally Lensed Black Hole Emission Tomography**|Aviad Levis et.al.|[2204.03715v1](http://arxiv.org/abs/2204.03715v1)|null|
-|**2022-04-07**|**Using Multiple Self-Supervised Tasks Improves Model Robustness**|Matthew Lawhon et.al.|[2204.03714v1](http://arxiv.org/abs/2204.03714v1)|null|
+|**2022-04-07**|**Using Multiple Self-Supervised Tasks Improves Model Robustness**|Matthew Lawhon et.al.|[2204.03714v1](http://arxiv.org/abs/2204.03714v1)|**[link](https://github.com/mattlawhon/selfsupdefense)**|
 |**2022-04-07**|**Predicting Solar Flares Using CNN and LSTM on Two Solar Cycles of Active Region Data**|Zeyu Sun et.al.|[2204.03710v1](http://arxiv.org/abs/2204.03710v1)|**[link](https://github.com/zeyusun/flare-prediction-smarp)**|
 |**2022-04-07**|**Unsupervised Prompt Learning for Vision-Language Models**|Tony Huang et.al.|[2204.03649v1](http://arxiv.org/abs/2204.03649v1)|**[link](https://github.com/tonyhuang2022/upl)**|
 |**2022-04-07**|**SunStage: Portrait Reconstruction and Relighting using the Sun as a Light Stage**|Yifan Wang et.al.|[2204.03648v1](http://arxiv.org/abs/2204.03648v1)|null|

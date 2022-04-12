@@ -4,6 +4,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-11**|**On the Generalization of BasicVSR++ to Video Deblurring and Denoising**|Kelvin C. K. Chan et.al.|[2204.05308v1](http://arxiv.org/abs/2204.05308v1)|null|
+|**2022-04-11**|**Full-Spectrum Out-of-Distribution Detection**|Jingkang Yang et.al.|[2204.05306v1](http://arxiv.org/abs/2204.05306v1)|**[link](https://github.com/jingkang50/openood)**|
+|**2022-04-11**|**Single-Photon Structured Light**|Varun Sundar et.al.|[2204.05300v1](http://arxiv.org/abs/2204.05300v1)|null|
+|**2022-04-11**|**Towards Online Domain Adaptive Object Detection**|Vibashan VS et.al.|[2204.05289v1](http://arxiv.org/abs/2204.05289v1)|**[link](https://github.com/vibashan/online-od)**|
+|**2022-04-11**|**Physically Disentangled Representations**|Tzofi Klinghoffer et.al.|[2204.05281v1](http://arxiv.org/abs/2204.05281v1)|null|
+|**2022-04-11**|**MONCE Tracking Metrics: a comprehensive quantitative performance evaluation methodology for object tracking**|Kenneth Rapko et.al.|[2204.05280v1](http://arxiv.org/abs/2204.05280v1)|null|
+|**2022-04-11**|**Neglectable effect of brain MRI data prepreprocessing for tumor segmentation**|Ekaterina Kondrateva et.al.|[2204.05278v1](http://arxiv.org/abs/2204.05278v1)|null|
+|**2022-04-11**|**Segmentation-Consistent Probabilistic Lesion Counting**|Julien Schroeter et.al.|[2204.05276v1](http://arxiv.org/abs/2204.05276v1)|**[link](https://github.com/schroeterjulien/midl-2022-segmentation-consistent-lesion-counting)**|
+|**2022-04-11**|**MIME: Adapting a Single Neural Network for Multi-task Inference with Memory-efficient Dynamic Pruning**|Abhiroop Bhattacharjee et.al.|[2204.05274v1](http://arxiv.org/abs/2204.05274v1)|null|
+|**2022-04-11**|**Data Splits and Metrics for Method Benchmarking on Surgical Action Triplet Datasets**|Chinedu Innocent Nwoye et.al.|[2204.05235v1](http://arxiv.org/abs/2204.05235v1)|null|
+|**2022-04-11**|**GDC- Generalized Distribution Calibration for Few-Shot Learning**|Shakti Kumar et.al.|[2204.05230v1](http://arxiv.org/abs/2204.05230v1)|null|
+|**2022-04-11**|**CFA: Constraint-based Finetuning Approach for Generalized Few-Shot Object Detection**|Karim Guirguis et.al.|[2204.05220v1](http://arxiv.org/abs/2204.05220v1)|null|
+|**2022-04-11**|**An Optimal Experimental Design Approach for Light Configurations in Photometric Stereo**|Hamza Gardi et.al.|[2204.05218v1](http://arxiv.org/abs/2204.05218v1)|null|
+|**2022-04-11**|**Rethinking Machine Learning Model Evaluation in Pathology**|Syed Ashar Javed et.al.|[2204.05205v1](http://arxiv.org/abs/2204.05205v1)|null|
+|**2022-04-11**|**CXR-FL: Deep Learning-based Chest X-ray Image Analysis Using Federated Learning**|Filip Ślazyk et.al.|[2204.05203v1](http://arxiv.org/abs/2204.05203v1)|**[link](https://github.com/sanoscience/cxr-fl)**|
+|**2022-04-11**|**Human vs Objective Evaluation of Colourisation Performance**|Seán Mullery et.al.|[2204.05200v1](http://arxiv.org/abs/2204.05200v1)|null|
+|**2022-04-11**|**Correcting Robot Plans with Natural Language Feedback**|Pratyusha Sharma et.al.|[2204.05186v1](http://arxiv.org/abs/2204.05186v1)|null|
+|**2022-04-11**|**Machine Learning State-of-the-Art with Uncertainties**|Peter Steinbach et.al.|[2204.05173v1](http://arxiv.org/abs/2204.05173v1)|**[link](https://github.com/psteinb/sota_on_uncertainties)**|
+|**2022-04-11**|**Event Transformer**|Zhihao Li et.al.|[2204.05172v1](http://arxiv.org/abs/2204.05172v1)|null|
+|**2022-04-11**|**Focal Length and Object Pose Estimation via Render and Compare**|Georgy Ponimatkin et.al.|[2204.05145v1](http://arxiv.org/abs/2204.05145v1)|**[link](https://github.com/ponimatkin/focalpose)**|
+|**2022-04-11**|**M^2BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Birds-Eye View Representation**|Enze Xie et.al.|[2204.05088v1](http://arxiv.org/abs/2204.05088v1)|null|
+|**2022-04-11**|**XMP-Font: Self-Supervised Cross-Modality Pre-training for Few-Shot Font Generation**|Wei Liu et.al.|[2204.05084v1](http://arxiv.org/abs/2204.05084v1)|null|
+|**2022-04-11**|**Few-Shot Object Detection in Unseen Domains**|Karim Guirguis et.al.|[2204.05072v1](http://arxiv.org/abs/2204.05072v1)|null|
+|**2022-04-11**|**HFT: Lifting Perspective Representations via Hybrid Feature Transformation**|Jiayu Zou et.al.|[2204.05068v1](http://arxiv.org/abs/2204.05068v1)|**[link](https://github.com/jiayuzou2020/hft)**|
+|**2022-04-11**|**SAL-CNN: Estimate the Remaining Useful Life of Bearings Using Time-frequency Information**|Bingguo Liu et.al.|[2204.05045v1](http://arxiv.org/abs/2204.05045v1)|null|
+|**2022-04-11**|**Pyramid Grafting Network for One-Stage High Resolution Saliency Detection**|Chenxi Xie et.al.|[2204.05041v1](http://arxiv.org/abs/2204.05041v1)|**[link](https://github.com/icvteam/pgnet)**|
+|**2022-04-11**|**Structure-Aware Motion Transfer with Deformable Anchor Model**|Jiale Tao et.al.|[2204.05018v1](http://arxiv.org/abs/2204.05018v1)|**[link](https://github.com/jialetao/dam)**|
+|**2022-04-11**|**HiMODE: A Hybrid Monocular Omnidirectional Depth Estimation Model**|Masum Shah Junayed et.al.|[2204.05007v1](http://arxiv.org/abs/2204.05007v1)|null|
+|**2022-04-11**|**Ischemic Stroke Lesion Segmentation Using Adversarial Learning**|Mobarakol Islam et.al.|[2204.04993v1](http://arxiv.org/abs/2204.04993v1)|null|
+|**2022-04-11**|**Assessing hierarchies by their consistent segmentations**|Zeev Gutman et.al.|[2204.04969v1](http://arxiv.org/abs/2204.04969v1)|**[link](https://github.com/ritvik06/hierarchy-based-segmentation)**|
+|**2022-04-11**|**Bimodal Camera Pose Prediction for Endoscopy**|Anita Rau et.al.|[2204.04968v1](http://arxiv.org/abs/2204.04968v1)|null|
+|**2022-04-11**|**Segmentation Network with Compound Loss Function for Hydatidiform Mole Hydrops Lesion Recognition**|Chengze Zhu et.al.|[2204.04956v1](http://arxiv.org/abs/2204.04956v1)|null|
+|**2022-04-11**|**Machine learning based event classification for the energy-differential measurement of the $^\text{nat}$C(n,p) and $^\text{nat}$C(n,d) reactions**|P. Žugec et.al.|[2204.04955v1](http://arxiv.org/abs/2204.04955v1)|null|
+|**2022-04-11**|**Commonality in Natural Images Rescues GANs: Pretraining GANs with Generic and Privacy-free Synthetic Data**|Kyungjune Baek et.al.|[2204.04950v1](http://arxiv.org/abs/2204.04950v1)|**[link](https://github.com/friedronaldo/primitives-ps)**|
+|**2022-04-11**|**A Semantic Segmentation Network Based Real-Time Computer-Aided Diagnosis System for Hydatidiform Mole Hydrops Lesion Recognition in Microscopic View**|Chengze Zhu et.al.|[2204.04949v1](http://arxiv.org/abs/2204.04949v1)|null|
+|**2022-04-11**|**Semantic Segmentation for Point Cloud Scenes via Dilated Graph Feature Aggregation and Pyramid Decoders**|Yongqiang Mao et.al.|[2204.04944v1](http://arxiv.org/abs/2204.04944v1)|null|
+|**2022-04-11**|**Permutation-Invariant Relational Network for Multi-person 3D Pose Estimation**|Nicolas Ugrinovic et.al.|[2204.04913v1](http://arxiv.org/abs/2204.04913v1)|null|
+|**2022-04-11**|**Category-Aware Transformer Network for Better Human-Object Interaction Detection**|Leizhen Dong et.al.|[2204.04911v1](http://arxiv.org/abs/2204.04911v1)|null|
+|**2022-04-11**|**No Token Left Behind: Explainability-Aided Image Classification and Generation**|Roni Paiss et.al.|[2204.04908v1](http://arxiv.org/abs/2204.04908v1)|null|
+|**2022-04-11**|**Evaluating Vision Transformer Methods for Deep Reinforcement Learning from Pixels**|Tianxin Tao et.al.|[2204.04905v1](http://arxiv.org/abs/2204.04905v1)|null|
+|**2022-04-11**|**Confusing Image Quality Assessment: Towards Better Augmented Reality Experience**|Huiyu Duan et.al.|[2204.04900v1](http://arxiv.org/abs/2204.04900v1)|null|
+|**2022-04-11**|**Anti-Adversarially Manipulated Attributions for Weakly Supervised Semantic Segmentation and Object Localization**|Jungbeom Lee et.al.|[2204.04890v1](http://arxiv.org/abs/2204.04890v1)|null|
+|**2022-04-11**|**Structured Graph Variational Autoencoders for Indoor Furniture layout Generation**|Aditya Chattopadhyay et.al.|[2204.04867v1](http://arxiv.org/abs/2204.04867v1)|null|
+|**2022-04-11**|**A novel stereo matching pipeline with robustness and unfixed disparity search range**|Jiazhi Liu et.al.|[2204.04865v1](http://arxiv.org/abs/2204.04865v1)|null|
+|**2022-04-11**|**SUMD: Super U-shaped Matrix Decomposition Convolutional neural network for Image denoising**|QiFan Li et.al.|[2204.04861v1](http://arxiv.org/abs/2204.04861v1)|null|
+|**2022-04-11**|**Towards Homogeneous Modality Learning and Multi-Granularity Information Exploration for Visible-Infrared Person Re-Identification**|Haojie Liu et.al.|[2204.04842v1](http://arxiv.org/abs/2204.04842v1)|null|
+|**2022-04-11**|**Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection**|Jihwan Park et.al.|[2204.04836v1](http://arxiv.org/abs/2204.04836v1)|**[link](https://github.com/mlvlab/cpchoi)**|
+|**2022-04-11**|**OutfitTransformer: Learning Outfit Representations for Fashion Recommendation**|Rohan Sarkar et.al.|[2204.04812v1](http://arxiv.org/abs/2204.04812v1)|null|
+|**2022-04-10**|**DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning**|Zifeng Wang et.al.|[2204.04799v1](http://arxiv.org/abs/2204.04799v1)|**[link](https://github.com/google-research/l2p)**|
+|**2022-04-10**|**SOS! Self-supervised Learning Over Sets Of Handled Objects In Egocentric Action Recognition**|Victor Escorcia et.al.|[2204.04796v1](http://arxiv.org/abs/2204.04796v1)|null|
 |**2022-04-08**|**Dancing under the stars: video denoising in starlight**|Kristina Monakhova et.al.|[2204.04210v1](http://arxiv.org/abs/2204.04210v1)|null|
 |**2022-04-08**|**Underwater Image Enhancement Using Pre-trained Transformer**|Abderrahmene Boudiaf et.al.|[2204.04199v1](http://arxiv.org/abs/2204.04199v1)|null|
 |**2022-04-08**|**Particle Videos Revisited: Tracking Through Occlusions Using Point Trajectories**|Adam W. Harley et.al.|[2204.04153v1](http://arxiv.org/abs/2204.04153v1)|null|
@@ -2815,6 +2865,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-11**|**Focal Length and Object Pose Estimation via Render and Compare**|Georgy Ponimatkin et.al.|[2204.05145v1](http://arxiv.org/abs/2204.05145v1)|**[link](https://github.com/ponimatkin/focalpose)**|
+|**2022-04-11**|**XMP-Font: Self-Supervised Cross-Modality Pre-training for Few-Shot Font Generation**|Wei Liu et.al.|[2204.05084v1](http://arxiv.org/abs/2204.05084v1)|null|
+|**2022-04-11**|**Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection**|Jihwan Park et.al.|[2204.04836v1](http://arxiv.org/abs/2204.04836v1)|**[link](https://github.com/mlvlab/cpchoi)**|
+|**2022-04-10**|**SOS! Self-supervised Learning Over Sets Of Handled Objects In Egocentric Action Recognition**|Victor Escorcia et.al.|[2204.04796v1](http://arxiv.org/abs/2204.04796v1)|null|
+|**2022-04-10**|**Beyond Cross-view Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image**|Yujiao Shi et.al.|[2204.04752v1](http://arxiv.org/abs/2204.04752v1)|**[link](https://github.com/shiyujiao/highlyaccurate)**|
+|**2022-04-09**|**ManiTrans: Entity-Level Text-Guided Image Manipulation via Token-wise Semantic Alignment and Generation**|Jianan Wang et.al.|[2204.04428v1](http://arxiv.org/abs/2204.04428v1)|null|
+|**2022-04-09**|**The Two Dimensions of Worst-case Training and the Integrated Effect for Out-of-domain Generalization**|Zeyi Huang et.al.|[2204.04384v1](http://arxiv.org/abs/2204.04384v1)|**[link](https://github.com/oodbag/w2d)**|
 |**2022-04-08**|**General Incremental Learning with Domain-aware Categorical Representations**|Jiangwei Xie et.al.|[2204.04078v1](http://arxiv.org/abs/2204.04078v1)|null|
 |**2022-04-08**|**Identifying Ambiguous Similarity Conditions via Semantic Matching**|Han-Jia Ye et.al.|[2204.04053v1](http://arxiv.org/abs/2204.04053v1)|null|
 |**2022-04-08**|**CD$^2$-pFed: Cyclic Distillation-guided Channel Decoupling for Model Personalization in Federated Learning**|Yiqing Shen et.al.|[2204.03880v1](http://arxiv.org/abs/2204.03880v1)|null|

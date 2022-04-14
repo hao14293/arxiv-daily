@@ -25,6 +25,9 @@ jobs:
     
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      - name: work around permission issue
+        run: git config --global --add safe.directory /arxiv-daily
+        
       - name: Checkout
         uses: actions/checkout@v2
         

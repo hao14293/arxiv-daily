@@ -41,8 +41,9 @@ jobs:
           pip install requests
           
       - name: Run daily arxiv 
-        run: |
-          python arxiv_daily.py
+        uses: ./run.sh
+        # run: |
+          # python arxiv_daily.py
           
       - name: Push new cv-arxiv-daily.md
         uses: github-actions-x/commit@v2.8

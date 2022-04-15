@@ -41,7 +41,7 @@ jobs:
           pip install requests
           
       - name: Run daily arxiv 
-        uses: ./run.sh
+        run: sh run.sh
         # run: |
           # python arxiv_daily.py
           
